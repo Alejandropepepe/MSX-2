@@ -322,3 +322,78 @@
 [05:25:34] [Async Chat Thread - #53/INFO]: [Not Secure] <XxMatos15> don tas
 [05:25:46] [Async Chat Thread - #53/INFO]: [Not Secure] <pingaparaangel> aldea de matias
 [05:25:57] [Async Chat Thread - #54/INFO]: [Not Secure] <XxMatos15> aysta el angel sergio?
+[05:26:08] [Async Chat Thread - #53/INFO]: [Not Secure] <pingaparaangel> si
+[05:26:13] [Async Chat Thread - #54/INFO]: [Not Secure] <pingaparaangel> ya tengo montura
+[05:26:18] [Async Chat Thread - #54/INFO]: [Not Secure] <XxMatos15> ya
+[05:28:26] [Async Chat Thread - #55/INFO]: [Not Secure] <pingaparaangel> ven
+[05:29:01] [Async Chat Thread - #56/INFO]: [Not Secure] <pingaparaangel> vhifa
+[05:29:09] [Async Chat Thread - #55/INFO]: [Not Secure] <XxMatos15> q
+[05:29:18] [Async Chat Thread - #56/INFO]: [Not Secure] <pingaparaangel> ven a la aldea de matias
+[05:29:26] [Async Chat Thread - #56/INFO]: [Not Secure] <pingaparaangel> no púedoewe
+[05:29:45] [Async Chat Thread - #55/INFO]: [Not Secure] <XxMatos15> ya
+[05:30:00] [Async Chat Thread - #55/INFO]: [Not Secure] <pingaparaangel> el imbecil del angel
+[05:30:23] [Async Chat Thread - #55/INFO]: [Not Secure] <pingaparaangel> se cayo al agua y nno puedo sacarlo
+[05:30:31] [Async Chat Thread - #56/INFO]: [Not Secure] <pingaparaangel> trae comida
+[05:30:44] [Async Chat Thread - #55/INFO]: [Not Secure] <pingaparaangel> al toque
+[05:31:38] [Async Chat Thread - #55/INFO]: [Not Secure] <pingaparaangel> chifa
+[05:31:39] [Async Chat Thread - #55/INFO]: [Not Secure] <Churrupakin> go q voy a apagar el server
+[05:32:20] [Async Chat Thread - #55/INFO]: [Not Secure] <pingaparaangel> ven en go
+[05:33:00] [Async Chat Thread - #56/INFO]: [Not Secure] <pingaparaangel> llevalo a la house
+[05:33:24] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[05:33:24] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[05:33:24] [Server thread/INFO]: Churrupakin left the game
+[05:33:29] [Async Chat Thread - #55/INFO]: [Not Secure] <pingaparaangel> ya fue
+[05:33:34] [Async Chat Thread - #55/INFO]: [Not Secure] <XxMatos15> go universo
+[05:33:45] [User Authenticator #8/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[05:33:45] [Server thread/INFO]: Churrupakin joined the game
+[05:33:45] [Server thread/INFO]: Churrupakin[/172.28.161.65:50025] logged in with entity id 36526 at ([world]139.95736300232718, 63.0, 102.9513340366052)
+[05:33:46] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[05:33:46] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[05:33:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[05:33:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[05:33:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[05:33:58] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[05:33:58] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[05:33:58] [Server thread/INFO]: Churrupakin left the game
+[05:34:20] [Async Chat Thread - #57/INFO]: [Not Secure] <pingaparaangel> pasa comida
+[05:34:56] [Server thread/INFO]: [Not Secure] * Server voa cerrar el server
+[05:35:06] [Async Chat Thread - #56/INFO]: [Not Secure] <XxMatos15> fue
+[05:35:09] [Async Chat Thread - #56/INFO]: [Not Secure] <pingaparaangel> pas acpomida chifa
+[05:35:12] [Async Chat Thread - #55/INFO]: [Not Secure] <XxMatos15> su universo o nd
+[05:35:20] [Async Chat Thread - #57/INFO]: [Not Secure] <XxMatos15> no tengo
+[05:35:29] [Async Chat Thread - #57/INFO]: [Not Secure] <pingaparaangel> yaya universo
+[05:35:31] [Server thread/INFO]: XxMatos15 lost connection: Disconnected
+[05:35:31] [Server thread/INFO]: [voicechat] Disconnecting client XxMatos15
+[05:35:31] [Server thread/INFO]: XxMatos15 left the game
+[05:35:32] [Async Chat Thread - #55/INFO]: [Not Secure] <pingaparaangel> salte
+[05:35:37] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
+[05:35:37] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
+[05:35:37] [Server thread/INFO]: pingaparaangel left the game
+[05:35:41] [Server thread/INFO]: Stopping the server
+[05:35:41] [Server thread/INFO]: Stopping server
+[05:35:41] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.26
+[05:35:41] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
+[05:35:41] [Server thread/INFO]: Saving players
+[05:35:41] [Server thread/INFO]: Saving worlds
+[05:35:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:35:41] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[05:35:41] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[05:35:41] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[05:35:41] [Server thread/INFO]: [ChunkHolderManager] Saved 26 block chunks, 256 entity chunks, 0 poi chunks in world 'world' in 0.07s
+[05:35:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:35:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[05:35:41] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[05:35:41] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[05:35:41] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[05:35:41] [Server thread/INFO]: [ChunkHolderManager] Saved 53 block chunks, 104 entity chunks, 0 poi chunks in world 'world_nether' in 0.07s
+[05:35:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:35:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[05:35:41] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[05:35:41] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[05:35:41] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[05:35:41] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[05:35:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:35:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:35:41] [Server thread/INFO]: Flushing Chunk IO
+[05:35:41] [Server thread/INFO]: Closing Thread Pool
+[05:35:41] [Server thread/INFO]: Closing Server
