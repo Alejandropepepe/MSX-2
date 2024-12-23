@@ -279,11 +279,13 @@
       "minecraft:spider": "2024-12-07 05:01:51 +0000",
       "minecraft:creeper": "2024-12-07 04:09:19 +0000",
       "minecraft:slime": "2024-12-16 20:21:41 +0000",
+      "minecraft:evoker": "2024-12-23 00:32:02 +0000",
       "minecraft:phantom": "2024-12-07 18:16:52 +0000",
       "minecraft:witch": "2024-12-08 21:47:08 +0000",
       "minecraft:wither_skeleton": "2024-12-07 05:44:19 +0000",
       "minecraft:piglin": "2024-12-07 05:27:50 +0000",
       "minecraft:enderman": "2024-12-07 05:18:06 +0000",
+      "minecraft:stray": "2024-12-23 00:33:47 +0000",
       "minecraft:vex": "2024-12-09 01:45:51 +0000",
       "minecraft:zombie": "2024-12-07 03:02:44 +0000",
       "minecraft:drowned": "2024-12-07 03:51:46 +0000",
@@ -307,6 +309,7 @@
       "poisonous_potato": "2024-12-08 04:09:30 +0000",
       "mutton": "2024-12-07 05:03:48 +0000",
       "bread": "2024-12-07 03:30:11 +0000",
+      "golden_apple": "2024-12-23 00:30:59 +0000",
       "rotten_flesh": "2024-12-07 03:03:23 +0000",
       "cookie": "2024-12-08 04:01:38 +0000",
       "suspicious_stew": "2024-12-08 04:01:55 +0000",
@@ -3183,6 +3186,72 @@
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2024-12-17 23:43:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2024-12-23 00:19:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-23 00:38:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2024-12-23 00:22:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2024-12-23 00:07:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-23 00:07:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2024-12-23 00:19:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-23 00:23:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2024-12-23 00:19:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2024-12-23 00:51:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-23 00:23:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-23 00:38:52 +0000"
     },
     "done": true
   },
