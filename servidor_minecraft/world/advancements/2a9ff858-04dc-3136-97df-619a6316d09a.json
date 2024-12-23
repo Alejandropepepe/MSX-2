@@ -3002,6 +3002,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-23 04:54:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2024-12-23 04:45:54 +0000"
@@ -3023,6 +3029,18 @@
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2024-12-23 04:45:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-23 04:54:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-23 04:54:03 +0000"
     },
     "done": true
   },
