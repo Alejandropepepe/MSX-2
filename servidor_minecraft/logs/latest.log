@@ -83,3 +83,19 @@
 [03:32:26] [Server thread/INFO]: pingaparaangel joined the game
 [03:32:26] [Server thread/INFO]: pingaparaangel[/172.28.117.248:53271] logged in with entity id 880 at ([world]-36.54381861786428, 70.0, 246.6092640536058)
 [03:32:42] [Async Chat Thread - #1/INFO]: [Not Secure] <pingaparaangel> don rtas chifa
+[03:35:00] [Async Chat Thread - #2/INFO]: [Not Secure] <pingaparaangel> chifa
+[03:37:57] [Server thread/INFO]: pingaparaangel issued server command: /msg XxMatos15 don tas
+[03:40:07] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[03:40:07] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[03:40:07] [Server thread/INFO]: Churrupakin left the game
+[03:40:39] [User Authenticator #1/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[03:40:39] [Server thread/INFO]: Churrupakin joined the game
+[03:40:39] [Server thread/INFO]: Churrupakin[/172.28.161.65:64724] logged in with entity id 2491 at ([world]137.2413174904248, 63.0, 102.9660366541522)
+[03:40:39] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[03:40:39] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[03:40:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[03:40:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[03:40:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[03:42:19] [Async Chat Thread - #5/INFO]: [Not Secure] <pingaparaangel> don tas maricon
+[03:43:18] [Async Chat Thread - #6/INFO]: [Not Secure] <XxMatos15> ya
+[03:43:30] [Async Chat Thread - #6/INFO]: [Not Secure] <pingaparaangel> duerman
