@@ -1,140 +1,200 @@
-[17:39:40] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17:39:42] [ServerMain/INFO]: Loaded 7 recipes
-[17:39:43] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[17:39:43] [Server thread/INFO]: Loading properties
-[17:39:43] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[17:39:44] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[17:39:44] [Server thread/INFO]: Using 4 threads for Netty based IO
-[17:39:45] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[21:16:06] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:16:09] [ServerMain/INFO]: Loaded 7 recipes
+[21:16:10] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[21:16:10] [Server thread/INFO]: Loading properties
+[21:16:10] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[21:16:11] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:16:11] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:16:12] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[17:39:45] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[17:39:45] [Server thread/INFO]: Default game type: SURVIVAL
-[17:39:45] [Server thread/INFO]: Generating keypair
-[17:39:45] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:39:45] [Server thread/INFO]: Using epoll channel type
-[17:39:45] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[17:39:45] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[17:39:46] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loading 2 libraries... please wait
-[17:39:46] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/it/unimi/dsi/fastutil/8.5.11/fastutil-8.5.11.pom
-[17:39:46] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/zaxxer/HikariCP/5.0.1/HikariCP-5.0.1.pom
-[17:39:46] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/9/oss-parent-9.pom
-[17:39:46] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.0-alpha1/slf4j-api-2.0.0-alpha1.pom
-[17:39:46] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/2.0.0-alpha1/slf4j-parent-2.0.0-alpha1.pom
-[17:39:46] [BasicRepositoryConnector-repo.maven.apache.org-0-1/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/zaxxer/HikariCP/5.0.1/HikariCP-5.0.1.jar
-[17:39:46] [BasicRepositoryConnector-repo.maven.apache.org-0-0/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/it/unimi/dsi/fastutil/8.5.11/fastutil-8.5.11.jar
-[17:39:46] [BasicRepositoryConnector-repo.maven.apache.org-0-2/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.0-alpha1/slf4j-api-2.0.0-alpha1.jar
-[17:39:47] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loaded library /workspaces/MSX-2/servidor_minecraft/libraries/it/unimi/dsi/fastutil/8.5.11/fastutil-8.5.11.jar
-[17:39:47] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loaded library /workspaces/MSX-2/servidor_minecraft/libraries/com/zaxxer/HikariCP/5.0.1/HikariCP-5.0.1.jar
-[17:39:47] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loaded library /workspaces/MSX-2/servidor_minecraft/libraries/org/slf4j/slf4j-api/2.0.0-alpha1/slf4j-api-2.0.0-alpha1.jar
-[17:39:47] [Server thread/INFO]: [PLAZMER-ENGINE] Server version detected as Paper 1.20.1.
-[17:39:47] [Server thread/INFO]: [PLAZMER-ENGINE] [Core Components] ENTITY_ID_GENERATOR: Loaded
-[17:39:47] [Server thread/INFO]: [PLAZMER-ENGINE] [Core Components] ITEM_NBT_COMPRESSOR: Loaded
-[17:39:48] [Server thread/INFO]: [PLAZMER-ENGINE] Loading server plugin PLAZMER-ENGINE v2.4.8
-[17:39:48] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
-[17:39:48] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.26
-[17:39:48] [Server thread/INFO]: [ProtectionBlocks] Loading server plugin ProtectionBlocks v1.0.9
-[17:39:48] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[17:39:48] [Server thread/INFO]: [PLAZMER-ENGINE] Enabling PLAZMER-ENGINE v2.4.8
-[17:39:48] [Server thread/WARN]: [PLAZMER-ENGINE] ===================================
-[17:39:48] [Server thread/WARN]: [PLAZMER-ENGINE] WARNING: You're running an outdated server version (1.20.1)!
-[17:39:48] [Server thread/WARN]: [PLAZMER-ENGINE] This version will no longer be supported in future relases.
-[17:39:48] [Server thread/WARN]: [PLAZMER-ENGINE] Please upgrade your server to 1.20.4.
-[17:39:48] [Server thread/WARN]: [PLAZMER-ENGINE] ABSOLUTELY NO DISCORD SUPPORT WILL BE PROVIDED
-[17:39:48] [Server thread/WARN]: [PLAZMER-ENGINE] ===================================
-[17:39:48] [Server thread/INFO]: [PLAZMER-ENGINE] Seems like we have Paper based fork here...
-[17:39:48] [Server thread/INFO]: [PLAZMER-ENGINE] Downloading assets for your language from github...
-[17:39:48] [Server thread/INFO]: [PLAZMER-ENGINE] Plugin loaded in 906 ms!
-[17:39:48] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
-[17:39:49] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[17:39:49] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
-[17:39:50] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[17:39:50] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
-[17:39:50] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
-[17:39:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:39:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:39:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:39:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:39:50] [Server thread/INFO]: Preparing level "world"
-[17:39:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[17:39:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[17:39:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[17:39:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[17:39:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[17:39:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[17:39:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[17:39:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.1
-[17:39:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: d5d8613
-[17:39:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[17:39:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[17:39:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[17:39:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[17:39:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:39:51] [Server thread/INFO]: Time elapsed: 557 ms
-[17:39:51] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[17:39:52] [Server thread/INFO]: Time elapsed: 134 ms
-[17:39:52] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[17:39:52] [Server thread/INFO]: Time elapsed: 96 ms
-[17:39:52] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.26
-[17:39:52] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.20.1-R0.1
-[17:39:52] [Server thread/INFO]: [voicechat] Compatibility version 18
-[17:39:52] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
-[17:39:52] [Server thread/INFO]: [ProtectionBlocks] Enabling ProtectionBlocks v1.0.9
-[17:39:52] [Server thread/WARN]: [ProtectionBlocks] ===================================
-[17:39:52] [Server thread/WARN]: [ProtectionBlocks] WARNING: You're running an outdated server version (1.20.1)!
-[17:39:52] [Server thread/WARN]: [ProtectionBlocks] This version will no longer be supported in future relases.
-[17:39:52] [Server thread/WARN]: [ProtectionBlocks] Please upgrade your server to 1.20.4.
-[17:39:52] [Server thread/WARN]: [ProtectionBlocks] ABSOLUTELY NO DISCORD SUPPORT WILL BE PROVIDED
-[17:39:52] [Server thread/WARN]: [ProtectionBlocks] ===================================
-[17:39:52] [Server thread/INFO]: [ProtectionBlocks] Powered by: PLAZMER-ENGINE
-[17:39:53] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-ed - Starting...
-[17:39:53] [Server thread/INFO]: [com.zaxxer.hikari.pool.HikariPool] ProtectionBlocks-ed - Added connection org.sqlite.jdbc4.JDBC4Connection@35222830
-[17:39:53] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-ed - Start completed.
-[17:39:53] [Server thread/WARN]: [ProtectionBlocks] No hologram handler is available. Do your server met all the requirements?
-[17:39:53] [Server thread/INFO]: [ProtectionBlocks] Registered currency: exp
-[17:39:53] [Server thread/INFO]: [ProtectionBlocks] Plugin loaded in 1440 ms!
-[17:39:53] [Server thread/INFO]: Running delayed init tasks
-[17:39:53] [Server thread/INFO]: Done (10.244s)! For help, type "help"
-[17:39:53] [Server thread/INFO]: Timings Reset
-[17:39:53] [Server thread/INFO]: [ProtectionBlocks] Region Blocks Loaded: 0
-[17:39:53] [Server thread/INFO]: [ProtectionBlocks] Regions Loaded: 0
-[17:39:53] [Server thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17:39:54] [Server thread/INFO]: [voicechat] Loading plugins
-[17:39:54] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
-[17:39:54] [Server thread/INFO]: [voicechat] Initializing plugins
-[17:39:54] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
-[17:39:54] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[17:39:54] [VoiceChatServerThread/ERROR]: [voicechat] Failed to bind to address '172.28.190.108', binding to wildcard IP instead
-[17:39:54] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 172.28.190.108:24454
-[17:40:22] [Server thread/INFO]: Stopping the server
-[17:40:22] [Server thread/INFO]: Stopping server
-[17:40:22] [Server thread/INFO]: [ProtectionBlocks] Disabling ProtectionBlocks v1.0.9
-[17:40:22] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-ed - Shutdown initiated...
-[17:40:22] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-ed - Shutdown completed.
-[17:40:22] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.26
-[17:40:22] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
-[17:40:22] [Server thread/INFO]: [PLAZMER-ENGINE] Disabling PLAZMER-ENGINE v2.4.8
-[17:40:22] [Server thread/INFO]: Saving players
-[17:40:22] [Server thread/INFO]: Saving worlds
-[17:40:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:40:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[17:40:22] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[17:40:22] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[17:40:24] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world' in 1.80s
-[17:40:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:40:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[17:40:24] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[17:40:24] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[17:40:24] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[17:40:25] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world_nether' in 0.92s
-[17:40:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:40:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[17:40:25] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[17:40:25] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[17:40:25] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[17:40:25] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world_the_end' in 0.29s
-[17:40:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:40:25] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[17:40:25] [Server thread/INFO]: Flushing Chunk IO
-[17:40:25] [Server thread/INFO]: Closing Thread Pool
-[17:40:25] [Server thread/INFO]: Closing Server
+[21:16:12] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[21:16:12] [Server thread/INFO]: Default game type: SURVIVAL
+[21:16:12] [Server thread/INFO]: Generating keypair
+[21:16:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:16:13] [Server thread/INFO]: Using epoll channel type
+[21:16:13] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[21:16:13] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[21:16:13] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loading 2 libraries... please wait
+[21:16:13] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loaded library /workspaces/MSX-2/servidor_minecraft/libraries/it/unimi/dsi/fastutil/8.5.11/fastutil-8.5.11.jar
+[21:16:13] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loaded library /workspaces/MSX-2/servidor_minecraft/libraries/com/zaxxer/HikariCP/5.0.1/HikariCP-5.0.1.jar
+[21:16:13] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loaded library /workspaces/MSX-2/servidor_minecraft/libraries/org/slf4j/slf4j-api/2.0.0-alpha1/slf4j-api-2.0.0-alpha1.jar
+[21:16:13] [Server thread/INFO]: [PLAZMER-ENGINE] Server version detected as Paper 1.20.1.
+[21:16:13] [Server thread/INFO]: [PLAZMER-ENGINE] [Core Components] ENTITY_ID_GENERATOR: Loaded
+[21:16:13] [Server thread/INFO]: [PLAZMER-ENGINE] [Core Components] ITEM_NBT_COMPRESSOR: Loaded
+[21:16:13] [Server thread/INFO]: [DecentHolograms] Loading server plugin DecentHolograms v2.8.12
+[21:16:13] [Server thread/INFO]: [PLAZMER-ENGINE] Loading server plugin PLAZMER-ENGINE v2.4.8
+[21:16:13] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
+[21:16:13] [Server thread/INFO]: [CrazyEnchantments] Loading server plugin CrazyEnchantments v2.1
+[21:16:13] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.26
+[21:16:13] [Server thread/INFO]: [ProtectionBlocks] Loading server plugin ProtectionBlocks v1.0.9
+[21:16:13] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:16:13] [Server thread/INFO]: [PLAZMER-ENGINE] Enabling PLAZMER-ENGINE v2.4.8
+[21:16:13] [Server thread/WARN]: [PLAZMER-ENGINE] ===================================
+[21:16:13] [Server thread/WARN]: [PLAZMER-ENGINE] WARNING: You're running an outdated server version (1.20.1)!
+[21:16:13] [Server thread/WARN]: [PLAZMER-ENGINE] This version will no longer be supported in future relases.
+[21:16:13] [Server thread/WARN]: [PLAZMER-ENGINE] Please upgrade your server to 1.20.4.
+[21:16:13] [Server thread/WARN]: [PLAZMER-ENGINE] ABSOLUTELY NO DISCORD SUPPORT WILL BE PROVIDED
+[21:16:13] [Server thread/WARN]: [PLAZMER-ENGINE] ===================================
+[21:16:13] [Server thread/INFO]: [PLAZMER-ENGINE] Seems like we have Paper based fork here...
+[21:16:14] [Server thread/INFO]: [PLAZMER-ENGINE] Plugin loaded in 307 ms!
+[21:16:14] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
+[21:16:15] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[21:16:15] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
+[21:16:16] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[21:16:16] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
+[21:16:16] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
+[21:16:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:16:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:16:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:16:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:16:16] [Server thread/INFO]: Preparing level "world"
+[21:16:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:16:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[21:16:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[21:16:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[21:16:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[21:16:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[21:16:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:16:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.1
+[21:16:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: d5d8613
+[21:16:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[21:16:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:16:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[21:16:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[21:16:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:16:18] [Server thread/INFO]: Time elapsed: 444 ms
+[21:16:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[21:16:18] [Server thread/INFO]: Time elapsed: 203 ms
+[21:16:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[21:16:18] [Server thread/INFO]: Time elapsed: 157 ms
+[21:16:18] [Server thread/INFO]: [DecentHolograms] Enabling DecentHolograms v2.8.12
+[21:16:19] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_20_R1! Trying to find NMS support
+[21:16:19] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
+[21:16:19] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'DecentHolograms' to create a bStats instance!
+[21:16:19] [Server thread/INFO]: [CrazyEnchantments] Enabling CrazyEnchantments v2.1
+[21:16:19] [Server thread/INFO]: [CrazyEnchantments] Loading the config.yml.
+[21:16:19] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded config.yml.
+[21:16:19] [Server thread/INFO]: [CrazyEnchantments] Loading the BlockList.yml.
+[21:16:19] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded BlockList.yml.
+[21:16:19] [Server thread/INFO]: [CrazyEnchantments] Loading the Data.yml.
+[21:16:19] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Data.yml.
+[21:16:19] [Server thread/INFO]: [CrazyEnchantments] Loading the Enchantments.yml.
+[21:16:20] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Enchantments.yml.
+[21:16:20] [Server thread/INFO]: [CrazyEnchantments] Loading the GKitz.yml.
+[21:16:20] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded GKitz.yml.
+[21:16:20] [Server thread/INFO]: [CrazyEnchantments] Loading the Messages.yml.
+[21:16:20] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Messages.yml.
+[21:16:20] [Server thread/INFO]: [CrazyEnchantments] Loading the Enchantment-Types.yml.
+[21:16:20] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Enchantment-Types.yml.
+[21:16:20] [Server thread/INFO]: [CrazyEnchantments] Loading the Tinker.yml.
+[21:16:20] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Tinker.yml.
+[21:16:20] [Server thread/WARN]: [CrazyEnchantments] No eco plugin found or the eco plugin didn't enable. Any economy based feature will not work.
+[21:16:20] [Server thread/INFO]: [CrazyEnchantments] §8§l=== §e§lCrazyEnchantment Hook Status §8§l===
+[21:16:20] [Server thread/INFO]: [CrazyEnchantments] §6§lPLOT_SQUARED §c§lNOT FOUND
+[21:16:20] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS §c§lNOT FOUND
+[21:16:20] [Server thread/INFO]: [CrazyEnchantments] §6§lNO_CHEAT_PLUS §c§lNOT FOUND
+[21:16:20] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDGUARD §c§lNOT FOUND
+[21:16:20] [Server thread/INFO]: [CrazyEnchantments] §6§lTOWNYADVANCED §c§lNOT FOUND
+[21:16:20] [Server thread/INFO]: [CrazyEnchantments] §6§lORAXEN §c§lNOT FOUND
+[21:16:20] [Server thread/INFO]: [CrazyEnchantments] §6§lGRIEF_PREVENTION §c§lNOT FOUND
+[21:16:20] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDEDIT §c§lNOT FOUND
+[21:16:20] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS_V2 §c§lNOT FOUND
+[21:16:20] [Server thread/INFO]: [CrazyEnchantments] §6§lSUPERIORSKYBLOCK §c§lNOT FOUND
+[21:16:20] [Server thread/INFO]: [CrazyEnchantments] §6§lSPARTAN §c§lNOT FOUND
+[21:16:20] [Server thread/INFO]: [CrazyEnchantments] §6§lVAULT §c§lNOT FOUND
+[21:16:20] [Server thread/INFO]: [CrazyEnchantments] §6§lMCMMO §c§lNOT FOUND
+[21:16:20] [Server thread/INFO]: [CrazyEnchantments] §6§lFACTIONS_UUID §c§lNOT FOUND
+[21:16:21] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_20_R1! Trying to find NMS support
+[21:16:21] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
+[21:16:21] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Gson: class com.google.gson.Gson
+[21:16:21] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'DecentHolograms' to create a bStats instance!
+[21:16:21] [Server thread/INFO]: [CrazyEnchantments] G-Kitz support is now enabled.
+[21:16:21] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.26
+[21:16:21] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.20.1-R0.1
+[21:16:21] [Server thread/INFO]: [voicechat] Compatibility version 18
+[21:16:22] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[21:16:22] [Server thread/INFO]: [ProtectionBlocks] Enabling ProtectionBlocks v1.0.9
+[21:16:22] [Server thread/WARN]: [ProtectionBlocks] ===================================
+[21:16:22] [Server thread/WARN]: [ProtectionBlocks] WARNING: You're running an outdated server version (1.20.1)!
+[21:16:22] [Server thread/WARN]: [ProtectionBlocks] This version will no longer be supported in future relases.
+[21:16:22] [Server thread/WARN]: [ProtectionBlocks] Please upgrade your server to 1.20.4.
+[21:16:22] [Server thread/WARN]: [ProtectionBlocks] ABSOLUTELY NO DISCORD SUPPORT WILL BE PROVIDED
+[21:16:22] [Server thread/WARN]: [ProtectionBlocks] ===================================
+[21:16:22] [Server thread/INFO]: [ProtectionBlocks] Powered by: PLAZMER-ENGINE
+[21:16:22] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-7c - Starting...
+[21:16:22] [Server thread/INFO]: [com.zaxxer.hikari.pool.HikariPool] ProtectionBlocks-7c - Added connection org.sqlite.jdbc4.JDBC4Connection@774aa3c8
+[21:16:22] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-7c - Start completed.
+[21:16:22] [Server thread/INFO]: [ProtectionBlocks] Using DecentHolograms hologram handler.
+[21:16:22] [Server thread/INFO]: [ProtectionBlocks] Registered currency: exp
+[21:16:22] [Server thread/INFO]: [ProtectionBlocks] Plugin loaded in 529 ms!
+[21:16:22] [Server thread/INFO]: Running delayed init tasks
+[21:16:22] [Craft Scheduler Thread - 3 - DecentHolograms/INFO]: [DecentHolograms] Created directory plugins/DecentHolograms/holograms
+[21:16:22] [Craft Scheduler Thread - 2 - DecentHolograms/INFO]: [DecentHolograms] Created directory plugins/DecentHolograms/animations
+[21:16:22] [Server thread/INFO]: [ProtectionBlocks] Region Blocks Loaded: 0
+[21:16:22] [Server thread/INFO]: [ProtectionBlocks] Regions Loaded: 0
+[21:16:22] [Server thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:16:22] [Server thread/INFO]: Done (12.325s)! For help, type "help"
+[21:16:22] [Server thread/INFO]: Timings Reset
+[21:16:22] [Server thread/INFO]: [voicechat] Loading plugins
+[21:16:22] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[21:16:22] [Server thread/INFO]: [voicechat] Initializing plugins
+[21:16:22] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[21:16:22] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[21:16:23] [VoiceChatServerThread/ERROR]: [voicechat] Failed to bind to address '172.28.190.108', binding to wildcard IP instead
+[21:16:23] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 172.28.190.108:24454
+[21:19:12] [User Authenticator #0/INFO]: [ProtectionBlocks] Created new user data for: 'a3898cf4-4c4a-3a29-b628-38892b7008ac'
+[21:19:12] [User Authenticator #0/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[21:19:12] [Server thread/INFO]: Churrupakin joined the game
+[21:19:12] [Server thread/INFO]: Churrupakin[/172.28.161.65:51402] logged in with entity id 288 at ([world]137.5029754080643, 63.0, 105.25827142630519)
+[21:19:14] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[21:19:14] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[21:19:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[21:19:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[21:19:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[21:19:43] [Server thread/INFO]: Churrupakin issued server command: /plugins
+[21:19:57] [Server thread/INFO]: Churrupakin issued server command: /gkitz
+[21:20:14] [Server thread/INFO]: Churrupakin issued server command: /gkits
+[21:20:20] [Server thread/INFO]: Churrupakin issued server command: /gkitz
+[21:20:28] [Server thread/INFO]: Churrupakin issued server command: /gkits
+[21:20:35] [Server thread/INFO]: [CrazyEnchants]: You have sent Churrupakin a Crazy Enchantment Book.
+[21:21:19] [Server thread/INFO]: Churrupakin issued server command: /time set day
+[21:21:19] [Server thread/INFO]: [Churrupakin: Set the time to 1000]
+[21:21:37] [Server thread/INFO]: Churrupakin issued server command: /protectionsblocks
+[21:21:48] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[21:21:48] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[21:21:48] [Server thread/INFO]: Churrupakin left the game
+[21:21:58] [Server thread/INFO]: Stopping the server
+[21:21:58] [Server thread/INFO]: Stopping server
+[21:21:58] [Server thread/INFO]: [ProtectionBlocks] Disabling ProtectionBlocks v1.0.9
+[21:21:58] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-7c - Shutdown initiated...
+[21:21:58] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-7c - Shutdown completed.
+[21:21:58] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.26
+[21:21:58] [Server thread/INFO]: [CrazyEnchantments] Disabling CrazyEnchantments v2.1
+[21:21:58] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
+[21:21:58] [Server thread/INFO]: [PLAZMER-ENGINE] Disabling PLAZMER-ENGINE v2.4.8
+[21:21:58] [Server thread/INFO]: [DecentHolograms] Disabling DecentHolograms v2.8.12
+[21:21:58] [Server thread/INFO]: Saving players
+[21:21:58] [Server thread/INFO]: Saving worlds
+[21:21:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:21:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[21:21:58] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[21:21:58] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[21:21:59] [Server thread/INFO]: [ChunkHolderManager] Saved 353 block chunks, 448 entity chunks, 0 poi chunks in world 'world' in 0.83s
+[21:21:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:21:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[21:21:59] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[21:21:59] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[21:21:59] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[21:21:59] [Server thread/INFO]: [ChunkHolderManager] Saved 41 block chunks, 77 entity chunks, 0 poi chunks in world 'world_nether' in 0.09s
+[21:21:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:21:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[21:21:59] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[21:21:59] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[21:21:59] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[21:21:59] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[21:21:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:21:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:21:59] [Server thread/INFO]: Flushing Chunk IO
+[21:21:59] [Server thread/INFO]: Closing Thread Pool
+[21:21:59] [Server thread/INFO]: Closing Server

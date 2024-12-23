@@ -1,9 +1,9 @@
 # Here you can create your own custom placeholders to use it in language config.
 # Key = Placeholder, Value = Replacer.
 Placeholders:
-  '%gray%': '#aaa8a8'
   '%green%': '#74ea31'
   '%red%': '#ea3131'
+  '%gray%': '#aaa8a8'
 Command:
   Editor:
     Desc: Open the region editor.
