@@ -1,200 +1,904 @@
-[21:16:06] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:16:09] [ServerMain/INFO]: Loaded 7 recipes
-[21:16:10] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[21:16:10] [Server thread/INFO]: Loading properties
-[21:16:10] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[21:16:11] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[21:16:11] [Server thread/INFO]: Using 4 threads for Netty based IO
-[21:16:12] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[21:22:49] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:22:51] [ServerMain/INFO]: Loaded 7 recipes
+[21:22:52] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[21:22:52] [Server thread/INFO]: Loading properties
+[21:22:52] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[21:22:53] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:22:53] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:22:54] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[21:16:12] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[21:16:12] [Server thread/INFO]: Default game type: SURVIVAL
-[21:16:12] [Server thread/INFO]: Generating keypair
-[21:16:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:16:13] [Server thread/INFO]: Using epoll channel type
-[21:16:13] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[21:16:13] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[21:16:13] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loading 2 libraries... please wait
-[21:16:13] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loaded library /workspaces/MSX-2/servidor_minecraft/libraries/it/unimi/dsi/fastutil/8.5.11/fastutil-8.5.11.jar
-[21:16:13] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loaded library /workspaces/MSX-2/servidor_minecraft/libraries/com/zaxxer/HikariCP/5.0.1/HikariCP-5.0.1.jar
-[21:16:13] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loaded library /workspaces/MSX-2/servidor_minecraft/libraries/org/slf4j/slf4j-api/2.0.0-alpha1/slf4j-api-2.0.0-alpha1.jar
-[21:16:13] [Server thread/INFO]: [PLAZMER-ENGINE] Server version detected as Paper 1.20.1.
-[21:16:13] [Server thread/INFO]: [PLAZMER-ENGINE] [Core Components] ENTITY_ID_GENERATOR: Loaded
-[21:16:13] [Server thread/INFO]: [PLAZMER-ENGINE] [Core Components] ITEM_NBT_COMPRESSOR: Loaded
-[21:16:13] [Server thread/INFO]: [DecentHolograms] Loading server plugin DecentHolograms v2.8.12
-[21:16:13] [Server thread/INFO]: [PLAZMER-ENGINE] Loading server plugin PLAZMER-ENGINE v2.4.8
-[21:16:13] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
-[21:16:13] [Server thread/INFO]: [CrazyEnchantments] Loading server plugin CrazyEnchantments v2.1
-[21:16:13] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.26
-[21:16:13] [Server thread/INFO]: [ProtectionBlocks] Loading server plugin ProtectionBlocks v1.0.9
-[21:16:13] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:16:13] [Server thread/INFO]: [PLAZMER-ENGINE] Enabling PLAZMER-ENGINE v2.4.8
-[21:16:13] [Server thread/WARN]: [PLAZMER-ENGINE] ===================================
-[21:16:13] [Server thread/WARN]: [PLAZMER-ENGINE] WARNING: You're running an outdated server version (1.20.1)!
-[21:16:13] [Server thread/WARN]: [PLAZMER-ENGINE] This version will no longer be supported in future relases.
-[21:16:13] [Server thread/WARN]: [PLAZMER-ENGINE] Please upgrade your server to 1.20.4.
-[21:16:13] [Server thread/WARN]: [PLAZMER-ENGINE] ABSOLUTELY NO DISCORD SUPPORT WILL BE PROVIDED
-[21:16:13] [Server thread/WARN]: [PLAZMER-ENGINE] ===================================
-[21:16:13] [Server thread/INFO]: [PLAZMER-ENGINE] Seems like we have Paper based fork here...
-[21:16:14] [Server thread/INFO]: [PLAZMER-ENGINE] Plugin loaded in 307 ms!
-[21:16:14] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
-[21:16:15] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[21:16:15] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
-[21:16:16] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[21:16:16] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
-[21:16:16] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
-[21:16:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:16:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:16:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:16:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:16:16] [Server thread/INFO]: Preparing level "world"
-[21:16:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[21:16:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[21:16:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[21:16:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[21:16:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[21:16:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[21:16:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[21:16:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.1
-[21:16:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: d5d8613
-[21:16:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[21:16:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[21:16:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[21:16:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[21:16:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:16:18] [Server thread/INFO]: Time elapsed: 444 ms
-[21:16:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[21:16:18] [Server thread/INFO]: Time elapsed: 203 ms
-[21:16:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[21:16:18] [Server thread/INFO]: Time elapsed: 157 ms
-[21:16:18] [Server thread/INFO]: [DecentHolograms] Enabling DecentHolograms v2.8.12
-[21:16:19] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_20_R1! Trying to find NMS support
-[21:16:19] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
-[21:16:19] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'DecentHolograms' to create a bStats instance!
-[21:16:19] [Server thread/INFO]: [CrazyEnchantments] Enabling CrazyEnchantments v2.1
-[21:16:19] [Server thread/INFO]: [CrazyEnchantments] Loading the config.yml.
-[21:16:19] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded config.yml.
-[21:16:19] [Server thread/INFO]: [CrazyEnchantments] Loading the BlockList.yml.
-[21:16:19] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded BlockList.yml.
-[21:16:19] [Server thread/INFO]: [CrazyEnchantments] Loading the Data.yml.
-[21:16:19] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Data.yml.
-[21:16:19] [Server thread/INFO]: [CrazyEnchantments] Loading the Enchantments.yml.
-[21:16:20] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Enchantments.yml.
-[21:16:20] [Server thread/INFO]: [CrazyEnchantments] Loading the GKitz.yml.
-[21:16:20] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded GKitz.yml.
-[21:16:20] [Server thread/INFO]: [CrazyEnchantments] Loading the Messages.yml.
-[21:16:20] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Messages.yml.
-[21:16:20] [Server thread/INFO]: [CrazyEnchantments] Loading the Enchantment-Types.yml.
-[21:16:20] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Enchantment-Types.yml.
-[21:16:20] [Server thread/INFO]: [CrazyEnchantments] Loading the Tinker.yml.
-[21:16:20] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Tinker.yml.
-[21:16:20] [Server thread/WARN]: [CrazyEnchantments] No eco plugin found or the eco plugin didn't enable. Any economy based feature will not work.
-[21:16:20] [Server thread/INFO]: [CrazyEnchantments] §8§l=== §e§lCrazyEnchantment Hook Status §8§l===
-[21:16:20] [Server thread/INFO]: [CrazyEnchantments] §6§lPLOT_SQUARED §c§lNOT FOUND
-[21:16:20] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS §c§lNOT FOUND
-[21:16:20] [Server thread/INFO]: [CrazyEnchantments] §6§lNO_CHEAT_PLUS §c§lNOT FOUND
-[21:16:20] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDGUARD §c§lNOT FOUND
-[21:16:20] [Server thread/INFO]: [CrazyEnchantments] §6§lTOWNYADVANCED §c§lNOT FOUND
-[21:16:20] [Server thread/INFO]: [CrazyEnchantments] §6§lORAXEN §c§lNOT FOUND
-[21:16:20] [Server thread/INFO]: [CrazyEnchantments] §6§lGRIEF_PREVENTION §c§lNOT FOUND
-[21:16:20] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDEDIT §c§lNOT FOUND
-[21:16:20] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS_V2 §c§lNOT FOUND
-[21:16:20] [Server thread/INFO]: [CrazyEnchantments] §6§lSUPERIORSKYBLOCK §c§lNOT FOUND
-[21:16:20] [Server thread/INFO]: [CrazyEnchantments] §6§lSPARTAN §c§lNOT FOUND
-[21:16:20] [Server thread/INFO]: [CrazyEnchantments] §6§lVAULT §c§lNOT FOUND
-[21:16:20] [Server thread/INFO]: [CrazyEnchantments] §6§lMCMMO §c§lNOT FOUND
-[21:16:20] [Server thread/INFO]: [CrazyEnchantments] §6§lFACTIONS_UUID §c§lNOT FOUND
-[21:16:21] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_20_R1! Trying to find NMS support
-[21:16:21] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
-[21:16:21] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Gson: class com.google.gson.Gson
-[21:16:21] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'DecentHolograms' to create a bStats instance!
-[21:16:21] [Server thread/INFO]: [CrazyEnchantments] G-Kitz support is now enabled.
-[21:16:21] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.26
-[21:16:21] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.20.1-R0.1
-[21:16:21] [Server thread/INFO]: [voicechat] Compatibility version 18
-[21:16:22] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
-[21:16:22] [Server thread/INFO]: [ProtectionBlocks] Enabling ProtectionBlocks v1.0.9
-[21:16:22] [Server thread/WARN]: [ProtectionBlocks] ===================================
-[21:16:22] [Server thread/WARN]: [ProtectionBlocks] WARNING: You're running an outdated server version (1.20.1)!
-[21:16:22] [Server thread/WARN]: [ProtectionBlocks] This version will no longer be supported in future relases.
-[21:16:22] [Server thread/WARN]: [ProtectionBlocks] Please upgrade your server to 1.20.4.
-[21:16:22] [Server thread/WARN]: [ProtectionBlocks] ABSOLUTELY NO DISCORD SUPPORT WILL BE PROVIDED
-[21:16:22] [Server thread/WARN]: [ProtectionBlocks] ===================================
-[21:16:22] [Server thread/INFO]: [ProtectionBlocks] Powered by: PLAZMER-ENGINE
-[21:16:22] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-7c - Starting...
-[21:16:22] [Server thread/INFO]: [com.zaxxer.hikari.pool.HikariPool] ProtectionBlocks-7c - Added connection org.sqlite.jdbc4.JDBC4Connection@774aa3c8
-[21:16:22] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-7c - Start completed.
-[21:16:22] [Server thread/INFO]: [ProtectionBlocks] Using DecentHolograms hologram handler.
-[21:16:22] [Server thread/INFO]: [ProtectionBlocks] Registered currency: exp
-[21:16:22] [Server thread/INFO]: [ProtectionBlocks] Plugin loaded in 529 ms!
-[21:16:22] [Server thread/INFO]: Running delayed init tasks
-[21:16:22] [Craft Scheduler Thread - 3 - DecentHolograms/INFO]: [DecentHolograms] Created directory plugins/DecentHolograms/holograms
-[21:16:22] [Craft Scheduler Thread - 2 - DecentHolograms/INFO]: [DecentHolograms] Created directory plugins/DecentHolograms/animations
-[21:16:22] [Server thread/INFO]: [ProtectionBlocks] Region Blocks Loaded: 0
-[21:16:22] [Server thread/INFO]: [ProtectionBlocks] Regions Loaded: 0
-[21:16:22] [Server thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:16:22] [Server thread/INFO]: Done (12.325s)! For help, type "help"
-[21:16:22] [Server thread/INFO]: Timings Reset
-[21:16:22] [Server thread/INFO]: [voicechat] Loading plugins
-[21:16:22] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
-[21:16:22] [Server thread/INFO]: [voicechat] Initializing plugins
-[21:16:22] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
-[21:16:22] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[21:16:23] [VoiceChatServerThread/ERROR]: [voicechat] Failed to bind to address '172.28.190.108', binding to wildcard IP instead
-[21:16:23] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 172.28.190.108:24454
-[21:19:12] [User Authenticator #0/INFO]: [ProtectionBlocks] Created new user data for: 'a3898cf4-4c4a-3a29-b628-38892b7008ac'
-[21:19:12] [User Authenticator #0/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
-[21:19:12] [Server thread/INFO]: Churrupakin joined the game
-[21:19:12] [Server thread/INFO]: Churrupakin[/172.28.161.65:51402] logged in with entity id 288 at ([world]137.5029754080643, 63.0, 105.25827142630519)
-[21:19:14] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
-[21:19:14] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
-[21:19:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[21:19:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[21:19:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
-[21:19:43] [Server thread/INFO]: Churrupakin issued server command: /plugins
-[21:19:57] [Server thread/INFO]: Churrupakin issued server command: /gkitz
-[21:20:14] [Server thread/INFO]: Churrupakin issued server command: /gkits
-[21:20:20] [Server thread/INFO]: Churrupakin issued server command: /gkitz
-[21:20:28] [Server thread/INFO]: Churrupakin issued server command: /gkits
-[21:20:35] [Server thread/INFO]: [CrazyEnchants]: You have sent Churrupakin a Crazy Enchantment Book.
-[21:21:19] [Server thread/INFO]: Churrupakin issued server command: /time set day
-[21:21:19] [Server thread/INFO]: [Churrupakin: Set the time to 1000]
-[21:21:37] [Server thread/INFO]: Churrupakin issued server command: /protectionsblocks
-[21:21:48] [Server thread/INFO]: Churrupakin lost connection: Disconnected
-[21:21:48] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
-[21:21:48] [Server thread/INFO]: Churrupakin left the game
-[21:21:58] [Server thread/INFO]: Stopping the server
-[21:21:58] [Server thread/INFO]: Stopping server
-[21:21:58] [Server thread/INFO]: [ProtectionBlocks] Disabling ProtectionBlocks v1.0.9
-[21:21:58] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-7c - Shutdown initiated...
-[21:21:58] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-7c - Shutdown completed.
-[21:21:58] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.26
-[21:21:58] [Server thread/INFO]: [CrazyEnchantments] Disabling CrazyEnchantments v2.1
-[21:21:58] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
-[21:21:58] [Server thread/INFO]: [PLAZMER-ENGINE] Disabling PLAZMER-ENGINE v2.4.8
-[21:21:58] [Server thread/INFO]: [DecentHolograms] Disabling DecentHolograms v2.8.12
-[21:21:58] [Server thread/INFO]: Saving players
-[21:21:58] [Server thread/INFO]: Saving worlds
-[21:21:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:21:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[21:21:58] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[21:21:58] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[21:21:59] [Server thread/INFO]: [ChunkHolderManager] Saved 353 block chunks, 448 entity chunks, 0 poi chunks in world 'world' in 0.83s
-[21:21:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:21:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[21:21:59] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[21:21:59] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[21:21:59] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[21:21:59] [Server thread/INFO]: [ChunkHolderManager] Saved 41 block chunks, 77 entity chunks, 0 poi chunks in world 'world_nether' in 0.09s
-[21:21:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:21:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[21:21:59] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[21:21:59] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[21:21:59] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[21:21:59] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
-[21:21:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:21:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[21:21:59] [Server thread/INFO]: Flushing Chunk IO
-[21:21:59] [Server thread/INFO]: Closing Thread Pool
-[21:21:59] [Server thread/INFO]: Closing Server
+[21:22:54] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[21:22:54] [Server thread/INFO]: Default game type: SURVIVAL
+[21:22:54] [Server thread/INFO]: Generating keypair
+[21:22:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:22:54] [Server thread/INFO]: Using epoll channel type
+[21:22:55] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[21:22:55] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[21:22:55] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loading 2 libraries... please wait
+[21:22:55] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loaded library /workspaces/MSX-2/servidor_minecraft/libraries/it/unimi/dsi/fastutil/8.5.11/fastutil-8.5.11.jar
+[21:22:55] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loaded library /workspaces/MSX-2/servidor_minecraft/libraries/com/zaxxer/HikariCP/5.0.1/HikariCP-5.0.1.jar
+[21:22:55] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loaded library /workspaces/MSX-2/servidor_minecraft/libraries/org/slf4j/slf4j-api/2.0.0-alpha1/slf4j-api-2.0.0-alpha1.jar
+[21:22:55] [Server thread/INFO]: [PLAZMER-ENGINE] Server version detected as Paper 1.20.1.
+[21:22:55] [Server thread/INFO]: [PLAZMER-ENGINE] [Core Components] ENTITY_ID_GENERATOR: Loaded
+[21:22:55] [Server thread/INFO]: [PLAZMER-ENGINE] [Core Components] ITEM_NBT_COMPRESSOR: Loaded
+[21:22:55] [Server thread/INFO]: [DecentHolograms] Loading server plugin DecentHolograms v2.8.12
+[21:22:55] [Server thread/INFO]: [PLAZMER-ENGINE] Loading server plugin PLAZMER-ENGINE v2.4.8
+[21:22:55] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
+[21:22:55] [Server thread/INFO]: [CrazyEnchantments] Loading server plugin CrazyEnchantments v2.1
+[21:22:55] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.26
+[21:22:55] [Server thread/INFO]: [ProtectionBlocks] Loading server plugin ProtectionBlocks v1.0.9
+[21:22:55] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:22:55] [Server thread/INFO]: [PLAZMER-ENGINE] Enabling PLAZMER-ENGINE v2.4.8
+[21:22:55] [Server thread/WARN]: [PLAZMER-ENGINE] ===================================
+[21:22:55] [Server thread/WARN]: [PLAZMER-ENGINE] WARNING: You're running an outdated server version (1.20.1)!
+[21:22:55] [Server thread/WARN]: [PLAZMER-ENGINE] This version will no longer be supported in future relases.
+[21:22:55] [Server thread/WARN]: [PLAZMER-ENGINE] Please upgrade your server to 1.20.4.
+[21:22:55] [Server thread/WARN]: [PLAZMER-ENGINE] ABSOLUTELY NO DISCORD SUPPORT WILL BE PROVIDED
+[21:22:55] [Server thread/WARN]: [PLAZMER-ENGINE] ===================================
+[21:22:55] [Server thread/INFO]: [PLAZMER-ENGINE] Seems like we have Paper based fork here...
+[21:22:56] [Server thread/INFO]: [PLAZMER-ENGINE] Plugin loaded in 361 ms!
+[21:22:56] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
+[21:22:57] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[21:22:57] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
+[21:22:58] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[21:22:58] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
+[21:22:58] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
+[21:22:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:22:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:22:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:22:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:22:58] [Server thread/INFO]: Preparing level "world"
+[21:22:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:22:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[21:22:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[21:22:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[21:22:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[21:22:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[21:22:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:22:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.1
+[21:22:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: d5d8613
+[21:22:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[21:22:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:22:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[21:22:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[21:22:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:22:59] [Server thread/INFO]: Time elapsed: 561 ms
+[21:22:59] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[21:23:00] [Server thread/INFO]: Time elapsed: 196 ms
+[21:23:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[21:23:00] [Server thread/INFO]: Time elapsed: 140 ms
+[21:23:00] [Server thread/INFO]: [DecentHolograms] Enabling DecentHolograms v2.8.12
+[21:23:00] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_20_R1! Trying to find NMS support
+[21:23:00] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
+[21:23:00] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'DecentHolograms' to create a bStats instance!
+[21:23:00] [Server thread/INFO]: [CrazyEnchantments] Enabling CrazyEnchantments v2.1
+[21:23:00] [Server thread/INFO]: [CrazyEnchantments] Loading the config.yml.
+[21:23:00] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded config.yml.
+[21:23:00] [Server thread/INFO]: [CrazyEnchantments] Loading the BlockList.yml.
+[21:23:00] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded BlockList.yml.
+[21:23:00] [Server thread/INFO]: [CrazyEnchantments] Loading the Data.yml.
+[21:23:00] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Data.yml.
+[21:23:00] [Server thread/INFO]: [CrazyEnchantments] Loading the Enchantments.yml.
+[21:23:01] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Enchantments.yml.
+[21:23:01] [Server thread/INFO]: [CrazyEnchantments] Loading the GKitz.yml.
+[21:23:01] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded GKitz.yml.
+[21:23:01] [Server thread/INFO]: [CrazyEnchantments] Loading the Messages.yml.
+[21:23:01] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Messages.yml.
+[21:23:01] [Server thread/INFO]: [CrazyEnchantments] Loading the Enchantment-Types.yml.
+[21:23:01] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Enchantment-Types.yml.
+[21:23:01] [Server thread/INFO]: [CrazyEnchantments] Loading the Tinker.yml.
+[21:23:01] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Tinker.yml.
+[21:23:01] [Server thread/WARN]: [CrazyEnchantments] No eco plugin found or the eco plugin didn't enable. Any economy based feature will not work.
+[21:23:01] [Server thread/INFO]: [CrazyEnchantments] §8§l=== §e§lCrazyEnchantment Hook Status §8§l===
+[21:23:01] [Server thread/INFO]: [CrazyEnchantments] §6§lVAULT §c§lNOT FOUND
+[21:23:01] [Server thread/INFO]: [CrazyEnchantments] §6§lPLOT_SQUARED §c§lNOT FOUND
+[21:23:01] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS §c§lNOT FOUND
+[21:23:01] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDEDIT §c§lNOT FOUND
+[21:23:01] [Server thread/INFO]: [CrazyEnchantments] §6§lNO_CHEAT_PLUS §c§lNOT FOUND
+[21:23:01] [Server thread/INFO]: [CrazyEnchantments] §6§lFACTIONS_UUID §c§lNOT FOUND
+[21:23:01] [Server thread/INFO]: [CrazyEnchantments] §6§lMCMMO §c§lNOT FOUND
+[21:23:01] [Server thread/INFO]: [CrazyEnchantments] §6§lGRIEF_PREVENTION §c§lNOT FOUND
+[21:23:01] [Server thread/INFO]: [CrazyEnchantments] §6§lSPARTAN §c§lNOT FOUND
+[21:23:01] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDGUARD §c§lNOT FOUND
+[21:23:01] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS_V2 §c§lNOT FOUND
+[21:23:01] [Server thread/INFO]: [CrazyEnchantments] §6§lSUPERIORSKYBLOCK §c§lNOT FOUND
+[21:23:01] [Server thread/INFO]: [CrazyEnchantments] §6§lTOWNYADVANCED §c§lNOT FOUND
+[21:23:01] [Server thread/INFO]: [CrazyEnchantments] §6§lORAXEN §c§lNOT FOUND
+[21:23:01] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_20_R1! Trying to find NMS support
+[21:23:01] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
+[21:23:01] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Gson: class com.google.gson.Gson
+[21:23:01] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'DecentHolograms' to create a bStats instance!
+[21:23:02] [Server thread/INFO]: [CrazyEnchantments] G-Kitz support is now enabled.
+[21:23:02] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.26
+[21:23:02] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.20.1-R0.1
+[21:23:02] [Server thread/INFO]: [voicechat] Compatibility version 18
+[21:23:02] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[21:23:02] [Server thread/INFO]: [ProtectionBlocks] Enabling ProtectionBlocks v1.0.9
+[21:23:02] [Server thread/WARN]: [ProtectionBlocks] ===================================
+[21:23:02] [Server thread/WARN]: [ProtectionBlocks] WARNING: You're running an outdated server version (1.20.1)!
+[21:23:02] [Server thread/WARN]: [ProtectionBlocks] This version will no longer be supported in future relases.
+[21:23:02] [Server thread/WARN]: [ProtectionBlocks] Please upgrade your server to 1.20.4.
+[21:23:02] [Server thread/WARN]: [ProtectionBlocks] ABSOLUTELY NO DISCORD SUPPORT WILL BE PROVIDED
+[21:23:02] [Server thread/WARN]: [ProtectionBlocks] ===================================
+[21:23:02] [Server thread/INFO]: [ProtectionBlocks] Powered by: PLAZMER-ENGINE
+[21:23:02] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-ce - Starting...
+[21:23:03] [Server thread/INFO]: [com.zaxxer.hikari.pool.HikariPool] ProtectionBlocks-ce - Added connection org.sqlite.jdbc4.JDBC4Connection@588f29b
+[21:23:03] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-ce - Start completed.
+[21:23:03] [Server thread/INFO]: [ProtectionBlocks] Using DecentHolograms hologram handler.
+[21:23:03] [Server thread/INFO]: [ProtectionBlocks] Registered currency: exp
+[21:23:03] [Server thread/INFO]: [ProtectionBlocks] Plugin loaded in 537 ms!
+[21:23:03] [Server thread/INFO]: Running delayed init tasks
+[21:23:03] [Server thread/INFO]: Done (10.794s)! For help, type "help"
+[21:23:03] [Server thread/INFO]: Timings Reset
+[21:23:03] [Server thread/INFO]: [ProtectionBlocks] Region Blocks Loaded: 0
+[21:23:03] [Server thread/INFO]: [ProtectionBlocks] Regions Loaded: 0
+[21:23:03] [Server thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:23:03] [Server thread/INFO]: [voicechat] Loading plugins
+[21:23:03] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[21:23:03] [Server thread/INFO]: [voicechat] Initializing plugins
+[21:23:03] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[21:23:03] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[21:23:03] [VoiceChatServerThread/ERROR]: [voicechat] Failed to bind to address '172.28.190.108', binding to wildcard IP instead
+[21:23:03] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 172.28.190.108:24454
+[21:23:13] [User Authenticator #0/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[21:23:13] [Server thread/INFO]: Churrupakin joined the game
+[21:23:13] [Server thread/INFO]: Churrupakin[/172.28.161.65:51487] logged in with entity id 281 at ([world]138.41933451865515, 63.0, 104.04737664640477)
+[21:23:14] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[21:23:14] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[21:23:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[21:23:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[21:23:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[21:23:48] [Server thread/INFO]: Churrupakin issued server command: /protectionsblocks
+[21:25:10] [Server thread/INFO]: Churrupakin issued server command: /protectionsblocks editor
+[21:25:42] [Server thread/INFO]: Churrupakin issued server command: /#exit
+[21:29:05] [Server thread/WARN]: [ProtectionBlocks] Task #54 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21:29:05] [Server thread/WARN]: [ProtectionBlocks] Task #56 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21:29:06] [Server thread/WARN]: [ProtectionBlocks] Task #58 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21:29:07] [Server thread/WARN]: [ProtectionBlocks] Task #60 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21:29:18] [Server thread/WARN]: [ProtectionBlocks] Task #62 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21:30:02] [Server thread/WARN]: [ProtectionBlocks] Task #65 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21:30:03] [Server thread/WARN]: [ProtectionBlocks] Task #67 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21:30:18] [Server thread/INFO]: Churrupakin issued server command: /#exit
+[21:30:23] [Server thread/WARN]: [ProtectionBlocks] Task #73 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21:30:24] [Server thread/WARN]: [ProtectionBlocks] Task #75 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21:30:24] [Server thread/WARN]: [ProtectionBlocks] Task #77 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21:30:25] [Server thread/WARN]: [ProtectionBlocks] Task #79 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21:30:25] [Server thread/WARN]: [ProtectionBlocks] Task #81 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21:30:25] [Server thread/WARN]: [ProtectionBlocks] Task #83 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21:30:25] [Server thread/WARN]: [ProtectionBlocks] Task #85 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21:30:34] [Server thread/WARN]: [ProtectionBlocks] Task #87 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21:30:35] [Server thread/WARN]: [ProtectionBlocks] Task #89 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21:30:35] [Server thread/WARN]: [ProtectionBlocks] Task #91 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21:30:36] [Server thread/WARN]: [ProtectionBlocks] Task #93 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21:30:36] [Server thread/WARN]: [ProtectionBlocks] Task #95 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21:30:36] [Server thread/WARN]: [ProtectionBlocks] Task #97 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21:30:36] [Server thread/WARN]: [ProtectionBlocks] Task #99 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21:30:36] [Server thread/WARN]: [ProtectionBlocks] Task #101 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21:30:37] [Server thread/WARN]: [ProtectionBlocks] Task #103 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21:31:38] [Server thread/INFO]: Churrupakin issued server command: /hologram
+[21:31:46] [Server thread/INFO]: Churrupakin issued server command: /holograms help
+[21:31:56] [Server thread/INFO]: Churrupakin issued server command: /holograms list
+[21:32:16] [Server thread/INFO]: Churrupakin issued server command: /protectionsblocks editor
+[21:32:30] [Server thread/WARN]: [ProtectionBlocks] Task #112 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21:32:34] [Server thread/WARN]: [ProtectionBlocks] Task #114 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21:32:47] [Server thread/WARN]: [ProtectionBlocks] Task #116 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21:32:47] [Server thread/WARN]: [ProtectionBlocks] Task #118 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21:32:48] [Server thread/WARN]: [ProtectionBlocks] Task #120 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21:32:48] [Server thread/WARN]: [ProtectionBlocks] Task #122 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21:32:49] [Server thread/WARN]: [ProtectionBlocks] Task #124 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21:33:55] [Server thread/WARN]: [ProtectionBlocks] Task #133 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21:34:16] [Server thread/INFO]: Churrupakin issued server command: /protectionsblocks editor
+[21:34:48] [Server thread/INFO]: Churrupakin issued server command: /gamemode c
+[21:34:50] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
+[21:34:50] [Server thread/INFO]: [Churrupakin: Set own game mode to Creative Mode]
+[21:35:06] [Server thread/INFO]: Churrupakin issued server command: /protectionsblocks editor
+[21:35:14] [Server thread/WARN]: [ProtectionBlocks] Task #149 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.plugin.protectionblocks.region.editor.RGListEditor.lambda$getObjectClick$5(RGListEditor.java:84) ~[ProtectionBlocks-1.0.9.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21:35:17] [Server thread/INFO]: Churrupakin issued server command: /protectionsblocks editor
+[21:36:27] [Server thread/WARN]: [ProtectionBlocks] Task #168 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21:36:40] [Server thread/INFO]: Churrupakin issued server command: /protectionsblocks editor
+[21:36:47] [User Authenticator #1/INFO]: [ProtectionBlocks] Created new user data for: 'fda94c63-d427-37bf-89dc-8504ed7b7103'
+[21:36:47] [User Authenticator #1/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
+[21:36:47] [Server thread/INFO]: pingaparaangel joined the game
+[21:36:47] [Server thread/INFO]: pingaparaangel[/172.28.117.248:53047] logged in with entity id 1739 at ([world]155.03239009715162, 63.003016261509046, 65.18745906732688)
+[21:37:32] [Async Chat Thread - #6/INFO]: [Not Secure] <pingaparaangel> xddd
+[21:38:43] [Server thread/INFO]: Churrupakin issued server command: /time set day
+[21:38:43] [Server thread/INFO]: [Churrupakin: Set the time to 1000]
+[21:38:46] [Server thread/INFO]: Churrupakin issued server command: /protectionsblocks editor
+[21:39:49] [Server thread/INFO]: Churrupakin issued server command: /protectionsblocks editor
+[21:39:56] [Server thread/WARN]: [ProtectionBlocks] Task #209 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21:40:29] [Server thread/INFO]: Churrupakin issued server command: /protectionsblocks editor
+[21:41:31] [User Authenticator #2/INFO]: [ProtectionBlocks] Created new user data for: '2f973d55-3e2c-33b9-9e01-115ef44fd74f'
+[21:41:31] [User Authenticator #2/INFO]: UUID of player lacalacaxd is 2f973d55-3e2c-33b9-9e01-115ef44fd74f
+[21:41:31] [Server thread/INFO]: lacalacaxd joined the game
+[21:41:31] [Server thread/INFO]: lacalacaxd[/172.28.26.209:49838] logged in with entity id 2518 at ([world]134.91586027205526, 63.0, 100.71348241557405)
+[21:41:53] [Async Chat Thread - #10/INFO]: [Not Secure] <Churrupakin> mno
+[21:41:58] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> intenta romper
+[21:42:11] [Server thread/INFO]: Churrupakin issued server command: /protectionsblocks editor
+[21:42:30] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> rompe
+[21:42:53] [Server thread/INFO]: Churrupakin issued server command: /protectionsblocks editor
+[21:42:55] [Async Chat Thread - #11/INFO]: [Not Secure] <lacalacaxd> k fue cin mi cama
+[21:43:01] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> esta claimeada
+[21:43:02] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> xdd
+[21:43:05] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> ven
+[21:43:12] [Async Chat Thread - #11/INFO]: [Not Secure] <lacalacaxd> voy
+[21:43:25] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> intenta romperla
+[21:43:39] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> xddd
+[21:43:48] [Server thread/INFO]: Churrupakin issued server command: /protectionsblocks
+[21:43:56] [Async Chat Thread - #11/INFO]: [Not Secure] <lacalacaxd> ay fack
+[21:44:06] [Server thread/INFO]: Churrupakin issued server command: /protectionsblocks preview
+[21:44:33] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> rompe
+[21:44:45] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> rompe
+[21:44:55] [Async Chat Thread - #11/INFO]: [Not Secure] <lacalacaxd> pene
+[21:45:06] [Server thread/INFO]: Churrupakin issued server command: /protectionsblocks reload
+[21:45:06] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-ce - Shutdown initiated...
+[21:45:06] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-ce - Shutdown completed.
+[21:45:06] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-e0 - Starting...
+[21:45:06] [Server thread/INFO]: [com.zaxxer.hikari.pool.HikariPool] ProtectionBlocks-e0 - Added connection org.sqlite.jdbc4.JDBC4Connection@71c8003f
+[21:45:06] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-e0 - Start completed.
+[21:45:06] [Server thread/INFO]: [ProtectionBlocks] Using DecentHolograms hologram handler.
+[21:45:06] [Server thread/INFO]: [ProtectionBlocks] Registered currency: exp
+[21:45:06] [Server thread/INFO]: [ProtectionBlocks] Region Blocks Loaded: 3
+[21:45:06] [Server thread/INFO]: [ProtectionBlocks] Regions Loaded: 0
+[21:45:14] [Server thread/INFO]: Churrupakin issued server command: /protectionsblocks menu
+[21:45:17] [Server thread/INFO]: Churrupakin issued server command: /protectionsblocks menu
+[21:45:21] [Server thread/INFO]: Churrupakin issued server command: /protectionsblocks editor
+[21:45:32] [Server thread/INFO]: Churrupakin issued server command: /protectionsblocks editor
+[21:45:35] [Async Chat Thread - #10/INFO]: [Not Secure] <lacalacaxd> osea que no puedo romper tus cosas?
+[21:45:56] [Async Chat Thread - #10/INFO]: [Not Secure] <Churrupakin> ya lo configure q rico
+[21:46:03] [User Authenticator #3/INFO]: [ProtectionBlocks] Created new user data for: '2a9ff858-04dc-3136-97df-619a6316d09a'
+[21:46:03] [User Authenticator #3/INFO]: UUID of player XxMatos15 is 2a9ff858-04dc-3136-97df-619a6316d09a
+[21:46:03] [Server thread/INFO]: XxMatos15 joined the game
+[21:46:03] [Server thread/INFO]: XxMatos15[/172.28.131.63:60528] logged in with entity id 3507 at ([world]155.20379513163013, 63.0, 58.32324217497725)
+[21:46:06] [Async Chat Thread - #10/INFO]: [Not Secure] <lacalacaxd> que rico
+[21:46:09] [Server thread/INFO]: Churrupakin issued server command: /protectionsblocks editor
+[21:46:12] [Server thread/WARN]: [ProtectionBlocks] Task #297 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21:46:20] [Server thread/WARN]: [ProtectionBlocks] Task #299 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21:46:31] [Server thread/INFO]: Churrupakin issued server command: /protectionsblocks give
+[21:46:35] [Server thread/INFO]: pingaparaangel issued server command: /msg XxMatos15 ya fue romper la choza de diego creo
+[21:46:47] [Server thread/INFO]: XxMatos15 issued server command: /tell pingaparaangel quien
+[21:47:22] [Server thread/INFO]: pingaparaangel issued server command: /msg XxMatos15 matias puso esa wbd pa no romper tus wbds
+[21:47:23] [Async Chat Thread - #10/INFO]: [Not Secure] <Churrupakin> les voy a dar a cada uno el bloque de diamante para su claim
+[21:47:25] [Server thread/INFO]: Churrupakin issued server command: /protectionsblocks editor
+[21:47:37] [Server thread/WARN]: [ProtectionBlocks] Task #306 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21:47:37] [Async Chat Thread - #12/INFO]: [Not Secure] <pingaparaangel> q es eso
+[21:47:54] [Async Chat Thread - #12/INFO]: [Not Secure] <lacalacaxd> no entender
+[21:48:03] [Async Chat Thread - #10/INFO]: [Not Secure] <pingaparaangel> q es claim
+[21:48:05] [Server thread/INFO]: XxMatos15 issued server command: /tell pingaparaangel nd
+[21:48:08] [Async Chat Thread - #10/INFO]: [Not Secure] <lacalacaxd> a ya etendi
+[21:48:12] [Async Chat Thread - #12/INFO]: [Not Secure] <Churrupakin> para proteger su base
+[21:48:29] [Async Chat Thread - #12/INFO]: [Not Secure] <lacalacaxd> es como un perimetro de 30 bloques?
+[21:48:29] [Server thread/INFO]: Churrupakin issued server command: /protectionsblocks give bloque_de_diamante lacalacaxd 1
+[21:48:37] [Server thread/INFO]: Churrupakin issued server command: /protectionsblocks give bloque_de_diamante pingaparaangel 1
+[21:48:47] [Server thread/INFO]: Churrupakin issued server command: /protectionsblocks give bloque_de_diamante XxMatos15 1
+[21:48:58] [Server thread/WARN]: Skeleton Horse (vehicle of XxMatos15) moved wrongly! 0.35242388126923174
+[21:48:58] [Server thread/WARN]: Skeleton Horse (vehicle of XxMatos15) moved wrongly! 0.6647203524031369
+[21:48:58] [Server thread/WARN]: Skeleton Horse (vehicle of XxMatos15) moved wrongly! 0.9785897719305012
+[21:48:59] [Async Chat Thread - #12/INFO]: [Not Secure] <lacalacaxd> de 30x30
+[21:49:05] [Async Chat Thread - #12/INFO]: [Not Secure] <Churrupakin> si
+[21:49:10] [Async Chat Thread - #12/INFO]: [Not Secure] <Churrupakin> 900 bloques
+[21:49:16] [Async Chat Thread - #12/INFO]: [Not Secure] <lacalacaxd> a la mrd
+[21:49:21] [Async Chat Thread - #12/INFO]: [Not Secure] <Churrupakin> el de netherite es de 64x64
+[21:49:29] [Async Chat Thread - #10/INFO]: [Not Secure] <Churrupakin> y el de huerro es de 15x15
+[21:49:41] [Server thread/WARN]: lacalacaxd moved too quickly! 3.2043410927467164,1.0244240882136921,10.664568487562832
+[21:49:45] [Server thread/WARN]: lacalacaxd moved too quickly! 8.179612281411892,0.7531999805212024,6.0758090634293325
+[21:49:50] [Server thread/WARN]: lacalacaxd moved too quickly! 9.873963043800046,-0.1647732818260721,7.332360017665167
+[21:49:54] [Server thread/INFO]: Churrupakin issued server command: /cra
+[21:49:58] [Server thread/INFO]: Churrupakin issued server command: /ce
+[21:50:49] [Async Chat Thread - #13/INFO]: [Not Secure] <Churrupakin> sigan jugando q voy a traducir lso demas plugins
+[21:50:55] [Async Chat Thread - #13/INFO]: [Not Secure] <Churrupakin> cualquier coas aviasn
+[21:50:57] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[21:50:57] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[21:50:57] [Server thread/INFO]: Churrupakin left the game
+[21:50:59] [Async Chat Thread - #13/INFO]: [Not Secure] <lacalacaxd> oe poto donde puedo hacer mi casa?
+[21:51:22] [Async Chat Thread - #15/INFO]: [Not Secure] <pingaparaangel> yo aplane una wbs por ahi con piedra
+[21:51:36] [Server thread/INFO]: [Not Secure] * Server donde quieras
+[21:51:52] [Async Chat Thread - #14/INFO]: [Not Secure] <lacalacaxd> ya mi amor
+[21:52:17] [User Authenticator #4/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[21:52:17] [Server thread/INFO]: Churrupakin joined the game
+[21:52:17] [Server thread/INFO]: Churrupakin[/172.28.161.65:51876] logged in with entity id 4900 at ([world]143.8235116287616, 66.0, 111.10977481887284)
+[21:52:17] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[21:52:17] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[21:52:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[21:52:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[21:52:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[21:52:30] [Server thread/INFO]: Churrupakin issued server command: /protectionsblocks
+[21:52:35] [Server thread/INFO]: Churrupakin issued server command: /protectionsblocks editor
+[21:52:44] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[21:52:44] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[21:52:44] [Server thread/INFO]: Churrupakin left the game
+[21:52:49] [Async Chat Thread - #15/INFO]: [Not Secure] <pingaparaangel> duerman
+[21:54:04] [Server thread/INFO]: lacalacaxd has made the advancement [Acquire Hardware]
+[21:54:19] [Async Chat Thread - #16/INFO]: [Not Secure] <pingaparaangel> DUERMAN
+[21:54:43] [Async Chat Thread - #16/INFO]: [Not Secure] <lacalacaxd> ño
+[21:55:19] [Async Chat Thread - #16/INFO]: [Not Secure] <pingaparaangel> don tas chifon
+[21:55:35] [Async Chat Thread - #16/INFO]: [Not Secure] <XxMatos15> aca
+[21:55:41] [Async Chat Thread - #17/INFO]: [Not Secure] <XxMatos15> afuera
+[21:55:44] [Async Chat Thread - #16/INFO]: [Not Secure] <XxMatos15> esta tu mula
+[21:55:47] [Async Chat Thread - #17/INFO]: [Not Secure] <XxMatos15> caballo
+[21:55:52] [Async Chat Thread - #16/INFO]: [Not Secure] <pingaparaangel> mi angelsergio
+[21:55:55] [Async Chat Thread - #16/INFO]: [Not Secure] <XxMatos15> se
+[21:56:23] [Async Chat Thread - #16/INFO]: [Not Secure] <lacalacaxd> xdddd
+[21:56:31] [Server thread/WARN]: lacalacaxd moved too quickly! -7.560182519771246,-0.2712241076924897,-7.844197266469578
+[21:56:53] [Async Chat Thread - #17/INFO]: [Not Secure] <pingaparaangel> ptmre chuifa ctmr
+[21:57:14] [Async Chat Thread - #16/INFO]: [Not Secure] <pingaparaangel> se rompe tu mrd
+[21:57:28] [Async Chat Thread - #16/INFO]: [Not Secure] <XxMatos15> cual es el comando para q anyhelita pueda
+[21:57:31] [Async Chat Thread - #16/INFO]: [Not Secure] <XxMatos15> asser eso
+[21:58:15] [Async Chat Thread - #18/INFO]: [Not Secure] <pingaparaangel> ahi esta mi bloque
+[22:00:52] [Async Chat Thread - #19/INFO]: [Not Secure] <pingaparaangel> donde dejaste la yegua
+[22:05:04] [User Authenticator #5/INFO]: [ProtectionBlocks] Created new user data for: '20fe05e7-673b-3913-95a3-dc8280b86505'
+[22:05:04] [User Authenticator #5/INFO]: UUID of player SKrampusPEcausa is 20fe05e7-673b-3913-95a3-dc8280b86505
+[22:05:04] [Server thread/INFO]: SKrampusPEcausa joined the game
+[22:05:04] [Server thread/INFO]: SKrampusPEcausa[/172.28.128.43:56767] logged in with entity id 8261 at ([world]2022.6581988503362, 33.0, -593.3000000119209)
+[22:05:12] [Async Chat Thread - #21/INFO]: [Not Secure] <pingaparaangel> chifa
+[22:05:17] [Async Chat Thread - #21/INFO]: [Not Secure] <pingaparaangel> don ta mi yegua
+[22:05:23] [Server thread/INFO]: [voicechat] Received secret request of SKrampusPEcausa (18)
+[22:05:23] [Server thread/INFO]: [voicechat] Sent secret to SKrampusPEcausa
+[22:05:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 20fe05e7-673b-3913-95a3-dc8280b86505
+[22:05:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 20fe05e7-673b-3913-95a3-dc8280b86505
+[22:05:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player SKrampusPEcausa (20fe05e7-673b-3913-95a3-dc8280b86505) successfully connected to voice chat
+[22:06:47] [Async Chat Thread - #23/INFO]: [Not Secure] <XxMatos15> ya
+[22:06:57] [Async Chat Thread - #23/INFO]: [Not Secure] <XxMatos15> van a buscar el corral de la cerda
+[22:08:29] [Server thread/INFO]: XxMatos15 issued server command: /home
+[22:10:00] [Server thread/WARN]: lacalacaxd moved too quickly! 10.046070264771913,1.252203340253729,-8.834745566845257
+[22:10:04] [Server thread/WARN]: lacalacaxd moved too quickly! 10.053198226285474,2.314703340253729,-2.9089569704725307
+[22:10:14] [Server thread/INFO]: XxMatos15 issued server command: /plugins
+[22:10:49] [Async Chat Thread - #25/INFO]: [Not Secure] <XxMatos15> pasa comida
+[22:11:30] [Async Chat Thread - #26/INFO]: [Not Secure] <pingaparaangel> oe
+[22:11:36] [Async Chat Thread - #26/INFO]: [Not Secure] <lacalacaxd> dimeee
+[22:11:39] [Async Chat Thread - #26/INFO]: [Not Secure] <pingaparaangel> quita ese bloque de mrd
+[22:11:50] [Async Chat Thread - #26/INFO]: [Not Secure] <pingaparaangel> lw digo al kbro de chifa
+[22:11:58] [Async Chat Thread - #26/INFO]: [Not Secure] <lacalacaxd> yayyaya
+[22:12:08] [Async Chat Thread - #26/INFO]: [Not Secure] <pingaparaangel> CHIFA CTMRE
+[22:12:49] [Server thread/INFO]: Villager EntityVillager['Villager'/275, uuid='182e0dbc-6fdb-41d1-b4fb-aa55fb696476', l='ServerLevel[world]', x=186.30, y=57.04, z=88.70, cpos=[11, 5], tl=76558, v=true] died, message: 'Villager was slain by Zombie'
+[22:12:56] [Server thread/INFO]: Villager EntityVillager['Villager'/8642, uuid='e02cd143-d549-4de7-8538-da32c469afc8', l='ServerLevel[world]', x=186.76, y=57.07, z=88.85, cpos=[11, 5], tl=8651, v=true] died, message: 'Villager was slain by Zombie'
+[22:14:34] [Async Chat Thread - #27/INFO]: [Not Secure] <XxMatos15> q
+[22:14:47] [Async Chat Thread - #27/INFO]: [Not Secure] <pingaparaangel> Quita ese bloque de diamante
+[22:14:55] [Async Chat Thread - #27/INFO]: [Not Secure] <pingaparaangel> no puedo abrir los cofres
+[22:15:00] [Async Chat Thread - #27/INFO]: [Not Secure] <XxMatos15> XD
+[22:15:02] [Async Chat Thread - #28/INFO]: [Not Secure] <XxMatos15> yaya
+[22:15:07] [Async Chat Thread - #28/INFO]: [Not Secure] <lacalacaxd> xddd
+[22:15:15] [Async Chat Thread - #28/INFO]: [Not Secure] <pingaparaangel> nadie sabe donde estamos p
+[22:16:30] [Async Chat Thread - #29/INFO]: [Not Secure] <XxMatos15> sal afuera
+[22:17:02] [Async Chat Thread - #29/INFO]: [Not Secure] <pingaparaangel> don tas
+[22:17:10] [Async Chat Thread - #29/INFO]: [Not Secure] <pingaparaangel> toy q me kgo de hambre
+[22:19:11] [Async Chat Thread - #31/INFO]: [Not Secure] <XxMatos15> ya esta
+[22:19:52] [Async Chat Thread - #31/INFO]: [Not Secure] <pingaparaangel> tienes una soga
+[22:19:59] [Async Chat Thread - #31/INFO]: [Not Secure] <pingaparaangel> pa q no se escape esta wbd
+[22:20:37] [Async Chat Thread - #31/INFO]: [Not Secure] <XxMatos15> s
+[22:20:47] [Async Chat Thread - #31/INFO]: [Not Secure] <lacalacaxd> oe poto
+[22:21:18] [Async Chat Thread - #31/INFO]: [Not Secure] <pingaparaangel> pasa la soga
+[22:21:28] [Async Chat Thread - #31/INFO]: [Not Secure] <pingaparaangel> y trae comida
+[22:22:04] [Async Chat Thread - #31/INFO]: [Not Secure] <XxMatos15> ya
+[22:22:07] [Async Chat Thread - #32/INFO]: [Not Secure] <pingaparaangel> voy a hacerle su corral
+[22:22:11] [Async Chat Thread - #32/INFO]: [Not Secure] <XxMatos15> xd
+[22:22:17] [Async Chat Thread - #32/INFO]: [Not Secure] <XxMatos15> diego viene y lo mata
+[22:22:36] [Async Chat Thread - #32/INFO]: [Not Secure] <pingaparaangel> le meto aguja pa q explote
+[22:22:58] [Async Chat Thread - #32/INFO]: [Not Secure] <pingaparaangel> fue un crepper?
+[22:23:03] [Server thread/INFO]: [Not Secure] * Server dime
+[22:23:32] [Async Chat Thread - #32/INFO]: [Not Secure] <XxMatos15> ns
+[22:24:16] [Async Chat Thread - #31/INFO]: [Not Secure] <SKrampusPEcausa> oi alguno tiene instalado el voicechat
+[22:24:29] [User Authenticator #6/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[22:24:29] [Server thread/INFO]: Churrupakin joined the game
+[22:24:29] [Server thread/INFO]: Churrupakin[/172.28.161.65:59778] logged in with entity id 14718 at ([world]143.8235116287616, 66.0, 111.10977481887284)
+[22:24:29] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[22:24:29] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[22:24:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[22:24:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[22:24:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[22:24:42] [Async Chat Thread - #31/INFO]: [Not Secure] <Churrupakin> angel
+[22:24:47] [Async Chat Thread - #31/INFO]: [Not Secure] <Churrupakin> presiona v
+[22:24:47] [Async Chat Thread - #31/INFO]: [Not Secure] <SKrampusPEcausa> tp
+[22:24:53] [Server thread/INFO]: Churrupakin issued server command: /tp SKrampusPEcausa Churrupakin
+[22:24:53] [Server thread/INFO]: [Churrupakin: Teleported SKrampusPEcausa to Churrupakin]
+[22:25:57] [Async Chat Thread - #34/INFO]: [Not Secure] <lacalacaxd> a la mrd
+[22:26:16] [Async Chat Thread - #33/INFO]: [Not Secure] <lacalacaxd> el poder del admin
+[22:26:25] [Server thread/INFO]: Churrupakin issued server command: /protectionsblocks give bloque_de_diamante SKrampusPEcausa 1
+[22:26:32] [Async Chat Thread - #33/INFO]: [Not Secure] <lacalacaxd> oe potp
+[22:26:39] [Async Chat Thread - #33/INFO]: [Not Secure] <Churrupakin> dime
+[22:26:56] [Async Chat Thread - #34/INFO]: [Not Secure] <pingaparaangel> no
+[22:27:01] [Async Chat Thread - #34/INFO]: [Not Secure] <lacalacaxd> saca tu bloque un toque para talar los arboles
+[22:27:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 20fe05e7-673b-3913-95a3-dc8280b86505 timed out
+[22:27:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player SKrampusPEcausa
+[22:27:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to SKrampusPEcausa
+[22:27:14] [Async Chat Thread - #34/INFO]: [Not Secure] <Churrupakin> yaya
+[22:27:26] [Server thread/INFO]: SKrampusPEcausa lost connection: Timed out
+[22:27:26] [Server thread/INFO]: [voicechat] Disconnecting client SKrampusPEcausa
+[22:27:26] [Server thread/INFO]: SKrampusPEcausa left the game
+[22:27:41] [Server thread/INFO]: Churrupakin issued server command: /ce
+[22:27:47] [Server thread/INFO]: Churrupakin issued server command: /gkitz
+[22:27:59] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[22:27:59] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[22:27:59] [Server thread/INFO]: Churrupakin left the game
+[22:28:05] [Async Chat Thread - #34/INFO]: [Not Secure] <XxMatos15> dodne andas
+[22:29:06] [User Authenticator #7/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[22:29:06] [Server thread/INFO]: Churrupakin joined the game
+[22:29:06] [Server thread/INFO]: Churrupakin[/172.28.161.65:59804] logged in with entity id 15902 at ([world]136.3313494407385, 63.0, 96.72438531625866)
+[22:29:06] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[22:29:06] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[22:29:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[22:29:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[22:29:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[22:29:10] [Server thread/INFO]: Churrupakin issued server command: /gkitz
+[22:29:16] [User Authenticator #7/INFO]: UUID of player SKrampusPEcausa is 20fe05e7-673b-3913-95a3-dc8280b86505
+[22:29:16] [Server thread/INFO]: SKrampusPEcausa joined the game
+[22:29:16] [Server thread/INFO]: SKrampusPEcausa[/172.28.128.43:57045] logged in with entity id 15966 at ([world]128.70721150453647, 63.0, 97.71135050054549)
+[22:29:18] [Server thread/INFO]: [voicechat] Received secret request of SKrampusPEcausa (18)
+[22:29:18] [Server thread/INFO]: [voicechat] Sent secret to SKrampusPEcausa
+[22:29:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 20fe05e7-673b-3913-95a3-dc8280b86505
+[22:29:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 20fe05e7-673b-3913-95a3-dc8280b86505
+[22:29:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player SKrampusPEcausa (20fe05e7-673b-3913-95a3-dc8280b86505) successfully connected to voice chat
+[22:29:24] [Server thread/INFO]: Churrupakin issued server command: /reload plugins
+[22:29:24] [Server thread/INFO]: Churrupakin: Usage: /reload [permissions|commands|confirm]
+[22:29:31] [Server thread/INFO]: Churrupakin issued server command: /plugins
+[22:30:07] [Async Chat Thread - #35/INFO]: [Not Secure] <Churrupakin> papus
+[22:30:18] [Async Chat Thread - #35/INFO]: [Not Secure] <pingaparaangel> ladra
+[22:30:21] [Async Chat Thread - #35/INFO]: [Not Secure] <Churrupakin> voya a cerrar un toque para meter una config
+[22:30:26] [Async Chat Thread - #35/INFO]: [Not Secure] <Churrupakin> rapido nd mas
+[22:30:27] [Async Chat Thread - #36/INFO]: [Not Secure] <lacalacaxd> pon tu bloque poto
+[22:30:37] [Async Chat Thread - #35/INFO]: [Not Secure] <pingaparaangel> yay
+[22:30:39] [Async Chat Thread - #35/INFO]: [Not Secure] <lacalacaxd> ai fackkkk
+[22:30:39] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[22:30:39] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[22:30:39] [Server thread/INFO]: Churrupakin left the game
+[22:30:41] [Server thread/INFO]: lacalacaxd lost connection: Disconnected
+[22:30:41] [Server thread/INFO]: [voicechat] Disconnecting client lacalacaxd
+[22:30:41] [Server thread/INFO]: lacalacaxd left the game
+[22:30:54] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
+[22:30:54] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
+[22:30:54] [Server thread/INFO]: pingaparaangel left the game
+[22:30:59] [Server thread/WARN]: Skeleton Horse (vehicle of XxMatos15) moved wrongly! 0.4316526840719206
+[22:30:59] [Server thread/WARN]: Skeleton Horse (vehicle of XxMatos15) moved wrongly! 1.0
+[22:30:59] [Server thread/WARN]: Skeleton Horse (vehicle of XxMatos15) moved wrongly! 1.0
+[22:30:59] [Server thread/WARN]: Skeleton Horse (vehicle of XxMatos15) moved wrongly! 1.0
+[22:31:00] [Async Chat Thread - #35/INFO]: [Not Secure] <SKrampusPEcausa> chifa vamo por el warden
+[22:31:12] [Server thread/INFO]: [Not Secure] * Server voa a apgar
+[22:31:12] [Async Chat Thread - #35/INFO]: [Not Secure] <XxMatos15> ya
+[22:31:20] [Async Chat Thread - #37/INFO]: [Not Secure] <SKrampusPEcausa> oi ptmr
+[22:31:25] [Server thread/INFO]: XxMatos15 lost connection: Disconnected
+[22:31:25] [Server thread/INFO]: [voicechat] Disconnecting client XxMatos15
+[22:31:25] [Server thread/INFO]: XxMatos15 left the game
+[22:31:25] [Server thread/INFO]: [Not Secure] * Server lo pongo ylo prendo
+[22:31:34] [Server thread/INFO]: Stopping the server
+[22:31:34] [Server thread/INFO]: Stopping server
+[22:31:34] [Server thread/INFO]: [ProtectionBlocks] Disabling ProtectionBlocks v1.0.9
+[22:31:34] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-e0 - Shutdown initiated...
+[22:31:34] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-e0 - Shutdown completed.
+[22:31:34] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.26
+[22:31:34] [Server thread/INFO]: [CrazyEnchantments] Disabling CrazyEnchantments v2.1
+[22:31:34] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
+[22:31:34] [Server thread/INFO]: [PLAZMER-ENGINE] Disabling PLAZMER-ENGINE v2.4.8
+[22:31:34] [Server thread/INFO]: [DecentHolograms] Disabling DecentHolograms v2.8.12
+[22:31:34] [Server thread/INFO]: Saving players
+[22:31:34] [Server thread/INFO]: SKrampusPEcausa lost connection: Server closed
+[22:31:34] [Server thread/INFO]: SKrampusPEcausa left the game
+[22:31:34] [Server thread/INFO]: Saving worlds
+[22:31:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:31:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[22:31:34] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[22:31:34] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[22:31:34] [Server thread/INFO]: [ChunkHolderManager] Saved 125 block chunks, 446 entity chunks, 0 poi chunks in world 'world' in 0.24s
+[22:31:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:31:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[22:31:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[22:31:34] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[22:31:34] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[22:31:34] [Server thread/INFO]: [ChunkHolderManager] Saved 41 block chunks, 74 entity chunks, 0 poi chunks in world 'world_nether' in 0.06s
+[22:31:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:31:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[22:31:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[22:31:34] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[22:31:34] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[22:31:34] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[22:31:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:31:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:31:34] [Server thread/INFO]: Flushing Chunk IO
+[22:31:34] [Server thread/INFO]: Closing Thread Pool
+[22:31:34] [Server thread/INFO]: Closing Server
