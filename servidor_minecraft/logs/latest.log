@@ -157,3 +157,22 @@
 [04:00:38] [User Authenticator #2/INFO]: UUID of player XxMatos15 is 2a9ff858-04dc-3136-97df-619a6316d09a
 [04:00:38] [Server thread/INFO]: XxMatos15 joined the game
 [04:00:38] [Server thread/INFO]: XxMatos15[/172.28.131.63:60653] logged in with entity id 9360 at ([world]5.700577572220925, 64.0, 238.69999998807907)
+[04:05:16] [Async Chat Thread - #10/INFO]: [Not Secure] <pingaparaangel> q haces xd
+[04:05:50] [Async Chat Thread - #11/INFO]: [Not Secure] <XxMatos15> eso
+[04:06:59] [Server thread/WARN]: pingaparaangel was kicked due to keepalive timeout!
+[04:06:59] [Server thread/INFO]: pingaparaangel lost connection: Timed out
+[04:06:59] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
+[04:06:59] [Server thread/INFO]: pingaparaangel left the game
+[04:07:33] [User Authenticator #3/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
+[04:07:33] [Server thread/INFO]: pingaparaangel joined the game
+[04:07:33] [Server thread/INFO]: pingaparaangel[/172.28.117.248:53600] logged in with entity id 11192 at ([world]-29.277239351641388, 71.0, 251.11985403222576)
+[04:07:55] [Async Chat Thread - #13/INFO]: [Not Secure] <pingaparaangel> inter d mrd
+[04:08:31] [Async Chat Thread - #13/INFO]: [Not Secure] <pingaparaangel> a pucta
+[04:08:42] [Server thread/INFO]: XxMatos15 issued server command: /tell pingaparaangel craftea rieles
+[04:09:02] [Server thread/INFO]: XxMatos15 issued server command: /tell pingaparaangel para infresar metiendonos debajo del mar
+[04:09:27] [Server thread/INFO]: pingaparaangel issued server command: /msg XxMatos15 escaleras?
+[04:09:36] [Async Chat Thread - #14/INFO]: [Not Secure] <XxMatos15> NO
+[04:09:45] [Server thread/INFO]: XxMatos15 issued server command: /tell pingaparaangel rieles de tren
+[04:11:29] [Server thread/INFO]: pingaparaangel issued server command: /msg XxMatos15 como chch se llama en el juego tu wbd
+[04:11:51] [Server thread/INFO]: pingaparaangel issued server command: /msg XxMatos15 no me sale
+[04:12:13] [Server thread/INFO]: XxMatos15 issued server command: /tell pingaparaangel rail propulsor
