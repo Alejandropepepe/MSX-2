@@ -2368,3 +2368,116 @@ java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.Invento
 [05:13:15] [Async Chat Thread - #70/INFO]: [Not Secure] <XxMatos15> los cofres cambiaron de color
 [05:13:31] [Async Chat Thread - #70/INFO]: [Not Secure] <pingaparaangel> los veo iguasl xd
 [05:13:41] [Async Chat Thread - #70/INFO]: [Not Secure] <XxMatos15> esta de verde
+[05:14:09] [Async Chat Thread - #70/INFO]: [Not Secure] <pingaparaangel> no hay montura
+[05:14:21] [Async Chat Thread - #70/INFO]: [Not Secure] <XxMatos15> en el cofre de la calaca habia 1
+[05:15:01] [User Authenticator #8/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[05:15:01] [Server thread/INFO]: Churrupakin joined the game
+[05:15:01] [Server thread/INFO]: Churrupakin[/172.28.161.65:58413] logged in with entity id 43599 at ([world]141.2544626851867, 64.0, 99.39293865406972)
+[05:15:01] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[05:15:01] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[05:15:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[05:15:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[05:15:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[05:15:38] [Async Chat Thread - #71/INFO]: [Not Secure] <pingaparaangel> voy a ver la montura
+[05:16:38] [Async Chat Thread - #71/INFO]: [Not Secure] <pingaparaangel> a pucta
+[05:16:41] [Async Chat Thread - #71/INFO]: [Not Secure] <pingaparaangel> y eso
+[05:16:44] [Async Chat Thread - #72/INFO]: [Not Secure] <pingaparaangel> no lovi
+[05:16:48] [Async Chat Thread - #72/INFO]: [Not Secure] <XxMatos15> cual
+[05:17:03] [Async Chat Thread - #72/INFO]: [Not Secure] <pingaparaangel> una wbd arribba
+[05:18:42] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
+[05:18:42] [Server thread/INFO]: [Churrupakin: Set own game mode to Creative Mode]
+[05:19:30] [Server thread/INFO]: Churrupakin issued server command: /enchant Churrupakin minecraft:protection 4
+[05:19:30] [Server thread/INFO]: [Churrupakin: Applied enchantment Protection IV to Churrupakin's item]
+[05:19:44] [Async Chat Thread - #73/INFO]: [Not Secure] <pingaparaangel> de quien sera esto
+[05:19:49] [Async Chat Thread - #73/INFO]: [Not Secure] <XxMatos15> angel
+[05:20:14] [Async Chat Thread - #73/INFO]: [Not Secure] <pingaparaangel> una cosa como la granja de matias
+[05:20:23] [Server thread/INFO]: Churrupakin issued server command: /enchant Churrupakin minecraft:unbreaking 3
+[05:20:23] [Server thread/INFO]: [Churrupakin: Applied enchantment Unbreaking III to Churrupakin's item]
+[05:20:28] [Async Chat Thread - #73/INFO]: [Not Secure] <pingaparaangel> solo q esta si se puede subir
+[05:20:37] [Server thread/INFO]: Churrupakin issued server command: /enchant Churrupakin minecraft:mending
+[05:20:37] [Server thread/INFO]: [Churrupakin: Applied enchantment Mending to Churrupakin's item]
+[05:21:00] [Server thread/INFO]: Churrupakin issued server command: /enchant Churrupakin minecraft:unbreaking 3
+[05:21:00] [Server thread/INFO]: [Churrupakin: Applied enchantment Unbreaking III to Churrupakin's item]
+[05:21:04] [Server thread/INFO]: Churrupakin issued server command: /enchant Churrupakin minecraft:mending
+[05:21:04] [Server thread/INFO]: [Churrupakin: Applied enchantment Mending to Churrupakin's item]
+[05:21:12] [Async Chat Thread - #74/INFO]: [Not Secure] <XxMatos15> por donde
+[05:21:18] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
+[05:21:18] [Server thread/INFO]: [Churrupakin: Set own game mode to Survival Mode]
+[05:21:19] [Async Chat Thread - #74/INFO]: [Not Secure] <pingaparaangel> ni idea
+[05:21:26] [Async Chat Thread - #74/INFO]: [Not Secure] <pingaparaangel> por la aldea q tu encontraste
+[05:21:29] [Async Chat Thread - #74/INFO]: [Not Secure] <XxMatos15> vem
+[05:21:38] [Async Chat Thread - #73/INFO]: [Not Secure] <pingaparaangel> tmr espera p
+[05:22:22] [Async Chat Thread - #73/INFO]: [Not Secure] <Churrupakin> 12 y 30 apago
+[05:22:29] [Async Chat Thread - #73/INFO]: [Not Secure] <XxMatos15> ya
+[05:25:21] [Server thread/INFO]: pingaparaangel has made the advancement [Who is Cutting Onions?]
+[05:25:33] [Server thread/WARN]: Horse (vehicle of XxMatos15) moved wrongly! 0.25225157376090124
+[05:25:33] [Server thread/WARN]: Horse (vehicle of XxMatos15) moved wrongly! 0.604148643318652
+[05:25:33] [Server thread/WARN]: Horse (vehicle of XxMatos15) moved wrongly! 0.9762334932291026
+[05:25:33] [Server thread/WARN]: Horse (vehicle of XxMatos15) moved wrongly! 0.3585822365671163
+[05:26:43] [Async Chat Thread - #75/INFO]: [Not Secure] <XxMatos15> HAY TODDO MENOS LA WBD DE DIEGO
+[05:26:56] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
+[05:26:56] [Server thread/INFO]: [Churrupakin: Set own game mode to Creative Mode]
+[05:27:08] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
+[05:27:08] [Server thread/INFO]: [Churrupakin: Set own game mode to Survival Mode]
+[05:27:16] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
+[05:27:16] [Server thread/INFO]: [Churrupakin: Set own game mode to Creative Mode]
+[05:27:55] [Server thread/WARN]: Skeleton Horse (vehicle of pingaparaangel) moved wrongly! 0.29494418815305323
+[05:27:55] [Server thread/WARN]: Skeleton Horse (vehicle of pingaparaangel) moved wrongly! 0.6842351143675742
+[05:27:55] [Server thread/WARN]: Skeleton Horse (vehicle of pingaparaangel) moved wrongly! 1.0735020567564888
+[05:27:55] [Server thread/WARN]: Skeleton Horse (vehicle of pingaparaangel) moved wrongly! 1.4627561658785027
+[05:28:11] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
+[05:28:11] [Server thread/INFO]: [Churrupakin: Set own game mode to Survival Mode]
+[05:29:36] [Server thread/INFO]: Villager EntityVillager['Villager'/47259, uuid='620f64d0-778d-4810-9d1a-547f22154b36', l='ServerLevel[world]', x=709.00, y=74.02, z=29.77, cpos=[44, 1], tl=162732, v=true] died, message: 'Villager was slain by Zombie'
+[05:30:02] [Async Chat Thread - #77/INFO]: [Not Secure] <pingaparaangel> don tas
+[05:30:17] [Async Chat Thread - #78/INFO]: [Not Secure] <XxMatos15> ns
+[05:30:27] [Async Chat Thread - #78/INFO]: [Not Secure] <pingaparaangel> te perdixdd
+[05:30:55] [Async Chat Thread - #78/INFO]: [Not Secure] <XxMatos15> ven a la aldea
+[05:31:02] [Async Chat Thread - #78/INFO]: [Not Secure] <pingaparaangel> yay
+[05:31:08] [Async Chat Thread - #78/INFO]: [Not Secure] <XxMatos15> atras
+[05:31:56] [Server thread/INFO]: Villager EntityVillager['Mason'/47186, uuid='c816e89a-69f7-464d-9fb8-9c148d68f658', l='ServerLevel[world]', x=776.55, y=63.00, z=24.69, cpos=[48, 1], tl=160948, v=true] died, message: 'Mason was slain by Zombie'
+[05:34:07] [Async Chat Thread - #79/INFO]: [Not Secure] <XxMatos15> no hat
+[05:34:12] [Async Chat Thread - #80/INFO]: [Not Secure] <XxMatos15> hay
+[05:34:12] [Async Chat Thread - #80/INFO]: [Not Secure] <pingaparaangel> tmr
+[05:34:31] [Async Chat Thread - #80/INFO]: [Not Secure] <XxMatos15> donde chch estamos
+[05:34:32] [Async Chat Thread - #80/INFO]: [Not Secure] <XxMatos15> xd
+[05:34:38] [Async Chat Thread - #80/INFO]: [Not Secure] <pingaparaangel> ns
+[05:35:36] [Server thread/WARN]: Horse (vehicle of XxMatos15) moved wrongly! 0.3920688274766917
+[05:35:36] [Server thread/WARN]: Horse (vehicle of XxMatos15) moved wrongly! 0.618324279434205
+[05:35:37] [Server thread/WARN]: Horse (vehicle of XxMatos15) moved wrongly! 0.9839512912107011
+[05:35:37] [Server thread/WARN]: Horse (vehicle of XxMatos15) moved wrongly! 1.179591015396113
+[05:35:59] [Async Chat Thread - #81/INFO]: [Not Secure] <pingaparaangel> tu´perra me ataca
+[05:36:13] [Async Chat Thread - #81/INFO]: [Not Secure] <XxMatos15> XD
+[05:36:29] [Async Chat Thread - #81/INFO]: [Not Secure] <XxMatos15> ontas
+[05:36:43] [Async Chat Thread - #81/INFO]: [Not Secure] <pingaparaangel> ns
+[05:37:18] [Async Chat Thread - #81/INFO]: [Not Secure] <pingaparaangel> ariba de un arbol
+[05:37:52] [Async Chat Thread - #81/INFO]: [Not Secure] <pingaparaangel> don tas
+[05:38:22] [Async Chat Thread - #81/INFO]: [Not Secure] <XxMatos15> ns
+[05:38:35] [Async Chat Thread - #81/INFO]: [Not Secure] <pingaparaangel> chupa pene
+[05:38:38] [Async Chat Thread - #81/INFO]: [Not Secure] <XxMatos15> XD
+[05:38:45] [Async Chat Thread - #81/INFO]: [Not Secure] <XxMatos15> pon f3
+[05:38:55] [Async Chat Thread - #81/INFO]: [Not Secure] <pingaparaangel> ya fue
+[05:39:00] [Async Chat Thread - #81/INFO]: [Not Secure] <pingaparaangel> me jalo
+[05:39:03] [Async Chat Thread - #81/INFO]: [Not Secure] <pingaparaangel> mñn
+[05:39:07] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
+[05:39:07] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
+[05:39:07] [Server thread/INFO]: pingaparaangel left the game
+[05:39:34] [Async Chat Thread - #81/INFO]: [Not Secure] <Churrupakin> s molestó xd
+[05:39:39] [Async Chat Thread - #81/INFO]: [Not Secure] <XxMatos15> no
+[05:39:47] [Async Chat Thread - #81/INFO]: [Not Secure] <XxMatos15> c perdio el imbcil
+[05:39:48] [Async Chat Thread - #82/INFO]: [Not Secure] <XxMatos15> XD
+[05:40:32] [Async Chat Thread - #82/INFO]: [Not Secure] <Churrupakin> XDDDD
+[05:40:43] [Async Chat Thread - #82/INFO]: [Not Secure] <Churrupakin> era q pida tp ms wbon
+[05:40:51] [Server thread/INFO]: XxMatos15 issued server command: /tp
+[05:41:02] [Async Chat Thread - #82/INFO]: [Not Secure] <XxMatos15> XD
+[05:41:36] [Async Chat Thread - #82/INFO]: [Not Secure] <XxMatos15> si te pido tp
+[05:41:44] [Async Chat Thread - #82/INFO]: [Not Secure] <XxMatos15> me teletransporto junto con mi caballo
+[05:41:48] [Async Chat Thread - #82/INFO]: [Not Secure] <Churrupakin> cuando
+[05:41:56] [Async Chat Thread - #82/INFO]: [Not Secure] <Churrupakin> yo m fui a comer xd
+[05:42:24] [Async Chat Thread - #82/INFO]: [Not Secure] <XxMatos15> XD
+[05:42:37] [Async Chat Thread - #82/INFO]: [Not Secure] <XxMatos15> pero me teletransporto junto con mi caballo o yo solo
+[05:43:02] [Async Chat Thread - #82/INFO]: [Not Secure] <Churrupakin> no recuerdo xd
+[05:43:24] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
+[05:43:24] [Server thread/INFO]: [Churrupakin: Set own game mode to Creative Mode]
+[05:43:40] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
+[05:43:40] [Server thread/INFO]: [Churrupakin: Set own game mode to Survival Mode]
+[05:44:01] [Async Chat Thread - #82/INFO]: [Not Secure] <XxMatos15> v
