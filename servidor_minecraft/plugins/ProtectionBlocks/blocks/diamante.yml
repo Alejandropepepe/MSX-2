@@ -1,22 +1,35 @@
 Block:
   Hologram:
-    Enabled: false
+    Enabled: true
     In_Region: false
+    Template: default
 Life_Time:
   Enabled: false
 Limits:
   Place:
     Enabled: false
-Item: 1800020009km800kdlkmspb3e9gmct1qd5p6urivc9m6uorb0400agrfeln78080
-Name: '#e8f2f2Small Region Block'
+Item: k00010004qb400bmqqbeclhn4ob6egt68qb1dlnmsp2vc9m6uorb0400agrfeln78080
+Name: ultra pro
 Region:
   Size:
-    Default: 5
+    Default: 30
     Group:
-      Enabled: false
+      Enabled: true
+      List:
+        # Available values: RANK, PERMISSION
+        # RANK = Get value by player's permission group. All 'Values' keys will represent permission group names.
+        # PERMISSION = Get value by player's permissions. All 'Values' keys will become as suffix for 'Permission_Prefix' setting.
+        Mode: RANK
+        # Sets permission prefix for the 'PERMISSION' mode.
+        # All 'Values' keys will be used to check if player has permission: <permission_prefix> + <key>.
+        Permission_Prefix: ''
+        Default_Value: 3
+        Values:
+          default: 3
   Deposit:
     Price: 0
-  Strength: 1
+    Currency_Id: Vault
+  Strength: 100000000
   Recipe:
     Items:
       '2': k00010004qb4006mqqbeclhn4ob6egt62qbi0400agrfeln78000
