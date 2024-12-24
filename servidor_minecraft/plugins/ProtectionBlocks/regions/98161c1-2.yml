@@ -1,5 +1,6 @@
 Block:
   Location: 127.0,63.0,99.0,0.0,0.0,world
+  # Id for Region Block
   Id: bloque_de_diamante
 Bounds:
   From: 97.0,33.0,69.0,0.0,0.0,world
@@ -13,3 +14,9 @@ Cache:
   Region:
     Size: 30
 Owner_Name: Churrupakin
+Members:
+  List:
+    '0':
+      Id: 2f973d55-3e2c-33b9-9e01-115ef44fd74f
+      Name: lacalacaxd
+      Join_Time: 1734994902044

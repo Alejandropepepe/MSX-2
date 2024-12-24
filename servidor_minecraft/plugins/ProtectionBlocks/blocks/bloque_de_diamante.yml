@@ -1,7 +1,7 @@
 Block:
   Hologram:
     Enabled: true
-    In_Region: false
+    In_Region: true
     Template: default
 Life_Time:
   Enabled: false
@@ -14,7 +14,18 @@ Region:
   Size:
     Default: 30
     Group:
-      Enabled: false
+      Enabled: true
+      List:
+        # Available values: RANK, PERMISSION
+        # RANK = Get value by player's permission group. All 'Values' keys will represent permission group names.
+        # PERMISSION = Get value by player's permissions. All 'Values' keys will become as suffix for 'Permission_Prefix' setting.
+        Mode: RANK
+        # Sets permission prefix for the 'PERMISSION' mode.
+        # All 'Values' keys will be used to check if player has permission: <permission_prefix> + <key>.
+        Permission_Prefix: ''
+        Default_Value: 3
+        Values:
+          default: 3
   Deposit:
     Price: 0
     Currency_Id: Vault
