@@ -2508,3 +2508,16 @@ java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.Invento
 [06:02:43] [Server thread/INFO]: [Churrupakin: Set own game mode to Creative Mode]
 [06:03:19] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
 [06:03:19] [Server thread/INFO]: [Churrupakin: Set own game mode to Survival Mode]
+[06:08:27] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
+[06:08:27] [Server thread/INFO]: [Churrupakin: Set own game mode to Creative Mode]
+[06:08:42] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
+[06:08:42] [Server thread/INFO]: [Churrupakin: Set own game mode to Survival Mode]
+[06:09:07] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
+[06:09:07] [Server thread/INFO]: [Churrupakin: Set own game mode to Creative Mode]
+[06:09:39] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
+[06:09:39] [Server thread/INFO]: [Churrupakin: Set own game mode to Survival Mode]
+[06:11:32] [Async Chat Thread - #85/INFO]: [Not Secure] <Churrupakin> 0/118/
+[06:14:27] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
+[06:14:27] [Server thread/INFO]: [Churrupakin: Set own game mode to Creative Mode]
+[06:15:08] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
+[06:15:08] [Server thread/INFO]: [Churrupakin: Set own game mode to Survival Mode]
