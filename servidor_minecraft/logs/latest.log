@@ -462,3 +462,52 @@ java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.Invento
 [22:39:01] [Server thread/INFO]: Churrupakin lost connection: Disconnected
 [22:39:01] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
 [22:39:01] [Server thread/INFO]: Churrupakin left the game
+[22:41:27] [User Authenticator #5/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[22:41:27] [Server thread/INFO]: Churrupakin joined the game
+[22:41:27] [Server thread/INFO]: Churrupakin[/172.28.161.65:64675] logged in with entity id 15175 at ([world]45.04994324592093, 87.0, 100.33644255104943)
+[22:41:28] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[22:41:28] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[22:41:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[22:41:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[22:41:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[22:42:17] [Async Chat Thread - #22/INFO]: [Not Secure] <pingaparaangel> q mrd
+[22:42:23] [Async Chat Thread - #23/INFO]: [Not Secure] <pingaparaangel> oe chifa
+[22:42:48] [Server thread/INFO]: Churrupakin issued server command: /time set day
+[22:42:48] [Server thread/INFO]: [Churrupakin: Set the time to 1000]
+[22:42:51] [Async Chat Thread - #23/INFO]: [Not Secure] <XxMatos15> ya
+[22:42:59] [Async Chat Thread - #23/INFO]: [Not Secure] <XxMatos15> cual wbd
+[22:43:15] [Async Chat Thread - #23/INFO]: [Not Secure] <pingaparaangel> porq el portal de matias me lleva al prepucio
+[22:43:25] [Async Chat Thread - #22/INFO]: [Not Secure] <XxMatos15> xd
+[22:43:32] [Async Chat Thread - #23/INFO]: [Not Secure] <XxMatos15> rompelo p
+[22:43:40] [Async Chat Thread - #23/INFO]: [Not Secure] <Churrupakin> oe no rmoas mrd
+[22:43:49] [Async Chat Thread - #23/INFO]: [Not Secure] <Churrupakin> por la aldea hay otro
+[22:43:50] [Async Chat Thread - #23/INFO]: [Not Secure] <pingaparaangel> XD
+[22:44:07] [Async Chat Thread - #23/INFO]: [Not Secure] <Churrupakin> que esta por el puenta a la granja d hierro
+[22:44:08] [Async Chat Thread - #23/INFO]: [Not Secure] <pingaparaangel> tu wbd nos ,lleva a nuestra house p
+[22:44:34] [Async Chat Thread - #23/INFO]: [Not Secure] <Churrupakin> donde esta tu wbda
+[22:44:47] [Server thread/INFO]: Churrupakin issued server command: /gamemode spectator
+[22:44:47] [Server thread/INFO]: [Churrupakin: Set own game mode to Spectator Mode]
+[22:45:05] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
+[22:45:05] [Server thread/INFO]: [Churrupakin: Set own game mode to Creative Mode]
+[22:45:16] [Async Chat Thread - #22/INFO]: [Not Secure] <Churrupakin> nd
+[22:45:24] [Async Chat Thread - #22/INFO]: [Not Secure] <Churrupakin> no lleva a mi portal
+[22:45:34] [Server thread/INFO]: Churrupakin issued server command: /gamemode spectator
+[22:45:34] [Server thread/INFO]: [Churrupakin: Set own game mode to Spectator Mode]
+[22:45:54] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
+[22:45:54] [Server thread/INFO]: [Churrupakin: Set own game mode to Survival Mode]
+[22:46:03] [Async Chat Thread - #22/INFO]: [Not Secure] <pingaparaangel> entre a tu wbd y hay otros portales, al final me trajo a mi house
+[22:46:18] [Async Chat Thread - #23/INFO]: [Not Secure] <pingaparaangel> uno de tus portales me trae aqui
+[22:46:51] [Async Chat Thread - #23/INFO]: [Not Secure] <Churrupakin> el portal q esta en mi casa? pq ese m lleva al techo del nether
+[22:47:39] [Async Chat Thread - #23/INFO]: [Not Secure] <pingaparaangel> si pero ahi tmb hay un portal, una secuen
+[22:47:50] [Async Chat Thread - #23/INFO]: [Not Secure] <pingaparaangel> hay una secuencia de portales
+[22:48:01] [Async Chat Thread - #23/INFO]: [Not Secure] <pingaparaangel> el ultimo me trajo al prepucio
+[22:48:08] [Async Chat Thread - #23/INFO]: [Not Secure] <Churrupakin> donde sera xd
+[22:50:16] [User Authenticator #6/INFO]: UUID of player SKrampusPEcausa is 20fe05e7-673b-3913-95a3-dc8280b86505
+[22:50:16] [Server thread/INFO]: SKrampusPEcausa joined the game
+[22:50:16] [Server thread/INFO]: SKrampusPEcausa[/172.28.128.43:51549] logged in with entity id 17387 at ([world]221.8205688215067, 64.67479997899532, 120.28686771960774)
+[22:50:45] [Async Chat Thread - #24/INFO]: [Not Secure] <pingaparaangel> oe
+[22:50:46] [Server thread/INFO]: SKrampusPEcausa lost connection: Timed out
+[22:50:46] [Server thread/INFO]: [voicechat] Disconnecting client SKrampusPEcausa
+[22:50:46] [Server thread/INFO]: SKrampusPEcausa left the game
+[22:50:46] [Async Chat Thread - #24/INFO]: [Not Secure] <XxMatos15> ese portañ esde{ ´repuci´o p
+[22:50:47] [Async Chat Thread - #24/INFO]: [Not Secure] <XxMatos15> xd
