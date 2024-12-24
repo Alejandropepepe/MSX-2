@@ -2539,3 +2539,43 @@ java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.Invento
 [06:30:22] [Server thread/INFO]: [Churrupakin: Successfully filled 959 block(s)]
 [06:33:18] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
 [06:33:18] [Server thread/INFO]: [Churrupakin: Set own game mode to Survival Mode]
+[06:36:27] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
+[06:36:27] [Server thread/INFO]: [Churrupakin: Set own game mode to Creative Mode]
+[06:39:39] [Async Chat Thread - #87/INFO]: [Not Secure] <Churrupakin> 11 6
+[06:40:42] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[06:40:42] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[06:40:42] [Server thread/INFO]: Churrupakin left the game
+[06:40:51] [Server thread/INFO]: Stopping the server
+[06:40:51] [Server thread/INFO]: Stopping server
+[06:40:51] [Server thread/INFO]: [ProtectionBlocks] Disabling ProtectionBlocks v1.0.9
+[06:40:51] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-47 - Shutdown initiated...
+[06:40:51] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-47 - Shutdown completed.
+[06:40:51] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.26
+[06:40:51] [Server thread/INFO]: [CrazyEnchantments] Disabling CrazyEnchantments v2.1
+[06:40:51] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
+[06:40:51] [Server thread/INFO]: [PLAZMER-ENGINE] Disabling PLAZMER-ENGINE v2.4.8
+[06:40:51] [Server thread/INFO]: [DecentHolograms] Disabling DecentHolograms v2.8.12
+[06:40:51] [Server thread/INFO]: Saving players
+[06:40:51] [Server thread/INFO]: Saving worlds
+[06:40:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:40:51] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[06:40:51] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[06:40:51] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[06:40:51] [Server thread/INFO]: [ChunkHolderManager] Saved 24 block chunks, 245 entity chunks, 2 poi chunks in world 'world' in 0.12s
+[06:40:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:40:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[06:40:51] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[06:40:51] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[06:40:51] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[06:40:51] [Server thread/INFO]: [ChunkHolderManager] Saved 52 block chunks, 133 entity chunks, 2 poi chunks in world 'world_nether' in 0.10s
+[06:40:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:40:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[06:40:51] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[06:40:51] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[06:40:51] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[06:40:52] [Server thread/INFO]: [ChunkHolderManager] Saved 1045 block chunks, 45 entity chunks, 0 poi chunks in world 'world_the_end' in 0.66s
+[06:40:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:40:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06:40:52] [Server thread/INFO]: Flushing Chunk IO
+[06:40:52] [Server thread/INFO]: Closing Thread Pool
+[06:40:52] [Server thread/INFO]: Closing Server
