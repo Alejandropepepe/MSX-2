@@ -2043,3 +2043,77 @@ java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.Invento
 [03:41:18] [Server thread/INFO]: Proxe_ issued server command: /enchanter add LifeSteal 3
 [03:41:32] [Server thread/INFO]: Proxe_ issued server command: /enchanter add LifeSteal 5
 [03:41:38] [Server thread/INFO]: Churrupakin issued server command: /ce book Commander 5
+[03:42:12] [Server thread/INFO]: Churrupakin issued server command: /ce book Boom 3
+[03:42:15] [Server thread/INFO]: Proxe_ issued server command: /enchanter add LifeSteal 5
+[03:42:58] [Server thread/INFO]: Proxe_ issued server command: /enchanter add knockback 10000
+[03:43:14] [Server thread/INFO]: XxMatos15 was blown up by Creeper
+[03:43:20] [Async Chat Thread - #29/INFO]: [Not Secure] <pingaparaangel> IMBECIL
+[03:43:20] [Server thread/INFO]: pingaparaangel was blown up by Creeper
+[03:43:23] [Async Chat Thread - #29/INFO]: [Not Secure] <XxMatos15> JAJJA
+[03:43:24] [Async Chat Thread - #29/INFO]: [Not Secure] <XxMatos15> PTMR
+[03:43:48] [Async Chat Thread - #29/INFO]: [Not Secure] <pingaparaangel> TRAJISTE 3 CREPPERS BASURA
+[03:44:26] [Async Chat Thread - #29/INFO]: [Not Secure] <XxMatos15> c fue a la mrd
+[03:44:33] [Server thread/INFO]: pingaparaangel was slain by Zombie
+[03:44:40] [Async Chat Thread - #29/INFO]: [Not Secure] <pingaparaangel> ptmr
+[03:45:16] [Server thread/INFO]: Proxe_ issued server command: /enchant Proxe_ minecraft:infinity
+[03:45:16] [Server thread/INFO]: [Proxe_: Applied enchantment Infinity to Proxe_'s item]
+[03:45:50] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
+[03:45:50] [Server thread/INFO]: [Churrupakin: Set own game mode to Creative Mode]
+[03:46:14] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
+[03:46:14] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
+[03:46:14] [Server thread/INFO]: pingaparaangel left the game
+[03:46:45] [User Authenticator #5/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
+[03:46:45] [Server thread/INFO]: pingaparaangel joined the game
+[03:46:45] [Server thread/INFO]: pingaparaangel[/172.28.117.248:62986] logged in with entity id 16141 at ([world]-6.4904720963618745, 68.0, 270.64652114757916)
+[03:46:53] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
+[03:46:53] [Server thread/INFO]: [Churrupakin: Set own game mode to Survival Mode]
+[03:47:08] [Async Chat Thread - #31/INFO]: [Not Secure] <Churrupakin> van dragona putas
+[03:47:14] [Async Chat Thread - #32/INFO]: [Not Secure] <Proxe_> oigan maricones amantes de la ganpi tragasables tragasemen putas perras
+[03:47:14] [Server thread/INFO]: Churrupakin issued server command: /gkitz
+[03:47:15] [Async Chat Thread - #32/INFO]: [Not Secure] <Proxe_> dragona
+[03:47:16] [Async Chat Thread - #31/INFO]: [Not Secure] <Proxe_> go
+[03:47:24] [Server thread/INFO]: Proxe_ issued server command: /gkits
+[03:47:30] [Async Chat Thread - #33/INFO]: [Not Secure] <pingaparaangel> anda farmea esmeraldas
+[03:47:36] [Server thread/INFO]: pingaparaangel was shot by Skeleton
+[03:47:44] [Async Chat Thread - #33/INFO]: [Not Secure] <pingaparaangel> tmr
+[03:47:48] [Async Chat Thread - #33/INFO]: [Not Secure] <Proxe_> L
+[03:47:54] [Async Chat Thread - #33/INFO]: [Not Secure] <pingaparaangel> inter de mrd
+[03:47:57] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
+[03:47:57] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
+[03:47:57] [Server thread/INFO]: pingaparaangel left the game
+[03:48:15] [User Authenticator #6/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
+[03:48:15] [Server thread/INFO]: pingaparaangel joined the game
+[03:48:15] [Server thread/INFO]: pingaparaangel[/172.28.117.248:62994] logged in with entity id 16490 at ([world]-68.27287713425952, 56.0, 247.6381894496257)
+[03:48:15] [Server thread/INFO]: Proxe_ issued server command: /locate structure minecraft:stronghold
+[03:48:15] [Server thread/INFO]: Locating element minecraft:stronghold took 5 ms
+[03:48:26] [Server thread/INFO]: Proxe_ issued server command: /tp -720 100 1520
+[03:48:26] [Server thread/INFO]: [Proxe_: Teleported Proxe_ to -719.500000, 100.000000, 1520.500000]
+[03:48:26] [Server thread/INFO]: Churrupakin issued server command: /locate structure minecraft:stronghold
+[03:48:26] [Server thread/INFO]: Locating element minecraft:stronghold took 0 ms
+[03:48:29] [Async Chat Thread - #33/INFO]: [Not Secure] <pingaparaangel> inter de mrd
+[03:48:39] [Server thread/INFO]: Churrupakin issued server command: /tp Proxe_
+[03:48:39] [Server thread/INFO]: [Churrupakin: Teleported Churrupakin to Proxe_]
+[03:48:39] [Async Chat Thread - #33/INFO]: [Not Secure] <XxMatos15> resetea tu wbd
+[03:48:50] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
+[03:48:50] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
+[03:48:50] [Server thread/INFO]: pingaparaangel left the game
+[03:48:51] [Server thread/INFO]: Churrupakin has made the advancement [Eye Spy]
+[03:49:13] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
+[03:49:13] [Server thread/INFO]: [Churrupakin: Set own game mode to Creative Mode]
+[03:49:29] [User Authenticator #7/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
+[03:49:29] [Server thread/INFO]: pingaparaangel joined the game
+[03:49:29] [Server thread/INFO]: pingaparaangel[/172.28.117.248:63028] logged in with entity id 16985 at ([world]9.3724593750874, 51.0, 238.30000001192093)
+[03:49:33] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
+[03:49:33] [Server thread/INFO]: [Churrupakin: Set own game mode to Survival Mode]
+[03:49:46] [Server thread/INFO]: Proxe_ issued server command: /give Proxe_ minecraft:ender_eye
+[03:49:46] [Server thread/INFO]: [Proxe_: Gave 1 [Eye of Ender] to Proxe_]
+[03:50:10] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
+[03:50:10] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
+[03:50:10] [Server thread/INFO]: pingaparaangel left the game
+[03:50:24] [User Authenticator #7/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
+[03:50:24] [Server thread/INFO]: pingaparaangel joined the game
+[03:50:24] [Server thread/INFO]: pingaparaangel[/172.28.117.248:63035] logged in with entity id 17280 at ([world]14.509999990463257, 50.7125, 238.5)
+[03:50:47] [Server thread/INFO]: Churrupakin has made the advancement [The End?]
+[03:50:47] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[03:50:47] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[03:50:49] [Server thread/INFO]: Proxe_ has made the advancement [The End?]
