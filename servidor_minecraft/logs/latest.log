@@ -595,3 +595,118 @@ java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.Invento
 [23:11:00] [Server thread/INFO]: Churrupakin issued server command: /ce
 [23:11:06] [Async Chat Thread - #35/INFO]: [Not Secure] <pingaparaangel> no pongas el punto p
 [23:11:14] [Async Chat Thread - #35/INFO]: [Not Secure] <XxMatos15> XD
+[23:11:17] [Async Chat Thread - #37/INFO]: [Not Secure] <Churrupakin> solo traduje la descripcion en español
+[23:11:22] [Async Chat Thread - #37/INFO]: [Not Secure] <Churrupakin> y algunos libros
+[23:11:27] [Async Chat Thread - #37/INFO]: [Not Secure] <pingaparaangel> ./ce
+[23:11:31] [Async Chat Thread - #37/INFO]: [Not Secure] <SKrampusPEcausa> ay dios mio
+[23:11:31] [Async Chat Thread - #37/INFO]: [Not Secure] <pingaparaangel> xd
+[23:11:40] [Server thread/INFO]: pingaparaangel issued server command: /ce
+[23:11:40] [Server thread/INFO]: Churrupakin issued server command: /pb
+[23:11:48] [Server thread/INFO]: Churrupakin issued server command: /pb teleport
+[23:11:48] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing 'pb teleport' in t.me.p1azmer.engine.command.CommandRegister(protectionsblocks)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:165) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchCommand(CraftServer.java:987) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:64) ~[paper-1.20.1.jar:git-Paper-196]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:265) ~[paper-1.20.1.jar:?]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:324) ~[?:?]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:308) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performChatCommand(ServerGamePacketListenerImpl.java:2354) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$21(ServerGamePacketListenerImpl.java:2314) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.lambda$submitAsync$0(BlockableEventLoop.java:59) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1338) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:197) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1315) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1308) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1286) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1174) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at t.me.p1azmer.engine.api.command.CommandResult.getArg(CommandResult.java:33) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.plugin.protectionblocks.commands.TeleportCommand.onExecute(TeleportCommand.java:46) ~[ProtectionBlocks-1.0.9.jar:?]
+	at t.me.p1azmer.engine.api.command.AbstractCommand.execute(AbstractCommand.java:105) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.command.GeneralCommand.onCommand(GeneralCommand.java:96) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.command.CommandRegister.execute(CommandRegister.java:98) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:155) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	... 22 more
+[23:12:41] [Server thread/INFO]: pingaparaangel fell from a high place
+[23:12:48] [Async Chat Thread - #38/INFO]: [Not Secure] <SKrampusPEcausa> xdddd
+[23:12:51] [Async Chat Thread - #39/INFO]: [Not Secure] <pingaparaangel> una cerda
+[23:13:02] [Server thread/INFO]: pingaparaangel was slain by Zombified Piglin
+[23:13:07] [Server thread/INFO]: pingaparaangel was slain by Zombified Piglin
+[23:13:12] [Async Chat Thread - #38/INFO]: [Not Secure] <XxMatos15> la cerda ya no entra
+[23:13:17] [Async Chat Thread - #38/INFO]: [Not Secure] <Churrupakin> xdddddddddddd
+[23:13:21] [Async Chat Thread - #38/INFO]: [Not Secure] <SKrampusPEcausa> ponte tryhard mano
+[23:13:59] [Async Chat Thread - #38/INFO]: [Not Secure] <pingaparaangel> ya mano
+[23:14:44] [Async Chat Thread - #38/INFO]: [Not Secure] <pingaparaangel> pasa comida
+[23:14:57] [Async Chat Thread - #38/INFO]: [Not Secure] <XxMatos15> no tengo
+[23:15:04] [Async Chat Thread - #38/INFO]: [Not Secure] <pingaparaangel> tmr y los cultivos down
+[23:15:08] [Async Chat Thread - #38/INFO]: [Not Secure] <Churrupakin> yo vendo por madera
+[23:15:08] [Async Chat Thread - #38/INFO]: [Not Secure] <pingaparaangel> q hiziste
+[23:15:24] [Async Chat Thread - #38/INFO]: [Not Secure] <XxMatos15> voy a aacer una automatica
+[23:15:25] [Async Chat Thread - #38/INFO]: [Not Secure] <pingaparaangel> vendeme daiamantes
+[23:15:30] [Async Chat Thread - #38/INFO]: [Not Secure] <SKrampusPEcausa> oe matias
+[23:15:33] [Async Chat Thread - #38/INFO]: [Not Secure] <Churrupakin> habla
+[23:15:45] [Async Chat Thread - #38/INFO]: [Not Secure] <SKrampusPEcausa> como se hace pa tu cosa de la proteccion de casas
+[23:16:00] [Server thread/INFO]: Churrupakin issued server command: /pb give esmeralda SKrampusPEcausa
+[23:16:05] [Async Chat Thread - #38/INFO]: [Not Secure] <Churrupakin> ahi te di uno
+[23:16:09] [Async Chat Thread - #38/INFO]: [Not Secure] <Churrupakin> solo colocalo
+[23:16:14] [Async Chat Thread - #39/INFO]: [Not Secure] <SKrampusPEcausa> este proteje mas?
+[23:16:19] [Async Chat Thread - #39/INFO]: [Not Secure] <Churrupakin> noo
+[23:16:32] [Async Chat Thread - #39/INFO]: [Not Secure] <Churrupakin> el de mas es el de netherite
+[23:16:38] [Async Chat Thread - #39/INFO]: [Not Secure] <Churrupakin> 64x64
+[23:16:38] [Async Chat Thread - #39/INFO]: [Not Secure] <SKrampusPEcausa> y este
+[23:16:46] [Async Chat Thread - #39/INFO]: [Not Secure] <Churrupakin> 30 x 30
+[23:17:01] [Async Chat Thread - #38/INFO]: [Not Secure] <XxMatos15> mano
+[23:17:07] [Async Chat Thread - #38/INFO]: [Not Secure] <XxMatos15> tu granja aslo mas aya
+[23:17:12] [Async Chat Thread - #38/INFO]: [Not Secure] <Churrupakin> el d diamante esta bugeado
+[23:17:14] [Server thread/WARN]: [ProtectionBlocks] Task #805 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[23:17:15] [Server thread/WARN]: [PLAZMER-ENGINE] Task #2 for PLAZMER-ENGINE v2.4.8 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$update$1(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.update(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.plugin.protectionblocks.region.menu.RegionMenu.update(RegionMenu.java:86) ~[ProtectionBlocks-1.0.9.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.lambda$action$0(MenuRefreshTask.java:17) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
+	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.action(MenuRefreshTask.java:15) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[23:17:16] [Async Chat Thread - #38/INFO]: [Not Secure] <XxMatos15> corral de yeguas
+[23:17:25] [Async Chat Thread - #39/INFO]: [Not Secure] <pingaparaangel> qpaja
+[23:17:39] [Server thread/INFO]: pingaparaangel was slain by Zombie
+[23:17:39] [Async Chat Thread - #39/INFO]: [Not Secure] <XxMatos15> muevelo un poco nmas
+[23:17:53] [Async Chat Thread - #39/INFO]: [Not Secure] <pingaparaangel> necesito comida tmr
+[23:18:25] [Async Chat Thread - #38/INFO]: [Not Secure] <pingaparaangel> pera hifa
+[23:18:29] [Async Chat Thread - #38/INFO]: [Not Secure] <pingaparaangel> ya voy
+[23:18:40] [Async Chat Thread - #38/INFO]: [Not Secure] <SKrampusPEcausa> ya que tamo metele un mod que añada otro jefe
+[23:20:16] [Async Chat Thread - #40/INFO]: [Not Secure] <pingaparaangel> a la mrd
+[23:20:42] [Async Chat Thread - #40/INFO]: [Not Secure] <pingaparaangel> deja mi yegua down
+[23:20:50] [Async Chat Thread - #40/INFO]: [Not Secure] <Churrupakin> el vanilla pero voa ver si hay un plugin de bos
+[23:21:18] [Server thread/INFO]: pingaparaangel was shot by Skeleton
+[23:21:19] [Async Chat Thread - #40/INFO]: [Not Secure] <SKrampusPEcausa> pusiste un mod a los cofres?
