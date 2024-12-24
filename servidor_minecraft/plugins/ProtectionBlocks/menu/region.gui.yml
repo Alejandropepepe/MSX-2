@@ -13,9 +13,9 @@ Settings:
 # You can freely edit items in this section as you wish (add, remove, modify items).
 # Get some tips in documentation: https://github.com/getplusm/Engine/wiki/Menu-Config
 # The following values are available for button types:
-# - CLOSE
 # - DEPOSIT
 # - MEMBERS
+# - CLOSE
 # ==================================================
 Content:
   close:
