@@ -44,9 +44,9 @@ Enchantments:
         - '&6Objetos encantables: &aCascos'
     #All the categories the Enchantment can be found in
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   BurnShield:
     Enabled: true
@@ -66,9 +66,9 @@ Enchantments:
         - '&7 - &4&l&nLegendario'
         - '&6Objetos encantables: &aArmadura'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Piercing:
     Enabled: true
@@ -91,9 +91,9 @@ Enchantments:
         - '&7 - &4&l&nLegendario'
         - '&6Objetos Encantables: &aArcos'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   OverLoad:
     Enabled: true
@@ -113,9 +113,9 @@ Enchantments:
         - '&7 - &4&l&nLegendario'
         - '&6Objetos Encantables: &aArmaduras'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   SelfDestruct:
     Enabled: true
@@ -135,9 +135,9 @@ Enchantments:
         - '&7 - &4&l&nLegendario'
         - '&6Objetos Encantables: &aArmaduras'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Springs:
     Enabled: true
@@ -157,9 +157,9 @@ Enchantments:
         - '&7 - &4&l&nLegendario'
         - '&6Objetos Encantables: &aBotas'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Gears:
     Enabled: true
@@ -179,9 +179,9 @@ Enchantments:
         - '&7 - &4&l&nLegendario'
         - '&6Objetos Encantables: &aBotas'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Hulk:
     Enabled: true
@@ -201,9 +201,9 @@ Enchantments:
         - '&7 - &4&l&nLegendario'
         - '&6Objetos que se pueden encantar: &aArmadura'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Mermaid:
     Enabled: true
@@ -223,9 +223,9 @@ Enchantments:
         - '&7 - &4&l&nLegendario'
         - '&6Objetos que se pueden encantar: &aCasco'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Ninja:
     Enabled: true
@@ -245,9 +245,9 @@ Enchantments:
         - '&7 - &4&l&nLegendario'
         - '&6Objetos que se pueden encantar: &aArmadura'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Vampire:
     Enabled: true
@@ -270,9 +270,9 @@ Enchantments:
         - '&7 - &4&l&nLegendario'
         - '&6Objetos que se pueden encantar: &aEspadas'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   LifeSteal:
     Enabled: true
@@ -295,9 +295,9 @@ Enchantments:
         - '&7 - &4&l&nLegendario'
         - '&6Objetos que se pueden encantar: &aEspadas'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Doctor:
     Enabled: true
@@ -318,9 +318,9 @@ Enchantments:
         - '&7 - &4&l&nLegendario'
         - '&6Objetos que se pueden encantar: &aArcos'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Boom:
     Enabled: true
@@ -343,9 +343,9 @@ Enchantments:
         - '&7 - &4&l&nLegendario'
         - '&6Objetos que se pueden encantar: &aArcos'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Venom:
     Enabled: true
@@ -368,9 +368,9 @@ Enchantments:
         - '&7 - &4&l&nLegendario'
         - '&6Objetos que se pueden encantar: &aArcos'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   DoubleDamage:
     Enabled: true
@@ -393,9 +393,9 @@ Enchantments:
         - '&7 - &4&l&nLegendario'
         - '&6Objetos que se pueden encantar: &aEspadas'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   SlowMo:
     Enabled: true
@@ -418,9 +418,9 @@ Enchantments:
         - '&7 - &4&l&nLegendario'
         - '&6Objetos que se pueden encantar: &aEspadas'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Blindness:
     Enabled: true
@@ -443,9 +443,9 @@ Enchantments:
         - '&7 - &4&l&nLegendario'
         - '&6Objetos que se pueden encantar: &aEspadas'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Viper:
     Enabled: true
@@ -468,9 +468,9 @@ Enchantments:
         - '&7 - &4&l&nLegendario'
         - '&6Objetos que se pueden encantar: &aEspadas'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   AntiGravity:
     Enabled: true
@@ -490,9 +490,9 @@ Enchantments:
         - '&7 - &4&l&nLegendario'
         - '&6Objetos que se pueden encantar: &aBotas'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   FastTurn:
     Enabled: true
@@ -515,9 +515,9 @@ Enchantments:
         - '&7 - &4&l&nLegendario'
         - '&6Objetos que se pueden encantar: &aEspadas'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   LightWeight:
     Enabled: true
@@ -540,9 +540,9 @@ Enchantments:
         - '&7 - &4&l&nLegendario'
         - '&6Objetos que se pueden encantar: &aEspadas'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Blessed:
     Enabled: true
@@ -565,9 +565,9 @@ Enchantments:
         - '&7 - &4&l&nLegendario'
         - '&6Objetos que se pueden encantar: &aHachas'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   FeedMe:
     Enabled: true
@@ -590,9 +590,9 @@ Enchantments:
         - '&7 - &4&l&nLegendario'
         - '&6Objetos que se pueden encantar: &aHachas'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Dizzy:
     Enabled: true
@@ -615,9 +615,9 @@ Enchantments:
         - '&7 - &4&l&nLegendario'
         - '&6Objetos que se pueden encantar: &aHachas'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Berserk:
     Enabled: true
@@ -640,9 +640,9 @@ Enchantments:
         - '&7 - &4&l&nLegendario'
         - '&6Objetos que se pueden encantar: &aHachas'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Cursed:
     Enabled: true
@@ -665,9 +665,9 @@ Enchantments:
         - '&7 - &4&l&nLegendario'
         - '&6Objetos que se pueden encantar: &aHachas'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Rekt:
     Enabled: true
@@ -690,9 +690,9 @@ Enchantments:
         - '&7 - &4&l&nLegendario'
         - '&6Objetos que se pueden encantar: &aHachas'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Enlightened:
     Enabled: true
@@ -715,9 +715,9 @@ Enchantments:
         - '&7 - &4&l&nLegendario'
         - '&6Objetos que se pueden encantar: &aArmadura'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Freeze:
     Enabled: true
@@ -740,9 +740,9 @@ Enchantments:
         - '&7 - &4&l&nLegendario'
         - '&6Objetos que se pueden encantar: &aArmadura'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Fortify:
     Enabled: true
@@ -765,9 +765,9 @@ Enchantments:
         - '&7 - &4&l&nLegendario'
         - '&6Objetos que se pueden encantar: &aArmadura'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Molten:
     Enabled: true
@@ -790,9 +790,9 @@ Enchantments:
         - '&7 - &4&l&nLegendario'
         - '&6Objetos que se pueden encantar: &aArmadura'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   PainGiver:
     Enabled: true
@@ -815,9 +815,9 @@ Enchantments:
         - '&7 - &4&l&nLegendario'
         - '&6Objetos que se pueden encantar: &aArmadura'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Savior:
     Enabled: true
@@ -840,9 +840,9 @@ Enchantments:
         - '&7 - &4&l&nLegendario'
         - '&6Objetos que se pueden encantar: &aArmadura'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Nursery:
     Enabled: true
@@ -865,9 +865,9 @@ Enchantments:
         - '&7 - &4&l&nLegendario'
         - '&6Objetos que se pueden encantar: &aArmadura'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   AutoSmelt:
     Enabled: true
@@ -890,9 +890,9 @@ Enchantments:
         - '&7 - &4&l&nLegendario'
         - '&6Objetos que se pueden encantar: &aPicos'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Experience:
     Enabled: true
@@ -915,9 +915,9 @@ Enchantments:
         - '&7 - &4&l&nLegendario'
         - '&6Objetos que se pueden encantar: &aPicos'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Telepathy:
     Enabled: true
@@ -937,9 +937,9 @@ Enchantments:
         - '&7 - &4&l&nLegendario'
         - '&6Objetos que se pueden encantar: &aHerramientas'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Haste:
     Enabled: true
@@ -959,9 +959,9 @@ Enchantments:
         - '&7 - &4&l&nLegendario'
         - '&6Objetos que se pueden encantar: &aHerramientas'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Oxygenate:
     Enabled: true
@@ -981,9 +981,9 @@ Enchantments:
         - '&7 - &4&l&nLegendario'
         - '&6Objetos que se pueden encantar: &aHerramientas'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   IceFreeze:
     Enabled: true
@@ -1006,9 +1006,9 @@ Enchantments:
         - '&7 - &4&l&nLegendario'
         - '&6Objetos que se pueden encantar: &aArcos'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Lightning:
     Enabled: true
@@ -1031,9 +1031,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aBows'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Decapitation:
     Enabled: true
@@ -1056,9 +1056,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aAxes'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Confusion:
     Enabled: true
@@ -1081,9 +1081,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aSwords'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Disarmer:
     Enabled: true
@@ -1106,9 +1106,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aSwords'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Execute:
     Enabled: true
@@ -1128,9 +1128,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aSwords'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Headless:
     Enabled: true
@@ -1153,9 +1153,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aSwords'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Inquisitive:
     Enabled: true
@@ -1178,9 +1178,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aSwords'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Insomnia:
     Enabled: true
@@ -1203,9 +1203,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aArmor'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Nutrition:
     Enabled: true
@@ -1228,9 +1228,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aSwords'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Obliterate:
     Enabled: true
@@ -1253,9 +1253,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aSwords'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Paralyze:
     Enabled: true
@@ -1278,9 +1278,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aSwords'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   SkillSwipe:
     Enabled: true
@@ -1303,9 +1303,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aSwords'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Snare:
     Enabled: true
@@ -1328,9 +1328,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aSwords'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Trap:
     Enabled: true
@@ -1353,9 +1353,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aSwords'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Wither:
     Enabled: true
@@ -1378,9 +1378,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aSwords'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Rage:
     Enabled: true
@@ -1400,9 +1400,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aSwords'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Valor:
     Enabled: true
@@ -1422,9 +1422,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aArmor'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   SmokeBomb:
     Enabled: true
@@ -1447,9 +1447,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aArmor'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Drunk:
     Enabled: true
@@ -1469,9 +1469,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aArmor'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Voodoo:
     Enabled: true
@@ -1494,9 +1494,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aArmor'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   MultiArrow:
     Enabled: true
@@ -1519,9 +1519,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aBows'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Recover:
     Enabled: true
@@ -1541,9 +1541,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aArmor'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Cactus:
     Enabled: true
@@ -1566,9 +1566,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aArmor'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Rocket:
     Enabled: true
@@ -1591,9 +1591,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aBoots'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Adrenaline:
     Enabled: true
@@ -1634,9 +1634,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aArmor'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   HellForged:
     Enabled: true
@@ -1659,9 +1659,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aArmor, Weapons, Tools, Fishing Rods, and Shears'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Commander:
     Enabled: true
@@ -1681,9 +1681,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aHelmets'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   StormCaller:
     Enabled: true
@@ -1706,9 +1706,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aArmor'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Leadership:
     Enabled: true
@@ -1728,9 +1728,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aArmor'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Implants:
     Enabled: true
@@ -1753,9 +1753,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aHelmets'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Wings:
     Enabled: true
@@ -1775,9 +1775,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aBoots'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   VeinMiner:
     Enabled: true
@@ -1816,9 +1816,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aPickaxes'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Furnace:
     Enabled: true
@@ -1838,9 +1838,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aPickaxes'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Blizzard:
     Enabled: true
@@ -1860,9 +1860,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aArmor'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   AcidRain:
     Enabled: true
@@ -1882,9 +1882,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aArmor'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   SandStorm:
     Enabled: true
@@ -1904,9 +1904,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aArmor'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Radiant:
     Enabled: true
@@ -1926,9 +1926,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aArmor'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Intimidate:
     Enabled: true
@@ -1948,9 +1948,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aArmor'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Pull:
     Enabled: true
@@ -1973,9 +1973,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aBows'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Tamer:
     Enabled: true
@@ -1995,9 +1995,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aArmor'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Guards:
     Enabled: true
@@ -2017,9 +2017,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aArmor'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Infestation:
     Enabled: true
@@ -2039,9 +2039,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aArmor'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Necromancer:
     Enabled: true
@@ -2061,9 +2061,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aArmor'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   BeeKeeper:
     Enabled: true
@@ -2083,9 +2083,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aArmor'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Maneuver:
     Enabled: true
@@ -2186,9 +2186,9 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aBow'
     Categories:
-      - 'Común'
-      - 'Raro'
-      - 'Legendario'
+      - 'Common'
+      - 'Rare'
+      - 'Legendary'
   #Do not change this line.
   Disorder:
     Enabled: true
@@ -2209,7 +2209,7 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aSword'
     Categories:
-      - 'Legendario'
+      - 'Legendary'
   #Do not change this line.
   Charge:
     Enabled: true
@@ -2227,7 +2227,7 @@ Enchantments:
         - '&7 - &9&l&nRare'
         - '&6Enchantable Items: &aSword'
     Categories:
-      - 'Raro'
+      - 'Rare'
   #Do not change this line.
   Revenge:
     Enabled: true
@@ -2246,7 +2246,7 @@ Enchantments:
         - '&7 - &9&l&nRare'
         - '&6Enchantable Items: &aSword'
     Categories:
-      - 'Raro'
+      - 'Rare'
   #Do not change this line.
   BattleCry:
     Enabled: true
@@ -2268,7 +2268,7 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aAxe'
     Categories:
-      - 'Legendario'
+      - 'Legendary'
   DemonForged:
     Enabled: true
     Sound: "ENTITY_PLAYER_LEVELUP"
@@ -2311,7 +2311,7 @@ Enchantments:
         - '&7 - &9&l&nRare'
         - '&6Enchantable Items: &aSword'
     Categories:
-      - 'Raro'
+      - 'Rare'
   #Do not change this line.
   GreenThumb:
     Enabled: true
@@ -2334,7 +2334,7 @@ Enchantments:
         - '&7 - &9&l&nRare'
         - '&6Enchantable Items: &aHoe'
     Categories:
-      - 'Raro'
+      - 'Rare'
   #Do not change this line.
   Harvester:
     Enabled: true
@@ -2353,7 +2353,7 @@ Enchantments:
         - '&7 - &a&l&nCommon'
         - '&6Enchantable Items: &aHoe'
     Categories:
-      - 'Común'
+      - 'Common'
   #Do not change this line.
   Tiller:
     Enabled: true
@@ -2375,7 +2375,7 @@ Enchantments:
         - '&7 - &a&l&nCommon'
         - '&6Enchantable Items: &aHoe'
     Categories:
-      - 'Común'
+      - 'Common'
   #Do not change this line.
   Planter:
     Enabled: true
@@ -2396,7 +2396,7 @@ Enchantments:
         - '&7 - &a&l&nCommon'
         - '&6Enchantable Items: &aHoe'
     Categories:
-      - 'Común'
+      - 'Common'
   #Do not change this line.
   Cyborg:
     Enabled: true
@@ -2414,7 +2414,7 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aArmor'
     Categories:
-      - 'Legendario'
+      - 'Legendary'
   #Do not change this line.
   Sniper:
     Enabled: true
@@ -2436,4 +2436,4 @@ Enchantments:
         - '&7 - &4&l&nLegendary'
         - '&6Enchantable Items: &aBow'
     Categories:
-      - 'Legendario'
+      - 'Legendary'

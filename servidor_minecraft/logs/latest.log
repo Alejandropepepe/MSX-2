@@ -158,3 +158,425 @@ java.lang.Throwable: null
 [02:50:48] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
 [02:50:48] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
 [02:50:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[02:50:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[02:50:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[02:51:00] [Server thread/INFO]: Churrupakin issued server command: /ce add
+[02:51:05] [Server thread/INFO]: Churrupakin issued server command: /ce add AcidRain 1
+[02:51:08] [Server thread/INFO]: Churrupakin issued server command: /ce add AcidRain 1
+[02:51:10] [Server thread/INFO]: Churrupakin issued server command: /ce add AcidRain 1
+[02:51:11] [Server thread/INFO]: Churrupakin issued server command: /ce add AcidRain 1
+[02:51:14] [Server thread/INFO]: Churrupakin issued server command: /reload
+[02:51:14] [Server thread/INFO]: Churrupakin: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[02:51:21] [Server thread/INFO]: Churrupakin issued server command: /ce reload
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] Loading the config.yml.
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded config.yml.
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] Loading the BlockList.yml.
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded BlockList.yml.
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] Loading the Data.yml.
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Data.yml.
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] Loading the Enchantments.yml.
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Enchantments.yml.
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] Loading the GKitz.yml.
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded GKitz.yml.
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] Loading the Messages.yml.
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Messages.yml.
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] Loading the Enchantment-Types.yml.
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Enchantment-Types.yml.
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] Loading the Tinker.yml.
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Tinker.yml.
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] §8§l=== §e§lCrazyEnchantment Hook Status §8§l===
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] §6§lNO_CHEAT_PLUS §c§lNOT FOUND
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] §6§lSPARTAN §c§lNOT FOUND
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] §6§lFACTIONS_UUID §c§lNOT FOUND
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] §6§lSUPERIORSKYBLOCK §c§lNOT FOUND
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] §6§lGRIEF_PREVENTION §c§lNOT FOUND
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] §6§lPLOT_SQUARED §c§lNOT FOUND
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] §6§lORAXEN §c§lNOT FOUND
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] §6§lVAULT §c§lNOT FOUND
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS §c§lNOT FOUND
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] §6§lMCMMO §c§lNOT FOUND
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDEDIT §c§lNOT FOUND
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS_V2 §c§lNOT FOUND
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] §6§lTOWNYADVANCED §c§lNOT FOUND
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDGUARD §c§lNOT FOUND
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] §8§l=== §e§lCrazyEnchantment Hook Status §8§l===
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] §6§lNO_CHEAT_PLUS §c§lNOT FOUND
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] §6§lSPARTAN §c§lNOT FOUND
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] §6§lFACTIONS_UUID §c§lNOT FOUND
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] §6§lSUPERIORSKYBLOCK §c§lNOT FOUND
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] §6§lGRIEF_PREVENTION §c§lNOT FOUND
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] §6§lPLOT_SQUARED §c§lNOT FOUND
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] §6§lORAXEN §c§lNOT FOUND
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] §6§lVAULT §c§lNOT FOUND
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS §c§lNOT FOUND
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] §6§lMCMMO §c§lNOT FOUND
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDEDIT §c§lNOT FOUND
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS_V2 §c§lNOT FOUND
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] §6§lTOWNYADVANCED §c§lNOT FOUND
+[02:51:21] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDGUARD §c§lNOT FOUND
+[02:54:27] [User Authenticator #1/INFO]: [ProtectionBlocks] Created new user data for: '291b5db3-a54f-3f99-bee4-fa14a07e9d7d'
+[02:54:27] [User Authenticator #1/INFO]: UUID of player Proxe_ is 291b5db3-a54f-3f99-bee4-fa14a07e9d7d
+[02:54:27] [Server thread/INFO]: Proxe_ joined the game
+[02:54:27] [Server thread/INFO]: Proxe_[/172.28.149.78:51710] logged in with entity id 714 at ([world]137.29623991825213, 63.0, 97.96206360516445)
+[02:54:28] [Server thread/INFO]: [voicechat] Received secret request of Proxe_ (18)
+[02:54:28] [Server thread/INFO]: [voicechat] Sent secret to Proxe_
+[02:54:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 291b5db3-a54f-3f99-bee4-fa14a07e9d7d
+[02:54:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 291b5db3-a54f-3f99-bee4-fa14a07e9d7d
+[02:54:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Proxe_ (291b5db3-a54f-3f99-bee4-fa14a07e9d7d) successfully connected to voice chat
+[02:55:19] [Async Chat Thread - #0/INFO]: [Not Secure] <Churrupakin> perea
+[02:56:04] [Server thread/WARN]: [ProtectionBlocks] Task #28 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:56:05] [Server thread/WARN]: [PLAZMER-ENGINE] Task #2 for PLAZMER-ENGINE v2.4.8 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$update$1(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.update(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.plugin.protectionblocks.region.menu.RegionMenu.update(RegionMenu.java:86) ~[ProtectionBlocks-1.0.9.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.lambda$action$0(MenuRefreshTask.java:17) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
+	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.action(MenuRefreshTask.java:15) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:56:06] [Server thread/WARN]: [PLAZMER-ENGINE] Task #2 for PLAZMER-ENGINE v2.4.8 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$update$1(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.update(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.plugin.protectionblocks.region.menu.RegionMenu.update(RegionMenu.java:86) ~[ProtectionBlocks-1.0.9.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.lambda$action$0(MenuRefreshTask.java:17) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
+	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.action(MenuRefreshTask.java:15) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:56:16] [Server thread/WARN]: [ProtectionBlocks] Task #36 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:56:16] [Server thread/WARN]: [PLAZMER-ENGINE] Task #2 for PLAZMER-ENGINE v2.4.8 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$update$1(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.update(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.plugin.protectionblocks.region.menu.RegionMenu.update(RegionMenu.java:86) ~[ProtectionBlocks-1.0.9.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.lambda$action$0(MenuRefreshTask.java:17) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
+	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.action(MenuRefreshTask.java:15) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:56:56] [Server thread/INFO]: Churrupakin issued server command: /pb add Proxe_
+[02:57:06] [Server thread/INFO]: Churrupakin issued server command: /pb add Proxe_
+[02:57:13] [Server thread/WARN]: [ProtectionBlocks] Task #55 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:57:13] [Server thread/WARN]: [PLAZMER-ENGINE] Task #2 for PLAZMER-ENGINE v2.4.8 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$update$1(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.update(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.plugin.protectionblocks.region.menu.RegionMenu.update(RegionMenu.java:86) ~[ProtectionBlocks-1.0.9.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.lambda$action$0(MenuRefreshTask.java:17) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
+	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.action(MenuRefreshTask.java:15) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:57:14] [Server thread/WARN]: [PLAZMER-ENGINE] Task #2 for PLAZMER-ENGINE v2.4.8 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$update$1(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.update(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.plugin.protectionblocks.region.menu.RegionMenu.update(RegionMenu.java:86) ~[ProtectionBlocks-1.0.9.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.lambda$action$0(MenuRefreshTask.java:17) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
+	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.action(MenuRefreshTask.java:15) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:57:15] [Server thread/WARN]: [PLAZMER-ENGINE] Task #2 for PLAZMER-ENGINE v2.4.8 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$update$1(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.update(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.plugin.protectionblocks.region.menu.RegionMenu.update(RegionMenu.java:86) ~[ProtectionBlocks-1.0.9.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.lambda$action$0(MenuRefreshTask.java:17) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
+	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.action(MenuRefreshTask.java:15) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:57:38] [Server thread/INFO]: Churrupakin issued server command: /#exit
+[02:57:47] [Server thread/WARN]: [PLAZMER-ENGINE] Task #2 for PLAZMER-ENGINE v2.4.8 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$update$1(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.update(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.plugin.protectionblocks.region.menu.RegionMenu.update(RegionMenu.java:86) ~[ProtectionBlocks-1.0.9.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.lambda$action$0(MenuRefreshTask.java:17) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
+	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.action(MenuRefreshTask.java:15) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:57:54] [Server thread/WARN]: [PLAZMER-ENGINE] Task #2 for PLAZMER-ENGINE v2.4.8 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$update$1(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.update(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.plugin.protectionblocks.region.menu.RegionMenu.update(RegionMenu.java:86) ~[ProtectionBlocks-1.0.9.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.lambda$action$0(MenuRefreshTask.java:17) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
+	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.action(MenuRefreshTask.java:15) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:57:55] [Server thread/WARN]: [PLAZMER-ENGINE] Task #2 for PLAZMER-ENGINE v2.4.8 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$update$1(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.update(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.plugin.protectionblocks.region.menu.RegionMenu.update(RegionMenu.java:86) ~[ProtectionBlocks-1.0.9.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.lambda$action$0(MenuRefreshTask.java:17) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
+	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.action(MenuRefreshTask.java:15) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:57:56] [Server thread/WARN]: [ProtectionBlocks] Task #78 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:57:57] [Server thread/WARN]: [PLAZMER-ENGINE] Task #2 for PLAZMER-ENGINE v2.4.8 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$update$1(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.update(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.plugin.protectionblocks.region.menu.RegionMenu.update(RegionMenu.java:86) ~[ProtectionBlocks-1.0.9.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.lambda$action$0(MenuRefreshTask.java:17) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
+	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.action(MenuRefreshTask.java:15) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:57:58] [Server thread/WARN]: [PLAZMER-ENGINE] Task #2 for PLAZMER-ENGINE v2.4.8 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$update$1(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.update(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.plugin.protectionblocks.region.menu.RegionMenu.update(RegionMenu.java:86) ~[ProtectionBlocks-1.0.9.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.lambda$action$0(MenuRefreshTask.java:17) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
+	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.action(MenuRefreshTask.java:15) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:58:45] [Server thread/INFO]: Churrupakin issued server command: /#exit
+[02:59:07] [Server thread/INFO]: Churrupakin issued server command: /plugins
+[02:59:10] [Server thread/INFO]: Churrupakin issued server command: /#exit
+[02:59:12] [Server thread/INFO]: Churrupakin issued server command: /plugins
+[02:59:25] [Server thread/WARN]: [ProtectionBlocks] Task #109 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:59:38] [Server thread/INFO]: Churrupakin issued server command: /pb editor
+[02:59:40] [Server thread/INFO]: Proxe_ issued server command: /plugins
+[03:00:07] [User Authenticator #2/INFO]: UUID of player XxMatos15 is 2a9ff858-04dc-3136-97df-619a6316d09a
+[03:00:07] [Server thread/INFO]: XxMatos15 joined the game
+[03:00:07] [Server thread/INFO]: XxMatos15[/172.28.131.63:50269] logged in with entity id 1290 at ([world]-64.03525401026545, 56.0, 247.5693197702626)
+[03:00:28] [Server thread/INFO]: Churrupakin issued server command: /pb
+[03:00:33] [Server thread/INFO]: Churrupakin issued server command: /pb editor
+[03:00:57] [Server thread/WARN]: [ProtectionBlocks] Task #131 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03:00:57] [Server thread/WARN]: [PLAZMER-ENGINE] Task #2 for PLAZMER-ENGINE v2.4.8 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$update$1(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.update(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.plugin.protectionblocks.region.menu.RegionMenu.update(RegionMenu.java:86) ~[ProtectionBlocks-1.0.9.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.lambda$action$0(MenuRefreshTask.java:17) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
+	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.action(MenuRefreshTask.java:15) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03:00:58] [Server thread/WARN]: [PLAZMER-ENGINE] Task #2 for PLAZMER-ENGINE v2.4.8 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$update$1(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.update(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.plugin.protectionblocks.region.menu.RegionMenu.update(RegionMenu.java:86) ~[ProtectionBlocks-1.0.9.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.lambda$action$0(MenuRefreshTask.java:17) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
+	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.action(MenuRefreshTask.java:15) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03:00:59] [Server thread/WARN]: [PLAZMER-ENGINE] Task #2 for PLAZMER-ENGINE v2.4.8 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$update$1(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.update(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.plugin.protectionblocks.region.menu.RegionMenu.update(RegionMenu.java:86) ~[ProtectionBlocks-1.0.9.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.lambda$action$0(MenuRefreshTask.java:17) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
+	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.action(MenuRefreshTask.java:15) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03:01:00] [Server thread/WARN]: [PLAZMER-ENGINE] Task #2 for PLAZMER-ENGINE v2.4.8 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$update$1(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
+	at t.me.p1azmer.engine.api.menu.impl.Menu.update(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.plugin.protectionblocks.region.menu.RegionMenu.update(RegionMenu.java:86) ~[ProtectionBlocks-1.0.9.jar:?]
+	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.lambda$action$0(MenuRefreshTask.java:17) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
+	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.action(MenuRefreshTask.java:15) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
