@@ -1,928 +1,190 @@
-[00:00:02] [Server thread/INFO]: SKrampusPEcausa lost connection: Timed out
-[00:00:02] [Server thread/INFO]: [voicechat] Disconnecting client SKrampusPEcausa
-[00:00:02] [Server thread/INFO]: SKrampusPEcausa left the game
-[00:00:03] [Async Chat Thread - #22/INFO]: [Not Secure] <XxMatos15> mano
-[00:00:05] [User Authenticator #12/INFO]: UUID of player SKrampusPEcausa is 20fe05e7-673b-3913-95a3-dc8280b86505
-[00:00:05] [Server thread/INFO]: SKrampusPEcausa joined the game
-[00:00:05] [Server thread/INFO]: SKrampusPEcausa[/172.28.128.43:51934] logged in with entity id 21406 at ([world]233.53500859284588, 129.0, 57.695309792603226)
-[00:00:06] [Async Chat Thread - #22/INFO]: [Not Secure] <XxMatos15> agrra las cosas
-[00:00:10] [Async Chat Thread - #22/INFO]: [Not Secure] <pingaparaangel> tengo como mrd espadas
-[00:00:20] [Server thread/INFO]: XxMatos15 tried to swim in lava
-[00:00:43] [Server thread/INFO]: XxMatos15 was slain by Zombified Piglin
-[00:00:53] [Async Chat Thread - #23/INFO]: [Not Secure] <XxMatos15> la
-[00:00:55] [Async Chat Thread - #23/INFO]: [Not Secure] <XxMatos15> pantalon
-[00:01:11] [Async Chat Thread - #23/INFO]: [Not Secure] <XxMatos15> voy a matar a esas perras
-[00:01:43] [Async Chat Thread - #22/INFO]: [Not Secure] <pingaparaangel> vamos gogo
-[00:01:47] [Async Chat Thread - #22/INFO]: [Not Secure] <XxMatos15> espera
-[00:02:08] [Async Chat Thread - #22/INFO]: [Not Secure] <XxMatos15> ya
-[00:03:03] [Server thread/INFO]: SKrampusPEcausa was doomed to fall by Phantom
-[00:03:29] [Server thread/INFO]: pingaparaangel was slain by Zombified Piglin
-[00:03:57] [Server thread/INFO]: pingaparaangel was slain by Zombified Piglin
-[00:04:18] [Async Chat Thread - #25/INFO]: [Not Secure] <XxMatos15> tanto
-[00:04:33] [Async Chat Thread - #25/INFO]: [Not Secure] <pingaparaangel> no tengo bloques xd
-[00:04:44] [Async Chat Thread - #25/INFO]: [Not Secure] <XxMatos15> toma
-[00:05:20] [Server thread/INFO]: XxMatos15 was slain by Zombified Piglin
-[00:05:29] [Server thread/INFO]: pingaparaangel was slain by Zombie
-[00:05:43] [Server thread/INFO]: XxMatos15 was slain by Zombified Piglin
-[00:05:51] [Server thread/INFO]: pingaparaangel tried to swim in lava
-[00:05:57] [Async Chat Thread - #26/INFO]: [Not Secure] <XxMatos15> xd
-[00:06:04] [Server thread/INFO]: XxMatos15 was slain by Zombified Piglin
-[00:06:43] [Server thread/INFO]: XxMatos15 was slain by Zombified Piglin
-[00:06:46] [Async Chat Thread - #27/INFO]: [Not Secure] <XxMatos15> oe
-[00:06:49] [Async Chat Thread - #27/INFO]: [Not Secure] <XxMatos15> ven mejor
-[00:06:51] [Async Chat Thread - #27/INFO]: [Not Secure] <XxMatos15> ya fue
-[00:06:51] [Async Chat Thread - #27/INFO]: [Not Secure] <XxMatos15> xd
-[00:06:57] [Async Chat Thread - #27/INFO]: [Not Secure] <XxMatos15> mucho se reproducen
-[00:07:01] [Async Chat Thread - #27/INFO]: [Not Secure] <pingaparaangel> estoy rodeado
-[00:07:23] [Server thread/INFO]: pingaparaangel fell from a high place
-[00:07:33] [Server thread/INFO]: XxMatos15 was slain by Zombified Piglin
-[00:08:09] [Server thread/INFO]: pingaparaangel was slain by Zombified Piglin
-[00:08:29] [Async Chat Thread - #28/INFO]: [Not Secure] <pingaparaangel> yaf fue
-[00:09:41] [Server thread/INFO]: XxMatos15 fell from a high place
-[00:09:44] [Async Chat Thread - #30/INFO]: [Not Secure] <XxMatos15> xd
-[00:09:47] [Async Chat Thread - #31/INFO]: [Not Secure] <XxMatos15> a la mrd
-[00:10:24] [Async Chat Thread - #31/INFO]: [Not Secure] <XxMatos15> mas tarde entro
-[00:10:26] [Server thread/INFO]: XxMatos15 lost connection: Disconnected
-[00:10:26] [Server thread/INFO]: [voicechat] Disconnecting client XxMatos15
-[00:10:26] [Server thread/INFO]: XxMatos15 left the game
-[00:12:34] [Server thread/WARN]: [PLAZMER-ENGINE] Task #2 for PLAZMER-ENGINE v2.4.8 generated an exception
-java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
-	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$update$1(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
-	at t.me.p1azmer.engine.api.menu.impl.Menu.update(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at t.me.p1azmer.plugin.protectionblocks.region.menu.RegionMenu.update(RegionMenu.java:86) ~[ProtectionBlocks-1.0.9.jar:?]
-	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.lambda$action$0(MenuRefreshTask.java:17) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
-	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.action(MenuRefreshTask.java:15) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.1.jar:git-Paper-196]
-	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+[02:29:57] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:30:00] [ServerMain/INFO]: Loaded 7 recipes
+[02:30:01] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[02:30:01] [Server thread/INFO]: Loading properties
+[02:30:01] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[02:30:02] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:30:02] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:30:02] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[02:30:02] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[02:30:03] [Server thread/INFO]: Default game type: SURVIVAL
+[02:30:03] [Server thread/INFO]: Generating keypair
+[02:30:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:30:03] [Server thread/INFO]: Using epoll channel type
+[02:30:03] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:30:03] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[02:30:03] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loading 2 libraries... please wait
+[02:30:04] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loaded library /workspaces/MSX-2/servidor_minecraft/libraries/it/unimi/dsi/fastutil/8.5.11/fastutil-8.5.11.jar
+[02:30:04] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loaded library /workspaces/MSX-2/servidor_minecraft/libraries/com/zaxxer/HikariCP/5.0.1/HikariCP-5.0.1.jar
+[02:30:04] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loaded library /workspaces/MSX-2/servidor_minecraft/libraries/org/slf4j/slf4j-api/2.0.0-alpha1/slf4j-api-2.0.0-alpha1.jar
+[02:30:04] [Server thread/INFO]: [PLAZMER-ENGINE] Server version detected as Paper 1.20.1.
+[02:30:04] [Server thread/INFO]: [PLAZMER-ENGINE] [Core Components] ENTITY_ID_GENERATOR: Loaded
+[02:30:04] [Server thread/INFO]: [PLAZMER-ENGINE] [Core Components] ITEM_NBT_COMPRESSOR: Loaded
+[02:30:04] [Server thread/INFO]: [DecentHolograms] Loading server plugin DecentHolograms v2.8.12
+[02:30:04] [Server thread/INFO]: [PLAZMER-ENGINE] Loading server plugin PLAZMER-ENGINE v2.4.8
+[02:30:04] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
+[02:30:04] [Server thread/INFO]: [CrazyEnchantments] Loading server plugin CrazyEnchantments v2.1
+[02:30:04] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.26
+[02:30:04] [Server thread/INFO]: [ProtectionBlocks] Loading server plugin ProtectionBlocks v1.0.9
+[02:30:04] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:30:04] [Server thread/INFO]: [PLAZMER-ENGINE] Enabling PLAZMER-ENGINE v2.4.8
+[02:30:04] [Server thread/WARN]: [PLAZMER-ENGINE] ===================================
+[02:30:04] [Server thread/WARN]: [PLAZMER-ENGINE] WARNING: You're running an outdated server version (1.20.1)!
+[02:30:04] [Server thread/WARN]: [PLAZMER-ENGINE] This version will no longer be supported in future relases.
+[02:30:04] [Server thread/WARN]: [PLAZMER-ENGINE] Please upgrade your server to 1.20.4.
+[02:30:04] [Server thread/WARN]: [PLAZMER-ENGINE] ABSOLUTELY NO DISCORD SUPPORT WILL BE PROVIDED
+[02:30:04] [Server thread/WARN]: [PLAZMER-ENGINE] ===================================
+[02:30:04] [Server thread/INFO]: [PLAZMER-ENGINE] Seems like we have Paper based fork here...
+[02:30:04] [Server thread/INFO]: [PLAZMER-ENGINE] Plugin loaded in 290 ms!
+[02:30:04] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
+[02:30:05] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[02:30:06] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
+[02:30:07] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[02:30:07] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
+[02:30:07] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
+[02:30:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:30:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:30:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:30:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:30:07] [Server thread/INFO]: Preparing level "world"
+[02:30:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:30:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[02:30:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[02:30:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[02:30:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[02:30:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[02:30:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:30:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.1
+[02:30:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: d5d8613
+[02:30:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[02:30:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:30:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[02:30:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[02:30:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:30:08] [Server thread/INFO]: Time elapsed: 598 ms
+[02:30:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:30:08] [Server thread/INFO]: Time elapsed: 186 ms
+[02:30:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:30:09] [Server thread/INFO]: Time elapsed: 215 ms
+[02:30:09] [Server thread/INFO]: [DecentHolograms] Enabling DecentHolograms v2.8.12
+[02:30:09] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_20_R1! Trying to find NMS support
+[02:30:09] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
+[02:30:09] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'DecentHolograms' to create a bStats instance!
+[02:30:09] [Server thread/INFO]: [CrazyEnchantments] Enabling CrazyEnchantments v2.1
+[02:30:09] [Server thread/INFO]: [CrazyEnchantments] Loading the config.yml.
+[02:30:09] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded config.yml.
+[02:30:09] [Server thread/INFO]: [CrazyEnchantments] Loading the BlockList.yml.
+[02:30:09] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded BlockList.yml.
+[02:30:09] [Server thread/INFO]: [CrazyEnchantments] Loading the Data.yml.
+[02:30:10] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Data.yml.
+[02:30:10] [Server thread/INFO]: [CrazyEnchantments] Loading the Enchantments.yml.
+[02:30:10] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Enchantments.yml.
+[02:30:10] [Server thread/INFO]: [CrazyEnchantments] Loading the GKitz.yml.
+[02:30:10] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded GKitz.yml.
+[02:30:10] [Server thread/INFO]: [CrazyEnchantments] Loading the Messages.yml.
+[02:30:10] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Messages.yml.
+[02:30:10] [Server thread/INFO]: [CrazyEnchantments] Loading the Enchantment-Types.yml.
+[02:30:10] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Enchantment-Types.yml.
+[02:30:10] [Server thread/INFO]: [CrazyEnchantments] Loading the Tinker.yml.
+[02:30:10] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Tinker.yml.
+[02:30:10] [Server thread/WARN]: [CrazyEnchantments] No eco plugin found or the eco plugin didn't enable. Any economy based feature will not work.
+[02:30:10] [Server thread/INFO]: [CrazyEnchantments] §8§l=== §e§lCrazyEnchantment Hook Status §8§l===
+[02:30:10] [Server thread/INFO]: [CrazyEnchantments] §6§lMCMMO §c§lNOT FOUND
+[02:30:10] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS_V2 §c§lNOT FOUND
+[02:30:10] [Server thread/INFO]: [CrazyEnchantments] §6§lSPARTAN §c§lNOT FOUND
+[02:30:10] [Server thread/INFO]: [CrazyEnchantments] §6§lPLOT_SQUARED §c§lNOT FOUND
+[02:30:10] [Server thread/INFO]: [CrazyEnchantments] §6§lORAXEN §c§lNOT FOUND
+[02:30:10] [Server thread/INFO]: [CrazyEnchantments] §6§lFACTIONS_UUID §c§lNOT FOUND
+[02:30:10] [Server thread/INFO]: [CrazyEnchantments] §6§lNO_CHEAT_PLUS §c§lNOT FOUND
+[02:30:10] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDEDIT §c§lNOT FOUND
+[02:30:10] [Server thread/INFO]: [CrazyEnchantments] §6§lTOWNYADVANCED §c§lNOT FOUND
+[02:30:10] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS §c§lNOT FOUND
+[02:30:10] [Server thread/INFO]: [CrazyEnchantments] §6§lSUPERIORSKYBLOCK §c§lNOT FOUND
+[02:30:10] [Server thread/INFO]: [CrazyEnchantments] §6§lVAULT §c§lNOT FOUND
+[02:30:10] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDGUARD §c§lNOT FOUND
+[02:30:10] [Server thread/INFO]: [CrazyEnchantments] §6§lGRIEF_PREVENTION §c§lNOT FOUND
+[02:30:10] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_20_R1! Trying to find NMS support
+[02:30:10] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
+[02:30:10] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Gson: class com.google.gson.Gson
+[02:30:11] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'DecentHolograms' to create a bStats instance!
+[02:30:11] [Server thread/INFO]: [CrazyEnchantments] G-Kitz support is now enabled.
+[02:30:11] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.26
+[02:30:11] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.20.1-R0.1
+[02:30:11] [Server thread/INFO]: [voicechat] Compatibility version 18
+[02:30:12] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[02:30:12] [Server thread/INFO]: [ProtectionBlocks] Enabling ProtectionBlocks v1.0.9
+[02:30:12] [Server thread/WARN]: [ProtectionBlocks] ===================================
+[02:30:12] [Server thread/WARN]: [ProtectionBlocks] WARNING: You're running an outdated server version (1.20.1)!
+[02:30:12] [Server thread/WARN]: [ProtectionBlocks] This version will no longer be supported in future relases.
+[02:30:12] [Server thread/WARN]: [ProtectionBlocks] Please upgrade your server to 1.20.4.
+[02:30:12] [Server thread/WARN]: [ProtectionBlocks] ABSOLUTELY NO DISCORD SUPPORT WILL BE PROVIDED
+[02:30:12] [Server thread/WARN]: [ProtectionBlocks] ===================================
+[02:30:12] [Server thread/INFO]: [ProtectionBlocks] Powered by: PLAZMER-ENGINE
+[02:30:12] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-e5 - Starting...
+[02:30:12] [Server thread/INFO]: [com.zaxxer.hikari.pool.HikariPool] ProtectionBlocks-e5 - Added connection org.sqlite.jdbc4.JDBC4Connection@37e47fd2
+[02:30:12] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-e5 - Start completed.
+[02:30:12] [Server thread/INFO]: [ProtectionBlocks] Using DecentHolograms hologram handler.
+[02:30:12] [Server thread/INFO]: [ProtectionBlocks] Registered currency: exp
+[02:30:12] [Server thread/INFO]: [ProtectionBlocks] Plugin loaded in 511 ms!
+[02:30:12] [Server thread/INFO]: Running delayed init tasks
+[02:30:12] [Server thread/INFO]: [ProtectionBlocks] Region Blocks Loaded: 3
+[02:30:13] [Server thread/INFO]: [ProtectionBlocks] Regions Loaded: 3
+[02:30:13] [Server thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:30:13] [Server thread/INFO]: Done (11.803s)! For help, type "help"
+[02:30:13] [Server thread/INFO]: Timings Reset
+[02:30:13] [Server thread/INFO]: [voicechat] Loading plugins
+[02:30:13] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[02:30:13] [Server thread/INFO]: [voicechat] Initializing plugins
+[02:30:13] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[02:30:13] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[02:30:13] [VoiceChatServerThread/ERROR]: [voicechat] Failed to bind to address '172.28.190.108', binding to wildcard IP instead
+[02:30:13] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 172.28.190.108:24454
+[02:30:14] [Thread-20/ERROR]: Thread Thread-20 failed main thread check: chunk load
+java.lang.Throwable: null
+	at org.spigotmc.AsyncCatcher.catchOp(AsyncCatcher.java:14) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftWorld.loadChunk(CraftWorld.java:540) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftWorld.loadChunk(CraftWorld.java:400) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftWorld.loadChunk(CraftWorld.java:600) ~[paper-1.20.1.jar:git-Paper-196]
+	at t.me.p1azmer.plugin.protectionblocks.region.impl.Region.loadLocations(Region.java:119) ~[ProtectionBlocks-1.0.9.jar:?]
+	at java.util.concurrent.ConcurrentHashMap$ValuesView.forEach(ConcurrentHashMap.java:4780) ~[?:?]
+	at t.me.p1azmer.plugin.protectionblocks.region.RegionManager.lambda$onLoad$2(RegionManager.java:77) ~[ProtectionBlocks-1.0.9.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[00:12:35] [Server thread/WARN]: [PLAZMER-ENGINE] Task #2 for PLAZMER-ENGINE v2.4.8 generated an exception
-java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
-	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$update$1(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
-	at t.me.p1azmer.engine.api.menu.impl.Menu.update(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at t.me.p1azmer.plugin.protectionblocks.region.menu.RegionMenu.update(RegionMenu.java:86) ~[ProtectionBlocks-1.0.9.jar:?]
-	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.lambda$action$0(MenuRefreshTask.java:17) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
-	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.action(MenuRefreshTask.java:15) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.1.jar:git-Paper-196]
-	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[00:12:36] [Server thread/WARN]: [PLAZMER-ENGINE] Task #2 for PLAZMER-ENGINE v2.4.8 generated an exception
-java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
-	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$update$1(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
-	at t.me.p1azmer.engine.api.menu.impl.Menu.update(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at t.me.p1azmer.plugin.protectionblocks.region.menu.RegionMenu.update(RegionMenu.java:86) ~[ProtectionBlocks-1.0.9.jar:?]
-	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.lambda$action$0(MenuRefreshTask.java:17) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
-	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.action(MenuRefreshTask.java:15) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.1.jar:git-Paper-196]
-	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[00:12:37] [Server thread/WARN]: [PLAZMER-ENGINE] Task #2 for PLAZMER-ENGINE v2.4.8 generated an exception
-java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
-	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$update$1(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
-	at t.me.p1azmer.engine.api.menu.impl.Menu.update(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at t.me.p1azmer.plugin.protectionblocks.region.menu.RegionMenu.update(RegionMenu.java:86) ~[ProtectionBlocks-1.0.9.jar:?]
-	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.lambda$action$0(MenuRefreshTask.java:17) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
-	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.action(MenuRefreshTask.java:15) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.1.jar:git-Paper-196]
-	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[00:12:38] [Server thread/WARN]: [PLAZMER-ENGINE] Task #2 for PLAZMER-ENGINE v2.4.8 generated an exception
-java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
-	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$update$1(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
-	at t.me.p1azmer.engine.api.menu.impl.Menu.update(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at t.me.p1azmer.plugin.protectionblocks.region.menu.RegionMenu.update(RegionMenu.java:86) ~[ProtectionBlocks-1.0.9.jar:?]
-	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.lambda$action$0(MenuRefreshTask.java:17) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
-	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.action(MenuRefreshTask.java:15) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.1.jar:git-Paper-196]
-	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[00:12:39] [Server thread/WARN]: [PLAZMER-ENGINE] Task #2 for PLAZMER-ENGINE v2.4.8 generated an exception
-java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
-	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$update$1(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
-	at t.me.p1azmer.engine.api.menu.impl.Menu.update(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at t.me.p1azmer.plugin.protectionblocks.region.menu.RegionMenu.update(RegionMenu.java:86) ~[ProtectionBlocks-1.0.9.jar:?]
-	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.lambda$action$0(MenuRefreshTask.java:17) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
-	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.action(MenuRefreshTask.java:15) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.1.jar:git-Paper-196]
-	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[00:12:40] [Server thread/WARN]: [PLAZMER-ENGINE] Task #2 for PLAZMER-ENGINE v2.4.8 generated an exception
-java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
-	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$update$1(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
-	at t.me.p1azmer.engine.api.menu.impl.Menu.update(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at t.me.p1azmer.plugin.protectionblocks.region.menu.RegionMenu.update(RegionMenu.java:86) ~[ProtectionBlocks-1.0.9.jar:?]
-	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.lambda$action$0(MenuRefreshTask.java:17) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
-	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.action(MenuRefreshTask.java:15) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.1.jar:git-Paper-196]
-	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[00:13:09] [Server thread/WARN]: [PLAZMER-ENGINE] Task #2 for PLAZMER-ENGINE v2.4.8 generated an exception
-java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
-	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$update$1(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
-	at t.me.p1azmer.engine.api.menu.impl.Menu.update(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at t.me.p1azmer.plugin.protectionblocks.region.menu.RegionMenu.update(RegionMenu.java:86) ~[ProtectionBlocks-1.0.9.jar:?]
-	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.lambda$action$0(MenuRefreshTask.java:17) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
-	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.action(MenuRefreshTask.java:15) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.1.jar:git-Paper-196]
-	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[00:13:12] [Server thread/WARN]: [PLAZMER-ENGINE] Task #2 for PLAZMER-ENGINE v2.4.8 generated an exception
-java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
-	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$update$1(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
-	at t.me.p1azmer.engine.api.menu.impl.Menu.update(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at t.me.p1azmer.plugin.protectionblocks.region.menu.RegionMenu.update(RegionMenu.java:86) ~[ProtectionBlocks-1.0.9.jar:?]
-	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.lambda$action$0(MenuRefreshTask.java:17) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
-	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.action(MenuRefreshTask.java:15) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.1.jar:git-Paper-196]
-	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[00:13:13] [Server thread/WARN]: [PLAZMER-ENGINE] Task #2 for PLAZMER-ENGINE v2.4.8 generated an exception
-java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
-	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$update$1(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
-	at t.me.p1azmer.engine.api.menu.impl.Menu.update(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at t.me.p1azmer.plugin.protectionblocks.region.menu.RegionMenu.update(RegionMenu.java:86) ~[ProtectionBlocks-1.0.9.jar:?]
-	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.lambda$action$0(MenuRefreshTask.java:17) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
-	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.action(MenuRefreshTask.java:15) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.1.jar:git-Paper-196]
-	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[00:13:14] [Server thread/WARN]: [PLAZMER-ENGINE] Task #2 for PLAZMER-ENGINE v2.4.8 generated an exception
-java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
-	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$update$1(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
-	at t.me.p1azmer.engine.api.menu.impl.Menu.update(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at t.me.p1azmer.plugin.protectionblocks.region.menu.RegionMenu.update(RegionMenu.java:86) ~[ProtectionBlocks-1.0.9.jar:?]
-	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.lambda$action$0(MenuRefreshTask.java:17) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
-	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.action(MenuRefreshTask.java:15) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.1.jar:git-Paper-196]
-	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[00:13:14] [Async Chat Thread - #32/INFO]: [Not Secure] <pingaparaangel> duerme p angel
-[00:13:15] [Server thread/WARN]: [PLAZMER-ENGINE] Task #2 for PLAZMER-ENGINE v2.4.8 generated an exception
-java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
-	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$update$1(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
-	at t.me.p1azmer.engine.api.menu.impl.Menu.update(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at t.me.p1azmer.plugin.protectionblocks.region.menu.RegionMenu.update(RegionMenu.java:86) ~[ProtectionBlocks-1.0.9.jar:?]
-	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.lambda$action$0(MenuRefreshTask.java:17) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
-	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.action(MenuRefreshTask.java:15) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.1.jar:git-Paper-196]
-	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[00:13:16] [Server thread/WARN]: [PLAZMER-ENGINE] Task #2 for PLAZMER-ENGINE v2.4.8 generated an exception
-java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
-	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$update$1(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
-	at t.me.p1azmer.engine.api.menu.impl.Menu.update(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at t.me.p1azmer.plugin.protectionblocks.region.menu.RegionMenu.update(RegionMenu.java:86) ~[ProtectionBlocks-1.0.9.jar:?]
-	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.lambda$action$0(MenuRefreshTask.java:17) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
-	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.action(MenuRefreshTask.java:15) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.1.jar:git-Paper-196]
-	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[00:13:17] [Server thread/WARN]: [PLAZMER-ENGINE] Task #2 for PLAZMER-ENGINE v2.4.8 generated an exception
-java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
-	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$update$1(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
-	at t.me.p1azmer.engine.api.menu.impl.Menu.update(Menu.java:72) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at t.me.p1azmer.plugin.protectionblocks.region.menu.RegionMenu.update(RegionMenu.java:86) ~[ProtectionBlocks-1.0.9.jar:?]
-	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.lambda$action$0(MenuRefreshTask.java:17) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
-	at t.me.p1azmer.engine.api.menu.impl.MenuRefreshTask.action(MenuRefreshTask.java:15) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.1.jar:git-Paper-196]
-	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[00:13:27] [Async Chat Thread - #32/INFO]: [Not Secure] <SKrampusPEcausa> ño tengo cama
-[00:13:39] [Async Chat Thread - #33/INFO]: [Not Secure] <pingaparaangel> salte y vuelve entrar p
-[00:14:13] [Server thread/INFO]: SKrampusPEcausa lost connection: Disconnected
-[00:14:13] [Server thread/INFO]: [voicechat] Disconnecting client SKrampusPEcausa
-[00:14:13] [Server thread/INFO]: SKrampusPEcausa left the game
-[00:14:26] [User Authenticator #13/INFO]: UUID of player SKrampusPEcausa is 20fe05e7-673b-3913-95a3-dc8280b86505
-[00:14:26] [Server thread/INFO]: SKrampusPEcausa joined the game
-[00:14:26] [Server thread/INFO]: SKrampusPEcausa[/172.28.128.43:52133] logged in with entity id 26506 at ([world]233.89244151317925, 129.0, 60.31325027771727)
-[00:17:06] [Server thread/WARN]: SKrampusPEcausa was kicked for floating too long!
-[00:17:06] [Server thread/INFO]: SKrampusPEcausa lost connection: Flying is not enabled on this server
-[00:17:06] [Server thread/INFO]: [voicechat] Disconnecting client SKrampusPEcausa
-[00:17:06] [Server thread/INFO]: SKrampusPEcausa left the game
-[00:22:26] [User Authenticator #14/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
-[00:22:26] [Server thread/INFO]: Churrupakin joined the game
-[00:22:26] [Server thread/INFO]: Churrupakin[/172.28.161.65:62905] logged in with entity id 28386 at ([world]132.9666170247071, 63.0, 97.85116691576334)
-[00:22:26] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
-[00:22:26] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
-[00:22:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[00:22:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[00:22:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
-[00:22:31] [Server thread/INFO]: Churrupakin issued server command: /ce reload
-[00:22:31] [Server thread/INFO]: [CrazyEnchantments] Loading the config.yml.
-[00:22:31] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded config.yml.
-[00:22:31] [Server thread/INFO]: [CrazyEnchantments] Loading the BlockList.yml.
-[00:22:31] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded BlockList.yml.
-[00:22:31] [Server thread/INFO]: [CrazyEnchantments] Loading the Data.yml.
-[00:22:31] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Data.yml.
-[00:22:31] [Server thread/INFO]: [CrazyEnchantments] Loading the Enchantments.yml.
-[00:22:31] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Enchantments.yml.
-[00:22:31] [Server thread/INFO]: [CrazyEnchantments] Loading the GKitz.yml.
-[00:22:31] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded GKitz.yml.
-[00:22:31] [Server thread/INFO]: [CrazyEnchantments] Loading the Messages.yml.
-[00:22:31] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Messages.yml.
-[00:22:31] [Server thread/INFO]: [CrazyEnchantments] Loading the Enchantment-Types.yml.
-[00:22:31] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Enchantment-Types.yml.
-[00:22:31] [Server thread/INFO]: [CrazyEnchantments] Loading the Tinker.yml.
-[00:22:31] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Tinker.yml.
-[00:22:31] [Server thread/INFO]: [CrazyEnchantments] §8§l=== §e§lCrazyEnchantment Hook Status §8§l===
-[00:22:31] [Server thread/INFO]: [CrazyEnchantments] §6§lVAULT §c§lNOT FOUND
-[00:22:31] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDGUARD §c§lNOT FOUND
-[00:22:31] [Server thread/INFO]: [CrazyEnchantments] §6§lSUPERIORSKYBLOCK §c§lNOT FOUND
-[00:22:31] [Server thread/INFO]: [CrazyEnchantments] §6§lMCMMO §c§lNOT FOUND
-[00:22:31] [Server thread/INFO]: [CrazyEnchantments] §6§lSPARTAN §c§lNOT FOUND
-[00:22:31] [Server thread/INFO]: [CrazyEnchantments] §6§lGRIEF_PREVENTION §c§lNOT FOUND
-[00:22:31] [Server thread/INFO]: [CrazyEnchantments] §6§lTOWNYADVANCED §c§lNOT FOUND
-[00:22:31] [Server thread/INFO]: [CrazyEnchantments] §6§lFACTIONS_UUID §c§lNOT FOUND
-[00:22:31] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDEDIT §c§lNOT FOUND
-[00:22:31] [Server thread/INFO]: [CrazyEnchantments] §6§lPLOT_SQUARED §c§lNOT FOUND
-[00:22:31] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS §c§lNOT FOUND
-[00:22:31] [Server thread/INFO]: [CrazyEnchantments] §6§lNO_CHEAT_PLUS §c§lNOT FOUND
-[00:22:31] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS_V2 §c§lNOT FOUND
-[00:22:31] [Server thread/INFO]: [CrazyEnchantments] §6§lORAXEN §c§lNOT FOUND
-[00:22:32] [Server thread/INFO]: [CrazyEnchantments] §8§l=== §e§lCrazyEnchantment Hook Status §8§l===
-[00:22:32] [Server thread/INFO]: [CrazyEnchantments] §6§lVAULT §c§lNOT FOUND
-[00:22:32] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDGUARD §c§lNOT FOUND
-[00:22:32] [Server thread/INFO]: [CrazyEnchantments] §6§lSUPERIORSKYBLOCK §c§lNOT FOUND
-[00:22:32] [Server thread/INFO]: [CrazyEnchantments] §6§lMCMMO §c§lNOT FOUND
-[00:22:32] [Server thread/INFO]: [CrazyEnchantments] §6§lSPARTAN §c§lNOT FOUND
-[00:22:32] [Server thread/INFO]: [CrazyEnchantments] §6§lGRIEF_PREVENTION §c§lNOT FOUND
-[00:22:32] [Server thread/INFO]: [CrazyEnchantments] §6§lTOWNYADVANCED §c§lNOT FOUND
-[00:22:32] [Server thread/INFO]: [CrazyEnchantments] §6§lFACTIONS_UUID §c§lNOT FOUND
-[00:22:32] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDEDIT §c§lNOT FOUND
-[00:22:32] [Server thread/INFO]: [CrazyEnchantments] §6§lPLOT_SQUARED §c§lNOT FOUND
-[00:22:32] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS §c§lNOT FOUND
-[00:22:32] [Server thread/INFO]: [CrazyEnchantments] §6§lNO_CHEAT_PLUS §c§lNOT FOUND
-[00:22:32] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS_V2 §c§lNOT FOUND
-[00:22:32] [Server thread/INFO]: [CrazyEnchantments] §6§lORAXEN §c§lNOT FOUND
-[00:22:37] [Server thread/INFO]: Churrupakin issued server command: /ce
-[00:25:04] [Server thread/INFO]: Churrupakin issued server command: /CE
-[00:25:14] [Server thread/INFO]: Churrupakin issued server command: /ce book
-[00:25:33] [Server thread/INFO]: Churrupakin issued server command: /ce book lost tier
-[00:25:37] [Server thread/INFO]: Churrupakin issued server command: /ce
-[00:25:48] [Server thread/INFO]: Churrupakin issued server command: /ce
-[00:25:52] [Server thread/INFO]: Churrupakin issued server command: /ce
-[00:26:56] [Server thread/INFO]: Churrupakin lost connection: Disconnected
-[00:26:57] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
-[00:26:57] [Server thread/INFO]: Churrupakin left the game
-[00:27:14] [User Authenticator #15/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
-[00:27:14] [Server thread/INFO]: Churrupakin joined the game
-[00:27:14] [Server thread/INFO]: Churrupakin[/172.28.161.65:63068] logged in with entity id 29550 at ([world]129.07746878432, 63.0, 97.24590663191765)
-[00:27:14] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
-[00:27:14] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
-[00:27:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[00:27:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[00:27:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
-[00:27:18] [Server thread/INFO]: Churrupakin issued server command: /ce reload
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] Loading the config.yml.
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded config.yml.
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] Loading the BlockList.yml.
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded BlockList.yml.
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] Loading the Data.yml.
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Data.yml.
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] Loading the Enchantments.yml.
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Enchantments.yml.
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] Loading the GKitz.yml.
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded GKitz.yml.
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] Loading the Messages.yml.
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Messages.yml.
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] Loading the Enchantment-Types.yml.
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Enchantment-Types.yml.
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] Loading the Tinker.yml.
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Tinker.yml.
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] §8§l=== §e§lCrazyEnchantment Hook Status §8§l===
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] §6§lVAULT §c§lNOT FOUND
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDGUARD §c§lNOT FOUND
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] §6§lSUPERIORSKYBLOCK §c§lNOT FOUND
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] §6§lMCMMO §c§lNOT FOUND
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] §6§lSPARTAN §c§lNOT FOUND
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] §6§lGRIEF_PREVENTION §c§lNOT FOUND
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] §6§lTOWNYADVANCED §c§lNOT FOUND
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] §6§lFACTIONS_UUID §c§lNOT FOUND
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDEDIT §c§lNOT FOUND
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] §6§lPLOT_SQUARED §c§lNOT FOUND
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS §c§lNOT FOUND
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] §6§lNO_CHEAT_PLUS §c§lNOT FOUND
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS_V2 §c§lNOT FOUND
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] §6§lORAXEN §c§lNOT FOUND
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] §8§l=== §e§lCrazyEnchantment Hook Status §8§l===
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] §6§lVAULT §c§lNOT FOUND
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDGUARD §c§lNOT FOUND
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] §6§lSUPERIORSKYBLOCK §c§lNOT FOUND
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] §6§lMCMMO §c§lNOT FOUND
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] §6§lSPARTAN §c§lNOT FOUND
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] §6§lGRIEF_PREVENTION §c§lNOT FOUND
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] §6§lTOWNYADVANCED §c§lNOT FOUND
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] §6§lFACTIONS_UUID §c§lNOT FOUND
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDEDIT §c§lNOT FOUND
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] §6§lPLOT_SQUARED §c§lNOT FOUND
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS §c§lNOT FOUND
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] §6§lNO_CHEAT_PLUS §c§lNOT FOUND
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS_V2 §c§lNOT FOUND
-[00:27:18] [Server thread/INFO]: [CrazyEnchantments] §6§lORAXEN §c§lNOT FOUND
-[00:27:20] [Server thread/INFO]: Churrupakin issued server command: /ce
-[00:27:27] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
-[00:27:27] [Server thread/INFO]: [Churrupakin: Set own game mode to Survival Mode]
-[00:27:30] [Server thread/INFO]: Churrupakin issued server command: /ce
-[00:27:41] [Server thread/WARN]: [ProtectionBlocks] Task #771 for ProtectionBlocks v1.0.9 generated an exception
-java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
-	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at t.me.p1azmer.engine.api.menu.impl.Menu.lambda$openNextTick$2(Menu.java:80) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
-	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[00:27:52] [Server thread/INFO]: Churrupakin issued server command: /ce
-[00:28:12] [Server thread/INFO]: Churrupakin lost connection: Disconnected
-[00:28:12] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
-[00:28:12] [Server thread/INFO]: Churrupakin left the game
-[00:28:32] [User Authenticator #16/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
-[00:28:32] [Server thread/INFO]: Churrupakin joined the game
-[00:28:32] [Server thread/INFO]: Churrupakin[/172.28.161.65:63148] logged in with entity id 29907 at ([world]132.61519678259293, 63.0, 103.07964304428991)
-[00:28:32] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
-[00:28:32] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
-[00:28:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[00:28:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[00:28:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
-[00:28:34] [Server thread/INFO]: Churrupakin issued server command: /ce
-[00:29:13] [Server thread/INFO]: Churrupakin issued server command: /ce reload
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] Loading the config.yml.
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded config.yml.
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] Loading the BlockList.yml.
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded BlockList.yml.
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] Loading the Data.yml.
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Data.yml.
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] Loading the Enchantments.yml.
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Enchantments.yml.
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] Loading the GKitz.yml.
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded GKitz.yml.
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] Loading the Messages.yml.
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Messages.yml.
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] Loading the Enchantment-Types.yml.
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Enchantment-Types.yml.
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] Loading the Tinker.yml.
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Tinker.yml.
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] §8§l=== §e§lCrazyEnchantment Hook Status §8§l===
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] §6§lVAULT §c§lNOT FOUND
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDGUARD §c§lNOT FOUND
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] §6§lSUPERIORSKYBLOCK §c§lNOT FOUND
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] §6§lMCMMO §c§lNOT FOUND
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] §6§lSPARTAN §c§lNOT FOUND
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] §6§lGRIEF_PREVENTION §c§lNOT FOUND
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] §6§lTOWNYADVANCED §c§lNOT FOUND
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] §6§lFACTIONS_UUID §c§lNOT FOUND
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDEDIT §c§lNOT FOUND
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] §6§lPLOT_SQUARED §c§lNOT FOUND
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS §c§lNOT FOUND
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] §6§lNO_CHEAT_PLUS §c§lNOT FOUND
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS_V2 §c§lNOT FOUND
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] §6§lORAXEN §c§lNOT FOUND
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] §8§l=== §e§lCrazyEnchantment Hook Status §8§l===
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] §6§lVAULT §c§lNOT FOUND
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDGUARD §c§lNOT FOUND
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] §6§lSUPERIORSKYBLOCK §c§lNOT FOUND
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] §6§lMCMMO §c§lNOT FOUND
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] §6§lSPARTAN §c§lNOT FOUND
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] §6§lGRIEF_PREVENTION §c§lNOT FOUND
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] §6§lTOWNYADVANCED §c§lNOT FOUND
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] §6§lFACTIONS_UUID §c§lNOT FOUND
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDEDIT §c§lNOT FOUND
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] §6§lPLOT_SQUARED §c§lNOT FOUND
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS §c§lNOT FOUND
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] §6§lNO_CHEAT_PLUS §c§lNOT FOUND
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS_V2 §c§lNOT FOUND
-[00:29:13] [Server thread/INFO]: [CrazyEnchantments] §6§lORAXEN §c§lNOT FOUND
-[00:29:22] [Server thread/INFO]: Churrupakin issued server command: /ce
-[00:30:39] [Server thread/INFO]: Churrupakin lost connection: Disconnected
-[00:30:39] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
-[00:30:39] [Server thread/INFO]: Churrupakin left the game
-[00:36:22] [User Authenticator #17/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
-[00:36:22] [Server thread/INFO]: Churrupakin joined the game
-[00:36:22] [Server thread/INFO]: Churrupakin[/172.28.161.65:63471] logged in with entity id 31251 at ([world]132.10671397386324, 63.0, 102.91416594959492)
-[00:36:23] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
-[00:36:23] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
-[00:36:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[00:36:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[00:36:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
-[00:36:26] [Server thread/INFO]: Churrupakin issued server command: /ce reload
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] Loading the config.yml.
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded config.yml.
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] Loading the BlockList.yml.
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded BlockList.yml.
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] Loading the Data.yml.
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Data.yml.
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] Loading the Enchantments.yml.
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Enchantments.yml.
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] Loading the GKitz.yml.
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded GKitz.yml.
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] Loading the Messages.yml.
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Messages.yml.
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] Loading the Enchantment-Types.yml.
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Enchantment-Types.yml.
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] Loading the Tinker.yml.
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Tinker.yml.
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] §8§l=== §e§lCrazyEnchantment Hook Status §8§l===
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] §6§lVAULT §c§lNOT FOUND
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDGUARD §c§lNOT FOUND
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] §6§lSUPERIORSKYBLOCK §c§lNOT FOUND
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] §6§lMCMMO §c§lNOT FOUND
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] §6§lSPARTAN §c§lNOT FOUND
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] §6§lGRIEF_PREVENTION §c§lNOT FOUND
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] §6§lTOWNYADVANCED §c§lNOT FOUND
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] §6§lFACTIONS_UUID §c§lNOT FOUND
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDEDIT §c§lNOT FOUND
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] §6§lPLOT_SQUARED §c§lNOT FOUND
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS §c§lNOT FOUND
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] §6§lNO_CHEAT_PLUS §c§lNOT FOUND
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS_V2 §c§lNOT FOUND
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] §6§lORAXEN §c§lNOT FOUND
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] §8§l=== §e§lCrazyEnchantment Hook Status §8§l===
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] §6§lVAULT §c§lNOT FOUND
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDGUARD §c§lNOT FOUND
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] §6§lSUPERIORSKYBLOCK §c§lNOT FOUND
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] §6§lMCMMO §c§lNOT FOUND
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] §6§lSPARTAN §c§lNOT FOUND
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] §6§lGRIEF_PREVENTION §c§lNOT FOUND
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] §6§lTOWNYADVANCED §c§lNOT FOUND
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] §6§lFACTIONS_UUID §c§lNOT FOUND
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDEDIT §c§lNOT FOUND
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] §6§lPLOT_SQUARED §c§lNOT FOUND
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS §c§lNOT FOUND
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] §6§lNO_CHEAT_PLUS §c§lNOT FOUND
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS_V2 §c§lNOT FOUND
-[00:36:26] [Server thread/INFO]: [CrazyEnchantments] §6§lORAXEN §c§lNOT FOUND
-[00:36:42] [Server thread/INFO]: Churrupakin issued server command: /ce book Glowing 1
-[00:37:05] [Server thread/INFO]: Churrupakin lost connection: Disconnected
-[00:37:05] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
-[00:37:05] [Server thread/INFO]: Churrupakin left the game
-[00:37:13] [User Authenticator #17/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
-[00:37:13] [Server thread/INFO]: Churrupakin joined the game
-[00:37:13] [Server thread/INFO]: Churrupakin[/172.28.161.65:63479] logged in with entity id 31460 at ([world]132.0056398432664, 63.0, 102.77582617381289)
-[00:37:13] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
-[00:37:13] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
-[00:37:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[00:37:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[00:37:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
-[00:37:16] [Server thread/INFO]: Churrupakin lost connection: Disconnected
-[00:37:16] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
-[00:37:16] [Server thread/INFO]: Churrupakin left the game
-[00:59:35] [User Authenticator #18/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
-[00:59:35] [Server thread/INFO]: Churrupakin joined the game
-[00:59:35] [Server thread/INFO]: Churrupakin[/172.28.161.65:63950] logged in with entity id 34554 at ([world]132.0056398432664, 63.0, 102.77582617381289)
-[00:59:35] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
-[00:59:35] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
-[00:59:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[00:59:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[00:59:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
-[00:59:43] [Async Chat Thread - #34/INFO]: [Not Secure] <Churrupakin> voy a cerrar el server
-[00:59:53] [Server thread/INFO]: Churrupakin issued server command: /ce reload
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] Loading the config.yml.
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded config.yml.
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] Loading the BlockList.yml.
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded BlockList.yml.
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] Loading the Data.yml.
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Data.yml.
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] Loading the Enchantments.yml.
-[00:59:53] [Server thread/ERROR]: Cannot load plugins/CrazyEnchantments/Enchantments.yml
-org.bukkit.configuration.InvalidConfigurationException: while parsing a block collection
- in 'reader', line 69, column 7:
-          - 'Común'
-          ^
-expected <block end>, but found '<anchor>'
- in 'reader', line 76, column 12:
-        Name: '&7Piercing'
-               ^
-
-	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:111) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:160) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:128) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.configuration.file.YamlConfiguration.loadConfiguration(YamlConfiguration.java:309) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
-	at com.badbones69.crazyenchantments.paper.api.FileManager.setup(FileManager.java:64) ~[CrazyEnchantments-2.1.jar:?]
-	at com.badbones69.crazyenchantments.paper.commands.CECommand.onCommand(CECommand.java:154) ~[CrazyEnchantments-2.1.jar:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:155) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchCommand(CraftServer.java:987) ~[paper-1.20.1.jar:git-Paper-196]
-	at org.bukkit.craftbukkit.v1_20_R1.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:64) ~[paper-1.20.1.jar:git-Paper-196]
-	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:265) ~[paper-1.20.1.jar:?]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:324) ~[?:?]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:308) ~[?:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.performChatCommand(ServerGamePacketListenerImpl.java:2354) ~[?:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$21(ServerGamePacketListenerImpl.java:2314) ~[?:?]
-	at net.minecraft.util.thread.BlockableEventLoop.lambda$submitAsync$0(BlockableEventLoop.java:59) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1338) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:197) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
-	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1315) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1308) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
-	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1286) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1174) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-Caused by: org.yaml.snakeyaml.parser.ParserException: while parsing a block collection
- in 'reader', line 69, column 7:
-          - 'Común'
-          ^
-expected <block end>, but found '<anchor>'
- in 'reader', line 76, column 12:
-        Name: '&7Piercing'
-               ^
-
-	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockSequenceEntryKey.produce(ParserImpl.java:550) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:162) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.comments.CommentEventsCollector$1.peek(CommentEventsCollector.java:57) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.comments.CommentEventsCollector$1.peek(CommentEventsCollector.java:43) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.comments.CommentEventsCollector.collectEvents(CommentEventsCollector.java:136) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.comments.CommentEventsCollector.collectEvents(CommentEventsCollector.java:116) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.composer.Composer.composeScalarNode(Composer.java:241) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:205) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.composer.Composer.composeSequenceNode(Composer.java:277) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:207) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:369) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:348) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:323) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:209) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:369) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:348) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:323) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:209) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:369) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:348) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:323) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:209) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.composer.Composer.getNode(Composer.java:131) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:157) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.Yaml.compose(Yaml.java:575) ~[snakeyaml-2.0.jar:?]
-	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:104) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
-	... 29 more
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Enchantments.yml.
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] Loading the GKitz.yml.
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded GKitz.yml.
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] Loading the Messages.yml.
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Messages.yml.
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] Loading the Enchantment-Types.yml.
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Enchantment-Types.yml.
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] Loading the Tinker.yml.
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Tinker.yml.
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] §8§l=== §e§lCrazyEnchantment Hook Status §8§l===
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] §6§lVAULT §c§lNOT FOUND
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDGUARD §c§lNOT FOUND
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] §6§lSUPERIORSKYBLOCK §c§lNOT FOUND
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] §6§lMCMMO §c§lNOT FOUND
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] §6§lSPARTAN §c§lNOT FOUND
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] §6§lGRIEF_PREVENTION §c§lNOT FOUND
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] §6§lTOWNYADVANCED §c§lNOT FOUND
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] §6§lFACTIONS_UUID §c§lNOT FOUND
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDEDIT §c§lNOT FOUND
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] §6§lPLOT_SQUARED §c§lNOT FOUND
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS §c§lNOT FOUND
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] §6§lNO_CHEAT_PLUS §c§lNOT FOUND
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS_V2 §c§lNOT FOUND
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] §6§lORAXEN §c§lNOT FOUND
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] §8§l=== §e§lCrazyEnchantment Hook Status §8§l===
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] §6§lVAULT §c§lNOT FOUND
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDGUARD §c§lNOT FOUND
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] §6§lSUPERIORSKYBLOCK §c§lNOT FOUND
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] §6§lMCMMO §c§lNOT FOUND
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] §6§lSPARTAN §c§lNOT FOUND
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] §6§lGRIEF_PREVENTION §c§lNOT FOUND
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] §6§lTOWNYADVANCED §c§lNOT FOUND
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] §6§lFACTIONS_UUID §c§lNOT FOUND
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDEDIT §c§lNOT FOUND
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] §6§lPLOT_SQUARED §c§lNOT FOUND
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS §c§lNOT FOUND
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] §6§lNO_CHEAT_PLUS §c§lNOT FOUND
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS_V2 §c§lNOT FOUND
-[00:59:53] [Server thread/INFO]: [CrazyEnchantments] §6§lORAXEN §c§lNOT FOUND
-[00:59:54] [Async Chat Thread - #34/INFO]: [Not Secure] <pingaparaangel> ya
-[01:00:09] [Server thread/INFO]: Churrupakin issued server command: /ce book fire_protection
-[01:00:21] [Server thread/INFO]: Churrupakin issued server command: /ce book aqua_affinity
-[01:00:29] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
-[01:00:29] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
-[01:00:29] [Server thread/INFO]: pingaparaangel left the game
-[01:00:43] [Server thread/INFO]: Churrupakin issued server command: /ce add
-[01:00:49] [Server thread/INFO]: Churrupakin issued server command: /ce add aqua_affinity 1
-[01:00:57] [Server thread/INFO]: Churrupakin issued server command: /ce add aqua_affinity 1
-[01:01:03] [Server thread/INFO]: Churrupakin issued server command: /ce add aqua_affinity 2
-[01:01:21] [Server thread/INFO]: Churrupakin issued server command: /ce add glowing
-[01:01:28] [Server thread/INFO]: Churrupakin issued server command: /ce
-[01:01:37] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
-[01:01:37] [Server thread/INFO]: [Churrupakin: Set own game mode to Creative Mode]
-[01:01:39] [Server thread/INFO]: Churrupakin issued server command: /ce
-[01:01:40] [Server thread/INFO]: [CrazyEnchantments] The category Common has no enchantments. Please add enchantments to the category in the Enchantments.yml. If you do not wish to have the category feel free to delete it from the Config.yml.
-[01:01:41] [Server thread/INFO]: [CrazyEnchantments] The category Rare has no enchantments. Please add enchantments to the category in the Enchantments.yml. If you do not wish to have the category feel free to delete it from the Config.yml.
-[01:01:42] [Server thread/INFO]: [CrazyEnchantments] The category Rare has no enchantments. Please add enchantments to the category in the Enchantments.yml. If you do not wish to have the category feel free to delete it from the Config.yml.
-[01:01:42] [Server thread/INFO]: [CrazyEnchantments] The category Rare has no enchantments. Please add enchantments to the category in the Enchantments.yml. If you do not wish to have the category feel free to delete it from the Config.yml.
-[01:01:42] [Server thread/INFO]: [CrazyEnchantments] The category Rare has no enchantments. Please add enchantments to the category in the Enchantments.yml. If you do not wish to have the category feel free to delete it from the Config.yml.
-[01:01:43] [Server thread/INFO]: [CrazyEnchantments] The category Rare has no enchantments. Please add enchantments to the category in the Enchantments.yml. If you do not wish to have the category feel free to delete it from the Config.yml.
-[01:01:43] [Server thread/INFO]: [CrazyEnchantments] The category Rare has no enchantments. Please add enchantments to the category in the Enchantments.yml. If you do not wish to have the category feel free to delete it from the Config.yml.
-[01:01:43] [Server thread/INFO]: [CrazyEnchantments] The category Rare has no enchantments. Please add enchantments to the category in the Enchantments.yml. If you do not wish to have the category feel free to delete it from the Config.yml.
-[01:01:43] [Server thread/INFO]: [CrazyEnchantments] The category Legendary has no enchantments. Please add enchantments to the category in the Enchantments.yml. If you do not wish to have the category feel free to delete it from the Config.yml.
-[01:01:44] [Server thread/INFO]: [CrazyEnchantments] The category Legendary has no enchantments. Please add enchantments to the category in the Enchantments.yml. If you do not wish to have the category feel free to delete it from the Config.yml.
-[01:01:44] [Server thread/INFO]: [CrazyEnchantments] The category Legendary has no enchantments. Please add enchantments to the category in the Enchantments.yml. If you do not wish to have the category feel free to delete it from the Config.yml.
-[01:01:44] [Server thread/INFO]: [CrazyEnchantments] The category Legendary has no enchantments. Please add enchantments to the category in the Enchantments.yml. If you do not wish to have the category feel free to delete it from the Config.yml.
-[01:01:44] [Server thread/INFO]: [CrazyEnchantments] The category Legendary has no enchantments. Please add enchantments to the category in the Enchantments.yml. If you do not wish to have the category feel free to delete it from the Config.yml.
-[01:01:46] [Server thread/INFO]: Churrupakin lost connection: Disconnected
-[01:01:46] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
-[01:01:46] [Server thread/INFO]: Churrupakin left the game
-[01:01:59] [User Authenticator #19/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
-[01:01:59] [Server thread/INFO]: Churrupakin joined the game
-[01:01:59] [Server thread/INFO]: Churrupakin[/172.28.161.65:63965] logged in with entity id 34882 at ([world]130.71750114205386, 63.0, 101.0562333752804)
-[01:02:00] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
-[01:02:00] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
-[01:02:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[01:02:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[01:02:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
-[01:02:05] [Server thread/INFO]: Churrupakin issued server command: /ce reload
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] Loading the config.yml.
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded config.yml.
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] Loading the BlockList.yml.
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded BlockList.yml.
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] Loading the Data.yml.
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Data.yml.
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] Loading the Enchantments.yml.
-[01:02:05] [Server thread/ERROR]: Cannot load plugins/CrazyEnchantments/Enchantments.yml
-org.bukkit.configuration.InvalidConfigurationException: while parsing a block collection
- in 'reader', line 69, column 7:
-          - 'Común'
-          ^
-expected <block end>, but found '<anchor>'
- in 'reader', line 76, column 12:
-        Name: '&7Piercing'
-               ^
-
-	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:111) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:160) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:128) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.configuration.file.YamlConfiguration.loadConfiguration(YamlConfiguration.java:309) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
-	at com.badbones69.crazyenchantments.paper.api.FileManager.setup(FileManager.java:64) ~[CrazyEnchantments-2.1.jar:?]
-	at com.badbones69.crazyenchantments.paper.commands.CECommand.onCommand(CECommand.java:154) ~[CrazyEnchantments-2.1.jar:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:155) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchCommand(CraftServer.java:987) ~[paper-1.20.1.jar:git-Paper-196]
-	at org.bukkit.craftbukkit.v1_20_R1.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:64) ~[paper-1.20.1.jar:git-Paper-196]
-	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:265) ~[paper-1.20.1.jar:?]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:324) ~[?:?]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:308) ~[?:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.performChatCommand(ServerGamePacketListenerImpl.java:2354) ~[?:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$21(ServerGamePacketListenerImpl.java:2314) ~[?:?]
-	at net.minecraft.util.thread.BlockableEventLoop.lambda$submitAsync$0(BlockableEventLoop.java:59) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1338) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:197) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
-	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1315) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1308) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
-	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1286) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1174) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-Caused by: org.yaml.snakeyaml.parser.ParserException: while parsing a block collection
- in 'reader', line 69, column 7:
-          - 'Común'
-          ^
-expected <block end>, but found '<anchor>'
- in 'reader', line 76, column 12:
-        Name: '&7Piercing'
-               ^
-
-	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockSequenceEntryKey.produce(ParserImpl.java:550) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:162) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.comments.CommentEventsCollector$1.peek(CommentEventsCollector.java:57) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.comments.CommentEventsCollector$1.peek(CommentEventsCollector.java:43) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.comments.CommentEventsCollector.collectEvents(CommentEventsCollector.java:136) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.comments.CommentEventsCollector.collectEvents(CommentEventsCollector.java:116) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.composer.Composer.composeScalarNode(Composer.java:241) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:205) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.composer.Composer.composeSequenceNode(Composer.java:277) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:207) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:369) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:348) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:323) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:209) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:369) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:348) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:323) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:209) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:369) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:348) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:323) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:209) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.composer.Composer.getNode(Composer.java:131) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:157) ~[snakeyaml-2.0.jar:?]
-	at org.yaml.snakeyaml.Yaml.compose(Yaml.java:575) ~[snakeyaml-2.0.jar:?]
-	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:104) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
-	... 29 more
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Enchantments.yml.
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] Loading the GKitz.yml.
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded GKitz.yml.
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] Loading the Messages.yml.
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Messages.yml.
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] Loading the Enchantment-Types.yml.
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Enchantment-Types.yml.
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] Loading the Tinker.yml.
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Tinker.yml.
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] §8§l=== §e§lCrazyEnchantment Hook Status §8§l===
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] §6§lVAULT §c§lNOT FOUND
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDGUARD §c§lNOT FOUND
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] §6§lSUPERIORSKYBLOCK §c§lNOT FOUND
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] §6§lMCMMO §c§lNOT FOUND
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] §6§lSPARTAN §c§lNOT FOUND
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] §6§lGRIEF_PREVENTION §c§lNOT FOUND
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] §6§lTOWNYADVANCED §c§lNOT FOUND
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] §6§lFACTIONS_UUID §c§lNOT FOUND
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDEDIT §c§lNOT FOUND
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] §6§lPLOT_SQUARED §c§lNOT FOUND
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS §c§lNOT FOUND
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] §6§lNO_CHEAT_PLUS §c§lNOT FOUND
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS_V2 §c§lNOT FOUND
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] §6§lORAXEN §c§lNOT FOUND
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] §8§l=== §e§lCrazyEnchantment Hook Status §8§l===
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] §6§lVAULT §c§lNOT FOUND
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDGUARD §c§lNOT FOUND
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] §6§lSUPERIORSKYBLOCK §c§lNOT FOUND
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] §6§lMCMMO §c§lNOT FOUND
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] §6§lSPARTAN §c§lNOT FOUND
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] §6§lGRIEF_PREVENTION §c§lNOT FOUND
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] §6§lTOWNYADVANCED §c§lNOT FOUND
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] §6§lFACTIONS_UUID §c§lNOT FOUND
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDEDIT §c§lNOT FOUND
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] §6§lPLOT_SQUARED §c§lNOT FOUND
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS §c§lNOT FOUND
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] §6§lNO_CHEAT_PLUS §c§lNOT FOUND
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS_V2 §c§lNOT FOUND
-[01:02:05] [Server thread/INFO]: [CrazyEnchantments] §6§lORAXEN §c§lNOT FOUND
-[01:02:09] [Server thread/INFO]: Churrupakin issued server command: /ce
-[01:02:10] [Server thread/INFO]: [CrazyEnchantments] The category Rare has no enchantments. Please add enchantments to the category in the Enchantments.yml. If you do not wish to have the category feel free to delete it from the Config.yml.
-[01:02:11] [Server thread/INFO]: [CrazyEnchantments] The category Legendary has no enchantments. Please add enchantments to the category in the Enchantments.yml. If you do not wish to have the category feel free to delete it from the Config.yml.
-[01:02:12] [Server thread/INFO]: [CrazyEnchantments] The category Common has no enchantments. Please add enchantments to the category in the Enchantments.yml. If you do not wish to have the category feel free to delete it from the Config.yml.
-[01:02:12] [Server thread/INFO]: [CrazyEnchantments] The category Common has no enchantments. Please add enchantments to the category in the Enchantments.yml. If you do not wish to have the category feel free to delete it from the Config.yml.
-[01:02:12] [Server thread/INFO]: [CrazyEnchantments] The category Common has no enchantments. Please add enchantments to the category in the Enchantments.yml. If you do not wish to have the category feel free to delete it from the Config.yml.
-[01:02:12] [Server thread/INFO]: [CrazyEnchantments] The category Common has no enchantments. Please add enchantments to the category in the Enchantments.yml. If you do not wish to have the category feel free to delete it from the Config.yml.
-[01:02:12] [Server thread/INFO]: [CrazyEnchantments] The category Common has no enchantments. Please add enchantments to the category in the Enchantments.yml. If you do not wish to have the category feel free to delete it from the Config.yml.
-[01:02:13] [Server thread/INFO]: [CrazyEnchantments] The category Common has no enchantments. Please add enchantments to the category in the Enchantments.yml. If you do not wish to have the category feel free to delete it from the Config.yml.
-[01:02:13] [Server thread/INFO]: [CrazyEnchantments] The category Common has no enchantments. Please add enchantments to the category in the Enchantments.yml. If you do not wish to have the category feel free to delete it from the Config.yml.
-[01:02:13] [Server thread/INFO]: [CrazyEnchantments] The category Common has no enchantments. Please add enchantments to the category in the Enchantments.yml. If you do not wish to have the category feel free to delete it from the Config.yml.
-[01:02:14] [Server thread/INFO]: [CrazyEnchantments] The category Rare has no enchantments. Please add enchantments to the category in the Enchantments.yml. If you do not wish to have the category feel free to delete it from the Config.yml.
-[01:02:15] [Server thread/INFO]: [CrazyEnchantments] The category Legendary has no enchantments. Please add enchantments to the category in the Enchantments.yml. If you do not wish to have the category feel free to delete it from the Config.yml.
-[01:02:15] [Server thread/INFO]: [CrazyEnchantments] The category Common has no enchantments. Please add enchantments to the category in the Enchantments.yml. If you do not wish to have the category feel free to delete it from the Config.yml.
-[01:02:16] [Server thread/INFO]: [CrazyEnchantments] The category Common has no enchantments. Please add enchantments to the category in the Enchantments.yml. If you do not wish to have the category feel free to delete it from the Config.yml.
-[01:02:21] [Server thread/INFO]: Churrupakin lost connection: Disconnected
-[01:02:21] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
-[01:02:21] [Server thread/INFO]: Churrupakin left the game
-[01:03:20] [Server thread/INFO]: Stopping the server
-[01:03:20] [Server thread/INFO]: Stopping server
-[01:03:20] [Server thread/INFO]: [ProtectionBlocks] Disabling ProtectionBlocks v1.0.9
-[01:03:20] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-e8 - Shutdown initiated...
-[01:03:20] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-e8 - Shutdown completed.
-[01:03:20] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.26
-[01:03:20] [Server thread/INFO]: [CrazyEnchantments] Disabling CrazyEnchantments v2.1
-[01:03:20] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
-[01:03:20] [Server thread/INFO]: [PLAZMER-ENGINE] Disabling PLAZMER-ENGINE v2.4.8
-[01:03:20] [Server thread/INFO]: [DecentHolograms] Disabling DecentHolograms v2.8.12
-[01:03:20] [Server thread/INFO]: Saving players
-[01:03:20] [Server thread/INFO]: Saving worlds
-[01:03:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:03:20] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[01:03:20] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[01:03:20] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[01:03:20] [Server thread/INFO]: [ChunkHolderManager] Saved 17 block chunks, 298 entity chunks, 1 poi chunks in world 'world' in 0.09s
-[01:03:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:03:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[01:03:20] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[01:03:20] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[01:03:20] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[01:03:20] [Server thread/INFO]: [ChunkHolderManager] Saved 41 block chunks, 96 entity chunks, 0 poi chunks in world 'world_nether' in 0.07s
-[01:03:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:03:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[01:03:20] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[01:03:20] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[01:03:20] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[01:03:20] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.02s
-[01:03:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:03:20] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[01:03:20] [Server thread/INFO]: Flushing Chunk IO
-[01:03:20] [Server thread/INFO]: Closing Thread Pool
-[01:03:20] [Server thread/INFO]: Closing Server
+[02:30:41] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[02:30:44] [Server thread/INFO]: [CrazyEnchantments]: Only players can use this command.
+[02:30:55] [Server thread/INFO]: Stopping the server
+[02:30:55] [Server thread/INFO]: Stopping server
+[02:30:55] [Server thread/INFO]: [ProtectionBlocks] Disabling ProtectionBlocks v1.0.9
+[02:30:55] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-e5 - Shutdown initiated...
+[02:30:55] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-e5 - Shutdown completed.
+[02:30:55] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.26
+[02:30:55] [Server thread/INFO]: [CrazyEnchantments] Disabling CrazyEnchantments v2.1
+[02:30:55] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
+[02:30:55] [Server thread/INFO]: [PLAZMER-ENGINE] Disabling PLAZMER-ENGINE v2.4.8
+[02:30:55] [Server thread/INFO]: [DecentHolograms] Disabling DecentHolograms v2.8.12
+[02:30:55] [Server thread/INFO]: Saving players
+[02:30:55] [Server thread/INFO]: Saving worlds
+[02:30:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:30:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[02:30:55] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[02:30:55] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[02:30:57] [Server thread/INFO]: [ChunkHolderManager] Saved 530 block chunks, 530 entity chunks, 0 poi chunks in world 'world' in 2.06s
+[02:30:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:30:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[02:30:57] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[02:30:57] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[02:30:57] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[02:30:58] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world_nether' in 0.87s
+[02:30:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:30:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[02:30:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[02:30:58] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[02:30:58] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[02:30:58] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world_the_end' in 0.28s
+[02:30:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:30:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:30:58] [Server thread/INFO]: Flushing Chunk IO
+[02:30:58] [Server thread/INFO]: Closing Thread Pool
+[02:30:58] [Server thread/INFO]: Closing Server
