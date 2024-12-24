@@ -456,3 +456,9 @@ java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.Invento
 [22:29:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
 [22:30:05] [Async Chat Thread - #18/INFO]: [Not Secure] <XxMatos15> afk +5
 [22:30:15] [Async Chat Thread - #19/INFO]: [Not Secure] <pingaparaangel> ?
+[22:32:48] [Server thread/INFO]: pingaparaangel was slain by Zombified Piglin
+[22:33:37] [Async Chat Thread - #20/INFO]: [Not Secure] <pingaparaangel> no me salen tus wbds
+[22:33:43] [Async Chat Thread - #21/INFO]: [Not Secure] <pingaparaangel> q dijiste q haga
+[22:39:01] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[22:39:01] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[22:39:01] [Server thread/INFO]: Churrupakin left the game
