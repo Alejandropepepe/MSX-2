@@ -12,7 +12,9 @@
       "minecraft:beach": "2024-12-12 21:13:00 +0000",
       "minecraft:river": "2024-12-12 21:20:22 +0000",
       "minecraft:stony_shore": "2024-12-12 21:05:15 +0000",
+      "minecraft:snowy_plains": "2024-12-24 04:00:35 +0000",
       "minecraft:dripstone_caves": "2024-12-16 23:13:40 +0000",
+      "minecraft:snowy_taiga": "2024-12-24 04:00:39 +0000",
       "minecraft:forest": "2024-12-10 21:16:01 +0000",
       "minecraft:meadow": "2024-12-16 22:45:01 +0000",
       "minecraft:plains": "2024-12-12 21:03:55 +0000"
@@ -2869,6 +2871,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2024-12-24 00:40:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-24 04:14:24 +0000"
     },
     "done": true
   },
