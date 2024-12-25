@@ -221,3 +221,40 @@ java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.Invento
 [07:15:54] [Server thread/INFO]: Churrupakin left the game
 [07:15:56] [Async Chat Thread - #3/INFO]: [Not Secure] <XxMatos15> YA
 [07:25:24] [Server thread/INFO]: XxMatos15 was shot by Skeleton
+[07:30:37] [Server thread/INFO]: XxMatos15 lost connection: Disconnected
+[07:30:37] [Server thread/INFO]: [voicechat] Disconnecting client XxMatos15
+[07:30:37] [Server thread/INFO]: XxMatos15 left the game
+[07:34:52] [Server thread/INFO]: Stopping the server
+[07:34:52] [Server thread/INFO]: Stopping server
+[07:34:52] [Server thread/INFO]: [ProtectionBlocks] Disabling ProtectionBlocks v1.0.9
+[07:34:52] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-e9 - Shutdown initiated...
+[07:34:52] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-e9 - Shutdown completed.
+[07:34:52] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.26
+[07:34:52] [Server thread/INFO]: [CrazyEnchantments] Disabling CrazyEnchantments v2.1
+[07:34:52] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
+[07:34:52] [Server thread/INFO]: [PLAZMER-ENGINE] Disabling PLAZMER-ENGINE v2.4.8
+[07:34:52] [Server thread/INFO]: [DecentHolograms] Disabling DecentHolograms v2.8.12
+[07:34:52] [Server thread/INFO]: Saving players
+[07:34:52] [Server thread/INFO]: Saving worlds
+[07:34:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07:34:52] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[07:34:52] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[07:34:52] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[07:34:52] [Server thread/INFO]: [ChunkHolderManager] Saved 4 block chunks, 224 entity chunks, 1 poi chunks in world 'world' in 0.06s
+[07:34:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:34:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[07:34:52] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[07:34:52] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[07:34:52] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[07:34:52] [Server thread/INFO]: [ChunkHolderManager] Saved 48 block chunks, 104 entity chunks, 0 poi chunks in world 'world_nether' in 0.12s
+[07:34:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:34:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[07:34:52] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[07:34:52] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[07:34:52] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[07:34:52] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 44 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[07:34:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:34:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07:34:52] [Server thread/INFO]: Flushing Chunk IO
+[07:34:52] [Server thread/INFO]: Closing Thread Pool
+[07:34:52] [Server thread/INFO]: Closing Server
