@@ -1,0 +1,23 @@
+{"sets": {"markers": {"hide": false,"circles": {}
+,"areas": {}
+,"label": "Markers","markers": {"_spawn_world": {"markup": false,"x": 0.00,"icon": "world","y": 123.00,"dim": "16x16","z": 0.00,"label": "Spawn"}
+}
+,"lines": {}
+,"layerprio": 0}
+,"factions": {"hide": false,"circles": {}
+,"areas": {"8-5-world": {"fillcolor": "#71708C","ytop": 64.00,"color": "#71708C","markup": true,"x": [128.00,144.00]
+,"weight": 0,"z": [80.00,96.00]
+,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">Papus<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">%faction_owner%<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">%faction_maxPower%<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
+,"8-6-world": {"fillcolor": "#71708C","ytop": 64.00,"color": "#71708C","markup": true,"x": [128.00,144.00]
+,"weight": 0,"z": [96.00,112.00]
+,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">%faction_name%<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">%faction_owner%<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">%faction_maxPower%<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
+}
+,"label": "Factions","markers": {}
+,"lines": {"ec5bf563-2093-43ac-84ef-74c0f5870543-0": {"color": "#71708C","markup": false,"x": [128.00,144.00,144.00,128.00,128.00]
+,"y": [64.00,64.00,64.00,64.00,64.00]
+,"weight": 3,"z": [112.00,112.00,80.00,80.00,112.00]
+,"label": "","opacity": 0.50}
+}
+,"layerprio": 10}
+}
+,"timestamp": 1735148024091}
