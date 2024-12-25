@@ -1,876 +1,308 @@
-[18:03:44] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18:03:46] [ServerMain/INFO]: Loaded 7 recipes
-[18:03:47] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[18:03:47] [Server thread/INFO]: Loading properties
-[18:03:47] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[18:03:48] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:03:48] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:03:49] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[23:12:35] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:12:40] [ServerMain/INFO]: Loaded 7 recipes
+[23:12:41] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[23:12:41] [Server thread/INFO]: Loading properties
+[23:12:42] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[23:12:43] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:12:43] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:12:44] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[18:03:49] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[18:03:49] [Server thread/INFO]: Default game type: SURVIVAL
-[18:03:49] [Server thread/INFO]: Generating keypair
-[18:03:50] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:03:50] [Server thread/INFO]: Using epoll channel type
-[18:03:50] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[18:03:50] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[18:03:50] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loading 2 libraries... please wait
-[18:03:50] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loaded library /workspaces/MSX-2/servidor_minecraft/libraries/it/unimi/dsi/fastutil/8.5.11/fastutil-8.5.11.jar
-[18:03:50] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loaded library /workspaces/MSX-2/servidor_minecraft/libraries/com/zaxxer/HikariCP/5.0.1/HikariCP-5.0.1.jar
-[18:03:50] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loaded library /workspaces/MSX-2/servidor_minecraft/libraries/org/slf4j/slf4j-api/2.0.0-alpha1/slf4j-api-2.0.0-alpha1.jar
-[18:03:50] [Server thread/INFO]: [PLAZMER-ENGINE] Server version detected as Paper 1.20.1.
-[18:03:50] [Server thread/INFO]: [PLAZMER-ENGINE] [Core Components] ENTITY_ID_GENERATOR: Loaded
-[18:03:50] [Server thread/INFO]: [PLAZMER-ENGINE] [Core Components] ITEM_NBT_COMPRESSOR: Loaded
-[18:03:51] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
-[18:03:51] [Server thread/INFO]: [dynmap] Loading server plugin dynmap v3.7-SNAPSHOT-948
-[18:03:51] [Server thread/INFO]: [dynmap] version=git-Paper-196 (MC: 1.20.1)
-[18:03:51] [Server thread/INFO]: [dynmap] Mod Support API available
-[18:03:51] [Server thread/INFO]: [DecentHolograms] Loading server plugin DecentHolograms v2.8.12
-[18:03:51] [Server thread/INFO]: [PLAZMER-ENGINE] Loading server plugin PLAZMER-ENGINE v2.4.8
-[18:03:51] [Server thread/INFO]: [CrazyEnchantments] Loading server plugin CrazyEnchantments v2.1
-[18:03:51] [Server thread/INFO]: [QualityArmory] Loading server plugin QualityArmory v2.0.17
-[18:03:51] [Server thread/INFO]: [AxGraves] Loading server plugin AxGraves v1.17.0
-[18:03:51] [Server thread/INFO]: [AxGraves] Loading library commons-math3
-[18:03:51] [Server thread/INFO]: [AxGraves] Loading library caffeine
-[18:03:51] [Server thread/INFO]: [ImprovedFactions] Loading server plugin ImprovedFactions v2.2.0
-[18:03:51] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.3
-[18:03:51] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.26
-[18:03:51] [Server thread/INFO]: [ProtectionBlocks] Loading server plugin ProtectionBlocks v1.0.9
-[18:03:51] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:03:51] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
-[18:03:52] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[18:03:52] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
-[18:03:53] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[18:03:53] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
-[18:03:53] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
-[18:03:53] [Server thread/INFO]: [PLAZMER-ENGINE] Enabling PLAZMER-ENGINE v2.4.8
-[18:03:53] [Server thread/WARN]: [PLAZMER-ENGINE] ===================================
-[18:03:53] [Server thread/WARN]: [PLAZMER-ENGINE] WARNING: You're running an outdated server version (1.20.1)!
-[18:03:53] [Server thread/WARN]: [PLAZMER-ENGINE] This version will no longer be supported in future relases.
-[18:03:53] [Server thread/WARN]: [PLAZMER-ENGINE] Please upgrade your server to 1.20.4.
-[18:03:53] [Server thread/WARN]: [PLAZMER-ENGINE] ABSOLUTELY NO DISCORD SUPPORT WILL BE PROVIDED
-[18:03:53] [Server thread/WARN]: [PLAZMER-ENGINE] ===================================
-[18:03:53] [Server thread/INFO]: [PLAZMER-ENGINE] Seems like we have Paper based fork here...
-[18:03:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[18:03:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[18:03:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[18:03:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[18:03:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[18:03:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[18:03:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[18:03:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.1
-[18:03:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: d5d8613
-[18:03:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[18:03:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[18:03:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[18:03:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[18:03:53] [Server thread/INFO]: [PLAZMER-ENGINE] Plugin loaded in 375 ms!
-[18:03:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:03:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:03:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:03:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:03:53] [Server thread/INFO]: Preparing level "world"
-[18:03:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:03:55] [Server thread/INFO]: Time elapsed: 432 ms
-[18:03:55] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[18:03:55] [Server thread/INFO]: Time elapsed: 127 ms
-[18:03:55] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[18:03:55] [Server thread/INFO]: Time elapsed: 176 ms
-[18:03:55] [Server thread/INFO]: [dynmap] Enabling dynmap v3.7-SNAPSHOT-948
-[18:03:56] [Server thread/INFO]: [dynmap] Added 20 custom biome mappings
-[18:03:56] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
-[18:03:56] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
-[18:03:57] [Server thread/INFO]: [dynmap] Mod Support processing completed
-[18:04:05] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
-[18:04:05] [Server thread/INFO]: [dynmap] Loaded 83 perspectives.
-[18:04:05] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
-[18:04:05] [Server thread/INFO]: [dynmap] Starting enter/exit processing
-[18:04:05] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
-[18:04:06] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
-[18:04:06] [Server thread/INFO]: [dynmap] version 3.7-SNAPSHOT-948 is enabled - core version 3.7-SNAPSHOT-949
-[18:04:06] [Server thread/INFO]: [dynmap] For support, visit our Discord at https://discord.gg/s3rd5qn
-[18:04:06] [Server thread/INFO]: [dynmap] For news, visit https://reddit.com/r/Dynmap or follow https://universeodon.com/@dynmap
-[18:04:06] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
-[18:04:06] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
-[18:04:06] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
-[18:04:06] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
-[18:04:06] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
-[18:04:06] [Server thread/INFO]: [dynmap] Enabled
-[18:04:06] [Server thread/INFO]: [DecentHolograms] Enabling DecentHolograms v2.8.12
-[18:04:06] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_20_R1! Trying to find NMS support
-[18:04:06] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
-[18:04:06] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'DecentHolograms' to create a bStats instance!
-[18:04:06] [Server thread/INFO]: [CrazyEnchantments] Enabling CrazyEnchantments v2.1
-[18:04:06] [Server thread/INFO]: [CrazyEnchantments] Loading the config.yml.
-[18:04:06] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded config.yml.
-[18:04:06] [Server thread/INFO]: [CrazyEnchantments] Loading the BlockList.yml.
-[18:04:06] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded BlockList.yml.
-[18:04:06] [Server thread/INFO]: [CrazyEnchantments] Loading the Data.yml.
-[18:04:06] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Data.yml.
-[18:04:06] [Server thread/INFO]: [CrazyEnchantments] Loading the Enchantments.yml.
-[18:04:06] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Enchantments.yml.
-[18:04:06] [Server thread/INFO]: [CrazyEnchantments] Loading the GKitz.yml.
-[18:04:06] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded GKitz.yml.
-[18:04:06] [Server thread/INFO]: [CrazyEnchantments] Loading the Messages.yml.
-[18:04:06] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Messages.yml.
-[18:04:06] [Server thread/INFO]: [CrazyEnchantments] Loading the Enchantment-Types.yml.
-[18:04:06] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Enchantment-Types.yml.
-[18:04:06] [Server thread/INFO]: [CrazyEnchantments] Loading the Tinker.yml.
-[18:04:06] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Tinker.yml.
-[18:04:07] [Server thread/WARN]: [CrazyEnchantments] No eco plugin found or the eco plugin didn't enable. Any economy based feature will not work.
-[18:04:07] [Server thread/INFO]: [CrazyEnchantments] §8§l=== §e§lCrazyEnchantment Hook Status §8§l===
-[18:04:07] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS §c§lNOT FOUND
-[18:04:07] [Server thread/INFO]: [CrazyEnchantments] §6§lMCMMO §c§lNOT FOUND
-[18:04:07] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDGUARD §c§lNOT FOUND
-[18:04:07] [Server thread/INFO]: [CrazyEnchantments] §6§lVAULT §c§lNOT FOUND
-[18:04:07] [Server thread/INFO]: [CrazyEnchantments] §6§lNO_CHEAT_PLUS §c§lNOT FOUND
-[18:04:07] [Server thread/INFO]: [CrazyEnchantments] §6§lSPARTAN §c§lNOT FOUND
-[18:04:07] [Server thread/INFO]: [CrazyEnchantments] §6§lTOWNYADVANCED §c§lNOT FOUND
-[18:04:07] [Server thread/INFO]: [CrazyEnchantments] §6§lPLOT_SQUARED §c§lNOT FOUND
-[18:04:07] [Server thread/INFO]: [CrazyEnchantments] §6§lFACTIONS_UUID §c§lNOT FOUND
-[18:04:07] [Server thread/INFO]: [CrazyEnchantments] §6§lORAXEN §c§lNOT FOUND
-[18:04:07] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDEDIT §c§lNOT FOUND
-[18:04:07] [Server thread/INFO]: [CrazyEnchantments] §6§lGRIEF_PREVENTION §c§lNOT FOUND
-[18:04:07] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS_V2 §c§lNOT FOUND
-[18:04:07] [Server thread/INFO]: [CrazyEnchantments] §6§lSUPERIORSKYBLOCK §c§lNOT FOUND
-[18:04:07] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_20_R1! Trying to find NMS support
-[18:04:07] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
-[18:04:07] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Gson: class com.google.gson.Gson
-[18:04:07] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'SkinsRestorer' to create a bStats instance!
-[18:04:07] [Server thread/INFO]: [CrazyEnchantments] G-Kitz support is now enabled.
-[18:04:07] [Server thread/INFO]: [QualityArmory] Enabling QualityArmory v2.0.17
-[18:04:07] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_20_R1! Trying to find NMS support
-[18:04:07] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
-[18:04:07] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'QualityArmory' to create a bStats instance!
-[18:04:08] [Server thread/INFO]: [QualityArmory] -Loaded 11 Ammo types.
-[18:04:08] [Server thread/INFO]: [QualityArmory] -Loaded 16 Misc.
-[18:04:08] [Server thread/INFO]: [QualityArmory] -Loaded 70 Gun types.
-[18:04:08] [Server thread/INFO]: [QualityArmory] -Loading Attachment: awpasiimov
-[18:04:08] [Server thread/INFO]: [QualityArmory] -Loading Attachment: p30silenced
-[18:04:08] [Server thread/INFO]: [QualityArmory] -Loading Attachment: uzicorn
-[18:04:08] [Server thread/INFO]: [QualityArmory] -Loaded 3 Attachment types.
-[18:04:08] [Server thread/INFO]: [QualityArmory] -Loaded 4 Armor types.
-[18:04:08] [Server thread/INFO]: [AxGraves] Enabling AxGraves v1.17.0
-[18:04:09] [Server thread/INFO]: [ImprovedFactions] Enabling ImprovedFactions v2.2.0
-[18:04:09] [Server thread/INFO]: [ImprovedFactions] [gui] Gui module is enabled but GuiEngine is not installed. Disabling Gui module.
-[18:04:10] [Server thread/INFO]: [ImprovedFactions] Checking for updates...
-[18:04:10] [Server thread/INFO]: [ImprovedFactions] Config is up to date
-[18:04:10] [Server thread/WARN]: [ImprovedFactions] No whitelisted worlds found in config. Allowing all worlds
-[18:04:10] [Server thread/INFO]: [ImprovedFactions] Using database SQLITE as database
-[18:04:11] [Server thread/INFO]: [ImprovedFactions] Loaded module power-raids
-[18:04:11] [Server thread/INFO]: [ImprovedFactions] Loaded module dynmap
-[18:04:11] [Server thread/INFO]: [ImprovedFactions] Loaded module wilderness
-[18:04:11] [Server thread/INFO]: [ImprovedFactions] Loaded module home
-[18:04:11] [Server thread/INFO]: [ImprovedFactions] Loaded module chat
-[18:04:11] [Server thread/INFO]: [ImprovedFactions] Loaded module claim-particles
-[18:04:11] [Server thread/INFO]: [ImprovedFactions] Papi not found. Skipping Papi registration
-[18:04:12] [Server thread/INFO]: [TAB] Enabling TAB v5.0.3
-[18:04:12] [Server thread/INFO]: [TAB] Loaded NMS hook in 97ms
-[18:04:12] [Server thread/INFO]: [TAB] Enabled in 312ms
-[18:04:12] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.26
-[18:04:12] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.20.1-R0.1
-[18:04:12] [Server thread/INFO]: [voicechat] Compatibility version 18
-[18:04:12] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
-[18:04:12] [Server thread/INFO]: [ProtectionBlocks] Enabling ProtectionBlocks v1.0.9
-[18:04:12] [Server thread/WARN]: [ProtectionBlocks] ===================================
-[18:04:12] [Server thread/WARN]: [ProtectionBlocks] WARNING: You're running an outdated server version (1.20.1)!
-[18:04:12] [Server thread/WARN]: [ProtectionBlocks] This version will no longer be supported in future relases.
-[18:04:12] [Server thread/WARN]: [ProtectionBlocks] Please upgrade your server to 1.20.4.
-[18:04:12] [Server thread/WARN]: [ProtectionBlocks] ABSOLUTELY NO DISCORD SUPPORT WILL BE PROVIDED
-[18:04:12] [Server thread/WARN]: [ProtectionBlocks] ===================================
-[18:04:12] [Server thread/INFO]: [ProtectionBlocks] Powered by: PLAZMER-ENGINE
-[18:04:12] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-35 - Starting...
-[18:04:12] [Server thread/INFO]: [com.zaxxer.hikari.pool.HikariPool] ProtectionBlocks-35 - Added connection org.sqlite.jdbc4.JDBC4Connection@32a022a4
-[18:04:12] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-35 - Start completed.
-[18:04:12] [Server thread/INFO]: [ProtectionBlocks] Using DecentHolograms hologram handler.
-[18:04:12] [Server thread/INFO]: [ProtectionBlocks] Registered currency: exp
-[18:04:12] [Server thread/INFO]: [ProtectionBlocks] Plugin loaded in 159 ms!
-[18:04:12] [Server thread/INFO]: Running delayed init tasks
-[18:04:13] [Server thread/INFO]: [ProtectionBlocks] Region Blocks Loaded: 2
-[18:04:13] [Server thread/ERROR]: [ProtectionBlocks] Cannot load the Region but Region Block 'bloque_de_diamante' not Created or Loaded!
-[18:04:13] [Server thread/ERROR]: [ProtectionBlocks] Region not loaded 'fa508b0-2.yml'
-[18:04:13] [Server thread/ERROR]: [ProtectionBlocks] Cannot load the Region but Region Block 'bloque_de_diamante' not Created or Loaded!
-[18:04:13] [Server thread/ERROR]: [ProtectionBlocks] Region not loaded 'd56596d-3.yml'
-[18:04:13] [Server thread/INFO]: [ProtectionBlocks] Regions Loaded: 2
-[18:04:13] [Server thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18:04:13] [Server thread/INFO]: Done (25.417s)! For help, type "help"
-[18:04:13] [Server thread/INFO]: Timings Reset
-[18:04:13] [Server thread/INFO]: [voicechat] Loading plugins
-[18:04:13] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
-[18:04:13] [Server thread/INFO]: [voicechat] Initializing plugins
-[18:04:13] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
-[18:04:13] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[18:04:13] [User Authenticator #0/INFO]: UUID of player XxMatos15 is 2a9ff858-04dc-3136-97df-619a6316d09a
-[18:04:13] [VoiceChatServerThread/ERROR]: [voicechat] Failed to bind to address '172.28.190.108', binding to wildcard IP instead
-[18:04:13] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 172.28.190.108:24454
-[18:04:13] [TAB Processing Thread/INFO]: [TAB] [WARN] Player XxMatos15's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[18:04:13] [Server thread/INFO]: XxMatos15 joined the game
-[18:04:13] [Server thread/INFO]: XxMatos15[/172.28.131.63:49623] logged in with entity id 1 at ([world]-52.60390876167915, 65.0, 304.869185694549)
-[18:04:16] [Thread-30/ERROR]: Thread Thread-30 failed main thread check: chunk load
-java.lang.Throwable: null
-	at org.spigotmc.AsyncCatcher.catchOp(AsyncCatcher.java:14) ~[paper-1.20.1.jar:git-Paper-196]
-	at org.bukkit.craftbukkit.v1_20_R1.CraftWorld.loadChunk(CraftWorld.java:540) ~[paper-1.20.1.jar:git-Paper-196]
-	at org.bukkit.craftbukkit.v1_20_R1.CraftWorld.loadChunk(CraftWorld.java:400) ~[paper-1.20.1.jar:git-Paper-196]
-	at org.bukkit.craftbukkit.v1_20_R1.CraftWorld.loadChunk(CraftWorld.java:600) ~[paper-1.20.1.jar:git-Paper-196]
-	at t.me.p1azmer.plugin.protectionblocks.region.impl.Region.loadLocations(Region.java:119) ~[ProtectionBlocks-1.0.9.jar:?]
-	at java.util.concurrent.ConcurrentHashMap$ValuesView.forEach(ConcurrentHashMap.java:4780) ~[?:?]
-	at t.me.p1azmer.plugin.protectionblocks.region.RegionManager.lambda$onLoad$2(RegionManager.java:77) ~[ProtectionBlocks-1.0.9.jar:?]
-	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[18:04:25] [Server thread/INFO]: XxMatos15 was slain by Zombie
-[18:06:39] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
-[18:09:58] [User Authenticator #1/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
-[18:09:59] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Churrupakin's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[18:09:59] [Server thread/INFO]: Churrupakin joined the game
-[18:09:59] [Server thread/INFO]: Churrupakin[/172.28.161.65:55822] logged in with entity id 1264 at ([world]133.99067747065047, 63.0, 98.26640296081273)
-[18:10:02] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
-[18:10:02] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
-[18:10:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[18:10:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[18:10:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
-[18:11:22] [User Authenticator #2/INFO]: UUID of player SKrampusPEcausa is 20fe05e7-673b-3913-95a3-dc8280b86505
-[18:11:22] [Server thread/INFO]: SKrampusPEcausa joined the game
-[18:11:22] [TAB Processing Thread/INFO]: [TAB] [WARN] Player SKrampusPEcausa's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[18:11:22] [Server thread/INFO]: SKrampusPEcausa[/172.28.128.43:51127] logged in with entity id 1568 at ([world]236.7940802896447, 137.0, 60.88634104273887)
-[18:11:56] [Server thread/INFO]: Churrupakin issued server command: /dynmap render 500
-[18:12:22] [Server thread/INFO]: Churrupakin issued server command: /dynmap fullrender
-[18:13:16] [Server thread/INFO]: [WEB] 10.240.2.99: xd
-[18:13:17] [Async Chat Thread - #1/INFO]: [Not Secure] <XxMatos15> q paquete se descargha
-[18:13:24] [Async Chat Thread - #1/INFO]: [Not Secure] <XxMatos15> !s
-[18:13:28] [Async Chat Thread - #1/INFO]: [Not Secure] <SKrampusPEcausa> oe que mods le metoste
-[18:14:50] [Server thread/INFO]: Churrupakin issued server command: /faction
-[18:15:05] [Server thread/INFO]: Churrupakin issued server command: /f help category:power.command.category.power
-[18:15:15] [Server thread/INFO]: Churrupakin issued server command: /f help category:base.command.category.manage
-[18:15:39] [Async Chat Thread - #2/INFO]: [Not Secure] <Churrupakin> papus
-[18:15:54] [Async Chat Thread - #3/INFO]: [Not Secure] <Churrupakin> voy a eliminr el plgin de los bloques q protegen
-[18:16:04] [Async Chat Thread - #3/INFO]: [Not Secure] <Churrupakin> pq hay otro de faction
-[18:16:17] [Async Chat Thread - #3/INFO]: [Not Secure] <SKrampusPEcausa> y mi ump evolutiva
-[18:16:52] [Async Chat Thread - #3/INFO]: [Not Secure] <Churrupakin> para ver los comandos /fac help
-[18:17:04] [Async Chat Thread - #3/INFO]: [Not Secure] <XxMatos15> xd
-[18:17:06] [Server thread/INFO]: XxMatos15 issued server command: /fac
-[18:17:10] [Server thread/INFO]: XxMatos15 issued server command: /f help category:base.command.category.claim
-[18:17:42] [Async Chat Thread - #2/INFO]: [Not Secure] <SKrampusPEcausa> valla pta mierda de pin
-[18:18:05] [Server thread/INFO]: SKrampusPEcausa fell from a high place
-[18:18:18] [Server thread/INFO]: Churrupakin issued server command: /tp SKrampusPEcausa Churrupakin
-[18:18:18] [Server thread/INFO]: [Churrupakin: Teleported SKrampusPEcausa to Churrupakin]
-[18:18:20] [Server thread/INFO]: SKrampusPEcausa was shot by Churrupakin using a AK47
-[18:18:24] [Server thread/INFO]: Churrupakin issued server command: /tp SKrampusPEcausa Churrupakin
-[18:18:24] [Server thread/INFO]: [Churrupakin: Teleported SKrampusPEcausa to Churrupakin]
-[18:18:31] [Async Chat Thread - #2/INFO]: [Not Secure] <XxMatos15> como se ace
-[18:18:35] [Async Chat Thread - #2/INFO]: [Not Secure] <SKrampusPEcausa> el patron
-[18:18:47] [Async Chat Thread - #2/INFO]: [Not Secure] <Churrupakin> ves las armas?
-[18:18:51] [Async Chat Thread - #2/INFO]: [Not Secure] <SKrampusPEcausa> si
-[18:18:57] [Async Chat Thread - #2/INFO]: [Not Secure] <SKrampusPEcausa> pasate una pe
-[18:19:10] [Async Chat Thread - #2/INFO]: [Not Secure] <SKrampusPEcausa> o como se craftea
-[18:19:36] [Async Chat Thread - #2/INFO]: [Not Secure] <Churrupakin> voy a ver si lo hago para craftear o comprar con xp
-[18:19:44] [Server thread/INFO]: Churrupakin issued server command: /plugins
-[18:19:47] [Async Chat Thread - #3/INFO]: [Not Secure] <SKrampusPEcausa> pa craftear nomas
-[18:20:02] [Server thread/INFO]: Churrupakin issued server command: /axgrave
-[18:20:51] [User Authenticator #3/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
-[18:20:51] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[18:20:51] [Server thread/INFO]: pingaparaangel joined the game
-[18:20:51] [Server thread/INFO]: pingaparaangel[/172.28.117.248:60280] logged in with entity id 3759 at ([world]-111.41572650394579, 3.0, 251.30000001192093)
-[18:20:55] [Server thread/INFO]: XxMatos15 was shot by Churrupakin using a AK47
-[18:21:00] [Async Chat Thread - #4/INFO]: [Not Secure] <SKrampusPEcausa> papus desierto?
-[18:21:03] [Async Chat Thread - #5/INFO]: [Not Secure] <XxMatos15> la mrd
-[18:21:09] [Async Chat Thread - #5/INFO]: [Not Secure] <XxMatos15> como se consigue esa wea
-[18:21:13] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15 Churrupakin
-[18:21:13] [Server thread/INFO]: [Churrupakin: Teleported XxMatos15 to Churrupakin]
-[18:21:30] [Async Chat Thread - #5/INFO]: [Not Secure] <Churrupakin> ahora lo voy a poner
-[18:21:34] [Async Chat Thread - #5/INFO]: [Not Secure] <Churrupakin> mi ak dragon
-[18:21:45] [Server thread/INFO]: Churrupakin issued server command: /plugins
-[18:21:59] [Server thread/INFO]: Churrupakin issued server command: /qualityarmory shop
-[18:22:02] [Server thread/INFO]: XxMatos15 issued server command: /fac
-[18:22:07] [Server thread/INFO]: XxMatos15 issued server command: /f help category:base.command.category.admin
-[18:22:15] [Server thread/INFO]: XxMatos15 issued server command: /factions zone
-[18:22:16] [Server thread/INFO]: Churrupakin issued server command: /qualityarmory shop
-[18:22:32] [Server thread/INFO]: XxMatos15 issued server command: /f help category:base.command.category.general
-[18:22:32] [Server thread/INFO]: XxMatos15 issued server command: /f help category:base.command.category.general
-[18:22:40] [Server thread/INFO]: XxMatos15 issued server command: /factions wilderness
-[18:22:40] [Server thread/ERROR]: null
-org.bukkit.command.CommandException: Unhandled exception executing command 'factions' in plugin ImprovedFactions v2.2.0
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:155) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchCommand(CraftServer.java:987) ~[paper-1.20.1.jar:git-Paper-196]
-	at org.bukkit.craftbukkit.v1_20_R1.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:64) ~[paper-1.20.1.jar:git-Paper-196]
-	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:265) ~[paper-1.20.1.jar:?]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:324) ~[?:?]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:308) ~[?:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.performChatCommand(ServerGamePacketListenerImpl.java:2354) ~[?:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$21(ServerGamePacketListenerImpl.java:2314) ~[?:?]
-	at net.minecraft.util.thread.BlockableEventLoop.lambda$submitAsync$0(BlockableEventLoop.java:59) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1338) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:197) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
-	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1315) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1308) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
-	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1286) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1174) ~[paper-1.20.1.jar:git-Paper-196]
+[23:12:44] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[23:12:45] [Server thread/INFO]: Default game type: SURVIVAL
+[23:12:45] [Server thread/INFO]: Generating keypair
+[23:12:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:12:46] [Server thread/INFO]: Using epoll channel type
+[23:12:46] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[23:12:46] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[23:12:46] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loading 2 libraries... please wait
+[23:12:47] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loaded library /workspaces/MSX-2/servidor_minecraft/libraries/it/unimi/dsi/fastutil/8.5.11/fastutil-8.5.11.jar
+[23:12:47] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loaded library /workspaces/MSX-2/servidor_minecraft/libraries/com/zaxxer/HikariCP/5.0.1/HikariCP-5.0.1.jar
+[23:12:47] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loaded library /workspaces/MSX-2/servidor_minecraft/libraries/org/slf4j/slf4j-api/2.0.0-alpha1/slf4j-api-2.0.0-alpha1.jar
+[23:12:47] [Server thread/INFO]: [PLAZMER-ENGINE] Server version detected as Paper 1.20.1.
+[23:12:47] [Server thread/INFO]: [PLAZMER-ENGINE] [Core Components] ENTITY_ID_GENERATOR: Loaded
+[23:12:47] [Server thread/INFO]: [PLAZMER-ENGINE] [Core Components] ITEM_NBT_COMPRESSOR: Loaded
+[23:12:48] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
+[23:12:48] [Server thread/INFO]: [dynmap] Loading server plugin dynmap v3.7-SNAPSHOT-948
+[23:12:48] [Server thread/INFO]: [dynmap] version=git-Paper-196 (MC: 1.20.1)
+[23:12:48] [Server thread/INFO]: [dynmap] Mod Support API available
+[23:12:48] [Server thread/INFO]: [DecentHolograms] Loading server plugin DecentHolograms v2.8.12
+[23:12:48] [Server thread/INFO]: [PLAZMER-ENGINE] Loading server plugin PLAZMER-ENGINE v2.4.8
+[23:12:48] [Server thread/INFO]: [CrazyEnchantments] Loading server plugin CrazyEnchantments v2.1
+[23:12:48] [Server thread/INFO]: [QualityArmory] Loading server plugin QualityArmory v2.0.17
+[23:12:48] [Server thread/INFO]: [AxGraves] Loading server plugin AxGraves v1.17.0
+[23:12:48] [Server thread/INFO]: [AxGraves] Loading library commons-math3
+[23:12:48] [Server thread/INFO]: [AxGraves] Loading library caffeine
+[23:12:48] [Server thread/INFO]: [ImprovedFactions] Loading server plugin ImprovedFactions v2.2.0
+[23:12:48] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.3
+[23:12:48] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.26
+[23:12:48] [Server thread/INFO]: [ProtectionBlocks] Loading server plugin ProtectionBlocks v1.0.9
+[23:12:48] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:12:48] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
+[23:12:50] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[23:12:50] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
+[23:12:51] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[23:12:51] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
+[23:12:51] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
+[23:12:51] [Server thread/INFO]: [PLAZMER-ENGINE] Enabling PLAZMER-ENGINE v2.4.8
+[23:12:51] [Server thread/WARN]: [PLAZMER-ENGINE] ===================================
+[23:12:51] [Server thread/WARN]: [PLAZMER-ENGINE] WARNING: You're running an outdated server version (1.20.1)!
+[23:12:51] [Server thread/WARN]: [PLAZMER-ENGINE] This version will no longer be supported in future relases.
+[23:12:51] [Server thread/WARN]: [PLAZMER-ENGINE] Please upgrade your server to 1.20.4.
+[23:12:51] [Server thread/WARN]: [PLAZMER-ENGINE] ABSOLUTELY NO DISCORD SUPPORT WILL BE PROVIDED
+[23:12:51] [Server thread/WARN]: [PLAZMER-ENGINE] ===================================
+[23:12:51] [Server thread/INFO]: [PLAZMER-ENGINE] Seems like we have Paper based fork here...
+[23:12:51] [Server thread/INFO]: [PLAZMER-ENGINE] Plugin loaded in 195 ms!
+[23:12:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:12:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:12:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:12:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:12:51] [Server thread/INFO]: Preparing level "world"
+[23:12:51] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:12:51] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[23:12:51] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[23:12:51] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[23:12:51] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[23:12:51] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[23:12:51] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:12:51] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.1
+[23:12:51] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: d5d8613
+[23:12:51] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[23:12:51] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:12:51] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[23:12:51] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[23:12:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:12:54] [Server thread/INFO]: Time elapsed: 1060 ms
+[23:12:54] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[23:12:54] [Server thread/INFO]: Time elapsed: 338 ms
+[23:12:54] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[23:12:54] [Server thread/INFO]: Time elapsed: 215 ms
+[23:12:54] [Server thread/INFO]: [dynmap] Enabling dynmap v3.7-SNAPSHOT-948
+[23:12:56] [Server thread/INFO]: [dynmap] Added 20 custom biome mappings
+[23:12:56] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
+[23:12:56] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
+[23:12:58] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[23:13:15] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
+[23:13:15] [Server thread/INFO]: [dynmap] Loaded 83 perspectives.
+[23:13:15] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
+[23:13:15] [Server thread/INFO]: [dynmap] Starting enter/exit processing
+[23:13:16] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
+[23:13:17] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
+[23:13:17] [Server thread/INFO]: [dynmap] version 3.7-SNAPSHOT-948 is enabled - core version 3.7-SNAPSHOT-949
+[23:13:17] [Server thread/INFO]: [dynmap] For support, visit our Discord at https://discord.gg/s3rd5qn
+[23:13:17] [Server thread/INFO]: [dynmap] For news, visit https://reddit.com/r/Dynmap or follow https://universeodon.com/@dynmap
+[23:13:17] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[23:13:17] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
+[23:13:17] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[23:13:17] [Server thread/INFO]: [dynmap] Loaded 574 pending tile renders for world 'world'
+[23:13:17] [Server thread/INFO]: [dynmap] Full render for world 'world' restored
+[23:13:17] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[23:13:17] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[23:13:17] [Server thread/INFO]: [dynmap] Enabled
+[23:13:17] [Server thread/INFO]: [DecentHolograms] Enabling DecentHolograms v2.8.12
+[23:13:17] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[23:13:18] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_20_R1! Trying to find NMS support
+[23:13:18] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
+[23:13:18] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'DecentHolograms' to create a bStats instance!
+[23:13:18] [Server thread/INFO]: [CrazyEnchantments] Enabling CrazyEnchantments v2.1
+[23:13:18] [Server thread/INFO]: [CrazyEnchantments] Loading the config.yml.
+[23:13:18] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded config.yml.
+[23:13:18] [Server thread/INFO]: [CrazyEnchantments] Loading the BlockList.yml.
+[23:13:19] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded BlockList.yml.
+[23:13:19] [Server thread/INFO]: [CrazyEnchantments] Loading the Data.yml.
+[23:13:19] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Data.yml.
+[23:13:19] [Server thread/INFO]: [CrazyEnchantments] Loading the Enchantments.yml.
+[23:13:19] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Enchantments.yml.
+[23:13:19] [Server thread/INFO]: [CrazyEnchantments] Loading the GKitz.yml.
+[23:13:19] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded GKitz.yml.
+[23:13:19] [Server thread/INFO]: [CrazyEnchantments] Loading the Messages.yml.
+[23:13:19] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Messages.yml.
+[23:13:19] [Server thread/INFO]: [CrazyEnchantments] Loading the Enchantment-Types.yml.
+[23:13:19] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Enchantment-Types.yml.
+[23:13:19] [Server thread/INFO]: [CrazyEnchantments] Loading the Tinker.yml.
+[23:13:19] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Tinker.yml.
+[23:13:20] [Server thread/WARN]: [CrazyEnchantments] No eco plugin found or the eco plugin didn't enable. Any economy based feature will not work.
+[23:13:20] [Server thread/INFO]: [CrazyEnchantments] §8§l=== §e§lCrazyEnchantment Hook Status §8§l===
+[23:13:20] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS §c§lNOT FOUND
+[23:13:20] [Server thread/INFO]: [CrazyEnchantments] §6§lPLOT_SQUARED §c§lNOT FOUND
+[23:13:20] [Server thread/INFO]: [CrazyEnchantments] §6§lSPARTAN §c§lNOT FOUND
+[23:13:20] [Server thread/INFO]: [CrazyEnchantments] §6§lSUPERIORSKYBLOCK §c§lNOT FOUND
+[23:13:20] [Server thread/INFO]: [CrazyEnchantments] §6§lORAXEN §c§lNOT FOUND
+[23:13:20] [Server thread/INFO]: [CrazyEnchantments] §6§lTOWNYADVANCED §c§lNOT FOUND
+[23:13:20] [Server thread/INFO]: [CrazyEnchantments] §6§lVAULT §c§lNOT FOUND
+[23:13:20] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS_V2 §c§lNOT FOUND
+[23:13:20] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDEDIT §c§lNOT FOUND
+[23:13:20] [Server thread/INFO]: [CrazyEnchantments] §6§lFACTIONS_UUID §c§lNOT FOUND
+[23:13:20] [Server thread/INFO]: [CrazyEnchantments] §6§lNO_CHEAT_PLUS §c§lNOT FOUND
+[23:13:20] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDGUARD §c§lNOT FOUND
+[23:13:20] [Server thread/INFO]: [CrazyEnchantments] §6§lMCMMO §c§lNOT FOUND
+[23:13:20] [Server thread/INFO]: [CrazyEnchantments] §6§lGRIEF_PREVENTION §c§lNOT FOUND
+[23:13:20] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_20_R1! Trying to find NMS support
+[23:13:20] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
+[23:13:20] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Gson: class com.google.gson.Gson
+[23:13:20] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'SkinsRestorer' to create a bStats instance!
+[23:13:21] [Server thread/INFO]: [CrazyEnchantments] G-Kitz support is now enabled.
+[23:13:21] [Server thread/INFO]: [QualityArmory] Enabling QualityArmory v2.0.17
+[23:13:21] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_20_R1! Trying to find NMS support
+[23:13:21] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
+[23:13:21] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'QualityArmory' to create a bStats instance!
+[23:13:22] [Server thread/ERROR]: Cannot load plugins/QualityArmory/lang/message_en.yml
+org.bukkit.configuration.InvalidConfigurationException: while parsing a block mapping
+ in 'reader', line 1, column 1:
+    Prefix: "&8[&2QualityArmory&8]&r"
+    ^
+expected <block end>, but found '<anchor>'
+ in 'reader', line 4, column 10:
+    NoPerm: '&c No tienes permiso para hacer  ... 
+             ^
+
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:111) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at me.zombie_striker.qg.config.CommentYamlConfiguration.load(CommentYamlConfiguration.java:35) ~[QualityArmory.jar:?]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:128) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at me.zombie_striker.qg.config.CommentYamlConfiguration.loadConfiguration(CommentYamlConfiguration.java:104) ~[QualityArmory.jar:?]
+	at me.zombie_striker.qg.config.MessagesYML.<init>(MessagesYML.java:37) ~[QualityArmory.jar:?]
+	at me.zombie_striker.qg.QAMain.reloadVals(QAMain.java:832) ~[QualityArmory.jar:?]
+	at me.zombie_striker.qg.QAMain.onEnable(QAMain.java:692) ~[QualityArmory.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:281) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:189) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:104) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:507) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.enablePlugin(CraftServer.java:642) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.enablePlugins(CraftServer.java:553) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:635) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:434) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:308) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1100) ~[paper-1.20.1.jar:git-Paper-196]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-Caused by: java.lang.IllegalStateException: No transaction in context.
-	at org.jetbrains.exposed.sql.transactions.TransactionManager$Companion.current(TransactionApi.kt:229) ~[ImprovedFactions-2.2.0.jar:?]
-	at org.jetbrains.exposed.dao.EntityClass.invalidateEntityInCache$exposed_dao(EntityClass.kt:120) ~[ImprovedFactions-2.2.0.jar:?]
-	at org.jetbrains.exposed.dao.Entity.setValue(Entity.kt:231) ~[ImprovedFactions-2.2.0.jar:?]
-	at io.github.toberocat.improvedfactions.utils.options.limit.PlayerUsageLimit.setUsed(PlayerUsageLimit.kt:11) ~[ImprovedFactions-2.2.0.jar:?]
-	at io.github.toberocat.improvedfactions.modules.wilderness.commands.WildernessCommand.cancelCommand(WildernessCommand.kt:80) ~[ImprovedFactions-2.2.0.jar:?]
-	at io.github.toberocat.improvedfactions.modules.wilderness.commands.WildernessCommand.handle(WildernessCommand.kt:46) ~[ImprovedFactions-2.2.0.jar:?]
-	at io.github.toberocat.improvedfactions.toberocore.command.PlayerSubCommand.handleCommand(PlayerSubCommand.java:29) ~[ImprovedFactions-2.2.0.jar:?]
-	at io.github.toberocat.improvedfactions.toberocore.command.SubCommand.handleWithOptions(SubCommand.java:95) ~[ImprovedFactions-2.2.0.jar:?]
-	at io.github.toberocat.improvedfactions.toberocore.command.SubCommand.routeCall(SubCommand.java:75) ~[ImprovedFactions-2.2.0.jar:?]
-	at io.github.toberocat.improvedfactions.toberocore.command.CommandExecutor.onCommand(CommandExecutor.java:52) ~[ImprovedFactions-2.2.0.jar:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
-	... 23 more
-[18:22:40] [Server thread/INFO]: pingaparaangel was shot by Skeleton
-[18:22:45] [Async Chat Thread - #6/INFO]: [Not Secure] <Churrupakin> papus es mi faction
-[18:22:52] [Async Chat Thread - #7/INFO]: [Not Secure] <Churrupakin> desierto es como no claimeadoa
-[18:22:58] [Server thread/INFO]: XxMatos15 issued server command: /factions wilderness
-[18:22:58] [Server thread/ERROR]: null
-org.bukkit.command.CommandException: Unhandled exception executing command 'factions' in plugin ImprovedFactions v2.2.0
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:155) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchCommand(CraftServer.java:987) ~[paper-1.20.1.jar:git-Paper-196]
-	at org.bukkit.craftbukkit.v1_20_R1.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:64) ~[paper-1.20.1.jar:git-Paper-196]
-	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:265) ~[paper-1.20.1.jar:?]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:324) ~[?:?]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:308) ~[?:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.performChatCommand(ServerGamePacketListenerImpl.java:2354) ~[?:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$21(ServerGamePacketListenerImpl.java:2314) ~[?:?]
-	at net.minecraft.util.thread.BlockableEventLoop.lambda$submitAsync$0(BlockableEventLoop.java:59) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1338) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:197) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
-	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1315) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1308) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
-	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1286) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1174) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-Caused by: java.lang.IllegalStateException: No transaction in context.
-	at org.jetbrains.exposed.sql.transactions.TransactionManager$Companion.current(TransactionApi.kt:229) ~[ImprovedFactions-2.2.0.jar:?]
-	at org.jetbrains.exposed.dao.EntityClass.invalidateEntityInCache$exposed_dao(EntityClass.kt:120) ~[ImprovedFactions-2.2.0.jar:?]
-	at org.jetbrains.exposed.dao.Entity.setValue(Entity.kt:231) ~[ImprovedFactions-2.2.0.jar:?]
-	at io.github.toberocat.improvedfactions.utils.options.limit.PlayerUsageLimit.setUsed(PlayerUsageLimit.kt:11) ~[ImprovedFactions-2.2.0.jar:?]
-	at io.github.toberocat.improvedfactions.modules.wilderness.commands.WildernessCommand.cancelCommand(WildernessCommand.kt:80) ~[ImprovedFactions-2.2.0.jar:?]
-	at io.github.toberocat.improvedfactions.modules.wilderness.commands.WildernessCommand.handle(WildernessCommand.kt:46) ~[ImprovedFactions-2.2.0.jar:?]
-	at io.github.toberocat.improvedfactions.toberocore.command.PlayerSubCommand.handleCommand(PlayerSubCommand.java:29) ~[ImprovedFactions-2.2.0.jar:?]
-	at io.github.toberocat.improvedfactions.toberocore.command.SubCommand.handleWithOptions(SubCommand.java:95) ~[ImprovedFactions-2.2.0.jar:?]
-	at io.github.toberocat.improvedfactions.toberocore.command.SubCommand.routeCall(SubCommand.java:75) ~[ImprovedFactions-2.2.0.jar:?]
-	at io.github.toberocat.improvedfactions.toberocore.command.CommandExecutor.onCommand(CommandExecutor.java:52) ~[ImprovedFactions-2.2.0.jar:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
-	... 23 more
-[18:23:16] [Async Chat Thread - #7/INFO]: [Not Secure] <Churrupakin> hagan /fac help
-[18:23:16] [Server thread/INFO]: pingaparaangel was shot by Skeleton
-[18:23:26] [Server thread/INFO]: XxMatos15 issued server command: /fac help
-[18:24:15] [Server thread/INFO]: pingaparaangel was shot by Skeleton
-[18:26:42] [Async Chat Thread - #8/INFO]: [Not Secure] <SKrampusPEcausa> matias tp en go a la casa
-[18:27:17] [Server thread/INFO]: Churrupakin issued server command: /tp SKrampusPEcausa Churrupakin
-[18:27:17] [Server thread/INFO]: [Churrupakin: Teleported SKrampusPEcausa to Churrupakin]
-[18:27:23] [Server thread/INFO]: XxMatos15 was shot by Skeleton
-[18:27:31] [Async Chat Thread - #9/INFO]: [Not Secure] <SKrampusPEcausa> comida plis xd
-[18:27:40] [Async Chat Thread - #9/INFO]: [Not Secure] <pingaparaangel> Q AGREGARON
-[18:28:16] [Server thread/INFO]: Churrupakin issued server command: /dynmap:dynmap pause all
-[18:28:16] [Server thread/INFO]: [dynmap] Full/radius render pause set to true
-[18:28:16] [Server thread/INFO]: [dynmap] Update render pause set to true
-[18:29:05] [Server thread/INFO]: Churrupakin issued server command: /dynmap radiusrender world
-[18:29:27] [Server thread/INFO]: Churrupakin issued server command: /dynmap render 1000
-[18:29:48] [Server thread/INFO]: SKrampusPEcausa lost connection: Disconnected
-[18:29:48] [Server thread/INFO]: [voicechat] Disconnecting client SKrampusPEcausa
-[18:29:48] [Server thread/INFO]: SKrampusPEcausa left the game
-[18:32:45] [Server thread/INFO]: Churrupakin issued server command: /qa craft
-[18:33:05] [Async Chat Thread - #10/INFO]: [Not Secure] <Churrupakin> las armas si se pueden craftear
-[18:33:20] [Async Chat Thread - #12/INFO]: [Not Secure] <XxMatos15> como
-[18:33:22] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> hagan /qa carft
-[18:33:28] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> les va a salir una gui
-[18:33:32] [Server thread/INFO]: Churrupakin issued server command: /qa craft
-[18:33:43] [Server thread/INFO]: pingaparaangel issued server command: /qa craft
-[18:33:43] [Server thread/INFO]: Churrupakin issued server command: /qa craft
-[18:33:48] [Server thread/INFO]: XxMatos15 issued server command: /qa carft
-[18:33:59] [Server thread/INFO]: pingaparaangel issued server command: /qa craft
-[18:34:06] [Async Chat Thread - #12/INFO]: [Not Secure] <pingaparaangel> no sale nd
-[18:34:11] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> tienen q tener los materiales en su inventario
-[18:34:17] [Server thread/INFO]: XxMatos15 issued server command: /qa carft
-[18:34:19] [Async Chat Thread - #11/INFO]: [Not Secure] <pingaparaangel> pene
-[18:34:21] [Server thread/INFO]: Churrupakin issued server command: /qa craft
-[18:34:25] [Async Chat Thread - #11/INFO]: [Not Secure] <XxMatos15> esta todo in inglish
-[18:35:04] [Server thread/INFO]: XxMatos15 issued server command: /qa shop
-[18:35:16] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> lo voy a traducir vengi
-[18:35:20] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> vengo
-[18:35:44] [Async Chat Thread - #12/INFO]: [Not Secure] <Churrupakin> no s olviden de crar factions pq voy a eliminar el de los bloques
-[18:35:57] [Async Chat Thread - #12/INFO]: [Not Secure] <XxMatos15> como asi
-[18:36:03] [Async Chat Thread - #12/INFO]: [Not Secure] <Churrupakin> voy a tu casa
-[18:36:18] [Async Chat Thread - #11/INFO]: [Not Secure] <XxMatos15> si
-[18:36:30] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> aca estoy en tus cultivos
-[18:37:01] [Async Chat Thread - #11/INFO]: [Not Secure] <pingaparaangel> xdddd
-[18:37:07] [Server thread/INFO]: Churrupakin issued server command: /fac
-[18:37:10] [Async Chat Thread - #11/INFO]: [Not Secure] <pingaparaangel> q fue con la house de sergio
-[18:37:13] [Server thread/INFO]: Churrupakin issued server command: /f help category:base.command.category.general
-[18:37:15] [Async Chat Thread - #11/INFO]: [Not Secure] <pingaparaangel> no quedo nd
-[18:37:17] [Async Chat Thread - #11/INFO]: [Not Secure] <XxMatos15> q me vas a dar
-[18:37:20] [Server thread/INFO]: Churrupakin issued server command: /f help category:base.command.category.manage
-[18:37:31] [Server thread/INFO]: Churrupakin issued server command: /fac create
-[18:37:51] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> has /fac create (nombre)
-[18:38:04] [Server thread/INFO]: XxMatos15 issued server command: /fac create XXmatos15
-[18:38:08] [Async Chat Thread - #12/INFO]: [Not Secure] <XxMatos15> q pongo en name
-[18:38:10] [Server thread/INFO]: Churrupakin issued server command: /fac list
-[18:38:14] [Async Chat Thread - #13/INFO]: [Not Secure] <Churrupakin> lo q quieras
-[18:38:21] [Server thread/INFO]: XxMatos15 issued server command: /fac create pene
-[18:38:24] [Server thread/INFO]: Churrupakin issued server command: /fac list
-[18:38:30] [Async Chat Thread - #13/INFO]: [Not Secure] <Churrupakin> ya ahora
-[18:38:35] [Async Chat Thread - #13/INFO]: [Not Secure] <XxMatos15> q es faccion
-[18:38:36] [Async Chat Thread - #13/INFO]: [Not Secure] <XxMatos15> xd
-[18:38:45] [Async Chat Thread - #13/INFO]: [Not Secure] <Churrupakin> has /fac claim
-[18:38:49] [Server thread/INFO]: XxMatos15 issued server command: /fac claim
-[18:39:02] [Async Chat Thread - #13/INFO]: [Not Secure] <XxMatos15> para q es eso
-[18:39:03] [Async Chat Thread - #11/INFO]: [Not Secure] <XxMatos15> xd
-[18:39:07] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> se va a claimear el chunk
-[18:39:19] [Async Chat Thread - #11/INFO]: [Not Secure] <XxMatos15> pero este no es m casa
-[18:39:20] [Async Chat Thread - #11/INFO]: [Not Secure] <XxMatos15> xd
-[18:39:34] [Async Chat Thread - #13/INFO]: [Not Secure] <Churrupakin> en cada chunk q quieras claimear tienes q poner el /fac claim
-[18:39:48] [Async Chat Thread - #13/INFO]: [Not Secure] <XxMatos15> claimear es q no pueden romper?
-[18:39:57] [User Authenticator #4/INFO]: UUID of player lacalacaxd is 2f973d55-3e2c-33b9-9e01-115ef44fd74f
-[18:39:57] [TAB Processing Thread/INFO]: [TAB] [WARN] Player lacalacaxd's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[18:39:57] [Server thread/INFO]: lacalacaxd joined the game
-[18:39:57] [Server thread/INFO]: lacalacaxd[/172.28.26.209:49812] logged in with entity id 10385 at ([world]183.41605268306776, 70.0, 139.54140972009688)
-[18:39:58] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> el poder se va desgastando 5 por cada chunk
-[18:40:06] [Server thread/WARN]: lacalacaxd was kicked for floating too long!
-[18:40:06] [Server thread/INFO]: lacalacaxd lost connection: Flying is not enabled on this server
-[18:40:06] [Server thread/INFO]: [voicechat] Disconnecting client lacalacaxd
-[18:40:06] [Server thread/INFO]: lacalacaxd left the game
-[18:40:18] [User Authenticator #4/INFO]: UUID of player lacalacaxd is 2f973d55-3e2c-33b9-9e01-115ef44fd74f
-[18:40:18] [TAB Processing Thread/INFO]: [TAB] [WARN] Player lacalacaxd's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[18:40:18] [Server thread/INFO]: lacalacaxd joined the game
-[18:40:18] [Server thread/INFO]: lacalacaxd[/172.28.26.209:49814] logged in with entity id 10555 at ([world]183.41605268306776, 66.84312755346642, 139.54140972009688)
-[18:40:22] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> para invitar a anyelo es
-[18:40:34] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> es /fac invite
-[18:40:43] [Server thread/INFO]: lacalacaxd drowned
-[18:40:43] [Async Chat Thread - #11/INFO]: [Not Secure] <XxMatos15> ya
-[18:40:57] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> ves como no puedo romper
-[18:41:05] [Async Chat Thread - #11/INFO]: [Not Secure] <XxMatos15> ayiaa
-[18:41:20] [Async Chat Thread - #11/INFO]: [Not Secure] <pingaparaangel> vas a quitar ese bloque q nos diste ? xd
-[18:41:24] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> si
-[18:41:32] [Async Chat Thread - #13/INFO]: [Not Secure] <pingaparaangel> mi unico diamante q tenia
-[18:41:36] [Async Chat Thread - #13/INFO]: [Not Secure] <Churrupakin> quedatelo
-[18:41:41] [Async Chat Thread - #13/INFO]: [Not Secure] <Churrupakin> por nividad
-[18:41:54] [Async Chat Thread - #11/INFO]: [Not Secure] <XxMatos15> cual
-[18:41:58] [Async Chat Thread - #13/INFO]: [Not Secure] <pingaparaangel> se puede craftear con eso ? xd
-[18:42:07] [Async Chat Thread - #13/INFO]: [Not Secure] <lacalacaxd> tmre mi casa
-[18:42:12] [Async Chat Thread - #13/INFO]: [Not Secure] <Churrupakin> q fue
-[18:42:19] [Async Chat Thread - #13/INFO]: [Not Secure] <pingaparaangel> mano
-[18:42:19] [Async Chat Thread - #13/INFO]: [Not Secure] <lacalacaxd> esa mrd no fue un creeper
-[18:42:21] [Async Chat Thread - #13/INFO]: [Not Secure] <Churrupakin> mno tus cosas
-[18:42:27] [Async Chat Thread - #13/INFO]: [Not Secure] <Churrupakin> yo ayer lo vi normal xd
-[18:42:28] [Async Chat Thread - #13/INFO]: [Not Secure] <lacalacaxd> tmre
-[18:42:34] [Async Chat Thread - #13/INFO]: [Not Secure] <pingaparaangel> mano
-[18:42:41] [Async Chat Thread - #13/INFO]: [Not Secure] <XxMatos15> XD
-[18:42:43] [Async Chat Thread - #13/INFO]: [Not Secure] <pingaparaangel> no estab a tan destruido ayer
-[18:42:51] [Async Chat Thread - #13/INFO]: [Not Secure] <pingaparaangel> ahora no hay nd xdd
-[18:43:00] [Async Chat Thread - #13/INFO]: [Not Secure] <Churrupakin> xddd
-[18:43:09] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> fue angel seguro
-[18:43:12] [Async Chat Thread - #11/INFO]: [Not Secure] <pingaparaangel> fue angel
-[18:43:15] [Server thread/INFO]: Churrupakin issued server command: /fac list
-[18:43:25] [Async Chat Thread - #11/INFO]: [Not Secure] <pingaparaangel> manooo
-[18:43:29] [Async Chat Thread - #11/INFO]: [Not Secure] <pingaparaangel> quita ese bloque
-[18:43:35] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> cual
-[18:43:35] [Async Chat Thread - #13/INFO]: [Not Secure] <pingaparaangel> pa robarle a la yegua
-[18:43:39] [Async Chat Thread - #13/INFO]: [Not Secure] <lacalacaxd> tmre ese muelon de mrd
-[18:43:49] [Async Chat Thread - #11/INFO]: [Not Secure] <pingaparaangel> vamnos a robarle serpene
-[18:43:53] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> xdddddddddddd
-[18:44:14] [Server thread/INFO]: XxMatos15 fell from a high place
-[18:44:48] [Async Chat Thread - #11/INFO]: [Not Secure] <lacalacaxd> tmre se llevo todas mis cosas
-[18:45:03] [Async Chat Thread - #11/INFO]: [Not Secure] <lacalacaxd> pasen cords de su jato
-[18:45:04] [Async Chat Thread - #11/INFO]: [Not Secure] <pingaparaangel> xd
-[18:45:10] [Async Chat Thread - #13/INFO]: [Not Secure] <Churrupakin> pero angel solo s conecto hoy
-[18:45:12] [Async Chat Thread - #13/INFO]: [Not Secure] <pingaparaangel> no s puede hacer nd
-[18:45:19] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> no creo q halla sido el
-[18:45:28] [Async Chat Thread - #11/INFO]: [Not Secure] <pingaparaangel> ayer tmb estaba q me mato
-[18:45:37] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> si pero estaba la casa
-[18:45:42] [Async Chat Thread - #11/INFO]: [Not Secure] <pingaparaangel> me tiro´la kgadas
-[18:46:11] [Async Chat Thread - #13/INFO]: [Not Secure] <pingaparaangel> ayer enla tarde les dije q estaba heho mrd su house
-[18:46:15] [Server thread/INFO]: Churrupakin issued server command: /qa give awp
-[18:46:19] [Async Chat Thread - #14/INFO]: [Not Secure] <pingaparaangel> pero no tanto xdd
-[18:46:24] [Async Chat Thread - #14/INFO]: [Not Secure] <lacalacaxd> no ayer estaba un poco reventada
-[18:46:25] [Server thread/INFO]: pingaparaangel was shot by Churrupakin using a AWP
-[18:46:33] [Async Chat Thread - #14/INFO]: [Not Secure] <pingaparaangel> ptmr
-[18:46:33] [Async Chat Thread - #14/INFO]: [Not Secure] <XxMatos15> ayer cayo un rao en mi granja
-[18:46:36] [Server thread/INFO]: Churrupakin issued server command: /tp pingaparaangel Churrupakin
-[18:46:36] [Server thread/INFO]: [Churrupakin: Teleported pingaparaangel to Churrupakin]
-[18:46:37] [Async Chat Thread - #14/INFO]: [Not Secure] <XxMatos15> rayo
-[18:46:37] [Async Chat Thread - #14/INFO]: [Not Secure] <pingaparaangel> q fue
-[18:46:43] [Server thread/INFO]: XxMatos15 was shot by Skeleton
-[18:46:44] [Server thread/INFO]: Attempt to teleport removed player XxMatos15 restricted
-[18:46:50] [Async Chat Thread - #13/INFO]: [Not Secure] <XxMatos15> y se empezo a quemar
-[18:46:51] [Async Chat Thread - #13/INFO]: [Not Secure] <XxMatos15> xd
-[18:47:07] [Async Chat Thread - #13/INFO]: [Not Secure] <pingaparaangel> q chch me mato
-[18:47:10] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> puede ser tmb los raoyos
-[18:47:15] [Async Chat Thread - #14/INFO]: [Not Secure] <Churrupakin> un rayo
-[18:47:21] [Async Chat Thread - #14/INFO]: [Not Secure] <pingaparaangel> yr
-[18:47:25] [Async Chat Thread - #14/INFO]: [Not Secure] <XxMatos15> su casa era de madera p
-[18:47:26] [Async Chat Thread - #14/INFO]: [Not Secure] <pingaparaangel> pon tsumani
-[18:47:32] [Async Chat Thread - #14/INFO]: [Not Secure] <lacalacaxd> si pero mis cosas
-[18:47:40] [Server thread/WARN]: Horse (vehicle of XxMatos15) moved wrongly! 0.3228608027686164
-[18:47:40] [Server thread/WARN]: Horse (vehicle of XxMatos15) moved wrongly! 0.6700941529268221
-[18:47:40] [Server thread/WARN]: Horse (vehicle of XxMatos15) moved wrongly! 1.0173275000227306
-[18:47:40] [Server thread/WARN]: Horse (vehicle of XxMatos15) moved wrongly! 1.3645608454800708
-[18:47:43] [Async Chat Thread - #14/INFO]: [Not Secure] <Churrupakin> voy a ver su casa de angel
-[18:47:55] [Async Chat Thread - #11/INFO]: [Not Secure] <pingaparaangel> robale
-[18:47:58] [Async Chat Thread - #14/INFO]: [Not Secure] <lacalacaxd> y tbm habia un hueco en el piso tmre
-[18:48:01] [Async Chat Thread - #14/INFO]: [Not Secure] <Churrupakin> q tenias
-[18:48:07] [Async Chat Thread - #14/INFO]: [Not Secure] <XxMatos15> XD
-[18:48:13] [Async Chat Thread - #14/INFO]: [Not Secure] <pingaparaangel> deja de pegarme ctmre
-[18:48:28] [Async Chat Thread - #14/INFO]: [Not Secure] <lacalacaxd> tenia piedra como mrd
-[18:48:41] [Async Chat Thread - #14/INFO]: [Not Secure] <lacalacaxd> madera rosa y tm 4 o 5 diamantes
-[18:48:45] [Async Chat Thread - #14/INFO]: [Not Secure] <pingaparaangel> es de mi house p down
-[18:49:05] [Async Chat Thread - #11/INFO]: [Not Secure] <pingaparaangel> tengo como mrd en el bunker basura
-[18:49:13] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> te voy a mandar foto de lo q tiene
-[18:49:15] [Async Chat Thread - #14/INFO]: [Not Secure] <XxMatos15> te donamos
-[18:49:22] [Async Chat Thread - #14/INFO]: [Not Secure] <XxMatos15> 5 stack de piedra
-[18:49:35] [Async Chat Thread - #14/INFO]: [Not Secure] <pingaparaangel> como q diamantes xdd
-[18:49:41] [Async Chat Thread - #14/INFO]: [Not Secure] <pingaparaangel> no traje diamantes xdd
-[18:49:54] [Server thread/INFO]: Churrupakin issued server command: /gamemode spectator
-[18:49:54] [Server thread/INFO]: [Churrupakin: Set own game mode to Spectator Mode]
-[18:50:00] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15
-[18:50:00] [Server thread/INFO]: [Churrupakin: Teleported Churrupakin to XxMatos15]
-[18:50:10] [Async Chat Thread - #14/INFO]: [Not Secure] <Churrupakin> ahi te mande
-[18:50:31] [Async Chat Thread - #14/INFO]: [Not Secure] <lacalacaxd> si fue angel tmre
-[18:50:36] [Async Chat Thread - #11/INFO]: [Not Secure] <XxMatos15> mira ig
-[18:50:42] [Async Chat Thread - #11/INFO]: [Not Secure] <pingaparaangel> te dije especial
-[18:50:51] [Async Chat Thread - #11/INFO]: [Not Secure] <pingaparaangel> yaya
-[18:50:57] [Async Chat Thread - #11/INFO]: [Not Secure] <lacalacaxd> tmre ese muelon
-[18:51:27] [Async Chat Thread - #11/INFO]: [Not Secure] <lacalacaxd> haz tp poto
-[18:51:29] [Async Chat Thread - #11/INFO]: [Not Secure] <pingaparaangel> vuelvo
-[18:51:36] [Server thread/INFO]: Churrupakin issued server command: /tp lacalacaxd c
-[18:51:38] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
-[18:51:38] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
-[18:51:38] [Server thread/INFO]: pingaparaangel left the game
-[18:51:38] [Server thread/INFO]: Churrupakin issued server command: /tp lacalacaxd c
-[18:51:42] [Server thread/INFO]: Churrupakin issued server command: /tp lacalacaxd Churrupakin
-[18:51:42] [Server thread/INFO]: [Churrupakin: Teleported lacalacaxd to Churrupakin]
-[18:52:02] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
-[18:52:02] [Server thread/INFO]: [Churrupakin: Set own game mode to Survival Mode]
-[18:52:19] [Async Chat Thread - #11/INFO]: [Not Secure] <lacalacaxd> donde esta su jato?
-[18:52:27] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> pera voy para
-[18:52:48] [Server thread/INFO]: Churrupakin issued server command: /tp lacalacaxd Churrupakin
-[18:52:48] [Server thread/INFO]: [Churrupakin: Teleported lacalacaxd to Churrupakin]
-[18:52:51] [Async Chat Thread - #11/INFO]: [Not Secure] <lacalacaxd> me haces tp
-[18:52:57] [Async Chat Thread - #14/INFO]: [Not Secure] <Churrupakin> mano
-[18:53:18] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> has /fac create (nombre de tu faction)
-[18:53:26] [Server thread/INFO]: Churrupakin issued server command: /pb
-[18:53:29] [Server thread/INFO]: Churrupakin issued server command: /pb editor
-[18:53:34] [Async Chat Thread - #11/INFO]: [Not Secure] <lacalacaxd> en el chat?
-[18:53:35] [Server thread/WARN]: [ProtectionBlocks] Task #7214 for ProtectionBlocks v1.0.9 generated an exception
-java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
-	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at t.me.p1azmer.plugin.protectionblocks.region.editor.RGListEditor.lambda$getObjectClick$5(RGListEditor.java:84) ~[ProtectionBlocks-1.0.9.jar:?]
-	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
-	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[18:53:36] [Server thread/WARN]: [ProtectionBlocks] Task #7217 for ProtectionBlocks v1.0.9 generated an exception
-java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
-	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
-	at t.me.p1azmer.plugin.protectionblocks.region.editor.RGListEditor.lambda$getObjectClick$5(RGListEditor.java:84) ~[ProtectionBlocks-1.0.9.jar:?]
-	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
-	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[18:53:39] [Server thread/INFO]: Churrupakin issued server command: /pb editor
-[18:53:41] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> si
-[18:53:57] [Server thread/INFO]: Churrupakin issued server command: /fac leave
-[18:54:02] [Server thread/INFO]: Churrupakin issued server command: /fac list
-[18:54:15] [Async Chat Thread - #11/INFO]: [Not Secure] <lacalacaxd> cual es el nombre de mi faction?
-[18:54:26] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> tu lo pones
-[18:54:28] [Server thread/INFO]: Churrupakin issued server command: /fac list
-[18:54:31] [Async Chat Thread - #11/INFO]: [Not Secure] <lacalacaxd> yayayay
-[18:55:12] [Server thread/INFO]: Churrupakin issued server command: /fac claim [radius]
-[18:55:22] [Server thread/INFO]: Churrupakin issued server command: /fac claim [10]
-[18:55:29] [Server thread/INFO]: Churrupakin issued server command: /fac claim 10
-[18:55:36] [Server thread/INFO]: Churrupakin issued server command: /fac claim 5
-[18:55:42] [Server thread/INFO]: lacalacaxd issued server command: /fac create (lamamadora)
-[18:55:55] [Server thread/INFO]: Churrupakin issued server command: /fac list
-[18:56:03] [Server thread/INFO]: Churrupakin lost connection: Disconnected
-[18:56:03] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
-[18:56:04] [Server thread/INFO]: Churrupakin left the game
-[18:56:35] [Server thread/INFO]: lacalacaxd issued server command: /fac create
-[18:56:44] [User Authenticator #5/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
-[18:56:44] [Server thread/INFO]: Churrupakin joined the game
-[18:56:44] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Churrupakin's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[18:56:44] [Server thread/INFO]: Churrupakin[/172.28.161.65:56530] logged in with entity id 14016 at ([world]140.56079967208328, 64.0, 99.05458319726475)
-[18:56:44] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
-[18:56:44] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
-[18:56:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[18:56:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[18:56:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
-[18:57:12] [User Authenticator #5/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
-[18:57:12] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[18:57:12] [Server thread/INFO]: pingaparaangel joined the game
-[18:57:12] [Server thread/INFO]: pingaparaangel[/172.28.117.248:60924] logged in with entity id 14295 at ([world]183.55232648522892, 63.0, 140.54484987784787)
-[18:57:19] [Async Chat Thread - #15/INFO]: [Not Secure] <pingaparaangel> pene
-[18:57:28] [Async Chat Thread - #15/INFO]: [Not Secure] <lacalacaxd> oe angelo
-[18:57:30] [Async Chat Thread - #15/INFO]: [Not Secure] <pingaparaangel> ya esta o nd
-[18:57:38] [Async Chat Thread - #16/INFO]: [Not Secure] <pingaparaangel> pera
-[18:57:44] [Async Chat Thread - #16/INFO]: [Not Secure] <pingaparaangel> chifa ta q me hace aglo
-[18:58:00] [Async Chat Thread - #15/INFO]: [Not Secure] <pingaparaangel> ya esta o nd kgada
-[18:58:08] [Async Chat Thread - #15/INFO]: [Not Secure] <lacalacaxd> para irme a vivir con ustedes p
-[18:58:16] [Async Chat Thread - #15/INFO]: [Not Secure] <XxMatos15> tremendo lag
-[18:58:16] [Async Chat Thread - #16/INFO]: [Not Secure] <pingaparaangel> dile a chifa
-[18:58:23] [Async Chat Thread - #15/INFO]: [Not Secure] <XxMatos15> mucho lag tu pici
-[18:58:25] [Server thread/INFO]: Churrupakin issued server command: /faction list
-[18:58:28] [Async Chat Thread - #16/INFO]: [Not Secure] <pingaparaangel> nd
-[18:58:30] [Async Chat Thread - #16/INFO]: [Not Secure] <lacalacaxd> chifon
-[18:58:41] [Async Chat Thread - #15/INFO]: [Not Secure] <XxMatos15> a
-[18:58:41] [Async Chat Thread - #15/INFO]: [Not Secure] <pingaparaangel> va fluido q hablas
-[18:58:50] [Async Chat Thread - #15/INFO]: [Not Secure] <XxMatos15> en el anydesk un lag
-[18:58:54] [Async Chat Thread - #15/INFO]: [Not Secure] <XxMatos15> ahora
-[18:58:58] [Async Chat Thread - #15/INFO]: [Not Secure] <XxMatos15> metete asta abaajo
-[18:59:03] [Async Chat Thread - #15/INFO]: [Not Secure] <XxMatos15> y ay bvas a enonctrar diamante
-[18:59:14] [Async Chat Thread - #15/INFO]: [Not Secure] <pingaparaangel> salte de la wbd
-[18:59:20] [Async Chat Thread - #15/INFO]: [Not Secure] <lacalacaxd> nesecito alguien que me cuide xddd
-[18:59:42] [Async Chat Thread - #16/INFO]: [Not Secure] <Churrupakin> hasle caso p chifon
-[18:59:46] [Async Chat Thread - #15/INFO]: [Not Secure] <XxMatos15> metete a mi casa
-[18:59:59] [Async Chat Thread - #15/INFO]: [Not Secure] <lacalacaxd> te sigo
-[19:00:13] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
-[19:00:13] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
-[19:00:13] [Server thread/INFO]: pingaparaangel left the game
-[19:00:21] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
-[19:00:21] [Server thread/INFO]: [Churrupakin: Set own game mode to Creative Mode]
-[19:00:24] [Async Chat Thread - #17/INFO]: [Not Secure] <XxMatos15> ese x ray tenia vvirus
-[19:00:45] [User Authenticator #6/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
-[19:00:45] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[19:00:45] [Server thread/INFO]: pingaparaangel joined the game
-[19:00:45] [Server thread/INFO]: pingaparaangel[/172.28.117.248:60976] logged in with entity id 14952 at ([world]179.9452349652853, 63.0, 151.9574316206448)
-[19:01:01] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
-[19:01:01] [Server thread/INFO]: [Churrupakin: Set own game mode to Survival Mode]
-[19:01:08] [Async Chat Thread - #17/INFO]: [Not Secure] <Churrupakin> voy a meter un anti xray mrd
-[19:01:19] [Server thread/INFO]: XxMatos15 was shot by Skeleton
-[19:01:20] [Server thread/INFO]: Attempt to teleport removed player XxMatos15 restricted
-[19:01:24] [Async Chat Thread - #16/INFO]: [Not Secure] <pingaparaangel> pera encuentro diamantes
-[19:01:25] [Async Chat Thread - #17/INFO]: [Not Secure] <XxMatos15> mentira era
-[19:01:28] [Async Chat Thread - #17/INFO]: [Not Secure] <XxMatos15> xd
-[19:01:36] [Async Chat Thread - #16/INFO]: [Not Secure] <XxMatos15> le meti ese pack de tetura
-[19:01:54] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
-[19:01:54] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
-[19:01:54] [Server thread/INFO]: pingaparaangel left the game
-[19:02:16] [Server thread/INFO]: Churrupakin issued server command: /fac map
-[19:02:38] [Server thread/INFO]: Churrupakin issued server command: /fac unclaim
-[19:02:48] [Server thread/INFO]: Churrupakin issued server command: /fac unclaim
-[19:02:49] [User Authenticator #7/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
-[19:02:49] [Server thread/INFO]: pingaparaangel joined the game
-[19:02:49] [Server thread/INFO]: pingaparaangel[/172.28.117.248:61189] logged in with entity id 15548 at ([world]132.50157657353424, 63.45968460362864, -0.6740539485154946)
-[19:02:49] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[19:02:53] [Server thread/WARN]: lacalacaxd moved too quickly! -13.099679446502387,0.0,0.36901344879393605
-[19:03:07] [Server thread/INFO]: Churrupakin issued server command: /fac unclaim
-[19:03:10] [Async Chat Thread - #18/INFO]: [Not Secure] <XxMatos15> hay pones tu cofre
-[19:03:14] [Server thread/INFO]: Churrupakin issued server command: /fac unclaim
-[19:03:23] [Server thread/INFO]: Churrupakin issued server command: /fac unclaim
-[19:03:28] [Server thread/INFO]: Churrupakin issued server command: /fac unclaim
-[19:03:31] [Async Chat Thread - #18/INFO]: [Not Secure] <lacalacaxd> te amo chifon
-[19:03:35] [Server thread/INFO]: Churrupakin issued server command: /fac unclaim
-[19:03:37] [Async Chat Thread - #18/INFO]: [Not Secure] <XxMatos15> xd
-[19:03:42] [Server thread/INFO]: Churrupakin issued server command: /fac unclaim
-[19:03:48] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
-[19:03:48] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
-[19:03:48] [Server thread/INFO]: pingaparaangel left the game
-[19:03:53] [Server thread/INFO]: Churrupakin issued server command: /fac list
-[19:03:58] [Server thread/INFO]: XxMatos15 issued server command: /fac create pingasio
-[19:04:06] [Server thread/INFO]: XxMatos15 issued server command: /fac create pingasi
-[19:04:06] [Server thread/INFO]: Churrupakin issued server command: /fac power
-[19:04:10] [Server thread/INFO]: XxMatos15 issued server command: /fac create pinga
-[19:04:19] [Async Chat Thread - #18/INFO]: [Not Secure] <XxMatos15> oe potias
-[19:04:22] [Async Chat Thread - #18/INFO]: [Not Secure] <Churrupakin> dime
-[19:04:32] [Server thread/INFO]: Churrupakin issued server command: /fac claim
-[19:04:34] [Async Chat Thread - #18/INFO]: [Not Secure] <XxMatos15> no me deja poner /fac en mi house
-[19:04:35] [Async Chat Thread - #18/INFO]: [Not Secure] <XxMatos15> xd
-[19:04:42] [User Authenticator #8/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
-[19:04:42] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[19:04:42] [Server thread/INFO]: pingaparaangel joined the game
-[19:04:42] [Server thread/INFO]: pingaparaangel[/172.28.117.248:61210] logged in with entity id 16157 at ([world]148.2098971099497, 63.0, 8.178875441504415)
-[19:04:45] [Async Chat Thread - #18/INFO]: [Not Secure] <Churrupakin> como asi xd
-[19:04:51] [Async Chat Thread - #18/INFO]: [Not Secure] <Churrupakin> es /fac claim
-[19:04:56] [Server thread/INFO]: XxMatos15 issued server command: /fac claim
-[19:04:57] [Server thread/INFO]: Churrupakin issued server command: /gamemode spectator
-[19:04:57] [Server thread/INFO]: [Churrupakin: Set own game mode to Spectator Mode]
-[19:05:03] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15
-[19:05:03] [Server thread/INFO]: [Churrupakin: Teleported Churrupakin to XxMatos15]
-[19:05:04] [Async Chat Thread - #19/INFO]: [Not Secure] <XxMatos15> ya eta
-[19:05:12] [Server thread/INFO]: Churrupakin issued server command: /fac list
-[19:05:23] [Server thread/INFO]: XxMatos15 issued server command: /fac claim
-[19:05:33] [Async Chat Thread - #19/INFO]: [Not Secure] <Churrupakin> invita a tus amigos para q puedan interactuar
-[19:05:49] [Server thread/INFO]: XxMatos15 issued server command: /fac invite lacalacaxd
-[19:06:00] [Server thread/INFO]: pingaparaangel drowned
-[19:06:02] [Server thread/INFO]: Churrupakin issued server command: /fac power add
-[19:06:07] [Server thread/INFO]: Churrupakin issued server command: /fac power add maximum
-[19:06:16] [Server thread/INFO]: Churrupakin issued server command: /fac power add accumulated <power>
-[19:06:23] [Async Chat Thread - #19/INFO]: [Not Secure] <pingaparaangel> chida
-[19:06:30] [Async Chat Thread - #19/INFO]: [Not Secure] <XxMatos15> q
-[19:06:31] [Server thread/INFO]: Churrupakin issued server command: /fac power add maximum <100>
-[19:06:34] [Async Chat Thread - #19/INFO]: [Not Secure] <pingaparaangel> no puedo abrir los cofres
-[19:06:36] [Server thread/INFO]: Churrupakin issued server command: /fac power add maximum 100
-[19:06:53] [Async Chat Thread - #19/INFO]: [Not Secure] <Churrupakin> chifa te tiene q invitar
-[19:06:53] [Async Chat Thread - #19/INFO]: [Not Secure] <XxMatos15> espera
-[19:07:02] [Server thread/INFO]: Churrupakin issued server command: /fac power
-[19:07:03] [Async Chat Thread - #19/INFO]: [Not Secure] <pingaparaangel> necesito pico pa diamantes
-[19:07:28] [Server thread/INFO]: Churrupakin issued server command: /fac power set accumulated 100
-[19:07:33] [Server thread/INFO]: XxMatos15 issued server command: /fac invite pingaparaangel Member
-[19:07:34] [Server thread/INFO]: Churrupakin issued server command: /fac list
-[19:07:42] [Server thread/INFO]: XxMatos15 issued server command: /fac invite lacalacaxd Member
-[19:07:46] [Async Chat Thread - #19/INFO]: [Not Secure] <XxMatos15> ya esta
-[19:07:49] [Server thread/INFO]: Churrupakin issued server command: /fac power add maximum 150
-[19:07:55] [Server thread/INFO]: Churrupakin issued server command: /fac leave
-[19:08:02] [Server thread/INFO]: Churrupakin issued server command: /fac list
-[19:08:10] [Server thread/INFO]: Churrupakin issued server command: /fac reload
-[19:08:10] [Server thread/INFO]: [ImprovedFactions] Config is up to date
-[19:08:10] [Server thread/WARN]: [ImprovedFactions] No whitelisted worlds found in config. Allowing all worlds
-[19:08:14] [Async Chat Thread - #19/INFO]: [Not Secure] <pingaparaangel> no s puedo abrir todos xd
-[19:08:17] [Async Chat Thread - #19/INFO]: [Not Secure] <lacalacaxd> que hago le doy click?
-[19:08:17] [Server thread/INFO]: Churrupakin issued server command: /fac list
-[19:08:22] [Server thread/INFO]: Churrupakin issued server command: /fac power
-[19:08:26] [Server thread/INFO]: pingaparaangel issued server command: /f invites
-[19:08:27] [Async Chat Thread - #18/INFO]: [Not Secure] <XxMatos15> si
-[19:08:29] [Server thread/INFO]: pingaparaangel issued server command: /factions inviteaccept 1
-[19:08:35] [Async Chat Thread - #18/INFO]: [Not Secure] <XxMatos15> as clik
-[19:08:36] [Async Chat Thread - #18/INFO]: [Not Secure] <XxMatos15> xd
-[19:08:44] [Async Chat Thread - #18/INFO]: [Not Secure] <pingaparaangel> avisa ps
-[19:08:49] [Server thread/INFO]: Churrupakin issued server command: /fac list
-[19:09:00] [Async Chat Thread - #18/INFO]: [Not Secure] <Churrupakin> vengo voy a traducir
-[19:09:02] [Server thread/INFO]: Churrupakin lost connection: Disconnected
-[19:09:02] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
-[19:09:02] [Server thread/INFO]: Churrupakin left the game
-[19:09:03] [Async Chat Thread - #18/INFO]: [Not Secure] <lacalacaxd> no hace nd cuando le doy clik xd
-[19:09:26] [Async Chat Thread - #18/INFO]: [Not Secure] <pingaparaangel> vamo a minar
-[19:09:43] [Async Chat Thread - #18/INFO]: [Not Secure] <XxMatos15> XD
-[19:09:47] [Server thread/INFO]: XxMatos15 issued server command: /fac invite lacalacaxd Member
-[19:09:50] [Async Chat Thread - #18/INFO]: [Not Secure] <XxMatos15> as clik
-[19:09:56] [Server thread/INFO]: lacalacaxd issued server command: /f invites
-[19:10:02] [Server thread/INFO]: lacalacaxd issued server command: /factions inviteaccept 2
-[19:10:06] [Server thread/INFO]: lacalacaxd issued server command: /factions inviteaccept 3
-[19:10:09] [Async Chat Thread - #18/INFO]: [Not Secure] <XxMatos15> YA ESTA
-[19:10:32] [Async Chat Thread - #18/INFO]: [Not Secure] <lacalacaxd> listoo
-[19:11:49] [Async Chat Thread - #20/INFO]: [Not Secure] <pingaparaangel> q rico
-[19:12:42] [Async Chat Thread - #20/INFO]: [Not Secure] <XxMatos15> xd
-[19:12:58] [Async Chat Thread - #21/INFO]: [Not Secure] <XxMatos15> mina 7 stack entero
-[19:13:08] [Server thread/INFO]: [WEB] 10.240.2.23: xd
-[19:13:12] [Async Chat Thread - #21/INFO]: [Not Secure] <pingaparaangel> encontre diamante
-[19:13:18] [Server thread/INFO]: [WEB] 10.240.2.23: chifon los tarta cmo esclavos xd
-[19:13:19] [Async Chat Thread - #21/INFO]: [Not Secure] <pingaparaangel> ta al fondo
-[19:13:31] [Async Chat Thread - #20/INFO]: [Not Secure] <XxMatos15> yaya
-[19:13:33] [Async Chat Thread - #20/INFO]: [Not Secure] <pingaparaangel> deja ahimkgada
-[19:13:35] [Async Chat Thread - #20/INFO]: [Not Secure] <XxMatos15> sigue minando
-[19:13:46] [Async Chat Thread - #20/INFO]: [Not Secure] <XxMatos15> 7 stack
-[19:13:49] [Async Chat Thread - #20/INFO]: [Not Secure] <lacalacaxd> oe tienes antorchas?
-[19:13:55] [Async Chat Thread - #20/INFO]: [Not Secure] <pingaparaangel> per
-[19:14:08] [Async Chat Thread - #20/INFO]: [Not Secure] <pingaparaangel> diamantes infinitos
-[19:14:32] [Async Chat Thread - #20/INFO]: [Not Secure] <lacalacaxd> pene
-[19:14:46] [Async Chat Thread - #20/INFO]: [Not Secure] <pingaparaangel> has antorchas
-[19:14:54] [Async Chat Thread - #20/INFO]: [Not Secure] <pingaparaangel> con caarbon ypalo arriba
-[19:15:03] [Async Chat Thread - #20/INFO]: [Not Secure] <pingaparaangel> y me sigues
-[19:21:35] [Server thread/INFO]: pingaparaangel was slain by Silverfish
-[19:21:39] [Async Chat Thread - #22/INFO]: [Not Secure] <pingaparaangel> ptmr
-[19:21:48] [Async Chat Thread - #22/INFO]: [Not Secure] <lacalacaxd> encontre diamante xddddd
-[19:22:17] [Async Chat Thread - #22/INFO]: [Not Secure] <pingaparaangel> perdi mis cosas
-[19:23:29] [Server thread/INFO]: pingaparaangel fell from a high place
-[19:23:44] [Async Chat Thread - #24/INFO]: [Not Secure] <XxMatos15> xdd
-[19:24:01] [Async Chat Thread - #24/INFO]: [Not Secure] <pingaparaangel> tenia 64 diamantes
-[19:24:04] [Async Chat Thread - #24/INFO]: [Not Secure] <pingaparaangel> fue
-[19:24:20] [Async Chat Thread - #25/INFO]: [Not Secure] <XxMatos15> encontre tuscosas
-[19:24:27] [Async Chat Thread - #25/INFO]: [Not Secure] <pingaparaangel> traemellas
-[19:24:31] [Async Chat Thread - #25/INFO]: [Not Secure] <XxMatos15> ano
-[19:24:38] [Async Chat Thread - #25/INFO]: [Not Secure] <pingaparaangel> avanza kgada
-[19:24:38] [Async Chat Thread - #25/INFO]: [Not Secure] <XxMatos15> era redstone
-[19:24:39] [Async Chat Thread - #25/INFO]: [Not Secure] <XxMatos15> XD
-[19:24:46] [Async Chat Thread - #24/INFO]: [Not Secure] <pingaparaangel> habiadiamantes
-[19:24:51] [Async Chat Thread - #25/INFO]: [Not Secure] <XxMatos15> busca un bloque de luz
-[19:24:57] [Async Chat Thread - #25/INFO]: [Not Secure] <pingaparaangel> salieron unas ratas
-[19:25:10] [Async Chat Thread - #25/INFO]: [Not Secure] <XxMatos15> ya ddesaparecio
-[19:25:17] [Async Chat Thread - #25/INFO]: [Not Secure] <pingaparaangel> tmrt
-[19:25:21] [Async Chat Thread - #25/INFO]: [Not Secure] <XxMatos15> tienes el xra?
-[19:25:34] [Async Chat Thread - #25/INFO]: [Not Secure] <pingaparaangel> quien
-[19:25:37] [Async Chat Thread - #25/INFO]: [Not Secure] <XxMatos15> tu
-[19:25:42] [Async Chat Thread - #25/INFO]: [Not Secure] <XxMatos15> el paquete q te puse
-[19:25:44] [Async Chat Thread - #25/INFO]: [Not Secure] <pingaparaangel> si
-[19:25:45] [Async Chat Thread - #25/INFO]: [Not Secure] <XxMatos15> con eso bajabas abajo
-[19:25:53] [Async Chat Thread - #25/INFO]: [Not Secure] <XxMatos15> y buscabas tu nombre
-[19:25:57] [Async Chat Thread - #25/INFO]: [Not Secure] <XxMatos15> yo lo vi pero desapareciot
-[19:25:58] [Async Chat Thread - #24/INFO]: [Not Secure] <XxMatos15> xd
-[19:26:02] [Async Chat Thread - #25/INFO]: [Not Secure] <XxMatos15> ya pasaron los 5 minutos
-[19:26:08] [Async Chat Thread - #24/INFO]: [Not Secure] <pingaparaangel> con esta cosa no puedo ver bien ps
-[19:26:22] [Async Chat Thread - #25/INFO]: [Not Secure] <XxMatos15> mina otra ve
-[19:27:34] [Async Chat Thread - #26/INFO]: [Not Secure] <pingaparaangel> ya encontre xd
-[19:30:53] [Async Chat Thread - #28/INFO]: [Not Secure] <XxMatos15> tmr
-[19:31:01] [Async Chat Thread - #29/INFO]: [Not Secure] <XxMatos15> no funciona la granja dde mrd
-[19:31:06] [Async Chat Thread - #29/INFO]: [Not Secure] <pingaparaangel> xddd
-[19:31:46] [Server thread/INFO]: [Not Secure] * Server voy a cerrar el server voy a comer dps lo prendo
-[19:32:09] [Async Chat Thread - #29/INFO]: [Not Secure] <pingaparaangel> pera 2 mnst
-[19:34:48] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[19:34:58] [Server thread/INFO]: [Not Secure] * Server lo voy a cerrar
-[19:35:01] [Async Chat Thread - #31/INFO]: [Not Secure] <lacalacaxd> o fcakkk
-[19:35:05] [Server thread/INFO]: Stopping the server
-[19:35:05] [Server thread/INFO]: Stopping server
-[19:35:05] [Server thread/INFO]: [ProtectionBlocks] Disabling ProtectionBlocks v1.0.9
-[19:35:05] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-35 - Shutdown initiated...
-[19:35:05] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-35 - Shutdown completed.
-[19:35:05] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.26
-[19:35:05] [Server thread/INFO]: [TAB] Disabling TAB v5.0.3
-[19:35:05] [Server thread/INFO]: [TAB] Disabled in 3ms
-[19:35:05] [Server thread/INFO]: [ImprovedFactions] Disabling ImprovedFactions v2.2.0
-[19:35:05] [Server thread/INFO]: [AxGraves] Disabling AxGraves v1.17.0
-[19:35:05] [Server thread/INFO]: [QualityArmory] Disabling QualityArmory v2.0.17
-[19:35:05] [Server thread/INFO]: [CrazyEnchantments] Disabling CrazyEnchantments v2.1
-[19:35:05] [Server thread/INFO]: [PLAZMER-ENGINE] Disabling PLAZMER-ENGINE v2.4.8
-[19:35:05] [Server thread/INFO]: [DecentHolograms] Disabling DecentHolograms v2.8.12
-[19:35:05] [Server thread/INFO]: [dynmap] Disabling dynmap v3.7-SNAPSHOT-948
-[19:35:05] [Server thread/INFO]: [dynmap] Unloaded 11 components.
-[19:35:05] [Server thread/INFO]: [dynmap] Stopping map renderer...
-[19:35:06] [Server thread/INFO]: [dynmap] Saved 574 pending tile renders in world 'world'
-[19:35:06] [Server thread/INFO]: [dynmap] Full render job saved for world 'world'
-[19:35:06] [Server thread/INFO]: [dynmap] Disabled
-[19:35:06] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
-[19:35:06] [Server thread/INFO]: Saving players
-[19:35:06] [Server thread/INFO]: lacalacaxd lost connection: Server closed
-[19:35:06] [Server thread/INFO]: lacalacaxd left the game
-[19:35:06] [Server thread/INFO]: XxMatos15 lost connection: Server closed
-[19:35:06] [Server thread/INFO]: XxMatos15 left the game
-[19:35:06] [Server thread/INFO]: pingaparaangel lost connection: Server closed
-[19:35:06] [Server thread/INFO]: pingaparaangel left the game
-[19:35:06] [Server thread/INFO]: Saving worlds
-[19:35:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:35:06] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[19:35:06] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[19:35:06] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[19:35:06] [Server thread/INFO]: [ChunkHolderManager] Saved 33 block chunks, 326 entity chunks, 0 poi chunks in world 'world' in 0.14s
-[19:35:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:35:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[19:35:06] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[19:35:06] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[19:35:06] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[19:35:06] [Server thread/INFO]: [ChunkHolderManager] Saved 50 block chunks, 110 entity chunks, 0 poi chunks in world 'world_nether' in 0.09s
-[19:35:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:35:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[19:35:06] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[19:35:06] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[19:35:06] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[19:35:06] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 46 entity chunks, 0 poi chunks in world 'world_the_end' in 0.02s
-[19:35:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:35:06] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[19:35:06] [Server thread/INFO]: Flushing Chunk IO
-[19:35:06] [Server thread/INFO]: Closing Thread Pool
-[19:35:06] [Server thread/INFO]: Closing Server
+Caused by: org.yaml.snakeyaml.parser.ParserException: while parsing a block mapping
+ in 'reader', line 1, column 1:
+    Prefix: "&8[&2QualityArmory&8]&r"
+    ^
+expected <block end>, but found '<anchor>'
+ in 'reader', line 4, column 10:
+    NoPerm: '&c No tienes permiso para hacer  ... 
+             ^
+
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:656) ~[snakeyaml-2.0.jar:?]
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:162) ~[snakeyaml-2.0.jar:?]
+	at org.yaml.snakeyaml.comments.CommentEventsCollector$1.peek(CommentEventsCollector.java:57) ~[snakeyaml-2.0.jar:?]
+	at org.yaml.snakeyaml.comments.CommentEventsCollector$1.peek(CommentEventsCollector.java:43) ~[snakeyaml-2.0.jar:?]
+	at org.yaml.snakeyaml.comments.CommentEventsCollector.collectEvents(CommentEventsCollector.java:136) ~[snakeyaml-2.0.jar:?]
+	at org.yaml.snakeyaml.comments.CommentEventsCollector.collectEvents(CommentEventsCollector.java:116) ~[snakeyaml-2.0.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.composeScalarNode(Composer.java:241) ~[snakeyaml-2.0.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:205) ~[snakeyaml-2.0.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:369) ~[snakeyaml-2.0.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:348) ~[snakeyaml-2.0.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:323) ~[snakeyaml-2.0.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:209) ~[snakeyaml-2.0.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.getNode(Composer.java:131) ~[snakeyaml-2.0.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:157) ~[snakeyaml-2.0.jar:?]
+	at org.yaml.snakeyaml.Yaml.compose(Yaml.java:575) ~[snakeyaml-2.0.jar:?]
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:104) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	... 18 more
+[23:13:24] [Server thread/INFO]: [QualityArmory] -Loaded 11 Ammo types.
+[23:13:24] [Server thread/INFO]: [QualityArmory] -Loaded 16 Misc.
+[23:13:24] [Server thread/INFO]: [QualityArmory] -Loaded 70 Gun types.
+[23:13:24] [Server thread/INFO]: [QualityArmory] -Loading Attachment: awpasiimov
+[23:13:24] [Server thread/INFO]: [QualityArmory] -Loading Attachment: p30silenced
+[23:13:24] [Server thread/INFO]: [QualityArmory] -Loading Attachment: uzicorn
+[23:13:24] [Server thread/INFO]: [QualityArmory] -Loaded 3 Attachment types.
+[23:13:24] [Server thread/INFO]: [QualityArmory] -Loaded 4 Armor types.
+[23:13:25] [Server thread/INFO]: [AxGraves] Enabling AxGraves v1.17.0
+[23:13:26] [Server thread/INFO]: [ImprovedFactions] Enabling ImprovedFactions v2.2.0
+[23:13:27] [Server thread/INFO]: [ImprovedFactions] [gui] Gui module is enabled but GuiEngine is not installed. Disabling Gui module.
+[23:13:27] [Server thread/INFO]: [ImprovedFactions] Checking for updates...
+[23:13:27] [Server thread/INFO]: [ImprovedFactions] Config is up to date
+[23:13:28] [Server thread/WARN]: [ImprovedFactions] No whitelisted worlds found in config. Allowing all worlds
+[23:13:29] [Server thread/INFO]: [ImprovedFactions] Using database SQLITE as database
+[23:13:33] [Server thread/INFO]: [ImprovedFactions] Loaded module power-raids
+[23:13:33] [Server thread/INFO]: [ImprovedFactions] Loaded module dynmap
+[23:13:33] [Server thread/INFO]: [ImprovedFactions] Loaded module wilderness
+[23:13:33] [Server thread/INFO]: [ImprovedFactions] Loaded module home
+[23:13:33] [Server thread/INFO]: [ImprovedFactions] Loaded module chat
+[23:13:33] [Server thread/INFO]: [ImprovedFactions] Loaded module claim-particles
+[23:13:33] [Server thread/INFO]: [ImprovedFactions] Papi not found. Skipping Papi registration
+[23:13:34] [Server thread/INFO]: [TAB] Enabling TAB v5.0.3
+[23:13:34] [Server thread/INFO]: [TAB] Loaded NMS hook in 268ms
+[23:13:35] [Server thread/INFO]: [TAB] Enabled in 644ms
+[23:13:35] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.26
+[23:13:35] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.20.1-R0.1
+[23:13:35] [Server thread/INFO]: [voicechat] Compatibility version 18
+[23:13:35] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[23:13:35] [Server thread/INFO]: [ProtectionBlocks] Enabling ProtectionBlocks v1.0.9
+[23:13:35] [Server thread/WARN]: [ProtectionBlocks] ===================================
+[23:13:35] [Server thread/WARN]: [ProtectionBlocks] WARNING: You're running an outdated server version (1.20.1)!
+[23:13:35] [Server thread/WARN]: [ProtectionBlocks] This version will no longer be supported in future relases.
+[23:13:35] [Server thread/WARN]: [ProtectionBlocks] Please upgrade your server to 1.20.4.
+[23:13:35] [Server thread/WARN]: [ProtectionBlocks] ABSOLUTELY NO DISCORD SUPPORT WILL BE PROVIDED
+[23:13:35] [Server thread/WARN]: [ProtectionBlocks] ===================================
+[23:13:35] [Server thread/INFO]: [ProtectionBlocks] Powered by: PLAZMER-ENGINE
+[23:13:36] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-60 - Starting...
+[23:13:36] [Server thread/INFO]: [com.zaxxer.hikari.pool.HikariPool] ProtectionBlocks-60 - Added connection org.sqlite.jdbc4.JDBC4Connection@6163ddde
+[23:13:36] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-60 - Start completed.
+[23:13:36] [Server thread/INFO]: [ProtectionBlocks] Using DecentHolograms hologram handler.
+[23:13:36] [Server thread/INFO]: [ProtectionBlocks] Registered currency: exp
+[23:13:36] [Server thread/INFO]: [ProtectionBlocks] Plugin loaded in 443 ms!
+[23:13:36] [Server thread/INFO]: Running delayed init tasks
+[23:13:36] [Server thread/INFO]: Done (54.928s)! For help, type "help"
+[23:13:36] [Server thread/INFO]: Timings Reset
+[23:13:36] [Server thread/INFO]: [voicechat] Loading plugins
+[23:13:36] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[23:13:36] [Server thread/INFO]: [voicechat] Initializing plugins
+[23:13:36] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[23:13:36] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[23:13:36] [VoiceChatServerThread/ERROR]: [voicechat] Failed to bind to address '172.28.190.108', binding to wildcard IP instead
+[23:13:37] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 172.28.190.108:24454
+[23:13:37] [Server thread/INFO]: [ProtectionBlocks] Region Blocks Loaded: 0
+[23:13:37] [Server thread/ERROR]: [ProtectionBlocks] Cannot load the Region but Region Block 'bloque_de_diamante' not Created or Loaded!
+[23:13:37] [Server thread/ERROR]: [ProtectionBlocks] Region not loaded 'fa508b0-2.yml'
+[23:13:37] [Server thread/ERROR]: [ProtectionBlocks] Cannot load the Region but Region Block 'bloque_de_diamante' not Created or Loaded!
+[23:13:37] [Server thread/ERROR]: [ProtectionBlocks] Region not loaded 'd56596d-3.yml'
+[23:13:37] [Server thread/ERROR]: [ProtectionBlocks] Cannot load the Region but Region Block 'esmeralda' not Created or Loaded!
+[23:13:37] [Server thread/ERROR]: [ProtectionBlocks] Region not loaded 'e713997-2.yml'
+[23:13:37] [Server thread/INFO]: [ProtectionBlocks] Regions Loaded: 0
+[23:13:37] [Server thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:14:03] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 7300 tiles rendered (133.00 msec/tile, 459.58 msec per render)
+[23:14:50] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 7400 tiles rendered (137.32 msec/tile, 407.23 msec per render)
+[23:15:14] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 7500 tiles rendered (138.65 msec/tile, 325.35 msec per render)
+[23:15:36] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 7600 tiles rendered (139.62 msec/tile, 285.11 msec per render)
+[23:16:01] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 7700 tiles rendered (140.88 msec/tile, 268.78 msec per render)
+[23:16:27] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 7800 tiles rendered (142.33 msec/tile, 261.95 msec per render)
+[23:16:44] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 7900 tiles rendered (142.68 msec/tile, 245.24 msec per render)
+[23:16:58] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 8000 tiles rendered (142.61 msec/tile, 228.94 msec per render)
+[23:17:10] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 8100 tiles rendered (142.35 msec/tile, 214.74 msec per render)
+[23:17:22] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 8200 tiles rendered (142.10 msec/tile, 203.75 msec per render)
+[23:17:35] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 8300 tiles rendered (141.90 msec/tile, 195.26 msec per render)
+[23:17:43] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 8400 tiles rendered (141.22 msec/tile, 184.90 msec per render)
+[23:17:52] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 8500 tiles rendered (140.59 msec/tile, 176.34 msec per render)
+[23:18:02] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 8600 tiles rendered (140.09 msec/tile, 169.94 msec per render)
+[23:18:08] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 8700 tiles rendered (139.20 msec/tile, 162.02 msec per render)
+[23:18:17] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 8800 tiles rendered (138.64 msec/tile, 156.74 msec per render)
+[23:18:29] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 8900 tiles rendered (138.38 msec/tile, 153.58 msec per render)
+[23:18:41] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 9000 tiles rendered (138.15 msec/tile, 149.38 msec per render)
+[23:18:50] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 9100 tiles rendered (137.65 msec/tile, 146.04 msec per render)
+[23:19:01] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 9200 tiles rendered (137.33 msec/tile, 143.74 msec per render)
+[23:19:09] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 9300 tiles rendered (136.73 msec/tile, 140.43 msec per render)
+[23:19:17] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 9400 tiles rendered (136.14 msec/tile, 137.44 msec per render)
+[23:19:26] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 9500 tiles rendered (135.62 msec/tile, 134.99 msec per render)
+[23:19:34] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 9600 tiles rendered (135.13 msec/tile, 132.82 msec per render)
+[23:19:44] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 9700 tiles rendered (134.68 msec/tile, 130.95 msec per render)
+[23:19:52] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 9800 tiles rendered (134.15 msec/tile, 128.90 msec per render)
+[23:20:01] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 9900 tiles rendered (133.76 msec/tile, 127.39 msec per render)
+[23:20:10] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 10000 tiles rendered (133.31 msec/tile, 125.82 msec per render)
+[23:20:18] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 10100 tiles rendered (132.78 msec/tile, 124.02 msec per render)
+[23:20:27] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 10200 tiles rendered (132.35 msec/tile, 122.64 msec per render)
+[23:20:37] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 10300 tiles rendered (131.98 msec/tile, 121.54 msec per render)
+[23:20:45] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'flat' of 'world' in progress - 10400 tiles rendered (131.53 msec/tile, 120.19 msec per render)
+[23:20:47] [User Authenticator #0/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[23:20:47] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Churrupakin's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[23:20:47] [Server thread/INFO]: Churrupakin joined the game
+[23:20:48] [Server thread/INFO]: Churrupakin[/172.28.161.65:63840] logged in with entity id 259 at ([world]-60.86270318659665, 57.872539101044815, 256.6582585858872)
+[23:20:50] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[23:20:50] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[23:20:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[23:20:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[23:20:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[23:21:08] [Server thread/INFO]: Churrupakin issued server command: /qa
+[23:21:13] [Server thread/INFO]: Churrupakin issued server command: /qa craft

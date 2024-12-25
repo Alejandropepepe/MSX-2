@@ -8,9 +8,9 @@
 ,"areas": {"-5-15-world": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": true,"x": [-80.00,-64.00]
 ,"weight": 0,"z": [240.00,256.00]
 ,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">%faction_name%<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">%faction_owner%<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">%faction_maxPower%<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
-,"3-9-world": {"fillcolor": "#71708C","ytop": 64.00,"color": "#71708C","markup": true,"x": [48.00,64.00]
+,"3-9-world": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": true,"x": [48.00,64.00]
 ,"weight": 0,"z": [144.00,160.00]
-,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">Papus<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">%faction_owner%<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">%faction_maxPower%<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
+,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">%faction_name%<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">%faction_owner%<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">%faction_maxPower%<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
 ,"8-5-world": {"fillcolor": "#71708C","ytop": 64.00,"color": "#71708C","markup": true,"x": [128.00,144.00]
 ,"weight": 0,"z": [80.00,96.00]
 ,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">Papus<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">%faction_owner%<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">%faction_maxPower%<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
@@ -28,27 +28,27 @@
 ,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">%faction_name%<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">%faction_owner%<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">%faction_maxPower%<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
 }
 ,"label": "Factions","markers": {}
-,"lines": {"e74d471e-a216-4f8a-9088-03cec29deafa-0": {"color": "#FF0000","markup": false,"x": [-64.00,-48.00,-48.00,-64.00,-64.00]
-,"y": [64.00,64.00,64.00,64.00,64.00]
-,"weight": 3,"z": [256.00,256.00,272.00,272.00,256.00]
-,"label": "","opacity": 0.50}
-,"0333802f-ca55-460c-950c-1712307529d7-0": {"color": "#71708C","markup": false,"x": [48.00,64.00,64.00,48.00,48.00]
+,"lines": {"44a2c677-6497-4684-b977-6f2fcc43d33c-0": {"color": "#FF0000","markup": false,"x": [48.00,64.00,64.00,48.00,48.00]
 ,"y": [64.00,64.00,64.00,64.00,64.00]
 ,"weight": 3,"z": [144.00,144.00,160.00,160.00,144.00]
 ,"label": "","opacity": 0.50}
-,"9ae403b1-b0ec-4dc5-a5fa-b89e569fb7b5-0": {"color": "#FF0000","markup": false,"x": [-48.00,-32.00,-32.00,-48.00,-48.00]
+,"3cd796c1-f84c-4190-b807-269bb8734190-0": {"color": "#FF0000","markup": false,"x": [-64.00,-48.00,-48.00,-64.00,-64.00]
 ,"y": [64.00,64.00,64.00,64.00,64.00]
-,"weight": 3,"z": [288.00,288.00,304.00,304.00,288.00]
+,"weight": 3,"z": [256.00,256.00,272.00,272.00,256.00]
 ,"label": "","opacity": 0.50}
-,"b96353db-209f-465b-9175-0ca5f199d805-0": {"color": "#71708C","markup": false,"x": [144.00,144.00,128.00,128.00,160.00,160.00,144.00]
+,"3b5857b9-bb62-4324-ac8e-d01a7fc98295-0": {"color": "#71708C","markup": false,"x": [144.00,144.00,128.00,128.00,160.00,160.00,144.00]
 ,"y": [64.00,64.00,64.00,64.00,64.00,64.00,64.00]
 ,"weight": 3,"z": [96.00,80.00,80.00,112.00,112.00,96.00,96.00]
 ,"label": "","opacity": 0.50}
-,"8ffd2757-fb10-4567-83a5-2dc52fef9dc4-0": {"color": "#FF0000","markup": false,"x": [-80.00,-64.00,-64.00,-80.00,-80.00]
+,"3d7e52c9-0eef-4694-9611-49a578699c72-0": {"color": "#FF0000","markup": false,"x": [-48.00,-32.00,-32.00,-48.00,-48.00]
+,"y": [64.00,64.00,64.00,64.00,64.00]
+,"weight": 3,"z": [288.00,288.00,304.00,304.00,288.00]
+,"label": "","opacity": 0.50}
+,"1539570a-bc8b-4ba1-b005-0b4230e402fb-0": {"color": "#FF0000","markup": false,"x": [-80.00,-64.00,-64.00,-80.00,-80.00]
 ,"y": [64.00,64.00,64.00,64.00,64.00]
 ,"weight": 3,"z": [240.00,240.00,256.00,256.00,240.00]
 ,"label": "","opacity": 0.50}
 }
 ,"layerprio": 10}
 }
-,"timestamp": 1735153523834}
+,"timestamp": 1735168419457}
