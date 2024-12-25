@@ -29,3 +29,5 @@ chat: {}
 wilderness: {}
 force: {}
 invite: {}
+add: {}
+set: {}
