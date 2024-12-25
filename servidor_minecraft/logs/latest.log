@@ -428,3 +428,51 @@ expected <block end>, but found '<anchor>'
 [23:33:06] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
 [23:33:06] [Server thread/INFO]: pingaparaangel joined the game
 [23:33:06] [Server thread/INFO]: pingaparaangel[/172.28.117.248:65327] logged in with entity id 1251 at ([world]-82.30000001192093, -57.0, 254.72428079581104)
+[23:35:27] [Server thread/INFO]: Churrupakin issued server command: /dynmap pause
+[23:35:33] [Server thread/INFO]: Churrupakin issued server command: /dynmap pause
+[23:35:40] [Server thread/INFO]: Churrupakin issued server command: /dynmap pause all
+[23:35:40] [Server thread/INFO]: [dynmap] Full/radius render pause set to true
+[23:35:40] [Server thread/INFO]: [dynmap] Update render pause set to true
+[23:35:48] [Server thread/INFO]: Churrupakin issued server command: /dynmap pause full
+[23:35:48] [Server thread/INFO]: [dynmap] Update render pause set to false
+[23:36:14] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[23:36:14] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[23:36:14] [Server thread/INFO]: Churrupakin left the game
+[23:38:57] [Server thread/INFO]: XxMatos15 hit the ground too hard
+[23:41:08] [Async Chat Thread - #4/INFO]: [Not Secure] <pingaparaangel> chifa
+[23:41:12] [Async Chat Thread - #4/INFO]: [Not Secure] <XxMatos15> Q
+[23:41:15] [Async Chat Thread - #4/INFO]: [Not Secure] <pingaparaangel> matias se fue?
+[23:41:20] [Async Chat Thread - #4/INFO]: [Not Secure] <XxMatos15> OSI
+[23:41:21] [Server thread/INFO]: XxMatos15 was shot by Skeleton
+[23:41:25] [Async Chat Thread - #4/INFO]: [Not Secure] <pingaparaangel> quiero q me haga tp xd
+[23:41:30] [Async Chat Thread - #5/INFO]: [Not Secure] <pingaparaangel> me perdi
+[23:41:39] [Async Chat Thread - #4/INFO]: [Not Secure] <XxMatos15> XD
+[23:41:48] [Async Chat Thread - #4/INFO]: [Not Secure] <XxMatos15> sigue picando
+[23:41:50] [Async Chat Thread - #4/INFO]: [Not Secure] <pingaparaangel> tengo 31 diamantes
+[23:41:58] [Async Chat Thread - #4/INFO]: [Not Secure] <XxMatos15> mas
+[23:42:00] [Async Chat Thread - #4/INFO]: [Not Secure] <pingaparaangel> y um klo de redton
+[23:42:13] [Server thread/WARN]: Horse (vehicle of XxMatos15) moved wrongly! 0.25723815280947804
+[23:42:13] [Server thread/WARN]: Horse (vehicle of XxMatos15) moved wrongly! 0.6439510580770005
+[23:42:13] [Server thread/WARN]: Horse (vehicle of XxMatos15) moved wrongly! 1.029048167227316
+[23:42:13] [Server thread/WARN]: Horse (vehicle of XxMatos15) moved wrongly! 1.4030026620745204
+[23:42:41] [User Authenticator #4/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[23:42:41] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Churrupakin's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[23:42:41] [Server thread/INFO]: Churrupakin joined the game
+[23:42:41] [Server thread/INFO]: Churrupakin[/172.28.161.65:64213] logged in with entity id 3639 at ([world]-62.30434982142056, 58.25549778277467, 251.56978537108705)
+[23:42:41] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[23:42:41] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[23:42:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[23:42:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[23:42:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[23:42:58] [Async Chat Thread - #4/INFO]: [Not Secure] <XxMatos15> ayesta
+[23:43:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player a3898cf4-4c4a-3a29-b628-38892b7008ac timed out
+[23:43:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Churrupakin
+[23:43:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Churrupakin
+[23:43:31] [Async Chat Thread - #4/INFO]: [Not Secure] <pingaparaangel> hay un bloque q no puedo picarq me olvide su nombre xd
+[23:43:41] [Server thread/WARN]: Churrupakin was kicked due to keepalive timeout!
+[23:43:41] [Server thread/INFO]: Churrupakin lost connection: Timed out
+[23:43:41] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[23:43:41] [Server thread/INFO]: Churrupakin left the game
+[23:44:11] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
+[23:44:11] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
+[23:44:11] [Server thread/INFO]: pingaparaangel left the game
