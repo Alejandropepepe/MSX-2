@@ -170,3 +170,7 @@ java.lang.Throwable: null
 [06:34:35] [User Authenticator #1/INFO]: UUID of player XxMatos15 is 2a9ff858-04dc-3136-97df-619a6316d09a
 [06:34:36] [Server thread/INFO]: XxMatos15 joined the game
 [06:34:36] [Server thread/INFO]: XxMatos15[/172.28.131.63:56717] logged in with entity id 2316 at ([world]-48.57462838754796, 65.0, 304.10350056966746)
+[06:49:37] [Server thread/INFO]: Churrupakin issued server command: /time set day
+[06:49:37] [Server thread/INFO]: [Churrupakin: Set the time to 1000]
+[06:49:42] [Server thread/INFO]: Churrupakin issued server command: /weather clear
+[06:49:42] [Server thread/INFO]: [Churrupakin: Set the weather to clear]
