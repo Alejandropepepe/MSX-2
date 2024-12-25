@@ -374,3 +374,92 @@ Caused by: java.lang.IllegalStateException: No transaction in context.
 [18:23:16] [Server thread/INFO]: pingaparaangel was shot by Skeleton
 [18:23:26] [Server thread/INFO]: XxMatos15 issued server command: /fac help
 [18:24:15] [Server thread/INFO]: pingaparaangel was shot by Skeleton
+[18:26:42] [Async Chat Thread - #8/INFO]: [Not Secure] <SKrampusPEcausa> matias tp en go a la casa
+[18:27:17] [Server thread/INFO]: Churrupakin issued server command: /tp SKrampusPEcausa Churrupakin
+[18:27:17] [Server thread/INFO]: [Churrupakin: Teleported SKrampusPEcausa to Churrupakin]
+[18:27:23] [Server thread/INFO]: XxMatos15 was shot by Skeleton
+[18:27:31] [Async Chat Thread - #9/INFO]: [Not Secure] <SKrampusPEcausa> comida plis xd
+[18:27:40] [Async Chat Thread - #9/INFO]: [Not Secure] <pingaparaangel> Q AGREGARON
+[18:28:16] [Server thread/INFO]: Churrupakin issued server command: /dynmap:dynmap pause all
+[18:28:16] [Server thread/INFO]: [dynmap] Full/radius render pause set to true
+[18:28:16] [Server thread/INFO]: [dynmap] Update render pause set to true
+[18:29:05] [Server thread/INFO]: Churrupakin issued server command: /dynmap radiusrender world
+[18:29:27] [Server thread/INFO]: Churrupakin issued server command: /dynmap render 1000
+[18:29:48] [Server thread/INFO]: SKrampusPEcausa lost connection: Disconnected
+[18:29:48] [Server thread/INFO]: [voicechat] Disconnecting client SKrampusPEcausa
+[18:29:48] [Server thread/INFO]: SKrampusPEcausa left the game
+[18:32:45] [Server thread/INFO]: Churrupakin issued server command: /qa craft
+[18:33:05] [Async Chat Thread - #10/INFO]: [Not Secure] <Churrupakin> las armas si se pueden craftear
+[18:33:20] [Async Chat Thread - #12/INFO]: [Not Secure] <XxMatos15> como
+[18:33:22] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> hagan /qa carft
+[18:33:28] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> les va a salir una gui
+[18:33:32] [Server thread/INFO]: Churrupakin issued server command: /qa craft
+[18:33:43] [Server thread/INFO]: pingaparaangel issued server command: /qa craft
+[18:33:43] [Server thread/INFO]: Churrupakin issued server command: /qa craft
+[18:33:48] [Server thread/INFO]: XxMatos15 issued server command: /qa carft
+[18:33:59] [Server thread/INFO]: pingaparaangel issued server command: /qa craft
+[18:34:06] [Async Chat Thread - #12/INFO]: [Not Secure] <pingaparaangel> no sale nd
+[18:34:11] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> tienen q tener los materiales en su inventario
+[18:34:17] [Server thread/INFO]: XxMatos15 issued server command: /qa carft
+[18:34:19] [Async Chat Thread - #11/INFO]: [Not Secure] <pingaparaangel> pene
+[18:34:21] [Server thread/INFO]: Churrupakin issued server command: /qa craft
+[18:34:25] [Async Chat Thread - #11/INFO]: [Not Secure] <XxMatos15> esta todo in inglish
+[18:35:04] [Server thread/INFO]: XxMatos15 issued server command: /qa shop
+[18:35:16] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> lo voy a traducir vengi
+[18:35:20] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> vengo
+[18:35:44] [Async Chat Thread - #12/INFO]: [Not Secure] <Churrupakin> no s olviden de crar factions pq voy a eliminar el de los bloques
+[18:35:57] [Async Chat Thread - #12/INFO]: [Not Secure] <XxMatos15> como asi
+[18:36:03] [Async Chat Thread - #12/INFO]: [Not Secure] <Churrupakin> voy a tu casa
+[18:36:18] [Async Chat Thread - #11/INFO]: [Not Secure] <XxMatos15> si
+[18:36:30] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> aca estoy en tus cultivos
+[18:37:01] [Async Chat Thread - #11/INFO]: [Not Secure] <pingaparaangel> xdddd
+[18:37:07] [Server thread/INFO]: Churrupakin issued server command: /fac
+[18:37:10] [Async Chat Thread - #11/INFO]: [Not Secure] <pingaparaangel> q fue con la house de sergio
+[18:37:13] [Server thread/INFO]: Churrupakin issued server command: /f help category:base.command.category.general
+[18:37:15] [Async Chat Thread - #11/INFO]: [Not Secure] <pingaparaangel> no quedo nd
+[18:37:17] [Async Chat Thread - #11/INFO]: [Not Secure] <XxMatos15> q me vas a dar
+[18:37:20] [Server thread/INFO]: Churrupakin issued server command: /f help category:base.command.category.manage
+[18:37:31] [Server thread/INFO]: Churrupakin issued server command: /fac create
+[18:37:51] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> has /fac create (nombre)
+[18:38:04] [Server thread/INFO]: XxMatos15 issued server command: /fac create XXmatos15
+[18:38:08] [Async Chat Thread - #12/INFO]: [Not Secure] <XxMatos15> q pongo en name
+[18:38:10] [Server thread/INFO]: Churrupakin issued server command: /fac list
+[18:38:14] [Async Chat Thread - #13/INFO]: [Not Secure] <Churrupakin> lo q quieras
+[18:38:21] [Server thread/INFO]: XxMatos15 issued server command: /fac create pene
+[18:38:24] [Server thread/INFO]: Churrupakin issued server command: /fac list
+[18:38:30] [Async Chat Thread - #13/INFO]: [Not Secure] <Churrupakin> ya ahora
+[18:38:35] [Async Chat Thread - #13/INFO]: [Not Secure] <XxMatos15> q es faccion
+[18:38:36] [Async Chat Thread - #13/INFO]: [Not Secure] <XxMatos15> xd
+[18:38:45] [Async Chat Thread - #13/INFO]: [Not Secure] <Churrupakin> has /fac claim
+[18:38:49] [Server thread/INFO]: XxMatos15 issued server command: /fac claim
+[18:39:02] [Async Chat Thread - #13/INFO]: [Not Secure] <XxMatos15> para q es eso
+[18:39:03] [Async Chat Thread - #11/INFO]: [Not Secure] <XxMatos15> xd
+[18:39:07] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> se va a claimear el chunk
+[18:39:19] [Async Chat Thread - #11/INFO]: [Not Secure] <XxMatos15> pero este no es m casa
+[18:39:20] [Async Chat Thread - #11/INFO]: [Not Secure] <XxMatos15> xd
+[18:39:34] [Async Chat Thread - #13/INFO]: [Not Secure] <Churrupakin> en cada chunk q quieras claimear tienes q poner el /fac claim
+[18:39:48] [Async Chat Thread - #13/INFO]: [Not Secure] <XxMatos15> claimear es q no pueden romper?
+[18:39:57] [User Authenticator #4/INFO]: UUID of player lacalacaxd is 2f973d55-3e2c-33b9-9e01-115ef44fd74f
+[18:39:57] [TAB Processing Thread/INFO]: [TAB] [WARN] Player lacalacaxd's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[18:39:57] [Server thread/INFO]: lacalacaxd joined the game
+[18:39:57] [Server thread/INFO]: lacalacaxd[/172.28.26.209:49812] logged in with entity id 10385 at ([world]183.41605268306776, 70.0, 139.54140972009688)
+[18:39:58] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> el poder se va desgastando 5 por cada chunk
+[18:40:06] [Server thread/WARN]: lacalacaxd was kicked for floating too long!
+[18:40:06] [Server thread/INFO]: lacalacaxd lost connection: Flying is not enabled on this server
+[18:40:06] [Server thread/INFO]: [voicechat] Disconnecting client lacalacaxd
+[18:40:06] [Server thread/INFO]: lacalacaxd left the game
+[18:40:18] [User Authenticator #4/INFO]: UUID of player lacalacaxd is 2f973d55-3e2c-33b9-9e01-115ef44fd74f
+[18:40:18] [TAB Processing Thread/INFO]: [TAB] [WARN] Player lacalacaxd's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[18:40:18] [Server thread/INFO]: lacalacaxd joined the game
+[18:40:18] [Server thread/INFO]: lacalacaxd[/172.28.26.209:49814] logged in with entity id 10555 at ([world]183.41605268306776, 66.84312755346642, 139.54140972009688)
+[18:40:22] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> para invitar a anyelo es
+[18:40:34] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> es /fac invite
+[18:40:43] [Server thread/INFO]: lacalacaxd drowned
+[18:40:43] [Async Chat Thread - #11/INFO]: [Not Secure] <XxMatos15> ya
+[18:40:57] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> ves como no puedo romper
+[18:41:05] [Async Chat Thread - #11/INFO]: [Not Secure] <XxMatos15> ayiaa
+[18:41:20] [Async Chat Thread - #11/INFO]: [Not Secure] <pingaparaangel> vas a quitar ese bloque q nos diste ? xd
+[18:41:24] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> si
+[18:41:32] [Async Chat Thread - #13/INFO]: [Not Secure] <pingaparaangel> mi unico diamante q tenia
+[18:41:36] [Async Chat Thread - #13/INFO]: [Not Secure] <Churrupakin> quedatelo
+[18:41:41] [Async Chat Thread - #13/INFO]: [Not Secure] <Churrupakin> por nividad

@@ -8,16 +8,23 @@
 ,"areas": {"8-5-world": {"fillcolor": "#71708C","ytop": 64.00,"color": "#71708C","markup": true,"x": [128.00,144.00]
 ,"weight": 0,"z": [80.00,96.00]
 ,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">Papus<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">%faction_owner%<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">%faction_maxPower%<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
+,"-3-18-world": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": true,"x": [-48.00,-32.00]
+,"weight": 0,"z": [288.00,304.00]
+,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">%faction_name%<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">%faction_owner%<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">%faction_maxPower%<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
 ,"8-6-world": {"fillcolor": "#71708C","ytop": 64.00,"color": "#71708C","markup": true,"x": [128.00,144.00]
 ,"weight": 0,"z": [96.00,112.00]
 ,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">%faction_name%<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">%faction_owner%<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">%faction_maxPower%<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
 }
 ,"label": "Factions","markers": {}
-,"lines": {"b96353db-209f-465b-9175-0ca5f199d805-0": {"color": "#71708C","markup": false,"x": [128.00,144.00,144.00,128.00,128.00]
+,"lines": {"9ae403b1-b0ec-4dc5-a5fa-b89e569fb7b5-0": {"color": "#FF0000","markup": false,"x": [-48.00,-32.00,-32.00,-48.00,-48.00]
+,"y": [64.00,64.00,64.00,64.00,64.00]
+,"weight": 3,"z": [288.00,288.00,304.00,304.00,288.00]
+,"label": "","opacity": 0.50}
+,"b96353db-209f-465b-9175-0ca5f199d805-0": {"color": "#71708C","markup": false,"x": [128.00,144.00,144.00,128.00,128.00]
 ,"y": [64.00,64.00,64.00,64.00,64.00]
 ,"weight": 3,"z": [112.00,112.00,80.00,80.00,112.00]
 ,"label": "","opacity": 0.50}
 }
 ,"layerprio": 10}
 }
-,"timestamp": 1735149855982}
+,"timestamp": 1735151929835}
