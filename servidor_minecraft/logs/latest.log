@@ -564,3 +564,118 @@ Caused by: java.lang.IllegalStateException: No transaction in context.
 [18:52:48] [Server thread/INFO]: Churrupakin issued server command: /tp lacalacaxd Churrupakin
 [18:52:48] [Server thread/INFO]: [Churrupakin: Teleported lacalacaxd to Churrupakin]
 [18:52:51] [Async Chat Thread - #11/INFO]: [Not Secure] <lacalacaxd> me haces tp
+[18:52:57] [Async Chat Thread - #14/INFO]: [Not Secure] <Churrupakin> mano
+[18:53:18] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> has /fac create (nombre de tu faction)
+[18:53:26] [Server thread/INFO]: Churrupakin issued server command: /pb
+[18:53:29] [Server thread/INFO]: Churrupakin issued server command: /pb editor
+[18:53:34] [Async Chat Thread - #11/INFO]: [Not Secure] <lacalacaxd> en el chat?
+[18:53:35] [Server thread/WARN]: [ProtectionBlocks] Task #7214 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.plugin.protectionblocks.region.editor.RGListEditor.lambda$getObjectClick$5(RGListEditor.java:84) ~[ProtectionBlocks-1.0.9.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[18:53:36] [Server thread/WARN]: [ProtectionBlocks] Task #7217 for ProtectionBlocks v1.0.9 generated an exception
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at t.me.p1azmer.engine.api.menu.impl.Menu.open(Menu.java:106) ~[PLAZMER-ENGINE-2.4.8.jar:?]
+	at t.me.p1azmer.plugin.protectionblocks.region.editor.RGListEditor.lambda$getObjectClick$5(RGListEditor.java:84) ~[ProtectionBlocks-1.0.9.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:103) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1479) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[18:53:39] [Server thread/INFO]: Churrupakin issued server command: /pb editor
+[18:53:41] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> si
+[18:53:57] [Server thread/INFO]: Churrupakin issued server command: /fac leave
+[18:54:02] [Server thread/INFO]: Churrupakin issued server command: /fac list
+[18:54:15] [Async Chat Thread - #11/INFO]: [Not Secure] <lacalacaxd> cual es el nombre de mi faction?
+[18:54:26] [Async Chat Thread - #11/INFO]: [Not Secure] <Churrupakin> tu lo pones
+[18:54:28] [Server thread/INFO]: Churrupakin issued server command: /fac list
+[18:54:31] [Async Chat Thread - #11/INFO]: [Not Secure] <lacalacaxd> yayayay
+[18:55:12] [Server thread/INFO]: Churrupakin issued server command: /fac claim [radius]
+[18:55:22] [Server thread/INFO]: Churrupakin issued server command: /fac claim [10]
+[18:55:29] [Server thread/INFO]: Churrupakin issued server command: /fac claim 10
+[18:55:36] [Server thread/INFO]: Churrupakin issued server command: /fac claim 5
+[18:55:42] [Server thread/INFO]: lacalacaxd issued server command: /fac create (lamamadora)
+[18:55:55] [Server thread/INFO]: Churrupakin issued server command: /fac list
+[18:56:03] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[18:56:03] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[18:56:04] [Server thread/INFO]: Churrupakin left the game
+[18:56:35] [Server thread/INFO]: lacalacaxd issued server command: /fac create
+[18:56:44] [User Authenticator #5/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[18:56:44] [Server thread/INFO]: Churrupakin joined the game
+[18:56:44] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Churrupakin's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[18:56:44] [Server thread/INFO]: Churrupakin[/172.28.161.65:56530] logged in with entity id 14016 at ([world]140.56079967208328, 64.0, 99.05458319726475)
+[18:56:44] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[18:56:44] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[18:56:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[18:56:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[18:56:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[18:57:12] [User Authenticator #5/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
+[18:57:12] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[18:57:12] [Server thread/INFO]: pingaparaangel joined the game
+[18:57:12] [Server thread/INFO]: pingaparaangel[/172.28.117.248:60924] logged in with entity id 14295 at ([world]183.55232648522892, 63.0, 140.54484987784787)
+[18:57:19] [Async Chat Thread - #15/INFO]: [Not Secure] <pingaparaangel> pene
+[18:57:28] [Async Chat Thread - #15/INFO]: [Not Secure] <lacalacaxd> oe angelo
+[18:57:30] [Async Chat Thread - #15/INFO]: [Not Secure] <pingaparaangel> ya esta o nd
+[18:57:38] [Async Chat Thread - #16/INFO]: [Not Secure] <pingaparaangel> pera
+[18:57:44] [Async Chat Thread - #16/INFO]: [Not Secure] <pingaparaangel> chifa ta q me hace aglo
+[18:58:00] [Async Chat Thread - #15/INFO]: [Not Secure] <pingaparaangel> ya esta o nd kgada
+[18:58:08] [Async Chat Thread - #15/INFO]: [Not Secure] <lacalacaxd> para irme a vivir con ustedes p
+[18:58:16] [Async Chat Thread - #15/INFO]: [Not Secure] <XxMatos15> tremendo lag
+[18:58:16] [Async Chat Thread - #16/INFO]: [Not Secure] <pingaparaangel> dile a chifa
+[18:58:23] [Async Chat Thread - #15/INFO]: [Not Secure] <XxMatos15> mucho lag tu pici
+[18:58:25] [Server thread/INFO]: Churrupakin issued server command: /faction list
+[18:58:28] [Async Chat Thread - #16/INFO]: [Not Secure] <pingaparaangel> nd
+[18:58:30] [Async Chat Thread - #16/INFO]: [Not Secure] <lacalacaxd> chifon
+[18:58:41] [Async Chat Thread - #15/INFO]: [Not Secure] <XxMatos15> a
+[18:58:41] [Async Chat Thread - #15/INFO]: [Not Secure] <pingaparaangel> va fluido q hablas
+[18:58:50] [Async Chat Thread - #15/INFO]: [Not Secure] <XxMatos15> en el anydesk un lag
+[18:58:54] [Async Chat Thread - #15/INFO]: [Not Secure] <XxMatos15> ahora
+[18:58:58] [Async Chat Thread - #15/INFO]: [Not Secure] <XxMatos15> metete asta abaajo
+[18:59:03] [Async Chat Thread - #15/INFO]: [Not Secure] <XxMatos15> y ay bvas a enonctrar diamante
+[18:59:14] [Async Chat Thread - #15/INFO]: [Not Secure] <pingaparaangel> salte de la wbd
+[18:59:20] [Async Chat Thread - #15/INFO]: [Not Secure] <lacalacaxd> nesecito alguien que me cuide xddd
+[18:59:42] [Async Chat Thread - #16/INFO]: [Not Secure] <Churrupakin> hasle caso p chifon
+[18:59:46] [Async Chat Thread - #15/INFO]: [Not Secure] <XxMatos15> metete a mi casa
+[18:59:59] [Async Chat Thread - #15/INFO]: [Not Secure] <lacalacaxd> te sigo
+[19:00:13] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
+[19:00:13] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
+[19:00:13] [Server thread/INFO]: pingaparaangel left the game
+[19:00:21] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
+[19:00:21] [Server thread/INFO]: [Churrupakin: Set own game mode to Creative Mode]
+[19:00:24] [Async Chat Thread - #17/INFO]: [Not Secure] <XxMatos15> ese x ray tenia vvirus
+[19:00:45] [User Authenticator #6/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
+[19:00:45] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[19:00:45] [Server thread/INFO]: pingaparaangel joined the game
+[19:00:45] [Server thread/INFO]: pingaparaangel[/172.28.117.248:60976] logged in with entity id 14952 at ([world]179.9452349652853, 63.0, 151.9574316206448)
+[19:01:01] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
+[19:01:01] [Server thread/INFO]: [Churrupakin: Set own game mode to Survival Mode]
+[19:01:08] [Async Chat Thread - #17/INFO]: [Not Secure] <Churrupakin> voy a meter un anti xray mrd
+[19:01:19] [Server thread/INFO]: XxMatos15 was shot by Skeleton
+[19:01:20] [Server thread/INFO]: Attempt to teleport removed player XxMatos15 restricted
+[19:01:24] [Async Chat Thread - #16/INFO]: [Not Secure] <pingaparaangel> pera encuentro diamantes
+[19:01:25] [Async Chat Thread - #17/INFO]: [Not Secure] <XxMatos15> mentira era
+[19:01:28] [Async Chat Thread - #17/INFO]: [Not Secure] <XxMatos15> xd
+[19:01:36] [Async Chat Thread - #16/INFO]: [Not Secure] <XxMatos15> le meti ese pack de tetura
+[19:01:54] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
+[19:01:54] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
+[19:01:54] [Server thread/INFO]: pingaparaangel left the game
+[19:02:16] [Server thread/INFO]: Churrupakin issued server command: /fac map
+[19:02:38] [Server thread/INFO]: Churrupakin issued server command: /fac unclaim
+[19:02:48] [Server thread/INFO]: Churrupakin issued server command: /fac unclaim
+[19:02:49] [User Authenticator #7/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
+[19:02:49] [Server thread/INFO]: pingaparaangel joined the game
+[19:02:49] [Server thread/INFO]: pingaparaangel[/172.28.117.248:61189] logged in with entity id 15548 at ([world]132.50157657353424, 63.45968460362864, -0.6740539485154946)
+[19:02:49] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[19:02:53] [Server thread/WARN]: lacalacaxd moved too quickly! -13.099679446502387,0.0,0.36901344879393605
+[19:03:07] [Server thread/INFO]: Churrupakin issued server command: /fac unclaim
