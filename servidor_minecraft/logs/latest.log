@@ -306,3 +306,125 @@ expected <block end>, but found '<anchor>'
 [23:20:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
 [23:21:08] [Server thread/INFO]: Churrupakin issued server command: /qa
 [23:21:13] [Server thread/INFO]: Churrupakin issued server command: /qa craft
+[23:22:02] [Server thread/INFO]: Churrupakin issued server command: /qa reload
+[23:22:02] [Server thread/ERROR]: Cannot load plugins/QualityArmory/lang/message_en.yml
+org.bukkit.configuration.InvalidConfigurationException: while parsing a block mapping
+ in 'reader', line 1, column 1:
+    Prefix: "&8[&2QualityArmory&8]&r"
+    ^
+expected <block end>, but found '<anchor>'
+ in 'reader', line 4, column 10:
+    NoPerm: '&c No tienes permiso para hacer  ... 
+             ^
+
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:111) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at me.zombie_striker.qg.config.CommentYamlConfiguration.load(CommentYamlConfiguration.java:35) ~[QualityArmory.jar:?]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:128) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at me.zombie_striker.qg.config.CommentYamlConfiguration.loadConfiguration(CommentYamlConfiguration.java:104) ~[QualityArmory.jar:?]
+	at me.zombie_striker.qg.config.MessagesYML.<init>(MessagesYML.java:37) ~[QualityArmory.jar:?]
+	at me.zombie_striker.qg.QAMain.reloadVals(QAMain.java:832) ~[QualityArmory.jar:?]
+	at me.zombie_striker.qg.QAMain.onCommand(QAMain.java:1475) ~[QualityArmory.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:155) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchCommand(CraftServer.java:987) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:64) ~[paper-1.20.1.jar:git-Paper-196]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:265) ~[paper-1.20.1.jar:?]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:324) ~[?:?]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:308) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performChatCommand(ServerGamePacketListenerImpl.java:2354) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$21(ServerGamePacketListenerImpl.java:2314) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.lambda$submitAsync$0(BlockableEventLoop.java:59) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1338) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:197) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1315) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1308) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:114) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1424) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: org.yaml.snakeyaml.parser.ParserException: while parsing a block mapping
+ in 'reader', line 1, column 1:
+    Prefix: "&8[&2QualityArmory&8]&r"
+    ^
+expected <block end>, but found '<anchor>'
+ in 'reader', line 4, column 10:
+    NoPerm: '&c No tienes permiso para hacer  ... 
+             ^
+
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:656) ~[snakeyaml-2.0.jar:?]
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:162) ~[snakeyaml-2.0.jar:?]
+	at org.yaml.snakeyaml.comments.CommentEventsCollector$1.peek(CommentEventsCollector.java:57) ~[snakeyaml-2.0.jar:?]
+	at org.yaml.snakeyaml.comments.CommentEventsCollector$1.peek(CommentEventsCollector.java:43) ~[snakeyaml-2.0.jar:?]
+	at org.yaml.snakeyaml.comments.CommentEventsCollector.collectEvents(CommentEventsCollector.java:136) ~[snakeyaml-2.0.jar:?]
+	at org.yaml.snakeyaml.comments.CommentEventsCollector.collectEvents(CommentEventsCollector.java:116) ~[snakeyaml-2.0.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.composeScalarNode(Composer.java:241) ~[snakeyaml-2.0.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:205) ~[snakeyaml-2.0.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:369) ~[snakeyaml-2.0.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:348) ~[snakeyaml-2.0.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:323) ~[snakeyaml-2.0.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:209) ~[snakeyaml-2.0.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.getNode(Composer.java:131) ~[snakeyaml-2.0.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:157) ~[snakeyaml-2.0.jar:?]
+	at org.yaml.snakeyaml.Yaml.compose(Yaml.java:575) ~[snakeyaml-2.0.jar:?]
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:104) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	... 30 more
+[23:22:03] [Server thread/INFO]: [QualityArmory] -Loaded 11 Ammo types.
+[23:22:03] [Server thread/INFO]: [QualityArmory] -Loaded 16 Misc.
+[23:22:03] [Server thread/INFO]: [QualityArmory] -Loaded 70 Gun types.
+[23:22:03] [Server thread/INFO]: [QualityArmory] -Loading Attachment: awpasiimov
+[23:22:03] [Server thread/INFO]: [QualityArmory] -Loading Attachment: p30silenced
+[23:22:03] [Server thread/INFO]: [QualityArmory] -Loading Attachment: uzicorn
+[23:22:03] [Server thread/INFO]: [QualityArmory] -Loaded 3 Attachment types.
+[23:22:03] [Server thread/INFO]: [QualityArmory] -Loaded 4 Armor types.
+[23:22:08] [Server thread/INFO]: Churrupakin issued server command: /qa craft
+[23:24:59] [Server thread/INFO]: Churrupakin issued server command: /qa
+[23:25:03] [Server thread/INFO]: Churrupakin issued server command: /qa craft
+[23:25:11] [Server thread/INFO]: Churrupakin issued server command: /qa reload
+[23:25:11] [Server thread/INFO]: [QualityArmory] -Loaded 11 Ammo types.
+[23:25:11] [Server thread/INFO]: [QualityArmory] -Loaded 16 Misc.
+[23:25:11] [Server thread/INFO]: [QualityArmory] -Loaded 70 Gun types.
+[23:25:11] [Server thread/INFO]: [QualityArmory] -Loading Attachment: awpasiimov
+[23:25:11] [Server thread/INFO]: [QualityArmory] -Loading Attachment: p30silenced
+[23:25:11] [Server thread/INFO]: [QualityArmory] -Loading Attachment: uzicorn
+[23:25:11] [Server thread/INFO]: [QualityArmory] -Loaded 3 Attachment types.
+[23:25:11] [Server thread/INFO]: [QualityArmory] -Loaded 4 Armor types.
+[23:25:16] [Server thread/INFO]: Churrupakin issued server command: /qa craft
+[23:25:49] [Server thread/INFO]: Churrupakin issued server command: /qa craft
+[23:26:11] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
+[23:26:11] [Server thread/INFO]: [Churrupakin: Set own game mode to Creative Mode]
+[23:26:32] [Server thread/INFO]: Churrupakin issued server command: /qa give 9mm Churrupakin
+[23:26:41] [Server thread/INFO]: Churrupakin issued server command: /qa c
+[23:26:44] [Server thread/INFO]: Churrupakin issued server command: /qa craft
+[23:29:39] [User Authenticator #1/INFO]: UUID of player XxMatos15 is 2a9ff858-04dc-3136-97df-619a6316d09a
+[23:29:39] [TAB Processing Thread/INFO]: [TAB] [WARN] Player XxMatos15's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[23:29:39] [Server thread/INFO]: XxMatos15 joined the game
+[23:29:39] [Server thread/INFO]: XxMatos15[/172.28.131.63:50567] logged in with entity id 718 at ([world]-62.496522862858434, 56.0, 254.8756793211637)
+[23:29:51] [Server thread/INFO]: Churrupakin issued server command: /gamemode spectator
+[23:29:51] [Server thread/INFO]: [Churrupakin: Set own game mode to Spectator Mode]
+[23:30:07] [Async Chat Thread - #1/INFO]: [Not Secure] <Churrupakin> ya lo traduje un pco
+[23:30:15] [Server thread/INFO]: Churrupakin issued server command: /qa craft
+[23:30:15] [Async Chat Thread - #1/INFO]: [Not Secure] <XxMatos15> ya
+[23:30:59] [Server thread/INFO]: XxMatos15 lost connection: Disconnected
+[23:30:59] [Server thread/INFO]: [voicechat] Disconnecting client XxMatos15
+[23:30:59] [Server thread/INFO]: XxMatos15 left the game
+[23:31:16] [User Authenticator #2/INFO]: UUID of player XxMatos15 is 2a9ff858-04dc-3136-97df-619a6316d09a
+[23:31:16] [TAB Processing Thread/INFO]: [TAB] [WARN] Player XxMatos15's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[23:31:16] [Server thread/INFO]: XxMatos15 joined the game
+[23:31:16] [Server thread/INFO]: XxMatos15[/172.28.131.63:50650] logged in with entity id 871 at ([world]-8.252382293174612, 50.7125, 238.5)
+[23:31:42] [Async Chat Thread - #2/INFO]: [Not Secure] <XxMatos15> cuaL ES EL CRAFTEo de la armas
+[23:32:05] [Async Chat Thread - #3/INFO]: [Not Secure] <Churrupakin> ahi dice
+[23:32:09] [Async Chat Thread - #3/INFO]: [Not Secure] <XxMatos15> donde
+[23:32:18] [Async Chat Thread - #3/INFO]: [Not Secure] <Churrupakin> en ingredienmtes
+[23:32:26] [Async Chat Thread - #3/INFO]: [Not Secure] <Churrupakin> pon /qa craft
+[23:32:36] [Server thread/INFO]: XxMatos15 issued server command: /qa craft
+[23:32:43] [Async Chat Thread - #3/INFO]: [Not Secure] <XxMatos15> no tienes permiso para acer eso dice
+[23:33:06] [User Authenticator #3/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
+[23:33:06] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[23:33:06] [Server thread/INFO]: pingaparaangel joined the game
+[23:33:06] [Server thread/INFO]: pingaparaangel[/172.28.117.248:65327] logged in with entity id 1251 at ([world]-82.30000001192093, -57.0, 254.72428079581104)
