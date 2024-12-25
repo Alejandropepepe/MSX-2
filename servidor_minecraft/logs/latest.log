@@ -211,3 +211,12 @@ java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.Invento
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[07:10:07] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
+[07:10:07] [Server thread/INFO]: [Churrupakin: Set own game mode to Creative Mode]
+[07:13:10] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
+[07:13:10] [Server thread/INFO]: [Churrupakin: Set own game mode to Survival Mode]
+[07:15:52] [Async Chat Thread - #2/INFO]: [Not Secure] <Churrupakin> 2 y 40 apago server
+[07:15:54] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[07:15:54] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[07:15:54] [Server thread/INFO]: Churrupakin left the game
+[07:15:56] [Async Chat Thread - #3/INFO]: [Not Secure] <XxMatos15> YA
