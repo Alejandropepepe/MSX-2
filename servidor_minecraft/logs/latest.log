@@ -239,3 +239,138 @@ java.lang.Throwable: null
 [18:13:17] [Async Chat Thread - #1/INFO]: [Not Secure] <XxMatos15> q paquete se descargha
 [18:13:24] [Async Chat Thread - #1/INFO]: [Not Secure] <XxMatos15> !s
 [18:13:28] [Async Chat Thread - #1/INFO]: [Not Secure] <SKrampusPEcausa> oe que mods le metoste
+[18:14:50] [Server thread/INFO]: Churrupakin issued server command: /faction
+[18:15:05] [Server thread/INFO]: Churrupakin issued server command: /f help category:power.command.category.power
+[18:15:15] [Server thread/INFO]: Churrupakin issued server command: /f help category:base.command.category.manage
+[18:15:39] [Async Chat Thread - #2/INFO]: [Not Secure] <Churrupakin> papus
+[18:15:54] [Async Chat Thread - #3/INFO]: [Not Secure] <Churrupakin> voy a eliminr el plgin de los bloques q protegen
+[18:16:04] [Async Chat Thread - #3/INFO]: [Not Secure] <Churrupakin> pq hay otro de faction
+[18:16:17] [Async Chat Thread - #3/INFO]: [Not Secure] <SKrampusPEcausa> y mi ump evolutiva
+[18:16:52] [Async Chat Thread - #3/INFO]: [Not Secure] <Churrupakin> para ver los comandos /fac help
+[18:17:04] [Async Chat Thread - #3/INFO]: [Not Secure] <XxMatos15> xd
+[18:17:06] [Server thread/INFO]: XxMatos15 issued server command: /fac
+[18:17:10] [Server thread/INFO]: XxMatos15 issued server command: /f help category:base.command.category.claim
+[18:17:42] [Async Chat Thread - #2/INFO]: [Not Secure] <SKrampusPEcausa> valla pta mierda de pin
+[18:18:05] [Server thread/INFO]: SKrampusPEcausa fell from a high place
+[18:18:18] [Server thread/INFO]: Churrupakin issued server command: /tp SKrampusPEcausa Churrupakin
+[18:18:18] [Server thread/INFO]: [Churrupakin: Teleported SKrampusPEcausa to Churrupakin]
+[18:18:20] [Server thread/INFO]: SKrampusPEcausa was shot by Churrupakin using a AK47
+[18:18:24] [Server thread/INFO]: Churrupakin issued server command: /tp SKrampusPEcausa Churrupakin
+[18:18:24] [Server thread/INFO]: [Churrupakin: Teleported SKrampusPEcausa to Churrupakin]
+[18:18:31] [Async Chat Thread - #2/INFO]: [Not Secure] <XxMatos15> como se ace
+[18:18:35] [Async Chat Thread - #2/INFO]: [Not Secure] <SKrampusPEcausa> el patron
+[18:18:47] [Async Chat Thread - #2/INFO]: [Not Secure] <Churrupakin> ves las armas?
+[18:18:51] [Async Chat Thread - #2/INFO]: [Not Secure] <SKrampusPEcausa> si
+[18:18:57] [Async Chat Thread - #2/INFO]: [Not Secure] <SKrampusPEcausa> pasate una pe
+[18:19:10] [Async Chat Thread - #2/INFO]: [Not Secure] <SKrampusPEcausa> o como se craftea
+[18:19:36] [Async Chat Thread - #2/INFO]: [Not Secure] <Churrupakin> voy a ver si lo hago para craftear o comprar con xp
+[18:19:44] [Server thread/INFO]: Churrupakin issued server command: /plugins
+[18:19:47] [Async Chat Thread - #3/INFO]: [Not Secure] <SKrampusPEcausa> pa craftear nomas
+[18:20:02] [Server thread/INFO]: Churrupakin issued server command: /axgrave
+[18:20:51] [User Authenticator #3/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
+[18:20:51] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[18:20:51] [Server thread/INFO]: pingaparaangel joined the game
+[18:20:51] [Server thread/INFO]: pingaparaangel[/172.28.117.248:60280] logged in with entity id 3759 at ([world]-111.41572650394579, 3.0, 251.30000001192093)
+[18:20:55] [Server thread/INFO]: XxMatos15 was shot by Churrupakin using a AK47
+[18:21:00] [Async Chat Thread - #4/INFO]: [Not Secure] <SKrampusPEcausa> papus desierto?
+[18:21:03] [Async Chat Thread - #5/INFO]: [Not Secure] <XxMatos15> la mrd
+[18:21:09] [Async Chat Thread - #5/INFO]: [Not Secure] <XxMatos15> como se consigue esa wea
+[18:21:13] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15 Churrupakin
+[18:21:13] [Server thread/INFO]: [Churrupakin: Teleported XxMatos15 to Churrupakin]
+[18:21:30] [Async Chat Thread - #5/INFO]: [Not Secure] <Churrupakin> ahora lo voy a poner
+[18:21:34] [Async Chat Thread - #5/INFO]: [Not Secure] <Churrupakin> mi ak dragon
+[18:21:45] [Server thread/INFO]: Churrupakin issued server command: /plugins
+[18:21:59] [Server thread/INFO]: Churrupakin issued server command: /qualityarmory shop
+[18:22:02] [Server thread/INFO]: XxMatos15 issued server command: /fac
+[18:22:07] [Server thread/INFO]: XxMatos15 issued server command: /f help category:base.command.category.admin
+[18:22:15] [Server thread/INFO]: XxMatos15 issued server command: /factions zone
+[18:22:16] [Server thread/INFO]: Churrupakin issued server command: /qualityarmory shop
+[18:22:32] [Server thread/INFO]: XxMatos15 issued server command: /f help category:base.command.category.general
+[18:22:32] [Server thread/INFO]: XxMatos15 issued server command: /f help category:base.command.category.general
+[18:22:40] [Server thread/INFO]: XxMatos15 issued server command: /factions wilderness
+[18:22:40] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'factions' in plugin ImprovedFactions v2.2.0
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:155) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchCommand(CraftServer.java:987) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:64) ~[paper-1.20.1.jar:git-Paper-196]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:265) ~[paper-1.20.1.jar:?]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:324) ~[?:?]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:308) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performChatCommand(ServerGamePacketListenerImpl.java:2354) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$21(ServerGamePacketListenerImpl.java:2314) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.lambda$submitAsync$0(BlockableEventLoop.java:59) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1338) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:197) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1315) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1308) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1286) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1174) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalStateException: No transaction in context.
+	at org.jetbrains.exposed.sql.transactions.TransactionManager$Companion.current(TransactionApi.kt:229) ~[ImprovedFactions-2.2.0.jar:?]
+	at org.jetbrains.exposed.dao.EntityClass.invalidateEntityInCache$exposed_dao(EntityClass.kt:120) ~[ImprovedFactions-2.2.0.jar:?]
+	at org.jetbrains.exposed.dao.Entity.setValue(Entity.kt:231) ~[ImprovedFactions-2.2.0.jar:?]
+	at io.github.toberocat.improvedfactions.utils.options.limit.PlayerUsageLimit.setUsed(PlayerUsageLimit.kt:11) ~[ImprovedFactions-2.2.0.jar:?]
+	at io.github.toberocat.improvedfactions.modules.wilderness.commands.WildernessCommand.cancelCommand(WildernessCommand.kt:80) ~[ImprovedFactions-2.2.0.jar:?]
+	at io.github.toberocat.improvedfactions.modules.wilderness.commands.WildernessCommand.handle(WildernessCommand.kt:46) ~[ImprovedFactions-2.2.0.jar:?]
+	at io.github.toberocat.improvedfactions.toberocore.command.PlayerSubCommand.handleCommand(PlayerSubCommand.java:29) ~[ImprovedFactions-2.2.0.jar:?]
+	at io.github.toberocat.improvedfactions.toberocore.command.SubCommand.handleWithOptions(SubCommand.java:95) ~[ImprovedFactions-2.2.0.jar:?]
+	at io.github.toberocat.improvedfactions.toberocore.command.SubCommand.routeCall(SubCommand.java:75) ~[ImprovedFactions-2.2.0.jar:?]
+	at io.github.toberocat.improvedfactions.toberocore.command.CommandExecutor.onCommand(CommandExecutor.java:52) ~[ImprovedFactions-2.2.0.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	... 23 more
+[18:22:40] [Server thread/INFO]: pingaparaangel was shot by Skeleton
+[18:22:45] [Async Chat Thread - #6/INFO]: [Not Secure] <Churrupakin> papus es mi faction
+[18:22:52] [Async Chat Thread - #7/INFO]: [Not Secure] <Churrupakin> desierto es como no claimeadoa
+[18:22:58] [Server thread/INFO]: XxMatos15 issued server command: /factions wilderness
+[18:22:58] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'factions' in plugin ImprovedFactions v2.2.0
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:155) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchCommand(CraftServer.java:987) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:64) ~[paper-1.20.1.jar:git-Paper-196]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:265) ~[paper-1.20.1.jar:?]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:324) ~[?:?]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:308) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performChatCommand(ServerGamePacketListenerImpl.java:2354) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$21(ServerGamePacketListenerImpl.java:2314) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.lambda$submitAsync$0(BlockableEventLoop.java:59) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1338) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:197) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1315) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1308) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1286) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1174) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalStateException: No transaction in context.
+	at org.jetbrains.exposed.sql.transactions.TransactionManager$Companion.current(TransactionApi.kt:229) ~[ImprovedFactions-2.2.0.jar:?]
+	at org.jetbrains.exposed.dao.EntityClass.invalidateEntityInCache$exposed_dao(EntityClass.kt:120) ~[ImprovedFactions-2.2.0.jar:?]
+	at org.jetbrains.exposed.dao.Entity.setValue(Entity.kt:231) ~[ImprovedFactions-2.2.0.jar:?]
+	at io.github.toberocat.improvedfactions.utils.options.limit.PlayerUsageLimit.setUsed(PlayerUsageLimit.kt:11) ~[ImprovedFactions-2.2.0.jar:?]
+	at io.github.toberocat.improvedfactions.modules.wilderness.commands.WildernessCommand.cancelCommand(WildernessCommand.kt:80) ~[ImprovedFactions-2.2.0.jar:?]
+	at io.github.toberocat.improvedfactions.modules.wilderness.commands.WildernessCommand.handle(WildernessCommand.kt:46) ~[ImprovedFactions-2.2.0.jar:?]
+	at io.github.toberocat.improvedfactions.toberocore.command.PlayerSubCommand.handleCommand(PlayerSubCommand.java:29) ~[ImprovedFactions-2.2.0.jar:?]
+	at io.github.toberocat.improvedfactions.toberocore.command.SubCommand.handleWithOptions(SubCommand.java:95) ~[ImprovedFactions-2.2.0.jar:?]
+	at io.github.toberocat.improvedfactions.toberocore.command.SubCommand.routeCall(SubCommand.java:75) ~[ImprovedFactions-2.2.0.jar:?]
+	at io.github.toberocat.improvedfactions.toberocore.command.CommandExecutor.onCommand(CommandExecutor.java:52) ~[ImprovedFactions-2.2.0.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	... 23 more
+[18:23:16] [Async Chat Thread - #7/INFO]: [Not Secure] <Churrupakin> hagan /fac help
+[18:23:16] [Server thread/INFO]: pingaparaangel was shot by Skeleton
+[18:23:26] [Server thread/INFO]: XxMatos15 issued server command: /fac help
+[18:24:15] [Server thread/INFO]: pingaparaangel was shot by Skeleton
