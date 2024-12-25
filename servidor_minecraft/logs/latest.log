@@ -476,3 +476,73 @@ expected <block end>, but found '<anchor>'
 [23:44:11] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
 [23:44:11] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
 [23:44:11] [Server thread/INFO]: pingaparaangel left the game
+[23:44:29] [User Authenticator #5/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
+[23:44:29] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[23:44:29] [Server thread/INFO]: pingaparaangel joined the game
+[23:44:29] [Server thread/INFO]: pingaparaangel[/172.28.117.248:65424] logged in with entity id 4409 at ([world]-83.31603100058113, -60.0, 235.69999998807907)
+[23:44:33] [Async Chat Thread - #6/INFO]: [Not Secure] <XxMatos15> bedrok
+[23:44:51] [User Authenticator #5/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[23:44:51] [Server thread/INFO]: Churrupakin joined the game
+[23:44:51] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Churrupakin's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[23:44:51] [Server thread/INFO]: Churrupakin[/172.28.161.65:65263] logged in with entity id 4590 at ([world]-61.68896531418805, 58.25549778277467, 247.5785678468098)
+[23:44:51] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[23:44:51] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[23:44:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[23:44:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[23:44:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[23:44:56] [Server thread/INFO]: XxMatos15 was slain by Spider
+[23:44:57] [Server thread/INFO]: Attempt to teleport removed player XxMatos15 restricted
+[23:45:14] [Server thread/WARN]: pingaparaangel was kicked due to keepalive timeout!
+[23:45:14] [Server thread/INFO]: pingaparaangel lost connection: Timed out
+[23:45:14] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
+[23:45:14] [Server thread/INFO]: pingaparaangel left the game
+[23:48:44] [Server thread/INFO]: Churrupakin issued server command: /faction unclaim
+[23:48:49] [Server thread/INFO]: Churrupakin issued server command: /faction unclaim
+[23:49:16] [Server thread/INFO]: Churrupakin issued server command: /faction claim
+[23:49:21] [Server thread/INFO]: Churrupakin issued server command: /faction claim
+[23:49:31] [Server thread/INFO]: Churrupakin issued server command: /faction claim
+[23:49:34] [Server thread/INFO]: Churrupakin issued server command: /faction claim
+[23:49:39] [Server thread/INFO]: Churrupakin issued server command: /faction claim
+[23:50:19] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
+[23:50:19] [Server thread/INFO]: [Churrupakin: Set own game mode to Survival Mode]
+[23:51:13] [User Authenticator #6/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
+[23:51:13] [Server thread/INFO]: pingaparaangel joined the game
+[23:51:13] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[23:51:13] [Server thread/INFO]: pingaparaangel[/172.28.117.248:65514] logged in with entity id 6171 at ([world]-87.14708413607248, -60.25503045208082, 236.69501989981188)
+[23:51:23] [Async Chat Thread - #8/INFO]: [Not Secure] <pingaparaangel> matias
+[23:51:44] [Async Chat Thread - #9/INFO]: [Not Secure] <pingaparaangel> matias
+[23:51:52] [Async Chat Thread - #9/INFO]: [Not Secure] <pingaparaangel> hazme tp a chifon p
+[23:51:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player a3898cf4-4c4a-3a29-b628-38892b7008ac timed out
+[23:51:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Churrupakin
+[23:51:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Churrupakin
+[23:52:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[23:52:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[23:52:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[23:52:03] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[23:52:03] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[23:52:03] [Server thread/INFO]: Churrupakin left the game
+[23:52:07] [Async Chat Thread - #8/INFO]: [Not Secure] <pingaparaangel> tmr
+[23:52:20] [User Authenticator #7/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[23:52:20] [Server thread/INFO]: Churrupakin joined the game
+[23:52:20] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Churrupakin's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[23:52:20] [Server thread/INFO]: Churrupakin[/172.28.161.65:60326] logged in with entity id 6394 at ([world]129.9257344227092, 63.875, 102.4059353542088)
+[23:52:21] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[23:52:21] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[23:52:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[23:52:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[23:52:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[23:52:30] [Server thread/INFO]: pingaparaangel issued server command: /tp a chifon
+[23:52:55] [Server thread/INFO]: Churrupakin issued server command: /tp pingaparaangel XxMatos15
+[23:52:55] [Server thread/INFO]: [Churrupakin: Teleported pingaparaangel to XxMatos15]
+[23:52:55] [Async Chat Thread - #8/INFO]: [Not Secure] <pingaparaangel> matias
+[23:52:59] [Async Chat Thread - #8/INFO]: [Not Secure] <pingaparaangel> ya
+[23:53:07] [Async Chat Thread - #9/INFO]: [Not Secure] <XxMatos15> MIRA
+[23:53:18] [Async Chat Thread - #9/INFO]: [Not Secure] <pingaparaangel> esas wbd
+[23:53:21] [Async Chat Thread - #9/INFO]: [Not Secure] <XxMatos15> NO BAJA ELA GUA
+[23:53:26] [Async Chat Thread - #9/INFO]: [Not Secure] <XxMatos15> agua
+[23:53:33] [Async Chat Thread - #9/INFO]: [Not Secure] <pingaparaangel> era para poti xd
+[23:53:56] [Async Chat Thread - #9/INFO]: [Not Secure] <XxMatos15> pq no baja
+[23:53:56] [Async Chat Thread - #9/INFO]: [Not Secure] <XxMatos15> xd
+[23:54:04] [Async Chat Thread - #9/INFO]: [Not Secure] <pingaparaangel> xddd
+[23:54:21] [Async Chat Thread - #9/INFO]: [Not Secure] <pingaparaangel> esa m10
+[23:54:27] [Async Chat Thread - #9/INFO]: [Not Secure] <Churrupakin> awp
