@@ -13,11 +13,11 @@
 ,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">%faction_name%<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">%faction_owner%<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">%faction_maxPower%<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
 }
 ,"label": "Factions","markers": {}
-,"lines": {"ec5bf563-2093-43ac-84ef-74c0f5870543-0": {"color": "#71708C","markup": false,"x": [128.00,144.00,144.00,128.00,128.00]
+,"lines": {"b96353db-209f-465b-9175-0ca5f199d805-0": {"color": "#71708C","markup": false,"x": [128.00,144.00,144.00,128.00,128.00]
 ,"y": [64.00,64.00,64.00,64.00,64.00]
 ,"weight": 3,"z": [112.00,112.00,80.00,80.00,112.00]
 ,"label": "","opacity": 0.50}
 }
 ,"layerprio": 10}
 }
-,"timestamp": 1735148024091}
+,"timestamp": 1735149855982}
