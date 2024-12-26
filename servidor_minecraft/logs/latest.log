@@ -420,3 +420,30 @@
 [00:56:06] [Server thread/INFO]: [Churrupakin: Set own game mode to Creative Mode]
 [00:56:13] [Server thread/INFO]: Churrupakin issued server command: /tab parse me %animation:barcolors%
 [00:56:18] [Server thread/INFO]: Churrupakin issued server command: /tab parse me %animation:barcolors% sadad
+[00:56:30] [Async Chat Thread - #43/INFO]: [Not Secure] <XxMatos15> potias
+[00:56:31] [Server thread/INFO]: Churrupakin issued server command: /tab parse me %animation:barcolors%
+[00:56:38] [Async Chat Thread - #44/INFO]: [Not Secure] <XxMatos15> abre la jaula de aldeanos
+[00:56:43] [Server thread/INFO]: Churrupakin issued server command: /gamemode spectator
+[00:56:43] [Server thread/INFO]: [Churrupakin: Set own game mode to Spectator Mode]
+[00:56:47] [Server thread/INFO]: Churrupakin issued server command: /tp lacalacaxd
+[00:56:47] [Server thread/INFO]: [Churrupakin: Teleported Churrupakin to lacalacaxd]
+[00:56:57] [Server thread/INFO]: Churrupakin issued server command: /tab parse lacalacaxd %animation:barcolors%
+[00:57:08] [Server thread/INFO]: Churrupakin issued server command: /tab parse lacalacaxd %animation:barcolors% xd
+[00:57:42] [Server thread/INFO]: Churrupakin issued server command: /tab parse me %group%
+[00:57:51] [Server thread/INFO]: Churrupakin issued server command: /tab parse me %animation:ServerName%
+[00:57:58] [Async Chat Thread - #45/INFO]: [Not Secure] <Churrupakin> x
+[00:59:00] [Server thread/INFO]: XxMatos15 issued server command: /skin random
+[00:59:06] [Server thread/INFO]: XxMatos15 issued server command: /fac home
+[00:59:38] [Async Chat Thread - #48/INFO]: [Not Secure] <lacalacaxd> chifon ya plante
+[00:59:42] [Async Chat Thread - #48/INFO]: [Not Secure] <XxMatos15> TYA
+[01:00:01] [Async Chat Thread - #48/INFO]: [Not Secure] <XxMatos15> sabes como soltar el agua?
+[01:00:17] [Server thread/INFO]: XxMatos15 issued server command: /fac home
+[01:01:14] [Server thread/INFO]: Churrupakin issued server command: /tab mysql
+[01:01:20] [Server thread/INFO]: Churrupakin issued server command: /tab mysql download
+[01:01:28] [Async Chat Thread - #49/INFO]: [Not Secure] <XxMatos15> pasa comida
+[01:03:31] [Server thread/INFO]: XxMatos15 issued server command: /fac home
+[01:04:11] [Server thread/INFO]: Churrupakin issued server command: /tab group Owner tabprefix
+[01:04:32] [Server thread/INFO]: Churrupakin issued server command: /tab parse Churrupakin %%
+[01:04:38] [Server thread/INFO]: Churrupakin issued server command: /tab parse Churrupakin adsad
+[01:04:55] [Server thread/INFO]: Churrupakin issued server command: /tab player Churrupakin tagprefix
+[01:06:30] [Server thread/INFO]: XxMatos15 was shot by Skeleton

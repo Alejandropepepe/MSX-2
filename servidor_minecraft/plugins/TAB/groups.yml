@@ -22,3 +22,4 @@ per-world:
     Owner:
       tabprefix: '&0&l[&a&lOwner&0&l] &a'
       tagprefix: '&2&lOwner &a'
+Owner: {}
