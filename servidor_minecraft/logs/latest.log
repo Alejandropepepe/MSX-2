@@ -535,3 +535,30 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [17:55:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
 [17:55:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
 [17:55:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[17:56:13] [Async Chat Thread - #20/INFO]: [Not Secure] Owner Churrupakin : si da el de factions?
+[17:56:15] [Async Chat Thread - #21/INFO]: [Not Secure] Heroico  XxMatos15 : comno es
+[17:56:21] [Async Chat Thread - #21/INFO]: [Not Secure] Heroico  XxMatos15 : el comando
+[17:56:28] [Async Chat Thread - #21/INFO]: [Not Secure] Owner Churrupakin : el /fac invite o claim
+[17:56:34] [Server thread/INFO]: XxMatos15 issued server command: /fac claim
+[17:56:35] [Async Chat Thread - #21/INFO]: [Not Secure] Heroico  XxMatos15 : si
+[17:56:39] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15
+[17:59:51] [Server thread/INFO]: XxMatos15 was slain by Silverfish
+[18:00:40] [Server thread/INFO]: XxMatos15 fell from a high place
+[18:01:38] [Server thread/INFO]: XxMatos15 issued server command: /fac home
+[18:03:39] [Server thread/INFO]: XxMatos15 issued server command: /fac home
+[18:03:59] [Server thread/INFO]: XxMatos15 issued server command: /qa craft
+[18:04:42] [Server thread/INFO]: Churrupakin issued server command: /plugins
+[18:04:44] [Server thread/INFO]: XxMatos15 issued server command: /qa shop
+[18:04:47] [Async Chat Thread - #22/INFO]: [Not Secure] Heroico  XxMatos15 : manp
+[18:04:54] [Async Chat Thread - #22/INFO]: [Not Secure] Owner Churrupakin : q
+[18:05:00] [Async Chat Thread - #23/INFO]: [Not Secure] Heroico  XxMatos15 : como se ace municiones
+[18:05:06] [Async Chat Thread - #22/INFO]: [Not Secure] Heroico  XxMatos15 : xd
+[18:05:12] [Server thread/INFO]: XxMatos15 issued server command: /qa craft
+[18:05:16] [Server thread/INFO]: Churrupakin issued server command: /qa craft
+[18:05:29] [Async Chat Thread - #22/INFO]: [Not Secure] Owner Churrupakin : tienes q dar next page
+[18:05:35] [Server thread/INFO]: Churrupakin issued server command: /qa craft
+[18:05:44] [Async Chat Thread - #22/INFO]: [Not Secure] Owner Churrupakin : ahi sale una cuadricula roja
+[18:05:52] [Async Chat Thread - #22/INFO]: [Not Secure] Owner Churrupakin : y ahi estan las municiones
+[18:05:55] [Async Chat Thread - #22/INFO]: [Not Secure] Heroico  XxMatos15 : ya
+[18:06:09] [Server thread/INFO]: Churrupakin issued server command: /reload
+[18:06:09] [Server thread/INFO]: Churrupakin: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
