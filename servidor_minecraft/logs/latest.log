@@ -630,3 +630,21 @@
 [02:47:24] [Server thread/INFO]: Churrupakin issued server command: /plugins
 [02:47:43] [Async Chat Thread - #62/INFO]: [Not Secure] <Ram_Tz> Ia armas como se consiguen?
 [02:47:54] [Async Chat Thread - #62/INFO]: [Not Secure] <Ram_Tz> hay nuevos crafteos
+[02:51:48] [Async Chat Thread - #64/INFO]: [Not Secure] <Churrupakin> has /qa craft
+[02:51:57] [Server thread/INFO]: Churrupakin issued server command: /tab reload
+[02:51:57] [Server thread/INFO]: [TAB] Disabled in 1ms
+[02:51:57] [Server thread/INFO]: [TAB] [WARN] [config.yml] Scoreboard "scoreboard-1.20.3+" is using right-side text alignment (using ||) in the lines, however, your server does not support this feature. It was added into the game in version 1.20.3. Any text defined after || in lines will not be displayed.
+[02:51:57] [Server thread/INFO]: [TAB] [WARN] Player Churrupakin's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[02:51:57] [Server thread/INFO]: [TAB] [WARN] Player Ram_Tz's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[02:51:57] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[02:51:57] [Server thread/INFO]: [TAB] Enabled in 69ms
+[02:52:07] [Server thread/INFO]: Ram_Tz issued server command: /qa craft
+[02:52:19] [Async Chat Thread - #63/INFO]: [Not Secure] <Ram_Tz> no tengo permiso
+[02:52:49] [Server thread/INFO]: Churrupakin issued server command: /qa craft
+[02:52:57] [Async Chat Thread - #63/INFO]: [Not Secure] <Churrupakin> firme?
+[02:53:14] [Async Chat Thread - #63/INFO]: [Not Secure] <Ram_Tz> chi
+[02:53:22] [Async Chat Thread - #63/INFO]: [Not Secure] <Churrupakin> pero si el server dice q lo ejecutaste normal xd
+[02:53:42] [Async Chat Thread - #63/INFO]: [Not Secure] <Ram_Tz> cap en ig
+[02:53:48] [Async Chat Thread - #63/INFO]: [Not Secure] <Ram_Tz> mera xd
+[02:57:35] [Async Chat Thread - #65/INFO]: [Not Secure] <Churrupakin> manda p
+[02:58:59] [Async Chat Thread - #67/INFO]: [Not Secure] <Ram_Tz> ya mande

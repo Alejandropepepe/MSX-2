@@ -113,8 +113,8 @@ scoreboard:
       lines:
         - "&7%date%"
         - "%animation:MyAnimation1%"
-        - "&6Online:"
-        - "* &eEn linea&7: &f%online%"
+        - "&6Info:"
+        - "* &eNick&7: &f%luckperms_prefix%"
         - "* &eMundo actual&7: &f%worldonline%"
         - "* &eAdmins&7: &f%staffonline%"
         - ""
