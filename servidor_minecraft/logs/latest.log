@@ -1,735 +1,257 @@
-[00:00:26] [Async Chat Thread - #10/INFO]: [Not Secure] <XxMatos15> yano mejor
-[00:00:26] [Async Chat Thread - #11/INFO]: [Not Secure] <XxMatos15> xd
-[00:00:34] [User Authenticator #8/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
-[00:00:35] [Server thread/INFO]: Churrupakin joined the game
-[00:00:35] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Churrupakin's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:00:35] [Server thread/INFO]: Churrupakin[/172.28.161.65:60503] logged in with entity id 8378 at ([world]141.69999998807907, 63.0, 97.38972426191155)
-[00:00:35] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
-[00:00:35] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
-[00:00:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[00:00:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[00:00:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
-[00:00:42] [Async Chat Thread - #11/INFO]: [Not Secure] <XxMatos15> solo as 64
-[00:01:20] [Server thread/INFO]: Churrupakin lost connection: Disconnected
-[00:01:20] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
-[00:01:20] [Server thread/INFO]: Churrupakin left the game
-[00:02:18] [Server thread/INFO]: XxMatos15 was slain by Enderman
-[00:02:20] [User Authenticator #9/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
-[00:02:20] [Server thread/INFO]: Churrupakin joined the game
-[00:02:20] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Churrupakin's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:02:20] [Server thread/INFO]: Churrupakin[/172.28.161.65:60515] logged in with entity id 8685 at ([world]138.9634551796527, 63.5625, 100.6565325372584)
-[00:02:21] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
-[00:02:21] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
-[00:02:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[00:02:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[00:02:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
-[00:02:27] [Async Chat Thread - #12/INFO]: [Not Secure] <pingaparaangel> xdd
-[00:02:47] [Async Chat Thread - #13/INFO]: [Not Secure] <XxMatos15> matame
-[00:02:57] [Async Chat Thread - #14/INFO]: [Not Secure] <pingaparaangel> ctmr
-[00:03:02] [Server thread/INFO]: XxMatos15 was slain by pingaparaangel
-[00:03:13] [Server thread/INFO]: pingaparaangel was slain by XxMatos15
-[00:03:45] [Async Chat Thread - #14/INFO]: [Not Secure] <XxMatos15> era para regenerar vida nmas
-[00:06:25] [Server thread/INFO]: Churrupakin issued server command: /qa reload
-[00:06:25] [Server thread/INFO]: [QualityArmory] -Loaded 11 Ammo types.
-[00:06:25] [Server thread/INFO]: [QualityArmory] -Loaded 16 Misc.
-[00:06:25] [Server thread/INFO]: [QualityArmory] -Loaded 70 Gun types.
-[00:06:25] [Server thread/INFO]: [QualityArmory] -Loading Attachment: awpasiimov
-[00:06:25] [Server thread/INFO]: [QualityArmory] -Loading Attachment: p30silenced
-[00:06:25] [Server thread/INFO]: [QualityArmory] -Loading Attachment: uzicorn
-[00:06:25] [Server thread/INFO]: [QualityArmory] -Loaded 3 Attachment types.
-[00:06:25] [Server thread/INFO]: [QualityArmory] -Loaded 4 Armor types.
-[00:06:46] [Server thread/INFO]: Churrupakin issued server command: /qa craft
-[00:07:18] [Server thread/INFO]: Churrupakin issued server command: /qa craft
-[00:07:41] [Server thread/INFO]: Churrupakin issued server command: /qa craft
-[00:07:56] [Server thread/INFO]: Churrupakin issued server command: /qa craft
-[00:08:04] [Server thread/INFO]: Churrupakin issued server command: /qa craft
-[00:08:37] [Server thread/INFO]: Churrupakin issued server command: /qa craft
-[00:09:13] [Async Chat Thread - #15/INFO]: [Not Secure] <Churrupakin> chifa
-[00:09:30] [Async Chat Thread - #16/INFO]: [Not Secure] <Churrupakin> chifa
-[00:09:32] [Server thread/INFO]: Churrupakin issued server command: /qa craft
-[00:09:36] [Server thread/INFO]: Churrupakin issued server command: /qa craft
-[00:11:06] [Server thread/INFO]: Churrupakin issued server command: /fac sethome
-[00:11:21] [Server thread/INFO]: Churrupakin issued server command: /fac home
-[00:11:33] [Async Chat Thread - #17/INFO]: [Not Secure] <Churrupakin> CHIFA
-[00:11:42] [Server thread/INFO]: pingaparaangel issued server command: /msg XxMatos15 manooo
-[00:11:50] [Async Chat Thread - #18/INFO]: [Not Secure] <XxMatos15> que
-[00:12:10] [Async Chat Thread - #18/INFO]: [Not Secure] <Churrupakin> en tu zona claimeada has /fac sethome
-[00:12:29] [Server thread/INFO]: XxMatos15 issued server command: /fac sethome
-[00:12:35] [Server thread/INFO]: XxMatos15 issued server command: /fac sethome
-[00:12:39] [Async Chat Thread - #18/INFO]: [Not Secure] <Churrupakin> para que te tepes a tu zona cuando pongas /fac home
-[00:12:39] [Async Chat Thread - #18/INFO]: [Not Secure] <XxMatos15> error
-[00:12:49] [Async Chat Thread - #17/INFO]: [Not Secure] <Churrupakin> tiene q estar en tu zona claimeada
-[00:12:51] [Server thread/INFO]: XxMatos15 issued server command: /fac home
-[00:12:55] [Server thread/INFO]: Churrupakin issued server command: /gamemode spectator
-[00:12:55] [Server thread/INFO]: [Churrupakin: Set own game mode to Spectator Mode]
-[00:12:57] [Async Chat Thread - #18/INFO]: [Not Secure] <XxMatos15> esta en la granja
-[00:12:57] [Async Chat Thread - #18/INFO]: [Not Secure] <XxMatos15> xd
-[00:12:59] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15
-[00:12:59] [Server thread/INFO]: [Churrupakin: Teleported Churrupakin to XxMatos15]
-[00:13:04] [Async Chat Thread - #19/INFO]: [Not Secure] <XxMatos15> como lo saco
-[00:13:14] [Async Chat Thread - #19/INFO]: [Not Secure] <Churrupakin> has /fac unclaim
-[00:13:31] [Async Chat Thread - #19/INFO]: [Not Secure] <Churrupakin> pero tienes que estar en la zona claimeada
-[00:13:36] [Server thread/INFO]: Churrupakin issued server command: /fac power
-[00:13:51] [Server thread/INFO]: XxMatos15 issued server command: /fac unclaim
-[00:14:14] [Server thread/INFO]: XxMatos15 issued server command: /fac unclaim
-[00:14:16] [Async Chat Thread - #19/INFO]: [Not Secure] <XxMatos15> ya
-[00:14:51] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15
-[00:14:51] [Server thread/INFO]: [Churrupakin: Teleported Churrupakin to XxMatos15]
-[00:15:19] [Server thread/INFO]: pingaparaangel issued server command: /msg XxMatos15 mano , ñe robe a amgel
-[00:15:33] [Server thread/INFO]: pingaparaangel issued server command: /msg XxMatos15 tenia hierro como mrd
-[00:16:04] [Server thread/INFO]: XxMatos15 issued server command: /tell pingaparaangel XD
-[00:16:06] [Async Chat Thread - #20/INFO]: [Not Secure] <XxMatos15> trailo
-[00:16:10] [Async Chat Thread - #20/INFO]: [Not Secure] <XxMatos15> ahora
-[00:16:35] [Server thread/INFO]: Churrupakin issued server command: /tab nametag
-[00:16:42] [Server thread/INFO]: Churrupakin issued server command: /tab nametag toggle Churrupakin -s
-[00:16:50] [Server thread/INFO]: XxMatos15 issued server command: /fac sethome
-[00:16:55] [Server thread/INFO]: Churrupakin issued server command: /tab nametag toggle Churrupakin pene
-[00:16:57] [Server thread/INFO]: XxMatos15 issued server command: /fac claim
-[00:17:02] [Server thread/INFO]: XxMatos15 issued server command: /fac sethome
-[00:17:10] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
-[00:17:10] [Server thread/INFO]: [Churrupakin: Set own game mode to Creative Mode]
-[00:17:14] [Server thread/INFO]: XxMatos15 issued server command: /fac home
-[00:17:37] [Server thread/INFO]: Churrupakin issued server command: /tab nametag toggle pingaparaangel pene
-[00:17:44] [Server thread/INFO]: Churrupakin issued server command: /tab nametag toggle pingaparaangel pene
-[00:18:13] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
-[00:18:13] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
-[00:18:13] [Server thread/INFO]: pingaparaangel left the game
-[00:18:19] [Server thread/INFO]: Churrupakin issued server command: /tab player Churrupakin customtabname
-[00:18:30] [User Authenticator #10/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
-[00:18:30] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:18:30] [Server thread/INFO]: pingaparaangel joined the game
-[00:18:30] [Server thread/INFO]: pingaparaangel[/172.28.117.248:49391] logged in with entity id 12148 at ([world]-37.5, 51.0, 238.5)
-[00:18:36] [Server thread/INFO]: Churrupakin issued server command: /tab player Churrupakin customtabname xdxd
-[00:18:48] [Server thread/INFO]: Churrupakin issued server command: /tab player Churrupakin customtabname Churrupakin
-[00:18:52] [Server thread/INFO]: Churrupakin issued server command: /tab player Churrupakin customtabname Churrupasexin
-[00:19:04] [Server thread/INFO]: Churrupakin issued server command: /tab player Churrupakin customtabname Churrusexin
-[00:19:27] [Server thread/INFO]: Churrupakin issued server command: /tab player XxMatos15 customtabname Chifa
-[00:19:38] [Server thread/INFO]: pingaparaangel issued server command: /msg XxMatos15 manooo
-[00:19:41] [Async Chat Thread - #22/INFO]: [Not Secure] <XxMatos15> q
-[00:19:49] [Server thread/INFO]: Churrupakin issued server command: /tab player pingaparaangel customtabname Anhyelo
-[00:19:56] [Server thread/INFO]: pingaparaangel issued server command: /msg XxMatos15 dnd lo escondo
-[00:20:00] [Async Chat Thread - #22/INFO]: [Not Secure] <XxMatos15> cofre nmas
-[00:20:01] [Async Chat Thread - #22/INFO]: [Not Secure] <XxMatos15> xd
-[00:20:20] [Server thread/INFO]: pingaparaangel issued server command: /msg XxMatos15 angel le dira a matias q nos revise p
-[00:20:23] [Server thread/INFO]: Churrupakin issued server command: /tab group
-[00:20:26] [Async Chat Thread - #22/INFO]: [Not Secure] <XxMatos15> ahya
-[00:20:30] [Async Chat Thread - #22/INFO]: [Not Secure] <XxMatos15> xd
-[00:20:32] [Server thread/INFO]: Churrupakin issued server command: /tab:tab
-[00:20:32] [Server thread/INFO]: pingaparaangel issued server command: /
-[00:20:50] [Server thread/INFO]: Churrupakin issued server command: /tab scoreboard on Churrupakin
-[00:20:55] [Server thread/INFO]: Churrupakin issued server command: /tab scoreboard on Churrupakin -s
-[00:20:58] [Server thread/INFO]: Churrupakin issued server command: /tab scoreboard on Churrupakin xdd
-[00:21:00] [Async Chat Thread - #22/INFO]: [Not Secure] <pingaparaangel> oe aca va estar
-[00:21:13] [Server thread/INFO]: Churrupakin issued server command: /about ProtectionBlocks
-[00:21:26] [Server thread/INFO]: Churrupakin issued server command: /gamemode spectator
-[00:21:26] [Server thread/INFO]: [Churrupakin: Set own game mode to Spectator Mode]
-[00:22:30] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
-[00:22:30] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
-[00:22:30] [Server thread/INFO]: pingaparaangel left the game
-[00:22:48] [User Authenticator #11/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
-[00:22:48] [Server thread/INFO]: pingaparaangel joined the game
-[00:22:48] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:22:48] [Server thread/INFO]: pingaparaangel[/172.28.117.248:49441] logged in with entity id 12680 at ([world]-68.76249998807907, 51.0, 243.31186981688262)
-[00:23:32] [User Authenticator #11/INFO]: UUID of player lacalacaxd is 2f973d55-3e2c-33b9-9e01-115ef44fd74f
-[00:23:32] [TAB Processing Thread/INFO]: [TAB] [WARN] Player lacalacaxd's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:23:32] [Server thread/INFO]: lacalacaxd joined the game
-[00:23:32] [Server thread/INFO]: lacalacaxd[/172.28.26.209:49848] logged in with entity id 12779 at ([world]-134.30000001192093, -48.0, 264.4190023662358)
-[00:24:07] [Server thread/INFO]: Churrupakin issued server command: /tab.scoreboard.show
-[00:24:15] [Async Chat Thread - #24/INFO]: [Not Secure] <lacalacaxd> poto
-[00:24:18] [Server thread/INFO]: Churrupakin issued server command: /tab scoreboard on
-[00:24:35] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
-[00:24:35] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
-[00:24:35] [Server thread/INFO]: pingaparaangel left the game
-[00:24:53] [User Authenticator #12/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
-[00:24:53] [Server thread/INFO]: pingaparaangel joined the game
-[00:24:53] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:24:53] [Server thread/INFO]: pingaparaangel[/172.28.117.248:49455] logged in with entity id 13025 at ([world]-68.69999998807907, 50.0, 244.24647901740093)
-[00:25:02] [Async Chat Thread - #24/INFO]: [Not Secure] <XxMatos15> salde ay
-[00:25:04] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
-[00:25:04] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
-[00:25:04] [Server thread/INFO]: pingaparaangel left the game
-[00:25:18] [User Authenticator #12/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
-[00:25:18] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:25:18] [Server thread/INFO]: pingaparaangel joined the game
-[00:25:18] [Server thread/INFO]: pingaparaangel[/172.28.117.248:49465] logged in with entity id 13075 at ([world]-68.69999998807907, 50.0, 244.24647901740093)
-[00:25:36] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
-[00:25:36] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
-[00:25:36] [Server thread/INFO]: pingaparaangel left the game
-[00:26:21] [User Authenticator #13/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
-[00:26:21] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:26:21] [Server thread/INFO]: pingaparaangel joined the game
-[00:26:21] [Server thread/INFO]: pingaparaangel[/172.28.117.248:49530] logged in with entity id 13205 at ([world]-67.58183070537679, 49.0, 247.6735404392036)
-[00:26:34] [Async Chat Thread - #26/INFO]: [Not Secure] <lacalacaxd> oee hagan tp p
-[00:26:38] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
-[00:26:38] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
-[00:26:38] [Server thread/INFO]: pingaparaangel left the game
-[00:27:24] [User Authenticator #14/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
-[00:27:24] [Server thread/INFO]: pingaparaangel joined the game
-[00:27:24] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:27:24] [Server thread/INFO]: pingaparaangel[/172.28.117.248:49543] logged in with entity id 13311 at ([world]-68.13151832869468, 49.0, 246.76249998807907)
-[00:27:31] [Async Chat Thread - #26/INFO]: [Not Secure] <lacalacaxd> goo pe
-[00:27:41] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
-[00:27:41] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
-[00:27:41] [Server thread/INFO]: pingaparaangel left the game
-[00:27:56] [User Authenticator #14/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
-[00:27:56] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:27:56] [Server thread/INFO]: pingaparaangel joined the game
-[00:27:56] [Server thread/INFO]: pingaparaangel[/172.28.117.248:49564] logged in with entity id 13365 at ([world]-68.13151832869468, 49.0, 246.76249998807907)
-[00:28:07] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
-[00:28:07] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
-[00:28:07] [Server thread/INFO]: pingaparaangel left the game
-[00:28:26] [User Authenticator #14/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
-[00:28:26] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:28:26] [Server thread/INFO]: pingaparaangel joined the game
-[00:28:26] [Server thread/INFO]: pingaparaangel[/172.28.117.248:49576] logged in with entity id 13427 at ([world]-68.13151832869468, 49.0, 246.76249998807907)
-[00:28:54] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
-[00:28:54] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
-[00:28:54] [Server thread/INFO]: pingaparaangel left the game
-[00:29:13] [Server thread/INFO]: Churrupakin issued server command: /tab scoreboard show
-[00:29:42] [User Authenticator #15/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
-[00:29:42] [Server thread/INFO]: pingaparaangel joined the game
-[00:29:42] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:29:42] [Server thread/INFO]: pingaparaangel[/172.28.117.248:49601] logged in with entity id 13601 at ([world]-68.13151832869468, 49.0, 246.76249998807907)
-[00:29:56] [Async Chat Thread - #28/INFO]: [Not Secure] <pingaparaangel> inter ctmree
-[00:30:05] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
-[00:30:05] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
-[00:30:05] [Server thread/INFO]: pingaparaangel left the game
-[00:31:54] [Server thread/INFO]: Churrupakin issued server command: /scoreboard players enable
-[00:32:00] [Server thread/INFO]: Churrupakin issued server command: /scoreboard players enable Churrupakin
-[00:32:07] [Server thread/INFO]: Churrupakin issued server command: /scoreboard players enable Churrupakin dsada
-[00:32:13] [Server thread/INFO]: Churrupakin issued server command: /scoreboard players enable Churrupakin healt
-[00:32:25] [Server thread/INFO]: Churrupakin issued server command: /scoreboard objectives list
-[00:32:47] [Server thread/INFO]: Churrupakin issued server command: /scoreboard objectives add vida health
-[00:33:00] [Server thread/INFO]: Churrupakin issued server command: /scoreboard objectives setdisplay sidebar.team.yellow
-[00:33:13] [Server thread/INFO]: Churrupakin issued server command: /scoreboard players remove
-[00:33:23] [Server thread/INFO]: Churrupakin issued server command: /tab scoreboard announce
-[00:33:33] [User Authenticator #16/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
-[00:33:33] [Server thread/INFO]: pingaparaangel joined the game
-[00:33:33] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:33:33] [Server thread/INFO]: pingaparaangel[/172.28.117.248:53027] logged in with entity id 14160 at ([world]-68.55055131930267, 49.875, 247.69999998807907)
-[00:34:25] [Server thread/INFO]: Churrupakin issued server command: /tab scoreboard announce
-[00:34:30] [Server thread/INFO]: Churrupakin issued server command: /tab reload
-[00:34:30] [Server thread/INFO]: [TAB] Disabled in 3ms
-[00:34:30] [Server thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:34:30] [Server thread/INFO]: [TAB] [WARN] Player Churrupakin's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:34:30] [Server thread/INFO]: [TAB] [WARN] Player XxMatos15's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:34:30] [Server thread/INFO]: [TAB] [WARN] Player lacalacaxd's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:34:30] [Server thread/INFO]: [TAB] Enabled in 37ms
-[00:34:32] [Server thread/INFO]: Churrupakin issued server command: /tab scoreboard announce
-[00:34:33] [Server thread/INFO]: XxMatos15 issued server command: /fac home
-[00:34:41] [Server thread/INFO]: Churrupakin issued server command: /tab scoreboard on Churrupakin
-[00:35:33] [Server thread/INFO]: Churrupakin issued server command: /tab reload
-[00:35:33] [Server thread/INFO]: [TAB] Disabled in 1ms
-[00:35:33] [Server thread/INFO]: [TAB] [WARN] [config.yml] Scoreboard "scoreboard-1.20.3+" is using right-side text alignment (using ||) in the lines, however, your server does not support this feature. It was added into the game in version 1.20.3. Any text defined after || in lines will not be displayed.
-[00:35:33] [Server thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:35:33] [Server thread/INFO]: [TAB] [WARN] Player Churrupakin's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:35:33] [Server thread/INFO]: [TAB] [WARN] Player XxMatos15's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:35:33] [Server thread/INFO]: [TAB] [WARN] Player lacalacaxd's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:35:33] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
-[00:35:33] [Server thread/INFO]: [TAB] Enabled in 46ms
-[00:36:18] [Server thread/INFO]: Churrupakin issued server command: /tab scoreboard show scoreboard
-[00:36:19] [Async Chat Thread - #30/INFO]: [Not Secure] <pingaparaangel> pase comida
-[00:36:28] [Server thread/INFO]: Churrupakin issued server command: /tab scoreboard show scoreboard-1.20.3+
-[00:36:28] [Server thread/INFO]: [TAB] [WARN] Scoreboard "scoreboard-1.20.3+" contains right-side text alignment (using ||), however, this feature was added in 1.20.3, but player "Churrupakin" is using version 1.20.1. Right-side text will not be visible for them.
-[00:36:31] [Server thread/INFO]: Churrupakin issued server command: /tab scoreboard show scoreboard-1.20.3+
-[00:36:31] [Server thread/INFO]: [TAB] [WARN] Scoreboard "scoreboard-1.20.3+" contains right-side text alignment (using ||), however, this feature was added in 1.20.3, but player "Churrupakin" is using version 1.20.1. Right-side text will not be visible for them.
-[00:36:35] [Server thread/INFO]: Churrupakin issued server command: /tab scoreboard show scoreboard
-[00:36:35] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
-[00:36:35] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
-[00:36:35] [Server thread/INFO]: pingaparaangel left the game
-[00:36:49] [Server thread/INFO]: Churrupakin issued server command: /tab sb
-[00:36:52] [User Authenticator #17/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
-[00:36:52] [Server thread/INFO]: pingaparaangel joined the game
-[00:36:52] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:36:52] [Server thread/INFO]: pingaparaangel[/172.28.117.248:53068] logged in with entity id 14856 at ([world]-64.50238998314495, 56.0, 248.65965452023588)
-[00:37:02] [Server thread/INFO]: Churrupakin issued server command: /tab group example_group
-[00:37:11] [Server thread/INFO]: Churrupakin issued server command: /tab group example_group customtabname
-[00:37:21] [Server thread/INFO]: Churrupakin issued server command: /tab group example_group customtabname Pobres
-[00:37:23] [Server thread/INFO]: lacalacaxd has made the advancement [A Seedy Place]
-[00:37:30] [Server thread/INFO]: XxMatos15 issued server command: /fac home
-[00:37:36] [Server thread/INFO]: Churrupakin issued server command: /tab groups
-[00:37:58] [Server thread/INFO]: Churrupakin issued server command: /tab group Player customtabname Pobresazo
-[00:38:01] [Async Chat Thread - #32/INFO]: [Not Secure] <XxMatos15> mira
-[00:38:11] [Async Chat Thread - #33/INFO]: [Not Secure] <pingaparaangel> ESTOY TOCADO
-[00:38:12] [Async Chat Thread - #33/INFO]: [Not Secure] <XxMatos15> arate aca
-[00:38:27] [Async Chat Thread - #34/INFO]: [Not Secure] <pingaparaangel> pasa comida
-[00:38:48] [Async Chat Thread - #32/INFO]: [Not Secure] <lacalacaxd> ta bacan
-[00:38:56] [Server thread/INFO]: pingaparaangel was slain by Zombified Piglin
-[00:38:57] [Server thread/INFO]: Churrupakin issued server command: /tab scoreboard toggle Churrupakin
-[00:39:06] [Server thread/INFO]: Churrupakin issued server command: /tab scoreboard show scoreboard
-[00:39:14] [Server thread/INFO]: Churrupakin issued server command: /tab scoreboard announce scoreboard
-[00:39:21] [Server thread/INFO]: Churrupakin issued server command: /tab scoreboard toggle Churrupakin
-[00:39:29] [Async Chat Thread - #34/INFO]: [Not Secure] <XxMatos15> en la granja ay comida como mrd
-[00:39:34] [Server thread/INFO]: Churrupakin issued server command: /tab scoreboard announce scoreboard 15
-[00:39:37] [Server thread/INFO]: Churrupakin issued server command: /tab scoreboard announce scoreboard 15
-[00:39:39] [Async Chat Thread - #34/INFO]: [Not Secure] <pingaparaangel> es de dia?
-[00:39:40] [Server thread/INFO]: Churrupakin issued server command: /tab scoreboard announce scoreboard 15
-[00:39:44] [Server thread/INFO]: Churrupakin issued server command: /tab scoreboard announce scoreboard 10
-[00:39:45] [Async Chat Thread - #34/INFO]: [Not Secure] <XxMatos15> no
-[00:39:49] [Server thread/INFO]: Churrupakin issued server command: /tab scoreboard announce scoreboard 30
-[00:40:14] [Async Chat Thread - #34/INFO]: [Not Secure] <pingaparaangel> duerman p
-[00:40:34] [Async Chat Thread - #34/INFO]: [Not Secure] <lacalacaxd> chifon
-[00:40:41] [Async Chat Thread - #34/INFO]: [Not Secure] <XxMatos15> q
-[00:40:42] [Server thread/INFO]: Churrupakin issued server command: /tab reload
-[00:40:42] [Server thread/INFO]: [TAB] Disabled in 2ms
-[00:40:42] [Server thread/INFO]: [TAB] [WARN] [config.yml] Scoreboard "scoreboard-1.20.3+" is using right-side text alignment (using ||) in the lines, however, your server does not support this feature. It was added into the game in version 1.20.3. Any text defined after || in lines will not be displayed.
-[00:40:42] [Server thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:40:42] [Server thread/INFO]: [TAB] [WARN] Player Churrupakin's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:40:42] [Server thread/INFO]: [TAB] [WARN] Player XxMatos15's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:40:42] [Server thread/INFO]: [TAB] [WARN] Player lacalacaxd's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:40:42] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
-[00:40:42] [Server thread/INFO]: [TAB] Enabled in 27ms
-[00:40:43] [Async Chat Thread - #34/INFO]: [Not Secure] <lacalacaxd> llevame a la casa
-[00:40:52] [Async Chat Thread - #34/INFO]: [Not Secure] <XxMatos15> ven
-[00:41:27] [Async Chat Thread - #34/INFO]: [Not Secure] <lacalacaxd> a la mrd
-[00:41:28] [Async Chat Thread - #34/INFO]: [Not Secure] <XxMatos15> ese internet
-[00:42:26] [Server thread/INFO]: Churrupakin issued server command: /tab group Player
-[00:42:40] [Server thread/INFO]: XxMatos15 issued server command: /skin nudes
-[00:42:41] [Server thread/INFO]: Churrupakin issued server command: /tab group Player footer
-[00:42:43] [Async Chat Thread - #35/INFO]: [Not Secure] <lacalacaxd> ando re lag
-[00:42:48] [Async Chat Thread - #36/INFO]: [Not Secure] <pingaparaangel> x2
-[00:42:52] [Async Chat Thread - #36/INFO]: [Not Secure] <XxMatos15> mil de ping
-[00:43:17] [Server thread/INFO]: Churrupakin issued server command: /tab player XxMatos15 customtabname
-[00:44:18] [Server thread/INFO]: lacalacaxd has made the advancement [We Need to Go Deeper]
-[00:44:30] [Async Chat Thread - #37/INFO]: [Not Secure] <lacalacaxd> a la mrd
-[00:44:31] [Server thread/INFO]: XxMatos15 issued server command: /skin messi
-[00:44:38] [Server thread/INFO]: Churrupakin issued server command: /tab groups owner
-[00:44:46] [Server thread/INFO]: Churrupakin issued server command: /tab groups Owner
-[00:44:50] [Server thread/INFO]: Churrupakin issued server command: /tab groups
-[00:44:53] [Server thread/INFO]: XxMatos15 tried to swim in lava
-[00:44:57] [Server thread/INFO]: Churrupakin issued server command: /tab group Owner
-[00:45:00] [Async Chat Thread - #37/INFO]: [Not Secure] <XxMatos15> putamreeee
-[00:45:12] [Server thread/INFO]: Churrupakin issued server command: /tab group Owner churrupakin
-[00:45:26] [Async Chat Thread - #37/INFO]: [Not Secure] <XxMatos15> potias mi lut sigue de bajod e la lava
-[00:45:29] [Async Chat Thread - #37/INFO]: [Not Secure] <XxMatos15> ??
-[00:45:42] [Server thread/INFO]: Churrupakin issued server command: /tab group/player Churrupakin
-[00:45:50] [Async Chat Thread - #38/INFO]: [Not Secure] <Churrupakin> si creo
-[00:46:24] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
-[00:46:24] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
-[00:46:24] [Server thread/INFO]: pingaparaangel left the game
-[00:46:27] [Async Chat Thread - #37/INFO]: [Not Secure] <lacalacaxd> vamos a buscar elitras?
-[00:46:30] [Server thread/INFO]: Churrupakin issued server command: /tab player Churrupakin header Owner
-[00:46:42] [User Authenticator #18/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
-[00:46:42] [Server thread/INFO]: pingaparaangel joined the game
-[00:46:42] [Server thread/INFO]: pingaparaangel[/172.28.117.248:53205] logged in with entity id 16713 at ([world]-62.28458308115598, 56.0, 256.8455640587668)
-[00:46:42] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:46:42] [Async Chat Thread - #37/INFO]: [Not Secure] <XxMatos15> cantaro sabe donde esta wsa wbd e portal del end
-[00:46:50] [Async Chat Thread - #37/INFO]: [Not Secure] <Churrupakin> si
-[00:46:56] [Async Chat Thread - #37/INFO]: [Not Secure] <Churrupakin> yo no se xd
-[00:47:00] [Server thread/INFO]: XxMatos15 issued server command: /skin random
-[00:47:02] [Server thread/INFO]: Churrupakin issued server command: /tab reload
-[00:47:02] [Server thread/INFO]: [TAB] Disabled in 2ms
-[00:47:02] [Server thread/INFO]: [TAB] [WARN] [config.yml] Scoreboard "scoreboard-1.20.3+" is using right-side text alignment (using ||) in the lines, however, your server does not support this feature. It was added into the game in version 1.20.3. Any text defined after || in lines will not be displayed.
-[00:47:02] [Server thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:47:02] [Server thread/INFO]: [TAB] [WARN] Player Churrupakin's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:47:02] [Server thread/INFO]: [TAB] [WARN] Player XxMatos15's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:47:02] [Server thread/INFO]: [TAB] [WARN] Player lacalacaxd's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:47:02] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
-[00:47:02] [Server thread/INFO]: [TAB] Enabled in 26ms
-[00:47:06] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
-[00:47:06] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
-[00:47:06] [Server thread/INFO]: pingaparaangel left the game
-[00:47:16] [Async Chat Thread - #37/INFO]: [Not Secure] <lacalacaxd> hablen p su reales elitras
-[00:47:21] [User Authenticator #18/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
-[00:47:21] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:47:21] [Server thread/INFO]: pingaparaangel joined the game
-[00:47:21] [Server thread/INFO]: pingaparaangel[/172.28.117.248:53213] logged in with entity id 16770 at ([world]-62.28458308115598, 56.0, 256.8455640587668)
-[00:47:23] [Server thread/INFO]: Churrupakin issued server command: /tab player lacalacaxd customtabname Sergio
-[00:47:38] [Server thread/INFO]: Churrupakin issued server command: /tab player XxMatos15 customtabname Chifa
-[00:47:39] [Async Chat Thread - #37/INFO]: [Not Secure] <XxMatos15> no ay el poetal
-[00:47:42] [Async Chat Thread - #38/INFO]: [Not Secure] <XxMatos15> portal
-[00:47:43] [Async Chat Thread - #38/INFO]: [Not Secure] <XxMatos15> xd
-[00:47:55] [Server thread/INFO]: XxMatos15 issued server command: /skin random
-[00:47:58] [Server thread/INFO]: Churrupakin issued server command: /tab player Churrupakin header BONDINSANOS
-[00:48:21] [Server thread/INFO]: Churrupakin issued server command: /tab player XxMatos15 header Cabro
-[00:48:37] [Async Chat Thread - #37/INFO]: [Not Secure] <pingaparaangel> no saquen nd del cofre sin decir nd kbros
-[00:49:25] [Async Chat Thread - #37/INFO]: [Not Secure] <XxMatos15> xd
-[00:49:26] [Async Chat Thread - #37/INFO]: [Not Secure] <pingaparaangel> inter de mrd
-[00:49:48] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
-[00:49:48] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
-[00:49:48] [Server thread/INFO]: pingaparaangel left the game
-[00:50:05] [User Authenticator #19/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
-[00:50:05] [Server thread/INFO]: pingaparaangel joined the game
-[00:50:05] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:50:05] [Server thread/INFO]: pingaparaangel[/172.28.117.248:53225] logged in with entity id 17011 at ([world]-62.950155436694665, 56.0, 241.6134847922788)
-[00:50:23] [Server thread/INFO]: Churrupakin issued server command: /tab reload
-[00:50:23] [Server thread/INFO]: [TAB] Disabled in 1ms
-[00:50:23] [Server thread/INFO]: [TAB] [WARN] [config.yml] Scoreboard "scoreboard-1.20.3+" is using right-side text alignment (using ||) in the lines, however, your server does not support this feature. It was added into the game in version 1.20.3. Any text defined after || in lines will not be displayed.
-[00:50:23] [Server thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:50:23] [Server thread/INFO]: [TAB] [WARN] Player Churrupakin's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:50:23] [Server thread/INFO]: [TAB] [WARN] Player XxMatos15's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:50:23] [Server thread/INFO]: [TAB] [WARN] Player lacalacaxd's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:50:23] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
-[00:50:23] [Server thread/INFO]: [TAB] Enabled in 25ms
-[00:50:43] [Server thread/INFO]: Churrupakin issued server command: /tab reload
-[00:50:43] [Server thread/INFO]: [TAB] Disabled in 4ms
-[00:50:43] [Server thread/INFO]: [TAB] [WARN] [config.yml] Scoreboard "scoreboard-1.20.3+" is using right-side text alignment (using ||) in the lines, however, your server does not support this feature. It was added into the game in version 1.20.3. Any text defined after || in lines will not be displayed.
-[00:50:43] [Server thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:50:43] [Server thread/INFO]: [TAB] [WARN] Player Churrupakin's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:50:43] [Server thread/INFO]: [TAB] [WARN] Player XxMatos15's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:50:43] [Server thread/INFO]: [TAB] [WARN] Player lacalacaxd's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:50:43] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
-[00:50:43] [Server thread/INFO]: [TAB] Enabled in 16ms
-[00:52:20] [Async Chat Thread - #39/INFO]: [Not Secure] <XxMatos15> anyhelita
-[00:52:32] [Async Chat Thread - #40/INFO]: [Not Secure] <XxMatos15> tienes tolva
-[00:52:42] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
-[00:52:42] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
-[00:52:42] [Server thread/INFO]: pingaparaangel left the game
-[00:53:03] [User Authenticator #20/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
-[00:53:03] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:53:03] [Server thread/INFO]: pingaparaangel joined the game
-[00:53:03] [Server thread/INFO]: pingaparaangel[/172.28.117.248:53264] logged in with entity id 17432 at ([world]-86.69999998807907, 23.0, 258.4862280683298)
-[00:53:14] [Server thread/INFO]: XxMatos15 issued server command: /skin random
-[00:53:17] [Server thread/INFO]: XxMatos15 issued server command: /skin random
-[00:53:17] [Server thread/INFO]: XxMatos15 issued server command: /skin random
-[00:53:18] [Server thread/INFO]: XxMatos15 issued server command: /skin randomt
-[00:53:19] [Server thread/INFO]: XxMatos15 issued server command: /skin randomt
-[00:53:19] [Server thread/INFO]: XxMatos15 issued server command: /skin randomt
-[00:53:19] [Server thread/INFO]: XxMatos15 issued server command: /skin randomt
-[00:53:20] [Server thread/INFO]: XxMatos15 issued server command: /skin randomtt
-[00:53:36] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
-[00:53:36] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
-[00:53:36] [Server thread/INFO]: pingaparaangel left the game
-[00:53:53] [Server thread/INFO]: Churrupakin issued server command: /tab cpu
-[00:54:13] [Server thread/INFO]: Churrupakin issued server command: /tab debug Churrupakin
-[00:54:45] [User Authenticator #21/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
-[00:54:45] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:54:45] [Server thread/INFO]: pingaparaangel joined the game
-[00:54:45] [Server thread/INFO]: pingaparaangel[/172.28.117.248:53309] logged in with entity id 17670 at ([world]-88.51503715312023, 21.0, 258.4655088186299)
-[00:54:53] [Server thread/INFO]: Churrupakin issued server command: /tab playeruuid Churrupakin tabsuffix
-[00:55:07] [Server thread/INFO]: Churrupakin issued server command: /tab player Churrupakin tabsuffix
-[00:55:14] [Async Chat Thread - #42/INFO]: [Not Secure] <pingaparaangel> INTER CTMR
-[00:55:19] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
-[00:55:19] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
-[00:55:19] [Server thread/INFO]: pingaparaangel left the game
-[00:55:20] [Server thread/INFO]: Churrupakin issued server command: /tab player Churrupakin tabsuffix Owner
-[00:55:27] [Server thread/INFO]: Churrupakin issued server command: /tab player Churrupakin tabsuffix
-[00:55:30] [User Authenticator #21/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
-[00:55:30] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:55:30] [Server thread/INFO]: pingaparaangel joined the game
-[00:55:30] [Server thread/INFO]: pingaparaangel[/172.28.117.248:53311] logged in with entity id 18062 at ([world]-88.69999998807907, 20.0, 259.0506047884307)
-[00:55:49] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
-[00:55:49] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
-[00:55:49] [Server thread/INFO]: pingaparaangel left the game
-[00:55:56] [Server thread/INFO]: Churrupakin issued server command: /tab parse me %animation:barcolors%
-[00:56:04] [User Authenticator #21/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
-[00:56:04] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:56:04] [Server thread/INFO]: pingaparaangel joined the game
-[00:56:04] [Server thread/INFO]: pingaparaangel[/172.28.117.248:53315] logged in with entity id 18205 at ([world]-88.69999998807907, 20.0, 259.0506047884307)
-[00:56:06] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
-[00:56:06] [Server thread/INFO]: [Churrupakin: Set own game mode to Creative Mode]
-[00:56:13] [Server thread/INFO]: Churrupakin issued server command: /tab parse me %animation:barcolors%
-[00:56:18] [Server thread/INFO]: Churrupakin issued server command: /tab parse me %animation:barcolors% sadad
-[00:56:30] [Async Chat Thread - #43/INFO]: [Not Secure] <XxMatos15> potias
-[00:56:31] [Server thread/INFO]: Churrupakin issued server command: /tab parse me %animation:barcolors%
-[00:56:38] [Async Chat Thread - #44/INFO]: [Not Secure] <XxMatos15> abre la jaula de aldeanos
-[00:56:43] [Server thread/INFO]: Churrupakin issued server command: /gamemode spectator
-[00:56:43] [Server thread/INFO]: [Churrupakin: Set own game mode to Spectator Mode]
-[00:56:47] [Server thread/INFO]: Churrupakin issued server command: /tp lacalacaxd
-[00:56:47] [Server thread/INFO]: [Churrupakin: Teleported Churrupakin to lacalacaxd]
-[00:56:57] [Server thread/INFO]: Churrupakin issued server command: /tab parse lacalacaxd %animation:barcolors%
-[00:57:08] [Server thread/INFO]: Churrupakin issued server command: /tab parse lacalacaxd %animation:barcolors% xd
-[00:57:42] [Server thread/INFO]: Churrupakin issued server command: /tab parse me %group%
-[00:57:51] [Server thread/INFO]: Churrupakin issued server command: /tab parse me %animation:ServerName%
-[00:57:58] [Async Chat Thread - #45/INFO]: [Not Secure] <Churrupakin> x
-[00:59:00] [Server thread/INFO]: XxMatos15 issued server command: /skin random
-[00:59:06] [Server thread/INFO]: XxMatos15 issued server command: /fac home
-[00:59:38] [Async Chat Thread - #48/INFO]: [Not Secure] <lacalacaxd> chifon ya plante
-[00:59:42] [Async Chat Thread - #48/INFO]: [Not Secure] <XxMatos15> TYA
-[01:00:01] [Async Chat Thread - #48/INFO]: [Not Secure] <XxMatos15> sabes como soltar el agua?
-[01:00:17] [Server thread/INFO]: XxMatos15 issued server command: /fac home
-[01:01:14] [Server thread/INFO]: Churrupakin issued server command: /tab mysql
-[01:01:20] [Server thread/INFO]: Churrupakin issued server command: /tab mysql download
-[01:01:28] [Async Chat Thread - #49/INFO]: [Not Secure] <XxMatos15> pasa comida
-[01:03:31] [Server thread/INFO]: XxMatos15 issued server command: /fac home
-[01:04:11] [Server thread/INFO]: Churrupakin issued server command: /tab group Owner tabprefix
-[01:04:32] [Server thread/INFO]: Churrupakin issued server command: /tab parse Churrupakin %%
-[01:04:38] [Server thread/INFO]: Churrupakin issued server command: /tab parse Churrupakin adsad
-[01:04:55] [Server thread/INFO]: Churrupakin issued server command: /tab player Churrupakin tagprefix
-[01:06:30] [Server thread/INFO]: XxMatos15 was shot by Skeleton
-[01:07:00] [Server thread/INFO]: Churrupakin lost connection: Disconnected
-[01:07:00] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
-[01:07:00] [Server thread/INFO]: Churrupakin left the game
-[01:08:30] [Async Chat Thread - #51/INFO]: [Not Secure] <pingaparaangel> tmr quiero q matias me haga tp
-[01:08:38] [Async Chat Thread - #51/INFO]: [Not Secure] <pingaparaangel> ya se rompe la narix de jimena
-[01:08:54] [Async Chat Thread - #51/INFO]: [Not Secure] <XxMatos15> XD
-[01:09:13] [Async Chat Thread - #51/INFO]: [Not Secure] <XxMatos15> pone
-[01:09:18] [Async Chat Thread - #52/INFO]: [Not Secure] <XxMatos15> ./fac home
-[01:09:32] [Async Chat Thread - #52/INFO]: [Not Secure] <XxMatos15> te teletransporta house
-[01:09:49] [Async Chat Thread - #51/INFO]: [Not Secure] <pingaparaangel> funciona?
-[01:09:56] [Async Chat Thread - #51/INFO]: [Not Secure] <XxMatos15> si
-[01:10:41] [Server thread/WARN]: lacalacaxd moved too quickly! 11.619178283968239,-7.796735600668711,0.581700890414993
-[01:10:50] [Server thread/INFO]: pingaparaangel issued server command: /fac home
-[01:11:07] [Server thread/INFO]: pingaparaangel issued server command: /fac home
-[01:11:19] [Async Chat Thread - #53/INFO]: [Not Secure] <pingaparaangel> q rico
-[01:12:56] [Server thread/WARN]: lacalacaxd moved too quickly! -10.891764521171865,-0.06962400332099605,9.565980302182084
-[01:13:05] [Server thread/WARN]: lacalacaxd moved too quickly! -7.867707619579534,1.101167768202302,-6.599400983345845
-[01:13:20] [Async Chat Thread - #55/INFO]: [Not Secure] <XxMatos15> vyelvo
-[01:13:21] [Server thread/INFO]: XxMatos15 lost connection: Disconnected
-[01:13:21] [Server thread/INFO]: [voicechat] Disconnecting client XxMatos15
-[01:13:21] [Server thread/INFO]: XxMatos15 left the game
-[01:15:18] [Server thread/WARN]: lacalacaxd moved too quickly! -4.337408865514689,-1.7491326388584127,-22.946768690754254
-[01:16:32] [Server thread/INFO]: lacalacaxd lost connection: Disconnected
-[01:16:32] [Server thread/INFO]: [voicechat] Disconnecting client lacalacaxd
-[01:16:32] [Server thread/INFO]: lacalacaxd left the game
-[01:17:29] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
-[01:17:29] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
-[01:17:29] [Server thread/INFO]: pingaparaangel left the game
-[01:17:49] [User Authenticator #22/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
-[01:17:49] [Server thread/INFO]: pingaparaangel joined the game
-[01:17:49] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[01:17:49] [Server thread/INFO]: pingaparaangel[/172.28.117.248:53527] logged in with entity id 23279 at ([world]-56.23750001192093, 56.0, 251.21936834638475)
-[01:22:33] [Server thread/INFO]: pingaparaangel was impaled by Drowned
-[01:23:05] [Server thread/INFO]: pingaparaangel was impaled by Drowned
-[01:31:30] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
-[01:31:30] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
-[01:31:30] [Server thread/INFO]: pingaparaangel left the game
-[01:31:51] [User Authenticator #23/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
-[01:31:51] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[01:31:51] [Server thread/INFO]: pingaparaangel joined the game
-[01:31:51] [Server thread/INFO]: pingaparaangel[/172.28.117.248:53619] logged in with entity id 24951 at ([world]-72.30000001192093, 17.0, 254.69999998807907)
-[01:32:00] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
-[01:32:00] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
-[01:32:00] [Server thread/INFO]: pingaparaangel left the game
-[01:32:22] [User Authenticator #23/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
-[01:32:22] [Server thread/INFO]: pingaparaangel joined the game
-[01:32:22] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[01:32:22] [Server thread/INFO]: pingaparaangel[/172.28.117.248:53667] logged in with entity id 24974 at ([world]-72.30000001192093, 17.0, 254.69999998807907)
-[01:38:47] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
-[01:38:47] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
-[01:38:47] [Server thread/INFO]: pingaparaangel left the game
-[01:39:06] [User Authenticator #24/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
-[01:39:06] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[01:39:06] [Server thread/INFO]: pingaparaangel joined the game
-[01:39:06] [Server thread/INFO]: pingaparaangel[/172.28.117.248:53703] logged in with entity id 25743 at ([world]-84.35859585649479, -38.0, 245.30000001192093)
-[01:39:51] [Server thread/WARN]: pingaparaangel was kicked due to keepalive timeout!
-[01:39:51] [Server thread/INFO]: pingaparaangel lost connection: Timed out
-[01:39:51] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
-[01:39:51] [Server thread/INFO]: pingaparaangel left the game
-[01:40:43] [User Authenticator #25/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
-[01:40:43] [Server thread/INFO]: pingaparaangel joined the game
-[01:40:43] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[01:40:43] [Server thread/INFO]: pingaparaangel[/172.28.117.248:53710] logged in with entity id 25851 at ([world]-87.59487756110171, -39.0, 239.67128590809983)
-[01:41:23] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
-[01:41:23] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
-[01:41:23] [Server thread/INFO]: pingaparaangel left the game
-[01:42:03] [User Authenticator #26/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
-[01:42:04] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[01:42:04] [Server thread/INFO]: pingaparaangel joined the game
-[01:42:04] [Server thread/INFO]: pingaparaangel[/172.28.117.248:53745] logged in with entity id 25907 at ([world]-88.556695781741, -41.0, 239.32155013260916)
-[01:42:46] [User Authenticator #26/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
-[01:42:46] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Churrupakin's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[01:42:46] [Server thread/INFO]: Churrupakin joined the game
-[01:42:46] [Server thread/INFO]: Churrupakin[/172.28.161.65:64873] logged in with entity id 25984 at ([world]-41.261409322433806, 74.23353130478505, 310.6784626109237)
-[01:42:48] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
-[01:42:48] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
-[01:42:49] [Server thread/WARN]: pingaparaangel was kicked due to keepalive timeout!
-[01:42:49] [Server thread/INFO]: pingaparaangel lost connection: Timed out
-[01:42:49] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
-[01:42:49] [Server thread/INFO]: pingaparaangel left the game
-[01:42:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[01:42:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[01:42:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
-[01:43:16] [Server thread/INFO]: Churrupakin issued server command: /tab reload
-[01:43:16] [Server thread/INFO]: [TAB] Disabled in 1ms
-[01:43:16] [Server thread/INFO]: [TAB] [WARN] [config.yml] Scoreboard "scoreboard-1.20.3+" is using right-side text alignment (using ||) in the lines, however, your server does not support this feature. It was added into the game in version 1.20.3. Any text defined after || in lines will not be displayed.
-[01:43:16] [Server thread/INFO]: [TAB] [WARN] Player Churrupakin's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[01:43:16] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
-[01:43:16] [Server thread/INFO]: [TAB] Enabled in 66ms
-[01:43:33] [User Authenticator #26/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
-[01:43:33] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[01:43:33] [Server thread/INFO]: pingaparaangel joined the game
-[01:43:33] [Server thread/INFO]: pingaparaangel[/172.28.117.248:53791] logged in with entity id 26042 at ([world]-83.7845760344261, -46.0, 228.4713933589673)
-[01:44:09] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
-[01:44:09] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
-[01:44:09] [Server thread/INFO]: pingaparaangel left the game
-[01:44:24] [Server thread/INFO]: Churrupakin issued server command: /tab bossbar
-[01:44:57] [Server thread/INFO]: Churrupakin issued server command: /tab reload
-[01:44:57] [Server thread/INFO]: [TAB] Disabled in 1ms
-[01:44:57] [Server thread/INFO]: [TAB] [WARN] [config.yml] Scoreboard "scoreboard-1.20.3+" is using right-side text alignment (using ||) in the lines, however, your server does not support this feature. It was added into the game in version 1.20.3. Any text defined after || in lines will not be displayed.
-[01:44:57] [Server thread/INFO]: [TAB] [WARN] Player Churrupakin's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[01:44:57] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
-[01:44:57] [Server thread/INFO]: [TAB] Enabled in 16ms
-[01:45:13] [Server thread/INFO]: Churrupakin issued server command: /tab reload
-[01:45:13] [Server thread/INFO]: [TAB] Disabled in 3ms
-[01:45:13] [Server thread/INFO]: [TAB] [WARN] [config.yml] Scoreboard "scoreboard-1.20.3+" is using right-side text alignment (using ||) in the lines, however, your server does not support this feature. It was added into the game in version 1.20.3. Any text defined after || in lines will not be displayed.
-[01:45:13] [Server thread/INFO]: [TAB] [WARN] Player Churrupakin's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[01:45:13] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
-[01:45:13] [Server thread/INFO]: [TAB] Enabled in 55ms
-[01:45:16] [Server thread/INFO]: Churrupakin issued server command: /tab reload
-[01:45:16] [Server thread/INFO]: [TAB] Disabled in 1ms
-[01:45:16] [Server thread/INFO]: [TAB] [WARN] [config.yml] Scoreboard "scoreboard-1.20.3+" is using right-side text alignment (using ||) in the lines, however, your server does not support this feature. It was added into the game in version 1.20.3. Any text defined after || in lines will not be displayed.
-[01:45:16] [Server thread/INFO]: [TAB] [WARN] Player Churrupakin's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[01:45:16] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
-[01:45:16] [Server thread/INFO]: [TAB] Enabled in 14ms
-[01:46:06] [Server thread/INFO]: Churrupakin issued server command: /tab reload
-[01:46:06] [Server thread/INFO]: [TAB] Disabled in 1ms
-[01:46:06] [Server thread/INFO]: [TAB] [WARN] [config.yml] Scoreboard "scoreboard-1.20.3+" is using right-side text alignment (using ||) in the lines, however, your server does not support this feature. It was added into the game in version 1.20.3. Any text defined after || in lines will not be displayed.
-[01:46:06] [Server thread/INFO]: [TAB] [WARN] Player Churrupakin's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[01:46:06] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
-[01:46:06] [Server thread/INFO]: [TAB] Enabled in 11ms
-[01:46:18] [Server thread/INFO]: Churrupakin issued server command: /tab debug Churrupakin
-[01:46:41] [Server thread/INFO]: Churrupakin issued server command: /tab player Churrupakin footer
-[01:46:47] [Server thread/INFO]: Churrupakin issued server command: /tab player Churrupakin header
-[01:47:18] [Server thread/INFO]: Churrupakin issued server command: /tab reload
-[01:47:18] [Server thread/INFO]: [TAB] Disabled in 2ms
-[01:47:18] [Server thread/INFO]: [TAB] [WARN] [config.yml] Scoreboard "scoreboard-1.20.3+" is using right-side text alignment (using ||) in the lines, however, your server does not support this feature. It was added into the game in version 1.20.3. Any text defined after || in lines will not be displayed.
-[01:47:18] [Server thread/INFO]: [TAB] [WARN] Player Churrupakin's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[01:47:18] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
-[01:47:18] [Server thread/INFO]: [TAB] Enabled in 17ms
-[01:48:03] [Server thread/INFO]: Churrupakin issued server command: /tab reload
-[01:48:03] [Server thread/INFO]: [TAB] Disabled in 1ms
-[01:48:03] [Server thread/INFO]: [TAB] [WARN] [config.yml] Scoreboard "scoreboard-1.20.3+" is using right-side text alignment (using ||) in the lines, however, your server does not support this feature. It was added into the game in version 1.20.3. Any text defined after || in lines will not be displayed.
-[01:48:03] [Server thread/INFO]: [TAB] [WARN] Player Churrupakin's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[01:48:03] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
-[01:48:03] [Server thread/INFO]: [TAB] Enabled in 10ms
-[01:49:09] [Server thread/INFO]: Churrupakin issued server command: /tab reload
-[01:49:09] [Server thread/INFO]: [TAB] Disabled in 1ms
-[01:49:09] [Server thread/INFO]: [TAB] [WARN] [config.yml] Scoreboard "scoreboard-1.20.3+" is using right-side text alignment (using ||) in the lines, however, your server does not support this feature. It was added into the game in version 1.20.3. Any text defined after || in lines will not be displayed.
-[01:49:09] [Server thread/INFO]: [TAB] [WARN] Player Churrupakin's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[01:49:09] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
-[01:49:09] [Server thread/INFO]: [TAB] Enabled in 9ms
-[01:49:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player a3898cf4-4c4a-3a29-b628-38892b7008ac timed out
-[01:49:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Churrupakin
-[01:49:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Churrupakin
-[01:49:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[01:49:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[01:49:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
-[01:49:29] [Server thread/INFO]: Churrupakin lost connection: Disconnected
-[01:49:29] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
-[01:49:29] [Server thread/INFO]: Churrupakin left the game
-[02:29:24] [User Authenticator #27/INFO]: [ProtectionBlocks] Created new user data for: 'a8201390-5a88-393b-afd5-4279b72be2d9'
-[02:29:24] [User Authenticator #27/INFO]: UUID of player Ram_Tz is a8201390-5a88-393b-afd5-4279b72be2d9
-[02:29:24] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Ram_Tz's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[02:29:24] [Server thread/INFO]: Ram_Tz joined the game
-[02:29:24] [Server thread/INFO]: Ram_Tz[/172.28.72.140:59735] logged in with entity id 26119 at ([world]115.30298960736027, 63.0, 112.35189785418551)
-[02:38:00] [Async Chat Thread - #57/INFO]: [Not Secure] <Ram_Tz> regalen rango
-[02:39:47] [User Authenticator #28/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
-[02:39:47] [Server thread/INFO]: Churrupakin joined the game
-[02:39:47] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Churrupakin's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[02:39:47] [Server thread/INFO]: Churrupakin[/172.28.161.65:53921] logged in with entity id 29472 at ([world]-41.261409322433806, 74.23353130478505, 310.6784626109237)
-[02:39:48] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
-[02:39:48] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
-[02:39:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[02:39:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[02:39:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
-[02:40:14] [Async Chat Thread - #59/INFO]: [Not Secure] <Ram_Tz> oa papeto
-[02:40:23] [Async Chat Thread - #60/INFO]: [Not Secure] <Churrupakin> habl
-[02:40:28] [Server thread/INFO]: Churrupakin issued server command: /tp Ram_Tz
-[02:40:28] [Server thread/INFO]: [Churrupakin: Teleported Churrupakin to Ram_Tz]
-[02:40:47] [Server thread/INFO]: Churrupakin issued server command: /tp 15 70 14
-[02:40:47] [Server thread/INFO]: [Churrupakin: Teleported Churrupakin to 15.500000, 70.000000, 14.500000]
-[02:40:50] [Async Chat Thread - #60/INFO]: [Not Secure] <Ram_Tz> ta queme va como caracol
-[02:41:08] [Async Chat Thread - #60/INFO]: [Not Secure] <Churrupakin> XDDDD
-[02:41:16] [Async Chat Thread - #60/INFO]: [Not Secure] <Churrupakin> estas por sanpucta
-[02:41:22] [Async Chat Thread - #60/INFO]: [Not Secure] <Ram_Tz> tengo que jugar en modo ventana p xd
-[02:41:56] [Async Chat Thread - #60/INFO]: [Not Secure] <Ram_Tz> que es Io nuevo?
-[02:47:05] [Async Chat Thread - #61/INFO]: [Not Secure] <Churrupakin> lo de factions
-[02:47:11] [Async Chat Thread - #62/INFO]: [Not Secure] <Churrupakin> armas
-[02:47:19] [Async Chat Thread - #62/INFO]: [Not Secure] <Churrupakin> nuevos encantamientos a
-[02:47:24] [Server thread/INFO]: Churrupakin issued server command: /plugins
-[02:47:43] [Async Chat Thread - #62/INFO]: [Not Secure] <Ram_Tz> Ia armas como se consiguen?
-[02:47:54] [Async Chat Thread - #62/INFO]: [Not Secure] <Ram_Tz> hay nuevos crafteos
-[02:51:48] [Async Chat Thread - #64/INFO]: [Not Secure] <Churrupakin> has /qa craft
-[02:51:57] [Server thread/INFO]: Churrupakin issued server command: /tab reload
-[02:51:57] [Server thread/INFO]: [TAB] Disabled in 1ms
-[02:51:57] [Server thread/INFO]: [TAB] [WARN] [config.yml] Scoreboard "scoreboard-1.20.3+" is using right-side text alignment (using ||) in the lines, however, your server does not support this feature. It was added into the game in version 1.20.3. Any text defined after || in lines will not be displayed.
-[02:51:57] [Server thread/INFO]: [TAB] [WARN] Player Churrupakin's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[02:51:57] [Server thread/INFO]: [TAB] [WARN] Player Ram_Tz's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[02:51:57] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
-[02:51:57] [Server thread/INFO]: [TAB] Enabled in 69ms
-[02:52:07] [Server thread/INFO]: Ram_Tz issued server command: /qa craft
-[02:52:19] [Async Chat Thread - #63/INFO]: [Not Secure] <Ram_Tz> no tengo permiso
-[02:52:49] [Server thread/INFO]: Churrupakin issued server command: /qa craft
-[02:52:57] [Async Chat Thread - #63/INFO]: [Not Secure] <Churrupakin> firme?
-[02:53:14] [Async Chat Thread - #63/INFO]: [Not Secure] <Ram_Tz> chi
-[02:53:22] [Async Chat Thread - #63/INFO]: [Not Secure] <Churrupakin> pero si el server dice q lo ejecutaste normal xd
-[02:53:42] [Async Chat Thread - #63/INFO]: [Not Secure] <Ram_Tz> cap en ig
-[02:53:48] [Async Chat Thread - #63/INFO]: [Not Secure] <Ram_Tz> mera xd
-[02:57:35] [Async Chat Thread - #65/INFO]: [Not Secure] <Churrupakin> manda p
-[02:58:59] [Async Chat Thread - #67/INFO]: [Not Secure] <Ram_Tz> ya mande
-[03:02:16] [Server thread/INFO]: Churrupakin issued server command: /qa sendResourcepack
-[03:02:36] [Server thread/INFO]: Churrupakin issued server command: /qa sendResourcepack
-[03:02:50] [Server thread/INFO]: Churrupakin issued server command: /qa reload
-[03:02:50] [Server thread/INFO]: [QualityArmory] -Loaded 11 Ammo types.
-[03:02:50] [Server thread/INFO]: [QualityArmory] -Loaded 16 Misc.
-[03:02:50] [Server thread/INFO]: [QualityArmory] -Loaded 70 Gun types.
-[03:02:50] [Server thread/INFO]: [QualityArmory] -Loading Attachment: awpasiimov
-[03:02:50] [Server thread/INFO]: [QualityArmory] -Loading Attachment: p30silenced
-[03:02:51] [Server thread/INFO]: [QualityArmory] -Loading Attachment: uzicorn
-[03:02:51] [Server thread/INFO]: [QualityArmory] -Loaded 3 Attachment types.
-[03:02:51] [Server thread/INFO]: [QualityArmory] -Loaded 4 Armor types.
-[03:02:57] [Server thread/INFO]: Churrupakin issued server command: /qa craft
-[03:03:17] [Async Chat Thread - #69/INFO]: [Not Secure] <Churrupakin> descargaste el texture pack?
-[03:03:33] [Async Chat Thread - #69/INFO]: [Not Secure] <Ram_Tz> cuaI :v
-[03:03:50] [Server thread/INFO]: Churrupakin issued server command: /qa getdResourcepack
-[03:03:54] [Server thread/INFO]: Churrupakin issued server command: /qa getdResourcepack
-[03:04:13] [Async Chat Thread - #69/INFO]: [Not Secure] <Churrupakin> pon eso /qa sendResourcepack
-[03:04:32] [Server thread/INFO]: Ram_Tz issued server command: /qa sendResourcepack
-[03:04:58] [Async Chat Thread - #70/INFO]: [Not Secure] <Churrupakin> ahora t deja?
-[03:05:32] [Async Chat Thread - #70/INFO]: [Not Secure] <Ram_Tz> y que tengo que hacer, me aparecio de que no se que aceptar para que eI recuersd se descarge
-[03:05:59] [Async Chat Thread - #70/INFO]: [Not Secure] <Ram_Tz> un mensage asi en to Ia panta
-[03:07:19] [Async Chat Thread - #71/INFO]: [Not Secure] <Churrupakin> manda cap
-[03:07:32] [Async Chat Thread - #71/INFO]: [Not Secure] <Ram_Tz> pero ya desapareció
-[03:07:45] [Async Chat Thread - #71/INFO]: [Not Secure] <Churrupakin> te dio el /qa carft
-[03:07:50] [Async Chat Thread - #72/INFO]: [Not Secure] <Churrupakin> craft
-[03:07:56] [Async Chat Thread - #72/INFO]: [Not Secure] <Churrupakin> ??
-[03:08:01] [Server thread/INFO]: Ram_Tz issued server command: /qa craft
-[03:08:07] [Async Chat Thread - #72/INFO]: [Not Secure] <Ram_Tz> no
-[03:12:35] [Async Chat Thread - #73/INFO]: [Not Secure] <Churrupakin> q raro
-[03:12:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player a3898cf4-4c4a-3a29-b628-38892b7008ac timed out
-[03:12:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Churrupakin
-[03:12:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Churrupakin
-[03:13:10] [Server thread/INFO]: Churrupakin lost connection: Timed out
-[03:13:10] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
-[03:13:10] [Server thread/INFO]: Churrupakin left the game
-[03:17:32] [Server thread/INFO]: [Not Secure] * Server voy a reiniciar el server
-[03:17:46] [Async Chat Thread - #76/INFO]: [Not Secure] <Ram_Tz> yo toy tomando sopa, nomar
-[03:17:48] [Server thread/INFO]: Ram_Tz lost connection: Disconnected
-[03:17:48] [Server thread/INFO]: [voicechat] Disconnecting client Ram_Tz
-[03:17:48] [Server thread/INFO]: Ram_Tz left the game
-[03:17:53] [Server thread/INFO]: Stopping the server
-[03:17:53] [Server thread/INFO]: Stopping server
-[03:17:53] [Server thread/INFO]: [ProtectionBlocks] Disabling ProtectionBlocks v1.0.9
-[03:17:53] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-60 - Shutdown initiated...
-[03:17:53] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-60 - Shutdown completed.
-[03:17:53] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.26
-[03:17:53] [Server thread/INFO]: [TAB] Disabling TAB v5.0.3
-[03:17:53] [Server thread/INFO]: [TAB] Disabled in 0ms
-[03:17:53] [Server thread/INFO]: [ImprovedFactions] Disabling ImprovedFactions v2.2.0
-[03:17:53] [Server thread/INFO]: [AxGraves] Disabling AxGraves v1.17.0
-[03:17:53] [Server thread/INFO]: [QualityArmory] Disabling QualityArmory v2.0.17
-[03:17:53] [Server thread/INFO]: [CrazyEnchantments] Disabling CrazyEnchantments v2.1
-[03:17:53] [Server thread/INFO]: [PLAZMER-ENGINE] Disabling PLAZMER-ENGINE v2.4.8
-[03:17:54] [Server thread/INFO]: [DecentHolograms] Disabling DecentHolograms v2.8.12
-[03:17:54] [Server thread/INFO]: [dynmap] Disabling dynmap v3.7-SNAPSHOT-948
-[03:17:54] [Server thread/INFO]: [dynmap] Unloaded 11 components.
-[03:17:54] [Server thread/INFO]: [dynmap] Stopping map renderer...
-[03:17:55] [Server thread/INFO]: [dynmap] Saved 17 pending tile renders in world 'world'
-[03:17:55] [Server thread/INFO]: [dynmap] Full render job saved for world 'world'
-[03:17:55] [Server thread/INFO]: [dynmap] Disabled
-[03:17:55] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
-[03:17:55] [Server thread/INFO]: Saving players
-[03:17:55] [Server thread/INFO]: Saving worlds
-[03:17:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:17:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[03:17:55] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[03:17:55] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[03:17:55] [Server thread/INFO]: [ChunkHolderManager] Saved 3 block chunks, 184 entity chunks, 3 poi chunks in world 'world' in 0.07s
-[03:17:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:17:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[03:17:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[03:17:55] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[03:17:55] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[03:17:55] [Server thread/INFO]: [ChunkHolderManager] Saved 48 block chunks, 105 entity chunks, 0 poi chunks in world 'world_nether' in 0.10s
-[03:17:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:17:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[03:17:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[03:17:55] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[03:17:55] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[03:17:55] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 44 entity chunks, 0 poi chunks in world 'world_the_end' in 0.02s
-[03:17:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:17:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[03:17:55] [Server thread/INFO]: Flushing Chunk IO
-[03:17:55] [Server thread/INFO]: Closing Thread Pool
-[03:17:55] [Server thread/INFO]: Closing Server
+[03:20:54] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03:20:57] [ServerMain/INFO]: Loaded 7 recipes
+[03:20:58] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[03:20:58] [Server thread/INFO]: Loading properties
+[03:20:58] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[03:20:59] [Server thread/INFO]: Using 4 threads for Netty based IO
+[03:20:59] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[03:20:59] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[03:20:59] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[03:21:00] [Server thread/INFO]: Default game type: SURVIVAL
+[03:21:00] [Server thread/INFO]: Generating keypair
+[03:21:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:21:00] [Server thread/INFO]: Using epoll channel type
+[03:21:00] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[03:21:00] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[03:21:00] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/customcrafting-spigot-4.16.11.jar' in 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [WolfyUtilities]. Please download and install these plugins to run 'CustomCrafting'.
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:39) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:36) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.loadPlugins(CraftServer.java:510) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:273) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1100) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03:21:01] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loading 2 libraries... please wait
+[03:21:01] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loaded library /workspaces/MSX-2/servidor_minecraft/libraries/it/unimi/dsi/fastutil/8.5.11/fastutil-8.5.11.jar
+[03:21:01] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loaded library /workspaces/MSX-2/servidor_minecraft/libraries/com/zaxxer/HikariCP/5.0.1/HikariCP-5.0.1.jar
+[03:21:01] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loaded library /workspaces/MSX-2/servidor_minecraft/libraries/org/slf4j/slf4j-api/2.0.0-alpha1/slf4j-api-2.0.0-alpha1.jar
+[03:21:01] [Server thread/INFO]: [PLAZMER-ENGINE] Server version detected as Paper 1.20.1.
+[03:21:01] [Server thread/INFO]: [PLAZMER-ENGINE] [Core Components] ENTITY_ID_GENERATOR: Loaded
+[03:21:01] [Server thread/INFO]: [PLAZMER-ENGINE] [Core Components] ITEM_NBT_COMPRESSOR: Loaded
+[03:21:01] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
+[03:21:06] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
+[03:21:06] [Server thread/INFO]: [dynmap] Loading server plugin dynmap v3.7-SNAPSHOT-948
+[03:21:06] [Server thread/INFO]: [dynmap] version=git-Paper-196 (MC: 1.20.1)
+[03:21:06] [Server thread/INFO]: [dynmap] Mod Support API available
+[03:21:06] [Server thread/INFO]: [DecentHolograms] Loading server plugin DecentHolograms v2.8.12
+[03:21:06] [Server thread/INFO]: [PLAZMER-ENGINE] Loading server plugin PLAZMER-ENGINE v2.4.8
+[03:21:06] [Server thread/INFO]: [CrazyEnchantments] Loading server plugin CrazyEnchantments v2.1
+[03:21:06] [Server thread/INFO]: [QualityArmory] Loading server plugin QualityArmory v2.0.17
+[03:21:06] [Server thread/INFO]: [AxGraves] Loading server plugin AxGraves v1.17.0
+[03:21:06] [Server thread/INFO]: [AxGraves] Loading library commons-math3
+[03:21:06] [Server thread/INFO]: [AxGraves] Loading library caffeine
+[03:21:06] [Server thread/INFO]: [ImprovedFactions] Loading server plugin ImprovedFactions v2.2.0
+[03:21:06] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.3
+[03:21:06] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.26
+[03:21:06] [Server thread/INFO]: [ProtectionBlocks] Loading server plugin ProtectionBlocks v1.0.9
+[03:21:06] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[03:21:06] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[03:21:07] [Server thread/INFO]:         __    
+[03:21:07] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+[03:21:07] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[03:21:07] [Server thread/INFO]: 
+[03:21:07] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[03:21:07] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[03:21:08] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[03:21:09] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[03:21:09] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2850ms)
+[03:21:09] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
+[03:21:10] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[03:21:10] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
+[03:21:11] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[03:21:12] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
+[03:21:12] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
+[03:21:12] [Server thread/INFO]: [PLAZMER-ENGINE] Enabling PLAZMER-ENGINE v2.4.8
+[03:21:12] [Server thread/WARN]: [PLAZMER-ENGINE] ===================================
+[03:21:12] [Server thread/WARN]: [PLAZMER-ENGINE] WARNING: You're running an outdated server version (1.20.1)!
+[03:21:12] [Server thread/WARN]: [PLAZMER-ENGINE] This version will no longer be supported in future relases.
+[03:21:12] [Server thread/WARN]: [PLAZMER-ENGINE] Please upgrade your server to 1.20.4.
+[03:21:12] [Server thread/WARN]: [PLAZMER-ENGINE] ABSOLUTELY NO DISCORD SUPPORT WILL BE PROVIDED
+[03:21:12] [Server thread/WARN]: [PLAZMER-ENGINE] ===================================
+[03:21:12] [Server thread/INFO]: [PLAZMER-ENGINE] Seems like we have Paper based fork here...
+[03:21:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:21:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[03:21:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[03:21:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[03:21:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[03:21:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[03:21:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:21:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.1
+[03:21:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: d5d8613
+[03:21:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[03:21:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:21:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[03:21:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[03:21:12] [Server thread/INFO]: [PLAZMER-ENGINE] Plugin loaded in 441 ms!
+[03:21:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:21:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:21:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:21:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:21:12] [Server thread/INFO]: Preparing level "world"
+[03:21:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:21:13] [Server thread/INFO]: Time elapsed: 353 ms
+[03:21:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[03:21:13] [Server thread/INFO]: Time elapsed: 119 ms
+[03:21:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[03:21:13] [Server thread/INFO]: Time elapsed: 132 ms
+[03:21:13] [Server thread/INFO]: [dynmap] Enabling dynmap v3.7-SNAPSHOT-948
+[03:21:15] [Server thread/INFO]: [dynmap] Added 20 custom biome mappings
+[03:21:15] [Server thread/INFO]: [dynmap] Using LuckPerms 5.4.131 for access control
+[03:21:15] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[03:21:27] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
+[03:21:27] [Server thread/INFO]: [dynmap] Loaded 83 perspectives.
+[03:21:27] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
+[03:21:27] [Server thread/INFO]: [dynmap] Starting enter/exit processing
+[03:21:27] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
+[03:21:28] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
+[03:21:28] [Server thread/INFO]: [dynmap] version 3.7-SNAPSHOT-948 is enabled - core version 3.7-SNAPSHOT-949
+[03:21:28] [Server thread/INFO]: [dynmap] For support, visit our Discord at https://discord.gg/s3rd5qn
+[03:21:28] [Server thread/INFO]: [dynmap] For news, visit https://reddit.com/r/Dynmap or follow https://universeodon.com/@dynmap
+[03:21:28] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[03:21:28] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
+[03:21:28] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[03:21:28] [Server thread/INFO]: [dynmap] Loaded 17 pending tile renders for world 'world'
+[03:21:28] [Server thread/INFO]: [dynmap] Full render for world 'world' restored
+[03:21:28] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[03:21:28] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[03:21:28] [Server thread/INFO]: [dynmap] Enabled
+[03:21:28] [Server thread/INFO]: [DecentHolograms] Enabling DecentHolograms v2.8.12
+[03:21:29] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[03:21:29] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_20_R1! Trying to find NMS support
+[03:21:29] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
+[03:21:29] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'DecentHolograms' to create a bStats instance!
+[03:21:29] [Server thread/INFO]: [CrazyEnchantments] Enabling CrazyEnchantments v2.1
+[03:21:29] [Server thread/INFO]: [CrazyEnchantments] Loading the config.yml.
+[03:21:29] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded config.yml.
+[03:21:29] [Server thread/INFO]: [CrazyEnchantments] Loading the BlockList.yml.
+[03:21:29] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded BlockList.yml.
+[03:21:29] [Server thread/INFO]: [CrazyEnchantments] Loading the Data.yml.
+[03:21:29] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Data.yml.
+[03:21:29] [Server thread/INFO]: [CrazyEnchantments] Loading the Enchantments.yml.
+[03:21:29] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Enchantments.yml.
+[03:21:29] [Server thread/INFO]: [CrazyEnchantments] Loading the GKitz.yml.
+[03:21:29] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded GKitz.yml.
+[03:21:29] [Server thread/INFO]: [CrazyEnchantments] Loading the Messages.yml.
+[03:21:29] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Messages.yml.
+[03:21:29] [Server thread/INFO]: [CrazyEnchantments] Loading the Enchantment-Types.yml.
+[03:21:29] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Enchantment-Types.yml.
+[03:21:29] [Server thread/INFO]: [CrazyEnchantments] Loading the Tinker.yml.
+[03:21:29] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Tinker.yml.
+[03:21:30] [Server thread/WARN]: [CrazyEnchantments] No eco plugin found or the eco plugin didn't enable. Any economy based feature will not work.
+[03:21:30] [Server thread/INFO]: [CrazyEnchantments] §8§l=== §e§lCrazyEnchantment Hook Status §8§l===
+[03:21:30] [Server thread/INFO]: [CrazyEnchantments] §6§lFACTIONS_UUID §c§lNOT FOUND
+[03:21:30] [Server thread/INFO]: [CrazyEnchantments] §6§lGRIEF_PREVENTION §c§lNOT FOUND
+[03:21:30] [Server thread/INFO]: [CrazyEnchantments] §6§lSUPERIORSKYBLOCK §c§lNOT FOUND
+[03:21:30] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS_V2 §c§lNOT FOUND
+[03:21:30] [Server thread/INFO]: [CrazyEnchantments] §6§lPLOT_SQUARED §c§lNOT FOUND
+[03:21:30] [Server thread/INFO]: [CrazyEnchantments] §6§lORAXEN §c§lNOT FOUND
+[03:21:30] [Server thread/INFO]: [CrazyEnchantments] §6§lSPARTAN §c§lNOT FOUND
+[03:21:30] [Server thread/INFO]: [CrazyEnchantments] §6§lVAULT §c§lNOT FOUND
+[03:21:30] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS §c§lNOT FOUND
+[03:21:30] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDEDIT §c§lNOT FOUND
+[03:21:30] [Server thread/INFO]: [CrazyEnchantments] §6§lMCMMO §c§lNOT FOUND
+[03:21:30] [Server thread/INFO]: [CrazyEnchantments] §6§lNO_CHEAT_PLUS §c§lNOT FOUND
+[03:21:30] [Server thread/INFO]: [CrazyEnchantments] §6§lTOWNYADVANCED §c§lNOT FOUND
+[03:21:30] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDGUARD §c§lNOT FOUND
+[03:21:30] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_20_R1! Trying to find NMS support
+[03:21:30] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
+[03:21:30] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Gson: class com.google.gson.Gson
+[03:21:30] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'LuckPerms' to create a bStats instance!
+[03:21:31] [Server thread/INFO]: [CrazyEnchantments] G-Kitz support is now enabled.
+[03:21:31] [Server thread/INFO]: [QualityArmory] Enabling QualityArmory v2.0.17
+[03:21:31] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_20_R1! Trying to find NMS support
+[03:21:31] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
+[03:21:31] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'QualityArmory' to create a bStats instance!
+[03:21:32] [Server thread/INFO]: [QualityArmory] -Loaded 11 Ammo types.
+[03:21:32] [Server thread/INFO]: [QualityArmory] -Loaded 16 Misc.
+[03:21:32] [Server thread/INFO]: [QualityArmory] -Loaded 70 Gun types.
+[03:21:32] [Server thread/INFO]: [QualityArmory] -Loading Attachment: awpasiimov
+[03:21:32] [Server thread/INFO]: [QualityArmory] -Loading Attachment: p30silenced
+[03:21:32] [Server thread/INFO]: [QualityArmory] -Loading Attachment: uzicorn
+[03:21:32] [Server thread/INFO]: [QualityArmory] -Loaded 3 Attachment types.
+[03:21:32] [Server thread/INFO]: [QualityArmory] -Loaded 4 Armor types.
+[03:21:32] [Server thread/INFO]: [AxGraves] Enabling AxGraves v1.17.0
+[03:21:33] [Server thread/INFO]: [ImprovedFactions] Enabling ImprovedFactions v2.2.0
+[03:21:34] [Server thread/INFO]: [ImprovedFactions] [gui] Gui module is enabled but GuiEngine is not installed. Disabling Gui module.
+[03:21:35] [Server thread/INFO]: [ImprovedFactions] Checking for updates...
+[03:21:35] [Server thread/INFO]: [ImprovedFactions] Config is up to date
+[03:21:35] [Server thread/WARN]: [ImprovedFactions] No whitelisted worlds found in config. Allowing all worlds
+[03:21:35] [Server thread/INFO]: [ImprovedFactions] Using database SQLITE as database
+[03:21:38] [Server thread/INFO]: [ImprovedFactions] Loaded module power-raids
+[03:21:38] [Server thread/INFO]: [ImprovedFactions] Loaded module dynmap
+[03:21:38] [Server thread/INFO]: [ImprovedFactions] Loaded module wilderness
+[03:21:38] [Server thread/INFO]: [ImprovedFactions] Loaded module home
+[03:21:38] [Server thread/INFO]: [ImprovedFactions] Loaded module chat
+[03:21:38] [Server thread/INFO]: [ImprovedFactions] Loaded module claim-particles
+[03:21:38] [Server thread/INFO]: [ImprovedFactions] Papi not found. Skipping Papi registration
+[03:21:39] [Server thread/INFO]: [TAB] Enabling TAB v5.0.3
+[03:21:39] [Server thread/INFO]: [TAB] Loaded NMS hook in 219ms
+[03:21:39] [Server thread/INFO]: [TAB] [WARN] [config.yml] Scoreboard "scoreboard-1.20.3+" is using right-side text alignment (using ||) in the lines, however, your server does not support this feature. It was added into the game in version 1.20.3. Any text defined after || in lines will not be displayed.
+[03:21:40] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[03:21:40] [Server thread/INFO]: [TAB] Enabled in 429ms
+[03:21:40] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.26
+[03:21:40] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.20.1-R0.1
+[03:21:40] [Server thread/INFO]: [voicechat] Compatibility version 18
+[03:21:40] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[03:21:40] [Server thread/INFO]: [ProtectionBlocks] Enabling ProtectionBlocks v1.0.9
+[03:21:40] [Server thread/WARN]: [ProtectionBlocks] ===================================
+[03:21:40] [Server thread/WARN]: [ProtectionBlocks] WARNING: You're running an outdated server version (1.20.1)!
+[03:21:40] [Server thread/WARN]: [ProtectionBlocks] This version will no longer be supported in future relases.
+[03:21:40] [Server thread/WARN]: [ProtectionBlocks] Please upgrade your server to 1.20.4.
+[03:21:40] [Server thread/WARN]: [ProtectionBlocks] ABSOLUTELY NO DISCORD SUPPORT WILL BE PROVIDED
+[03:21:40] [Server thread/WARN]: [ProtectionBlocks] ===================================
+[03:21:40] [Server thread/INFO]: [ProtectionBlocks] Powered by: PLAZMER-ENGINE
+[03:21:40] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-10 - Starting...
+[03:21:40] [Server thread/INFO]: [com.zaxxer.hikari.pool.HikariPool] ProtectionBlocks-10 - Added connection org.sqlite.jdbc4.JDBC4Connection@d1bcd4b
+[03:21:40] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-10 - Start completed.
+[03:21:40] [Server thread/INFO]: [ProtectionBlocks] Using DecentHolograms hologram handler.
+[03:21:40] [Server thread/INFO]: [ProtectionBlocks] Registered currency: exp
+[03:21:40] [Server thread/INFO]: [ProtectionBlocks] Plugin loaded in 368 ms!
+[03:21:40] [Server thread/INFO]: Running delayed init tasks
+[03:21:41] [Server thread/INFO]: Done (42.935s)! For help, type "help"
+[03:21:41] [Server thread/INFO]: Timings Reset
+[03:21:41] [Server thread/INFO]: [voicechat] Loading plugins
+[03:21:41] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[03:21:41] [Server thread/INFO]: [voicechat] Initializing plugins
+[03:21:41] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[03:21:41] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[03:21:41] [VoiceChatServerThread/ERROR]: [voicechat] Failed to bind to address '172.28.190.108', binding to wildcard IP instead
+[03:21:41] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 172.28.190.108:24454
+[03:21:41] [Server thread/INFO]: [ProtectionBlocks] Region Blocks Loaded: 0
+[03:21:41] [Server thread/ERROR]: [ProtectionBlocks] Cannot load the Region but Region Block 'bloque_de_diamante' not Created or Loaded!
+[03:21:41] [Server thread/ERROR]: [ProtectionBlocks] Region not loaded 'fa508b0-2.yml'
+[03:21:41] [Server thread/ERROR]: [ProtectionBlocks] Cannot load the Region but Region Block 'bloque_de_diamante' not Created or Loaded!
+[03:21:41] [Server thread/ERROR]: [ProtectionBlocks] Region not loaded 'd56596d-3.yml'
+[03:21:41] [Server thread/ERROR]: [ProtectionBlocks] Cannot load the Region but Region Block 'esmeralda' not Created or Loaded!
+[03:21:41] [Server thread/ERROR]: [ProtectionBlocks] Region not loaded 'e713997-2.yml'
+[03:21:41] [Server thread/INFO]: [ProtectionBlocks] Regions Loaded: 0
+[03:21:41] [Server thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03:22:07] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 2300 tiles rendered (332.62 msec/tile, 441.76 msec per render)
+[03:22:37] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 2400 tiles rendered (331.27 msec/tile, 318.41 msec per render)
+[03:23:01] [User Authenticator #0/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[03:23:01] [Server thread/INFO]: Churrupakin joined the game
+[03:23:01] [Server thread/INFO]: Churrupakin[/172.28.161.65:65172] logged in with entity id 247 at ([world]141.1213988216935, 68.13178540491259, 100.1262921193661)
+[03:23:05] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[03:23:05] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[03:23:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[03:23:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[03:23:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[03:23:51] [Server thread/INFO]: Churrupakin issued server command: /luckperms group
+[03:24:03] [Server thread/INFO]: Churrupakin issued server command: /luckperms group default info
+[03:24:19] [Server thread/INFO]: Churrupakin issued server command: /luckperms creategroup Pobres
+[03:24:19] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (pobres)
+[03:24:19] [luckperms-command-executor/INFO]: [LP] LOG > create
+[03:24:30] [Server thread/INFO]: Churrupakin issued server command: /luckperms creategroup Admin
+[03:24:30] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (admin)
+[03:24:30] [luckperms-command-executor/INFO]: [LP] LOG > create
+[03:24:37] [Server thread/INFO]: Churrupakin issued server command: /luckperms creategroup Owner
+[03:24:37] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (owner)
+[03:24:37] [luckperms-command-executor/INFO]: [LP] LOG > create
+[03:24:45] [Server thread/INFO]: Churrupakin issued server command: /luckperms listgroups
+[03:25:21] [Server thread/INFO]: Churrupakin issued server command: /luckperms user Churrupakin permission check
+[03:25:38] [Server thread/INFO]: Churrupakin issued server command: /luckperms user Churrupakin editor
+[03:26:16] [Server thread/INFO]: Churrupakin issued server command: /luckperms trusteditor db9a-3cd9
