@@ -20,6 +20,6 @@ _DEFAULT_:
 per-world:
   world1:
     Owner:
-      tabprefix: '&0&l[&a&lOwner&0&l] &a'
-      tagprefix: '&2&lOwner &a'
+      tabprefix: '&0&l[&f&lOwner&0&l] &f'
+      tagprefix: '&f&lOwner &f'
 Owner: {}

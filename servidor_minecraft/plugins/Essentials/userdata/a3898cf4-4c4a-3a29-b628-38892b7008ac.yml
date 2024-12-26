@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.28.161.65
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1735189631053
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1735189996028
+  login: 1735185000038
+money: '0'
+last-account-name: Churrupakin
+logoutlocation:
+  world: e3e5e213-62c9-40bd-9930-796d34b159e0
+  world-name: world
+  x: 134.5228410382796
+  y: 63.0
+  z: 102.75774786255836
+  yaw: -14.272491455078125
+  pitch: 13.049921035766602
+lastlocation:
+  world: e3e5e213-62c9-40bd-9930-796d34b159e0
+  world-name: world
+  x: 127.59828672400741
+  y: 64.37343466057123
+  z: 85.96924558522315
+  yaw: -125.3396224975586
+  pitch: 17.549867630004883

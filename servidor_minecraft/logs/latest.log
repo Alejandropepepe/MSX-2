@@ -1,21 +1,21 @@
-[03:20:54] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[03:20:57] [ServerMain/INFO]: Loaded 7 recipes
-[03:20:58] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[03:20:58] [Server thread/INFO]: Loading properties
-[03:20:58] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[03:20:59] [Server thread/INFO]: Using 4 threads for Netty based IO
-[03:20:59] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[03:20:59] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[03:39:21] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03:39:23] [ServerMain/INFO]: Loaded 7 recipes
+[03:39:24] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[03:39:24] [Server thread/INFO]: Loading properties
+[03:39:25] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[03:39:25] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[03:39:25] [Server thread/INFO]: Using 4 threads for Netty based IO
+[03:39:26] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[03:20:59] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[03:21:00] [Server thread/INFO]: Default game type: SURVIVAL
-[03:21:00] [Server thread/INFO]: Generating keypair
-[03:21:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:21:00] [Server thread/INFO]: Using epoll channel type
-[03:21:00] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[03:21:00] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[03:21:00] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/customcrafting-spigot-4.16.11.jar' in 'plugins'
+[03:39:26] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[03:39:27] [Server thread/INFO]: Default game type: SURVIVAL
+[03:39:27] [Server thread/INFO]: Generating keypair
+[03:39:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:39:27] [Server thread/INFO]: Using epoll channel type
+[03:39:27] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[03:39:27] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[03:39:27] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/customcrafting-spigot-4.16.11.jar' in 'plugins'
 org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [WolfyUtilities]. Please download and install these plugins to run 'CustomCrafting'.
 	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.20.1.jar:git-Paper-196]
 	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:39) ~[paper-1.20.1.jar:git-Paper-196]
@@ -25,287 +25,1459 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1100) ~[paper-1.20.1.jar:git-Paper-196]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[03:21:01] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loading 2 libraries... please wait
-[03:21:01] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loaded library /workspaces/MSX-2/servidor_minecraft/libraries/it/unimi/dsi/fastutil/8.5.11/fastutil-8.5.11.jar
-[03:21:01] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loaded library /workspaces/MSX-2/servidor_minecraft/libraries/com/zaxxer/HikariCP/5.0.1/HikariCP-5.0.1.jar
-[03:21:01] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loaded library /workspaces/MSX-2/servidor_minecraft/libraries/org/slf4j/slf4j-api/2.0.0-alpha1/slf4j-api-2.0.0-alpha1.jar
-[03:21:01] [Server thread/INFO]: [PLAZMER-ENGINE] Server version detected as Paper 1.20.1.
-[03:21:01] [Server thread/INFO]: [PLAZMER-ENGINE] [Core Components] ENTITY_ID_GENERATOR: Loaded
-[03:21:01] [Server thread/INFO]: [PLAZMER-ENGINE] [Core Components] ITEM_NBT_COMPRESSOR: Loaded
-[03:21:01] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
-[03:21:06] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
-[03:21:06] [Server thread/INFO]: [dynmap] Loading server plugin dynmap v3.7-SNAPSHOT-948
-[03:21:06] [Server thread/INFO]: [dynmap] version=git-Paper-196 (MC: 1.20.1)
-[03:21:06] [Server thread/INFO]: [dynmap] Mod Support API available
-[03:21:06] [Server thread/INFO]: [DecentHolograms] Loading server plugin DecentHolograms v2.8.12
-[03:21:06] [Server thread/INFO]: [PLAZMER-ENGINE] Loading server plugin PLAZMER-ENGINE v2.4.8
-[03:21:06] [Server thread/INFO]: [CrazyEnchantments] Loading server plugin CrazyEnchantments v2.1
-[03:21:06] [Server thread/INFO]: [QualityArmory] Loading server plugin QualityArmory v2.0.17
-[03:21:06] [Server thread/INFO]: [AxGraves] Loading server plugin AxGraves v1.17.0
-[03:21:06] [Server thread/INFO]: [AxGraves] Loading library commons-math3
-[03:21:06] [Server thread/INFO]: [AxGraves] Loading library caffeine
-[03:21:06] [Server thread/INFO]: [ImprovedFactions] Loading server plugin ImprovedFactions v2.2.0
-[03:21:06] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.3
-[03:21:06] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.26
-[03:21:06] [Server thread/INFO]: [ProtectionBlocks] Loading server plugin ProtectionBlocks v1.0.9
-[03:21:06] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[03:21:06] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
-[03:21:07] [Server thread/INFO]:         __    
-[03:21:07] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
-[03:21:07] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[03:21:07] [Server thread/INFO]: 
-[03:21:07] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[03:21:07] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[03:21:08] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[03:21:09] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[03:21:09] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2850ms)
-[03:21:09] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
-[03:21:10] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[03:21:10] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
-[03:21:11] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[03:21:12] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
-[03:21:12] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
-[03:21:12] [Server thread/INFO]: [PLAZMER-ENGINE] Enabling PLAZMER-ENGINE v2.4.8
-[03:21:12] [Server thread/WARN]: [PLAZMER-ENGINE] ===================================
-[03:21:12] [Server thread/WARN]: [PLAZMER-ENGINE] WARNING: You're running an outdated server version (1.20.1)!
-[03:21:12] [Server thread/WARN]: [PLAZMER-ENGINE] This version will no longer be supported in future relases.
-[03:21:12] [Server thread/WARN]: [PLAZMER-ENGINE] Please upgrade your server to 1.20.4.
-[03:21:12] [Server thread/WARN]: [PLAZMER-ENGINE] ABSOLUTELY NO DISCORD SUPPORT WILL BE PROVIDED
-[03:21:12] [Server thread/WARN]: [PLAZMER-ENGINE] ===================================
-[03:21:12] [Server thread/INFO]: [PLAZMER-ENGINE] Seems like we have Paper based fork here...
-[03:21:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:21:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[03:21:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[03:21:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[03:21:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[03:21:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[03:21:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:21:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.1
-[03:21:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: d5d8613
-[03:21:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[03:21:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:21:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[03:21:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[03:21:12] [Server thread/INFO]: [PLAZMER-ENGINE] Plugin loaded in 441 ms!
-[03:21:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:21:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:21:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:21:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:21:12] [Server thread/INFO]: Preparing level "world"
-[03:21:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:21:13] [Server thread/INFO]: Time elapsed: 353 ms
-[03:21:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[03:21:13] [Server thread/INFO]: Time elapsed: 119 ms
-[03:21:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[03:21:13] [Server thread/INFO]: Time elapsed: 132 ms
-[03:21:13] [Server thread/INFO]: [dynmap] Enabling dynmap v3.7-SNAPSHOT-948
-[03:21:15] [Server thread/INFO]: [dynmap] Added 20 custom biome mappings
-[03:21:15] [Server thread/INFO]: [dynmap] Using LuckPerms 5.4.131 for access control
-[03:21:15] [Server thread/INFO]: [dynmap] Mod Support processing completed
-[03:21:27] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
-[03:21:27] [Server thread/INFO]: [dynmap] Loaded 83 perspectives.
-[03:21:27] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
-[03:21:27] [Server thread/INFO]: [dynmap] Starting enter/exit processing
-[03:21:27] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
-[03:21:28] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
-[03:21:28] [Server thread/INFO]: [dynmap] version 3.7-SNAPSHOT-948 is enabled - core version 3.7-SNAPSHOT-949
-[03:21:28] [Server thread/INFO]: [dynmap] For support, visit our Discord at https://discord.gg/s3rd5qn
-[03:21:28] [Server thread/INFO]: [dynmap] For news, visit https://reddit.com/r/Dynmap or follow https://universeodon.com/@dynmap
-[03:21:28] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
-[03:21:28] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
-[03:21:28] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
-[03:21:28] [Server thread/INFO]: [dynmap] Loaded 17 pending tile renders for world 'world'
-[03:21:28] [Server thread/INFO]: [dynmap] Full render for world 'world' restored
-[03:21:28] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
-[03:21:28] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
-[03:21:28] [Server thread/INFO]: [dynmap] Enabled
-[03:21:28] [Server thread/INFO]: [DecentHolograms] Enabling DecentHolograms v2.8.12
-[03:21:29] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
-[03:21:29] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_20_R1! Trying to find NMS support
-[03:21:29] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
-[03:21:29] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'DecentHolograms' to create a bStats instance!
-[03:21:29] [Server thread/INFO]: [CrazyEnchantments] Enabling CrazyEnchantments v2.1
-[03:21:29] [Server thread/INFO]: [CrazyEnchantments] Loading the config.yml.
-[03:21:29] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded config.yml.
-[03:21:29] [Server thread/INFO]: [CrazyEnchantments] Loading the BlockList.yml.
-[03:21:29] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded BlockList.yml.
-[03:21:29] [Server thread/INFO]: [CrazyEnchantments] Loading the Data.yml.
-[03:21:29] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Data.yml.
-[03:21:29] [Server thread/INFO]: [CrazyEnchantments] Loading the Enchantments.yml.
-[03:21:29] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Enchantments.yml.
-[03:21:29] [Server thread/INFO]: [CrazyEnchantments] Loading the GKitz.yml.
-[03:21:29] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded GKitz.yml.
-[03:21:29] [Server thread/INFO]: [CrazyEnchantments] Loading the Messages.yml.
-[03:21:29] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Messages.yml.
-[03:21:29] [Server thread/INFO]: [CrazyEnchantments] Loading the Enchantment-Types.yml.
-[03:21:29] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Enchantment-Types.yml.
-[03:21:29] [Server thread/INFO]: [CrazyEnchantments] Loading the Tinker.yml.
-[03:21:29] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Tinker.yml.
-[03:21:30] [Server thread/WARN]: [CrazyEnchantments] No eco plugin found or the eco plugin didn't enable. Any economy based feature will not work.
-[03:21:30] [Server thread/INFO]: [CrazyEnchantments] §8§l=== §e§lCrazyEnchantment Hook Status §8§l===
-[03:21:30] [Server thread/INFO]: [CrazyEnchantments] §6§lFACTIONS_UUID §c§lNOT FOUND
-[03:21:30] [Server thread/INFO]: [CrazyEnchantments] §6§lGRIEF_PREVENTION §c§lNOT FOUND
-[03:21:30] [Server thread/INFO]: [CrazyEnchantments] §6§lSUPERIORSKYBLOCK §c§lNOT FOUND
-[03:21:30] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS_V2 §c§lNOT FOUND
-[03:21:30] [Server thread/INFO]: [CrazyEnchantments] §6§lPLOT_SQUARED §c§lNOT FOUND
-[03:21:30] [Server thread/INFO]: [CrazyEnchantments] §6§lORAXEN §c§lNOT FOUND
-[03:21:30] [Server thread/INFO]: [CrazyEnchantments] §6§lSPARTAN §c§lNOT FOUND
-[03:21:30] [Server thread/INFO]: [CrazyEnchantments] §6§lVAULT §c§lNOT FOUND
-[03:21:30] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS §c§lNOT FOUND
-[03:21:30] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDEDIT §c§lNOT FOUND
-[03:21:30] [Server thread/INFO]: [CrazyEnchantments] §6§lMCMMO §c§lNOT FOUND
-[03:21:30] [Server thread/INFO]: [CrazyEnchantments] §6§lNO_CHEAT_PLUS §c§lNOT FOUND
-[03:21:30] [Server thread/INFO]: [CrazyEnchantments] §6§lTOWNYADVANCED §c§lNOT FOUND
-[03:21:30] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDGUARD §c§lNOT FOUND
-[03:21:30] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_20_R1! Trying to find NMS support
-[03:21:30] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
-[03:21:30] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Gson: class com.google.gson.Gson
-[03:21:30] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'LuckPerms' to create a bStats instance!
-[03:21:31] [Server thread/INFO]: [CrazyEnchantments] G-Kitz support is now enabled.
-[03:21:31] [Server thread/INFO]: [QualityArmory] Enabling QualityArmory v2.0.17
-[03:21:31] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_20_R1! Trying to find NMS support
-[03:21:31] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
-[03:21:31] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'QualityArmory' to create a bStats instance!
-[03:21:32] [Server thread/INFO]: [QualityArmory] -Loaded 11 Ammo types.
-[03:21:32] [Server thread/INFO]: [QualityArmory] -Loaded 16 Misc.
-[03:21:32] [Server thread/INFO]: [QualityArmory] -Loaded 70 Gun types.
-[03:21:32] [Server thread/INFO]: [QualityArmory] -Loading Attachment: awpasiimov
-[03:21:32] [Server thread/INFO]: [QualityArmory] -Loading Attachment: p30silenced
-[03:21:32] [Server thread/INFO]: [QualityArmory] -Loading Attachment: uzicorn
-[03:21:32] [Server thread/INFO]: [QualityArmory] -Loaded 3 Attachment types.
-[03:21:32] [Server thread/INFO]: [QualityArmory] -Loaded 4 Armor types.
-[03:21:32] [Server thread/INFO]: [AxGraves] Enabling AxGraves v1.17.0
-[03:21:33] [Server thread/INFO]: [ImprovedFactions] Enabling ImprovedFactions v2.2.0
-[03:21:34] [Server thread/INFO]: [ImprovedFactions] [gui] Gui module is enabled but GuiEngine is not installed. Disabling Gui module.
-[03:21:35] [Server thread/INFO]: [ImprovedFactions] Checking for updates...
-[03:21:35] [Server thread/INFO]: [ImprovedFactions] Config is up to date
-[03:21:35] [Server thread/WARN]: [ImprovedFactions] No whitelisted worlds found in config. Allowing all worlds
-[03:21:35] [Server thread/INFO]: [ImprovedFactions] Using database SQLITE as database
-[03:21:38] [Server thread/INFO]: [ImprovedFactions] Loaded module power-raids
-[03:21:38] [Server thread/INFO]: [ImprovedFactions] Loaded module dynmap
-[03:21:38] [Server thread/INFO]: [ImprovedFactions] Loaded module wilderness
-[03:21:38] [Server thread/INFO]: [ImprovedFactions] Loaded module home
-[03:21:38] [Server thread/INFO]: [ImprovedFactions] Loaded module chat
-[03:21:38] [Server thread/INFO]: [ImprovedFactions] Loaded module claim-particles
-[03:21:38] [Server thread/INFO]: [ImprovedFactions] Papi not found. Skipping Papi registration
-[03:21:39] [Server thread/INFO]: [TAB] Enabling TAB v5.0.3
-[03:21:39] [Server thread/INFO]: [TAB] Loaded NMS hook in 219ms
-[03:21:39] [Server thread/INFO]: [TAB] [WARN] [config.yml] Scoreboard "scoreboard-1.20.3+" is using right-side text alignment (using ||) in the lines, however, your server does not support this feature. It was added into the game in version 1.20.3. Any text defined after || in lines will not be displayed.
-[03:21:40] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
-[03:21:40] [Server thread/INFO]: [TAB] Enabled in 429ms
-[03:21:40] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.26
-[03:21:40] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.20.1-R0.1
-[03:21:40] [Server thread/INFO]: [voicechat] Compatibility version 18
-[03:21:40] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
-[03:21:40] [Server thread/INFO]: [ProtectionBlocks] Enabling ProtectionBlocks v1.0.9
-[03:21:40] [Server thread/WARN]: [ProtectionBlocks] ===================================
-[03:21:40] [Server thread/WARN]: [ProtectionBlocks] WARNING: You're running an outdated server version (1.20.1)!
-[03:21:40] [Server thread/WARN]: [ProtectionBlocks] This version will no longer be supported in future relases.
-[03:21:40] [Server thread/WARN]: [ProtectionBlocks] Please upgrade your server to 1.20.4.
-[03:21:40] [Server thread/WARN]: [ProtectionBlocks] ABSOLUTELY NO DISCORD SUPPORT WILL BE PROVIDED
-[03:21:40] [Server thread/WARN]: [ProtectionBlocks] ===================================
-[03:21:40] [Server thread/INFO]: [ProtectionBlocks] Powered by: PLAZMER-ENGINE
-[03:21:40] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-10 - Starting...
-[03:21:40] [Server thread/INFO]: [com.zaxxer.hikari.pool.HikariPool] ProtectionBlocks-10 - Added connection org.sqlite.jdbc4.JDBC4Connection@d1bcd4b
-[03:21:40] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-10 - Start completed.
-[03:21:40] [Server thread/INFO]: [ProtectionBlocks] Using DecentHolograms hologram handler.
-[03:21:40] [Server thread/INFO]: [ProtectionBlocks] Registered currency: exp
-[03:21:40] [Server thread/INFO]: [ProtectionBlocks] Plugin loaded in 368 ms!
-[03:21:40] [Server thread/INFO]: Running delayed init tasks
-[03:21:41] [Server thread/INFO]: Done (42.935s)! For help, type "help"
-[03:21:41] [Server thread/INFO]: Timings Reset
-[03:21:41] [Server thread/INFO]: [voicechat] Loading plugins
-[03:21:41] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
-[03:21:41] [Server thread/INFO]: [voicechat] Initializing plugins
-[03:21:41] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
-[03:21:41] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[03:21:41] [VoiceChatServerThread/ERROR]: [voicechat] Failed to bind to address '172.28.190.108', binding to wildcard IP instead
-[03:21:41] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 172.28.190.108:24454
-[03:21:41] [Server thread/INFO]: [ProtectionBlocks] Region Blocks Loaded: 0
-[03:21:41] [Server thread/ERROR]: [ProtectionBlocks] Cannot load the Region but Region Block 'bloque_de_diamante' not Created or Loaded!
-[03:21:41] [Server thread/ERROR]: [ProtectionBlocks] Region not loaded 'fa508b0-2.yml'
-[03:21:41] [Server thread/ERROR]: [ProtectionBlocks] Cannot load the Region but Region Block 'bloque_de_diamante' not Created or Loaded!
-[03:21:41] [Server thread/ERROR]: [ProtectionBlocks] Region not loaded 'd56596d-3.yml'
-[03:21:41] [Server thread/ERROR]: [ProtectionBlocks] Cannot load the Region but Region Block 'esmeralda' not Created or Loaded!
-[03:21:41] [Server thread/ERROR]: [ProtectionBlocks] Region not loaded 'e713997-2.yml'
-[03:21:41] [Server thread/INFO]: [ProtectionBlocks] Regions Loaded: 0
-[03:21:41] [Server thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[03:22:07] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 2300 tiles rendered (332.62 msec/tile, 441.76 msec per render)
-[03:22:37] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 2400 tiles rendered (331.27 msec/tile, 318.41 msec per render)
-[03:23:01] [User Authenticator #0/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
-[03:23:01] [Server thread/INFO]: Churrupakin joined the game
-[03:23:01] [Server thread/INFO]: Churrupakin[/172.28.161.65:65172] logged in with entity id 247 at ([world]141.1213988216935, 68.13178540491259, 100.1262921193661)
-[03:23:05] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
-[03:23:05] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
-[03:23:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[03:23:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[03:23:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
-[03:23:51] [Server thread/INFO]: Churrupakin issued server command: /luckperms group
-[03:24:03] [Server thread/INFO]: Churrupakin issued server command: /luckperms group default info
-[03:24:19] [Server thread/INFO]: Churrupakin issued server command: /luckperms creategroup Pobres
-[03:24:19] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (pobres)
-[03:24:19] [luckperms-command-executor/INFO]: [LP] LOG > create
-[03:24:30] [Server thread/INFO]: Churrupakin issued server command: /luckperms creategroup Admin
-[03:24:30] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (admin)
-[03:24:30] [luckperms-command-executor/INFO]: [LP] LOG > create
-[03:24:37] [Server thread/INFO]: Churrupakin issued server command: /luckperms creategroup Owner
-[03:24:37] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (owner)
-[03:24:37] [luckperms-command-executor/INFO]: [LP] LOG > create
-[03:24:45] [Server thread/INFO]: Churrupakin issued server command: /luckperms listgroups
-[03:25:21] [Server thread/INFO]: Churrupakin issued server command: /luckperms user Churrupakin permission check
-[03:25:38] [Server thread/INFO]: Churrupakin issued server command: /luckperms user Churrupakin editor
-[03:26:16] [Server thread/INFO]: Churrupakin issued server command: /luckperms trusteditor db9a-3cd9
-[03:32:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player a3898cf4-4c4a-3a29-b628-38892b7008ac timed out
-[03:32:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Churrupakin
-[03:32:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Churrupakin
-[03:32:27] [Server thread/INFO]: Churrupakin lost connection: Timed out
-[03:32:27] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
-[03:32:27] [Server thread/INFO]: Churrupakin left the game
-[03:36:01] [Server thread/INFO]: Stopping the server
-[03:36:01] [Server thread/INFO]: Stopping server
-[03:36:01] [Server thread/INFO]: [ProtectionBlocks] Disabling ProtectionBlocks v1.0.9
-[03:36:01] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-10 - Shutdown initiated...
-[03:36:01] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-10 - Shutdown completed.
-[03:36:01] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.26
-[03:36:01] [Server thread/INFO]: [TAB] Disabling TAB v5.0.3
-[03:36:01] [Server thread/INFO]: [TAB] Disabled in 11ms
-[03:36:01] [Server thread/INFO]: [ImprovedFactions] Disabling ImprovedFactions v2.2.0
-[03:36:01] [Server thread/INFO]: [AxGraves] Disabling AxGraves v1.17.0
-[03:36:01] [Server thread/INFO]: [QualityArmory] Disabling QualityArmory v2.0.17
-[03:36:01] [Server thread/INFO]: [CrazyEnchantments] Disabling CrazyEnchantments v2.1
-[03:36:01] [Server thread/INFO]: [PLAZMER-ENGINE] Disabling PLAZMER-ENGINE v2.4.8
-[03:36:01] [Server thread/INFO]: [DecentHolograms] Disabling DecentHolograms v2.8.12
-[03:36:01] [Server thread/INFO]: [dynmap] Disabling dynmap v3.7-SNAPSHOT-948
-[03:36:01] [Server thread/INFO]: [dynmap] Unloaded 11 components.
-[03:36:01] [Server thread/INFO]: [dynmap] Stopping map renderer...
-[03:36:02] [Server thread/INFO]: [dynmap] Full render job saved for world 'world'
-[03:36:03] [Server thread/INFO]: [dynmap] Disabled
-[03:36:03] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
-[03:36:03] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
-[03:36:03] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[03:36:03] [Server thread/INFO]: [LuckPerms] Closing storage...
-[03:36:03] [Server thread/INFO]: [LuckPerms] Goodbye!
-[03:36:03] [Server thread/INFO]: Saving players
-[03:36:03] [Server thread/INFO]: Saving worlds
-[03:36:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:36:03] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[03:36:03] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[03:36:03] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[03:36:04] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 68 entity chunks, 0 poi chunks in world 'world' in 0.08s
-[03:36:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:36:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[03:36:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[03:36:04] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[03:36:04] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[03:36:04] [Server thread/INFO]: [ChunkHolderManager] Saved 48 block chunks, 80 entity chunks, 0 poi chunks in world 'world_nether' in 0.13s
-[03:36:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:36:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[03:36:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[03:36:04] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[03:36:04] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[03:36:04] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 43 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
-[03:36:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:36:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[03:36:04] [Server thread/INFO]: Flushing Chunk IO
-[03:36:04] [Server thread/INFO]: Closing Thread Pool
-[03:36:04] [Server thread/INFO]: Closing Server
+[03:39:28] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loading 2 libraries... please wait
+[03:39:28] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loaded library /workspaces/MSX-2/servidor_minecraft/libraries/it/unimi/dsi/fastutil/8.5.11/fastutil-8.5.11.jar
+[03:39:28] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loaded library /workspaces/MSX-2/servidor_minecraft/libraries/com/zaxxer/HikariCP/5.0.1/HikariCP-5.0.1.jar
+[03:39:28] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loaded library /workspaces/MSX-2/servidor_minecraft/libraries/org/slf4j/slf4j-api/2.0.0-alpha1/slf4j-api-2.0.0-alpha1.jar
+[03:39:28] [Server thread/INFO]: [PLAZMER-ENGINE] Server version detected as Paper 1.20.1.
+[03:39:28] [Server thread/INFO]: [PLAZMER-ENGINE] [Core Components] ENTITY_ID_GENERATOR: Loaded
+[03:39:28] [Server thread/INFO]: [PLAZMER-ENGINE] [Core Components] ITEM_NBT_COMPRESSOR: Loaded
+[03:39:28] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
+[03:39:29] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
+[03:39:29] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[03:39:29] [Server thread/INFO]: [dynmap] Loading server plugin dynmap v3.7-SNAPSHOT-948
+[03:39:29] [Server thread/INFO]: [dynmap] version=git-Paper-196 (MC: 1.20.1)
+[03:39:29] [Server thread/INFO]: [dynmap] Mod Support API available
+[03:39:29] [Server thread/INFO]: [DecentHolograms] Loading server plugin DecentHolograms v2.8.12
+[03:39:29] [Server thread/INFO]: [PLAZMER-ENGINE] Loading server plugin PLAZMER-ENGINE v2.4.8
+[03:39:29] [Server thread/INFO]: [CrazyEnchantments] Loading server plugin CrazyEnchantments v2.1
+[03:39:29] [Server thread/INFO]: [ChatEx] Loading server plugin ChatEx v3.1.0
+[03:39:29] [Server thread/INFO]: [QualityArmory] Loading server plugin QualityArmory v2.0.17
+[03:39:29] [Server thread/INFO]: [AxGraves] Loading server plugin AxGraves v1.17.0
+[03:39:29] [Server thread/INFO]: [AxGraves] Loading library commons-math3
+[03:39:29] [Server thread/INFO]: [AxGraves] Loading library caffeine
+[03:39:29] [Server thread/INFO]: [ImprovedFactions] Loading server plugin ImprovedFactions v2.2.0
+[03:39:29] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.3
+[03:39:29] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.26
+[03:39:29] [Server thread/INFO]: [ProtectionBlocks] Loading server plugin ProtectionBlocks v1.0.9
+[03:39:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[03:39:29] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[03:39:30] [Server thread/INFO]:         __    
+[03:39:30] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+[03:39:30] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[03:39:30] [Server thread/INFO]: 
+[03:39:30] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[03:39:31] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[03:39:32] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[03:39:32] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[03:39:32] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 3499ms)
+[03:39:32] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
+[03:39:33] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[03:39:34] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
+[03:39:35] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[03:39:35] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
+[03:39:35] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
+[03:39:35] [Server thread/INFO]: [PLAZMER-ENGINE] Enabling PLAZMER-ENGINE v2.4.8
+[03:39:35] [Server thread/WARN]: [PLAZMER-ENGINE] ===================================
+[03:39:35] [Server thread/WARN]: [PLAZMER-ENGINE] WARNING: You're running an outdated server version (1.20.1)!
+[03:39:35] [Server thread/WARN]: [PLAZMER-ENGINE] This version will no longer be supported in future relases.
+[03:39:35] [Server thread/WARN]: [PLAZMER-ENGINE] Please upgrade your server to 1.20.4.
+[03:39:35] [Server thread/WARN]: [PLAZMER-ENGINE] ABSOLUTELY NO DISCORD SUPPORT WILL BE PROVIDED
+[03:39:35] [Server thread/WARN]: [PLAZMER-ENGINE] ===================================
+[03:39:35] [Server thread/INFO]: [PLAZMER-ENGINE] Seems like we have Paper based fork here...
+[03:39:35] [Server thread/INFO]: [PLAZMER-ENGINE] Plugin loaded in 234 ms!
+[03:39:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:39:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:39:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:39:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:39:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:39:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[03:39:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[03:39:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[03:39:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[03:39:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[03:39:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:39:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.1
+[03:39:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: d5d8613
+[03:39:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[03:39:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:39:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[03:39:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[03:39:35] [Server thread/INFO]: Preparing level "world"
+[03:39:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:39:37] [Server thread/INFO]: Time elapsed: 633 ms
+[03:39:37] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[03:39:37] [Server thread/INFO]: Time elapsed: 183 ms
+[03:39:37] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[03:39:37] [Server thread/INFO]: Time elapsed: 203 ms
+[03:39:37] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[03:39:38] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/config.yml
+[03:39:39] [Server thread/WARN]: [Essentials] Missing userdata folder, aborting
+[03:39:39] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/kits.yml
+[03:39:39] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[03:39:39] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[03:39:39] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
+[03:39:39] [Server thread/INFO]: [Essentials] Attempting to migrate ignore list to UUIDs
+[03:39:39] [Server thread/INFO]: [Essentials] Attempting to migrate legacy userdata keys to Configurate
+[03:39:39] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/worth.yml
+[03:39:39] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/tpr.yml
+[03:39:40] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[03:39:40] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/custom_items.yml
+[03:39:40] [Server thread/INFO]: [Essentials] Using locale en
+[03:39:40] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[03:39:40] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[03:39:40] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[03:39:40] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[03:39:40] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[03:39:40] [Server thread/INFO]: [dynmap] Enabling dynmap v3.7-SNAPSHOT-948
+[03:39:42] [Server thread/INFO]: [dynmap] Added 20 custom biome mappings
+[03:39:42] [Server thread/INFO]: [dynmap] Using LuckPerms 5.4.131 for access control
+[03:39:44] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[03:39:53] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
+[03:39:53] [Server thread/INFO]: [dynmap] Loaded 83 perspectives.
+[03:39:53] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
+[03:39:53] [Server thread/INFO]: [dynmap] Starting enter/exit processing
+[03:39:54] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
+[03:39:54] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
+[03:39:54] [Server thread/INFO]: [dynmap] version 3.7-SNAPSHOT-948 is enabled - core version 3.7-SNAPSHOT-949
+[03:39:54] [Server thread/INFO]: [dynmap] For support, visit our Discord at https://discord.gg/s3rd5qn
+[03:39:54] [Server thread/INFO]: [dynmap] For news, visit https://reddit.com/r/Dynmap or follow https://universeodon.com/@dynmap
+[03:39:54] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[03:39:54] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
+[03:39:54] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[03:39:54] [Server thread/INFO]: [dynmap] Full render for world 'world' restored
+[03:39:54] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[03:39:54] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[03:39:54] [Server thread/INFO]: [dynmap] Enabled
+[03:39:54] [Server thread/INFO]: [DecentHolograms] Enabling DecentHolograms v2.8.12
+[03:39:54] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_20_R1! Trying to find NMS support
+[03:39:54] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
+[03:39:54] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'DecentHolograms' to create a bStats instance!
+[03:39:54] [Server thread/INFO]: [CrazyEnchantments] Enabling CrazyEnchantments v2.1
+[03:39:54] [Server thread/INFO]: [CrazyEnchantments] Loading the config.yml.
+[03:39:54] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded config.yml.
+[03:39:54] [Server thread/INFO]: [CrazyEnchantments] Loading the BlockList.yml.
+[03:39:54] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded BlockList.yml.
+[03:39:54] [Server thread/INFO]: [CrazyEnchantments] Loading the Data.yml.
+[03:39:54] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Data.yml.
+[03:39:54] [Server thread/INFO]: [CrazyEnchantments] Loading the Enchantments.yml.
+[03:39:54] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Enchantments.yml.
+[03:39:54] [Server thread/INFO]: [CrazyEnchantments] Loading the GKitz.yml.
+[03:39:54] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded GKitz.yml.
+[03:39:54] [Server thread/INFO]: [CrazyEnchantments] Loading the Messages.yml.
+[03:39:54] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Messages.yml.
+[03:39:54] [Server thread/INFO]: [CrazyEnchantments] Loading the Enchantment-Types.yml.
+[03:39:54] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Enchantment-Types.yml.
+[03:39:54] [Server thread/INFO]: [CrazyEnchantments] Loading the Tinker.yml.
+[03:39:54] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Tinker.yml.
+[03:39:54] [Server thread/WARN]: [CrazyEnchantments] No eco plugin found or the eco plugin didn't enable. Any economy based feature will not work.
+[03:39:55] [Server thread/INFO]: [CrazyEnchantments] §8§l=== §e§lCrazyEnchantment Hook Status §8§l===
+[03:39:55] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS_V2 §c§lNOT FOUND
+[03:39:55] [Server thread/INFO]: [CrazyEnchantments] §6§lSUPERIORSKYBLOCK §c§lNOT FOUND
+[03:39:55] [Server thread/INFO]: [CrazyEnchantments] §6§lTOWNYADVANCED §c§lNOT FOUND
+[03:39:55] [Server thread/INFO]: [CrazyEnchantments] §6§lVAULT §c§lNOT FOUND
+[03:39:55] [Server thread/INFO]: [CrazyEnchantments] §6§lORAXEN §c§lNOT FOUND
+[03:39:55] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDGUARD §c§lNOT FOUND
+[03:39:55] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDEDIT §c§lNOT FOUND
+[03:39:55] [Server thread/INFO]: [CrazyEnchantments] §6§lFACTIONS_UUID §c§lNOT FOUND
+[03:39:55] [Server thread/INFO]: [CrazyEnchantments] §6§lSPARTAN §c§lNOT FOUND
+[03:39:55] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS §c§lNOT FOUND
+[03:39:55] [Server thread/INFO]: [CrazyEnchantments] §6§lNO_CHEAT_PLUS §c§lNOT FOUND
+[03:39:55] [Server thread/INFO]: [CrazyEnchantments] §6§lMCMMO §c§lNOT FOUND
+[03:39:55] [Server thread/INFO]: [CrazyEnchantments] §6§lPLOT_SQUARED §c§lNOT FOUND
+[03:39:55] [Server thread/INFO]: [CrazyEnchantments] §6§lGRIEF_PREVENTION §c§lNOT FOUND
+[03:39:55] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_20_R1! Trying to find NMS support
+[03:39:55] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
+[03:39:55] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Gson: class com.google.gson.Gson
+[03:39:55] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'LuckPerms' to create a bStats instance!
+[03:39:55] [Server thread/INFO]: [CrazyEnchantments] G-Kitz support is now enabled.
+[03:39:55] [Server thread/INFO]: [ChatEx] Enabling ChatEx v3.1.0
+[03:39:55] [Server thread/INFO]: [ChatEx] Successfully hooked into: LuckPerms
+[03:39:55] [Server thread/INFO]: [ChatEx] Server version:git-Paper-196 (MC: 1.20.1)
+[03:39:55] [Server thread/INFO]: [ChatEx] Version is later than 1.16. Loading RGB ColorCodes!
+[03:39:55] [Server thread/INFO]: [ChatEx] Thanks for using bstats, it was enabled!
+[03:39:55] [Server thread/INFO]: [ChatEx] Is now enabled!
+[03:39:55] [Server thread/INFO]: [QualityArmory] Enabling QualityArmory v2.0.17
+[03:39:55] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_20_R1! Trying to find NMS support
+[03:39:55] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
+[03:39:55] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'QualityArmory' to create a bStats instance!
+[03:39:55] [Server thread/INFO]: [QualityArmory] -Loaded 11 Ammo types.
+[03:39:55] [Server thread/INFO]: [QualityArmory] -Loaded 16 Misc.
+[03:39:56] [Server thread/INFO]: [QualityArmory] -Loaded 70 Gun types.
+[03:39:56] [Server thread/INFO]: [QualityArmory] -Loading Attachment: awpasiimov
+[03:39:56] [Server thread/INFO]: [QualityArmory] -Loading Attachment: p30silenced
+[03:39:56] [Server thread/INFO]: [QualityArmory] -Loading Attachment: uzicorn
+[03:39:56] [Server thread/INFO]: [QualityArmory] -Loaded 3 Attachment types.
+[03:39:56] [Server thread/INFO]: [QualityArmory] -Loaded 4 Armor types.
+[03:39:56] [Server thread/INFO]: [AxGraves] Enabling AxGraves v1.17.0
+[03:39:56] [Server thread/INFO]: [ImprovedFactions] Enabling ImprovedFactions v2.2.0
+[03:39:56] [Server thread/INFO]: [ImprovedFactions] [gui] Gui module is enabled but GuiEngine is not installed. Disabling Gui module.
+[03:39:56] [Server thread/INFO]: [ImprovedFactions] Checking for updates...
+[03:39:56] [Server thread/INFO]: [ImprovedFactions] Config is up to date
+[03:39:57] [Server thread/WARN]: [ImprovedFactions] No whitelisted worlds found in config. Allowing all worlds
+[03:39:57] [Server thread/INFO]: [ImprovedFactions] Using database SQLITE as database
+[03:39:58] [Server thread/INFO]: [ImprovedFactions] Loaded module power-raids
+[03:39:58] [Server thread/INFO]: [ImprovedFactions] Loaded module dynmap
+[03:39:58] [Server thread/INFO]: [ImprovedFactions] Loaded module wilderness
+[03:39:58] [Server thread/INFO]: [ImprovedFactions] Loaded module home
+[03:39:58] [Server thread/INFO]: [ImprovedFactions] Loaded module chat
+[03:39:58] [Server thread/INFO]: [ImprovedFactions] Loaded module claim-particles
+[03:39:58] [Server thread/INFO]: [ImprovedFactions] Papi not found. Skipping Papi registration
+[03:39:58] [Server thread/INFO]: [TAB] Enabling TAB v5.0.3
+[03:39:59] [Server thread/INFO]: [TAB] Loaded NMS hook in 200ms
+[03:39:59] [Server thread/INFO]: [TAB] [WARN] [config.yml] Scoreboard "scoreboard-1.20.3+" is using right-side text alignment (using ||) in the lines, however, your server does not support this feature. It was added into the game in version 1.20.3. Any text defined after || in lines will not be displayed.
+[03:39:59] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[03:39:59] [Server thread/INFO]: [TAB] Enabled in 326ms
+[03:39:59] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.26
+[03:39:59] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.20.1-R0.1
+[03:39:59] [Server thread/INFO]: [voicechat] Compatibility version 18
+[03:39:59] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[03:39:59] [Server thread/INFO]: [ProtectionBlocks] Enabling ProtectionBlocks v1.0.9
+[03:39:59] [Server thread/WARN]: [ProtectionBlocks] ===================================
+[03:39:59] [Server thread/WARN]: [ProtectionBlocks] WARNING: You're running an outdated server version (1.20.1)!
+[03:39:59] [Server thread/WARN]: [ProtectionBlocks] This version will no longer be supported in future relases.
+[03:39:59] [Server thread/WARN]: [ProtectionBlocks] Please upgrade your server to 1.20.4.
+[03:39:59] [Server thread/WARN]: [ProtectionBlocks] ABSOLUTELY NO DISCORD SUPPORT WILL BE PROVIDED
+[03:39:59] [Server thread/WARN]: [ProtectionBlocks] ===================================
+[03:39:59] [Server thread/INFO]: [ProtectionBlocks] Powered by: PLAZMER-ENGINE
+[03:40:00] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-92 - Starting...
+[03:40:00] [Server thread/INFO]: [com.zaxxer.hikari.pool.HikariPool] ProtectionBlocks-92 - Added connection org.sqlite.jdbc4.JDBC4Connection@1cc78e02
+[03:40:00] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-92 - Start completed.
+[03:40:00] [Server thread/INFO]: [ProtectionBlocks] Using DecentHolograms hologram handler.
+[03:40:00] [Server thread/INFO]: [ProtectionBlocks] Registered currency: exp
+[03:40:00] [Server thread/INFO]: [ProtectionBlocks] Plugin loaded in 282 ms!
+[03:40:00] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[03:40:00] [Server thread/INFO]: Running delayed init tasks
+[03:40:00] [Server thread/INFO]: Done (35.806s)! For help, type "help"
+[03:40:00] [Server thread/INFO]: Timings Reset
+[03:40:00] [Craft Scheduler Thread - 4 - Essentials/INFO]: [Essentials] Fetching version information...
+[03:40:00] [Server thread/INFO]: [voicechat] Loading plugins
+[03:40:00] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[03:40:00] [Server thread/INFO]: [voicechat] Initializing plugins
+[03:40:00] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[03:40:00] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[03:40:00] [Craft Scheduler Thread - 6 - ChatEx/INFO]: [ChatEx] Checking for update...
+[03:40:00] [VoiceChatServerThread/ERROR]: [voicechat] Failed to bind to address '172.28.190.108', binding to wildcard IP instead
+[03:40:00] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 172.28.190.108:24454
+[03:40:01] [Server thread/INFO]: [ProtectionBlocks] Region Blocks Loaded: 0
+[03:40:01] [Server thread/ERROR]: [ProtectionBlocks] Cannot load the Region but Region Block 'bloque_de_diamante' not Created or Loaded!
+[03:40:01] [Server thread/ERROR]: [ProtectionBlocks] Region not loaded 'fa508b0-2.yml'
+[03:40:01] [Server thread/ERROR]: [ProtectionBlocks] Cannot load the Region but Region Block 'bloque_de_diamante' not Created or Loaded!
+[03:40:01] [Server thread/ERROR]: [ProtectionBlocks] Region not loaded 'd56596d-3.yml'
+[03:40:01] [Server thread/ERROR]: [ProtectionBlocks] Cannot load the Region but Region Block 'esmeralda' not Created or Loaded!
+[03:40:01] [Server thread/ERROR]: [ProtectionBlocks] Region not loaded 'e713997-2.yml'
+[03:40:01] [Server thread/INFO]: [ProtectionBlocks] Regions Loaded: 0
+[03:40:01] [Server thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03:40:01] [Craft Scheduler Thread - 6 - ChatEx/INFO]: [ChatEx] Version installed is 3.1.0
+[03:40:01] [Craft Scheduler Thread - 6 - ChatEx/INFO]: [ChatEx] Latest version found online is 3.2.2
+[03:40:01] [Craft Scheduler Thread - 6 - ChatEx/INFO]: [ChatEx] Update found! Please consider installing the latest version from https://www.spigotmc.org/resources/71041/updates
+[03:40:15] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 4800 tiles rendered (334.78 msec/tile, 746.47 msec per render)
+[03:40:29] [User Authenticator #0/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[03:40:29] [Server thread/INFO]: Churrupakin joined the game
+[03:40:29] [Server thread/INFO]: Churrupakin[/172.28.161.65:56378] logged in with entity id 247 at ([world]135.4564014599145, 68.13178540491259, 98.68653781831094)
+[03:40:30] [Server thread/WARN]: [Essentials] File motd.txt does not exist. Creating one for you.
+[03:40:30] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[03:40:30] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[03:40:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[03:40:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[03:40:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[03:41:03] [Server thread/INFO]: Churrupakin issued server command: /lp info
+[03:41:35] [Server thread/INFO]: Churrupakin issued server command: /dynmap pause
+[03:41:40] [Server thread/INFO]: Churrupakin issued server command: /dynmap pause full
+[03:41:40] [Server thread/INFO]: [dynmap] Full/radius render pause set to true
+[03:41:45] [Server thread/INFO]: Churrupakin issued server command: /dynmap pause full
+[03:41:54] [Server thread/INFO]: Churrupakin issued server command: /dynmap pause all
+[03:41:54] [Server thread/INFO]: [dynmap] Update render pause set to true
+[03:42:15] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[03:42:15] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[03:42:15] [Server thread/INFO]: Churrupakin left the game
+[03:45:04] [User Authenticator #1/INFO]: UUID of player XxMatos15 is 2a9ff858-04dc-3136-97df-619a6316d09a
+[03:45:04] [Server thread/INFO]: XxMatos15 joined the game
+[03:45:04] [Server thread/INFO]: XxMatos15[/172.28.131.63:51424] logged in with entity id 292 at ([world]-60.33186004341221, 95.0, 337.0284374794468)
+[03:47:13] [User Authenticator #2/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
+[03:47:13] [Server thread/INFO]: pingaparaangel joined the game
+[03:47:13] [Server thread/INFO]: pingaparaangel[/172.28.117.248:49451] logged in with entity id 675 at ([world]-87.69999998807907, -49.0, 230.30000001192093)
+[03:47:38] [Async Chat Thread - #1/INFO]: [Not Secure] pingaparaangel: xd
+[03:47:49] [Async Chat Thread - #0/INFO]: [Not Secure] pingaparaangel: q fue
+[03:47:54] [Async Chat Thread - #1/INFO]: [Not Secure] XxMatos15: ns
+[03:47:59] [Async Chat Thread - #1/INFO]: [Not Secure] pingaparaangel: xd
+[03:48:04] [Async Chat Thread - #2/INFO]: [Not Secure] XxMatos15: MANO
+[03:48:11] [Async Chat Thread - #0/INFO]: [Not Secure] pingaparaangel: ladra
+[03:48:13] [Async Chat Thread - #0/INFO]: [Not Secure] XxMatos15: as trampillas
+[03:48:19] [Async Chat Thread - #2/INFO]: [Not Secure] pingaparaangel: estoyminanado
+[03:48:26] [Async Chat Thread - #1/INFO]: [Not Secure] XxMatos15: XD
+[03:48:38] [Async Chat Thread - #2/INFO]: [Not Secure] pingaparaangel: encontre un kulo de diamante
+[03:49:59] [User Authenticator #3/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[03:49:59] [Server thread/INFO]: Churrupakin joined the game
+[03:50:00] [Server thread/INFO]: Churrupakin[/172.28.161.65:56554] logged in with entity id 1204 at ([world]135.4564014599145, 74.49979773227571, 98.68653781831094)
+[03:50:00] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[03:50:00] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[03:50:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[03:50:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[03:50:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[03:50:22] [Server thread/INFO]: Churrupakin issued server command: /lp reloadconfig
+[03:50:34] [Server thread/INFO]: Churrupakin issued server command: /chatex reload
+[03:50:45] [Async Chat Thread - #3/INFO]: [Not Secure] pingaparaangel%: cual era el comando
+[03:50:54] [Async Chat Thread - #4/INFO]: [Not Secure] pingaparaangel%: para regresar a la house
+[03:50:56] [Async Chat Thread - #4/INFO]: [Not Secure] Churrupakin%: para q xd
+[03:51:11] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
+[03:51:14] [Async Chat Thread - #4/INFO]: [Not Secure] XxMatos15%: era
+[03:51:21] [Async Chat Thread - #4/INFO]: [Not Secure] XxMatos15%: ./fac home
+[03:51:26] [Server thread/INFO]: Churrupakin issued server command: /gamemode spectator
+[03:51:45] [Async Chat Thread - #4/INFO]: [Not Secure] Churrupakin%: manos a ustdes le sale cuando m pongo espectador y creativo?
+[03:51:51] [Async Chat Thread - #4/INFO]: [Not Secure] XxMatos15%: si
+[03:51:55] [Async Chat Thread - #4/INFO]: [Not Secure] pingaparaangel%: si
+[03:52:02] [Async Chat Thread - #4/INFO]: [Not Secure] XxMatos15%: saca esa wbd de spam
+[03:52:08] [Async Chat Thread - #4/INFO]: [Not Secure] pingaparaangel%: si p
+[03:52:10] [Async Chat Thread - #4/INFO]: [Not Secure] XxMatos15%: no me deja poner mis xdddd
+[03:52:15] [Server thread/INFO]: pingaparaangel issued server command: /fac home
+[03:53:08] [Server thread/INFO]: Churrupakin issued server command: /lp group owner permission set *
+[03:53:08] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (owner)
+[03:53:08] [luckperms-command-executor/INFO]: [LP] LOG > permission set * true
+[03:54:02] [Server thread/INFO]: Churrupakin issued server command: /lp user Churrupakin parent set owner
+[03:54:02] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [U] (churrupakin)
+[03:54:02] [luckperms-command-executor/INFO]: [LP] LOG > parent set owner
+[03:54:18] [Server thread/INFO]: Churrupakin issued server command: /tab reload
+[03:54:18] [Server thread/INFO]: [TAB] Disabled in 3ms
+[03:54:18] [Server thread/INFO]: [TAB] [WARN] [config.yml] Scoreboard "scoreboard-1.20.3+" is using right-side text alignment (using ||) in the lines, however, your server does not support this feature. It was added into the game in version 1.20.3. Any text defined after || in lines will not be displayed.
+[03:54:18] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[03:54:18] [Server thread/INFO]: [TAB] Enabled in 39ms
+[03:54:45] [Async Chat Thread - #5/INFO]: [Not Secure] Churrupakin%: cual xd
+[03:54:46] [Server thread/INFO]: XxMatos15 issued server command: /fac home
+[03:54:48] [Async Chat Thread - #5/INFO]: [Not Secure] Churrupakin%: manda cap
+[03:55:15] [Async Chat Thread - #5/INFO]: [Not Secure] pingaparaangel%: q te lo mande chifon
+[03:55:47] [Async Chat Thread - #6/INFO]: [Not Secure] Churrupakin%: ya dps lo quito
+[03:55:53] [Async Chat Thread - #5/INFO]: [Not Secure] Churrupakin%: xd
+[03:55:53] [Async Chat Thread - #5/INFO]: [Not Secure] XxMatos15%: tya
+[03:55:54] [Async Chat Thread - #5/INFO]: [Not Secure] Churrupakin%: xd
+[03:55:56] [Async Chat Thread - #5/INFO]: [Not Secure] Churrupakin%: xddddddddddddddddd
+[03:55:58] [Async Chat Thread - #6/INFO]: [Not Secure] Churrupakin%: xddddddddddddddddd
+[03:56:00] [Async Chat Thread - #6/INFO]: [Not Secure] pingaparaangel%: xd
+[03:56:00] [Async Chat Thread - #6/INFO]: [Not Secure] Churrupakin%: xddddddddddddddddd
+[03:56:02] [Async Chat Thread - #6/INFO]: [Not Secure] Churrupakin%: xddddddddddddddddd
+[03:56:02] [Async Chat Thread - #5/INFO]: [Not Secure] Churrupakin%: xddddddddddddddddd
+[03:56:05] [Async Chat Thread - #5/INFO]: [Not Secure] XxMatos15%: xd
+[03:56:08] [Async Chat Thread - #5/INFO]: [Not Secure] Churrupakin%: a mi si m deja xddd
+[03:56:15] [Async Chat Thread - #6/INFO]: [Not Secure] XxMatos15%: esq eres admin pe
+[03:57:28] [Async Chat Thread - #7/INFO]: [Not Secure] Churrupakin%: no
+[03:57:34] [Async Chat Thread - #7/INFO]: [Not Secure] Churrupakin%: soy el creador xd
+[03:57:40] [Async Chat Thread - #7/INFO]: [Not Secure] Churrupakin%: voy a poner rangos papus
+[03:57:51] [Async Chat Thread - #8/INFO]: [Not Secure] XxMatos15%: ELITE
+[03:57:55] [Async Chat Thread - #7/INFO]: [Not Secure] pingaparaangel%: sobrao llego a heroico
+[03:58:04] [Async Chat Thread - #7/INFO]: [Not Secure] XxMatos15%: pa acer guerra con clanest
+[03:58:14] [Async Chat Thread - #8/INFO]: [Not Secure] XxMatos15%: esa wea de team
+[03:58:14] [Async Chat Thread - #7/INFO]: [Not Secure] Churrupakin%: oe voy a poner esa wbda xddddd
+[03:58:33] [Async Chat Thread - #7/INFO]: [Not Secure] XxMatos15%: mi clan 5C promo
+[03:58:45] [Async Chat Thread - #7/INFO]: [Not Secure] pingaparaangel%: esa wbd
+[04:00:51] [Server thread/INFO]: XxMatos15 issued server command: /fac home
+[04:02:58] [Server thread/INFO]: Churrupakin issued server command: /lp group owner meta addprefix 100 "&6OWNER &f"
+[04:02:59] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (owner)
+[04:02:59] [luckperms-command-executor/INFO]: [LP] LOG > meta addprefix 100 &6OWNER &f
+[04:03:01] [Async Chat Thread - #9/INFO]: [Not Secure] OWNER  Churrupakin%: xd
+[04:03:13] [Server thread/INFO]: Churrupakin issued server command: /lp group owner meta addprefix 100 "&6OWNER&f"
+[04:03:13] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (owner)
+[04:03:13] [luckperms-command-executor/INFO]: [LP] LOG > meta addprefix 100 &6OWNER&f
+[04:03:15] [Async Chat Thread - #9/INFO]: [Not Secure] OWNER  Churrupakin%: dd
+[04:03:32] [Async Chat Thread - #9/INFO]: [Not Secure] XxMatos15%: CEO
+[04:03:34] [Server thread/INFO]: Churrupakin issued server command: /tab reload
+[04:03:34] [Server thread/INFO]: [TAB] Disabled in 7ms
+[04:03:34] [Server thread/INFO]: [TAB] [WARN] [config.yml] Scoreboard "scoreboard-1.20.3+" is using right-side text alignment (using ||) in the lines, however, your server does not support this feature. It was added into the game in version 1.20.3. Any text defined after || in lines will not be displayed.
+[04:03:34] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[04:03:34] [Server thread/INFO]: [TAB] Enabled in 65ms
+[04:04:35] [Server thread/INFO]: Churrupakin issued server command: /lp group owner meta addsuffix 100 "&3"
+[04:04:35] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (owner)
+[04:04:35] [luckperms-command-executor/INFO]: [LP] LOG > meta addsuffix 100 &3
+[04:04:37] [Async Chat Thread - #11/INFO]: [Not Secure] OWNER  Churrupakin%: xd
+[04:05:59] [Server thread/INFO]: Churrupakin issued server command: /lp group owner showtracks 100
+[04:06:13] [Server thread/INFO]: Churrupakin issued server command: /lp group owner setweight 100
+[04:06:13] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (owner)
+[04:06:13] [luckperms-command-executor/INFO]: [LP] LOG > setweight 100
+[04:06:19] [Server thread/INFO]: Churrupakin issued server command: /lp listgroups
+[04:07:01] [Server thread/INFO]: Churrupakin issued server command: /lp creategroup GranMaestro
+[04:07:01] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (granmaestro)
+[04:07:01] [luckperms-command-executor/INFO]: [LP] LOG > create
+[04:07:04] [Async Chat Thread - #13/INFO]: [Not Secure] pingaparaangel%: ta q falla mi movistar
+[04:07:11] [Server thread/INFO]: Churrupakin issued server command: /lp creategroup Heroico
+[04:07:11] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (heroico)
+[04:07:11] [luckperms-command-executor/INFO]: [LP] LOG > create
+[04:07:19] [Server thread/INFO]: Churrupakin issued server command: /lp creategroup Diamante
+[04:07:19] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (diamante)
+[04:07:19] [luckperms-command-executor/INFO]: [LP] LOG > create
+[04:07:25] [Server thread/INFO]: Churrupakin issued server command: /lp creategroup Platino
+[04:07:25] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (platino)
+[04:07:25] [luckperms-command-executor/INFO]: [LP] LOG > create
+[04:07:30] [Server thread/INFO]: Churrupakin issued server command: /lp creategroup plata
+[04:07:30] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (plata)
+[04:07:30] [luckperms-command-executor/INFO]: [LP] LOG > create
+[04:07:35] [Server thread/INFO]: Churrupakin issued server command: /lp creategroup oro
+[04:07:35] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (oro)
+[04:07:35] [luckperms-command-executor/INFO]: [LP] LOG > create
+[04:07:43] [Server thread/INFO]: Churrupakin issued server command: /lp creategroup bronce
+[04:07:43] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (bronce)
+[04:07:43] [luckperms-command-executor/INFO]: [LP] LOG > create
+[04:07:50] [Server thread/INFO]: Churrupakin issued server command: /lp listgroups
+[04:08:01] [Server thread/INFO]: Churrupakin issued server command: /lp deletegroup default
+[04:10:00] [Server thread/INFO]: XxMatos15 was shot by Skeleton
+[04:11:56] [Server thread/INFO]: Churrupakin issued server command: /lp group admin meta addprefix 100 "&2ADMIN"
+[04:11:56] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (admin)
+[04:11:56] [luckperms-command-executor/INFO]: [LP] LOG > meta addprefix 100 &2ADMIN
+[04:13:33] [Server thread/INFO]: XxMatos15 was slain by Zombie
+[04:13:46] [Async Chat Thread - #15/INFO]: [Not Secure] pingaparaangel%: xd
+[04:14:30] [Async Chat Thread - #15/INFO]: [Not Secure] pingaparaangel%: xd
+[04:14:38] [Async Chat Thread - #15/INFO]: [Not Secure] pingaparaangel%: inter de mrd
+[04:14:53] [Async Chat Thread - #16/INFO]: [Not Secure] XxMatos15%: reinicia tu routwe
+[04:15:05] [Async Chat Thread - #15/INFO]: [Not Secure] XxMatos15%: router
+[04:16:15] [Server thread/INFO]: pingaparaangel issued server command: /fac home
+[04:16:26] [Async Chat Thread - #17/INFO]: [Not Secure] pingaparaangel%: ctmr
+[04:16:32] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
+[04:16:32] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
+[04:16:32] [Server thread/INFO]: pingaparaangel left the game
+[04:16:34] [Async Chat Thread - #19/INFO]: [Not Secure] XxMatos15%: xxd
+[04:16:47] [Server thread/INFO]: Churrupakin issued server command: /lp group granmaestro meta addprefix 100 "#FF5733Gran Maestro"
+[04:16:47] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (granmaestro)
+[04:16:47] [luckperms-command-executor/INFO]: [LP] LOG > meta addprefix 100 #FF5733Gran Maestro
+[04:16:48] [User Authenticator #4/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
+[04:16:48] [Server thread/INFO]: pingaparaangel joined the game
+[04:16:48] [Server thread/INFO]: pingaparaangel[/172.28.117.248:49793] logged in with entity id 6534 at ([world]-62.90464917626794, 56.5625, 248.98317659489874)
+[04:16:54] [Async Chat Thread - #18/INFO]: [Not Secure] pingaparaangel%: xd
+[04:17:07] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:07] [Server thread/INFO]: pingaparaangel lost connection: Flying is not enabled on this server
+[04:17:07] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
+[04:17:07] [Server thread/INFO]: pingaparaangel left the game
+[04:17:07] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:07] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:07] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:07] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:07] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:07] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:07] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:08] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:08] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:08] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:08] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:08] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:08] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:08] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:08] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:08] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:08] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:08] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:08] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:08] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:08] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:08] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:08] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:08] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:08] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:08] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:08] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:09] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:09] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:09] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:09] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:09] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:09] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:09] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:09] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:09] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:09] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:09] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:09] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:09] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:09] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:09] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:09] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:09] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:09] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:09] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:09] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:10] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:10] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:10] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:10] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:10] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:10] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:10] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:10] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:10] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:10] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:10] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:10] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:10] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:10] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:10] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:10] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:10] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:10] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:10] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:10] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:11] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:11] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:11] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:11] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:11] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:11] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:11] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:11] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:11] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:11] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:11] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:11] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:11] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:11] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:11] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:11] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:11] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:11] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:11] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:11] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:12] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:12] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:12] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:12] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:12] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:12] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:12] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:12] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:12] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:12] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:12] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:12] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:12] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:12] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:12] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:12] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:12] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:12] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:12] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:12] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:13] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:13] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:13] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:13] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:13] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:13] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:13] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:13] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:13] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:13] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:13] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:13] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:13] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:13] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:13] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:13] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:13] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:13] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:13] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:13] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:14] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:14] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:14] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:14] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:14] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:14] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:14] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:14] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:14] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:14] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:14] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:14] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:14] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:14] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:14] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:14] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:14] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:14] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:14] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:14] [Server thread/INFO]: Churrupakin issued server command: /lp group granmaestro meta addprefix 100 "&eGran Maestro"
+[04:17:14] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (granmaestro)
+[04:17:14] [luckperms-command-executor/INFO]: [LP] LOG > meta addprefix 100 &eGran Maestro
+[04:17:14] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:15] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:15] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:15] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:15] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:15] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:15] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:15] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:15] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:15] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:15] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:15] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:15] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:15] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:15] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:15] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:15] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:15] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:15] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:15] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:15] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:16] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:16] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:16] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:16] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:16] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:16] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:16] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:16] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:16] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:16] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:16] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:16] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:16] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:16] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:16] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:16] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:16] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:16] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:16] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:16] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:17] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:17] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:17] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:17] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:17] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:17] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:17] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:17] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:17] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:17] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:17] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:17] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:17] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:17] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:17] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:17] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:17] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:17] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:17] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:17] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:18] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:18] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:18] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:18] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:18] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:18] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:18] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:18] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:18] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:18] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:18] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:18] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:18] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:18] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:18] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:18] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:18] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:18] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:18] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:18] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:19] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:19] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:19] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:19] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:19] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:19] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:19] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:19] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:19] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:19] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:19] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:19] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:19] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:19] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:19] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:19] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:19] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:19] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:19] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:19] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:20] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:20] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:20] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:20] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:20] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:20] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:20] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:20] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:20] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:20] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:20] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:20] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:20] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:20] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:20] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:20] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:20] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:20] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:20] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:20] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:21] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:21] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:21] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:21] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:21] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:21] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:21] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:21] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:21] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:21] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:21] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:21] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:21] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:21] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:21] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:21] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:21] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:21] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:21] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:21] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:22] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:22] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:22] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:22] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:22] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:22] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:22] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:22] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:22] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:22] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:22] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:22] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:22] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:22] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:22] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:22] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:22] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:22] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:22] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:22] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:23] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:23] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:23] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:23] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:23] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:23] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:23] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:23] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:23] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:23] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:23] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:23] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:23] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:23] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:23] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:23] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:23] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:23] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:23] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:23] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:24] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:24] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:24] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:24] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:24] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:24] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:24] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:24] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:24] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:24] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:24] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:24] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:24] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:24] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:24] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:24] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:24] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:24] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:24] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:24] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:25] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:25] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:25] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:25] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:25] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:25] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:25] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:25] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:25] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:25] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:25] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:25] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:25] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:25] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:25] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:25] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:25] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:25] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:25] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:25] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:26] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:26] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:26] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:26] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:26] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:26] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:26] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:26] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:26] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:26] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:26] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:26] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:26] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:26] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:26] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:26] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:26] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:26] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:26] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:26] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:27] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:27] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:27] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:27] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:27] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:27] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:27] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:27] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:27] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:27] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:27] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:27] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:27] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:27] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:27] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:27] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:27] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:27] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:27] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:27] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:28] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:28] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:28] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:28] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:28] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:28] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:28] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:28] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:28] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:28] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:28] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:28] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:28] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:28] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:28] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:28] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:28] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:28] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:28] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:28] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:29] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:29] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:29] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:29] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:29] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:29] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:29] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:29] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:29] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:29] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:29] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:29] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:29] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:29] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:29] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:29] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:29] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:29] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:29] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:29] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:30] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:30] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:30] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:30] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:30] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:30] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:30] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:30] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:30] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:30] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:30] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:30] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:30] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:30] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:30] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:30] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:30] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:30] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:30] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:30] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:31] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:31] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:31] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:31] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:31] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:31] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:31] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:31] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:31] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:31] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:31] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:31] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:31] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:31] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:31] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:31] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:31] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:31] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:31] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:31] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:32] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:32] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:32] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:32] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:32] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:32] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:32] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:32] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:32] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:32] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:32] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:32] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:32] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:32] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:32] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:32] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:32] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:32] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:32] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:32] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:33] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:33] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:33] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:33] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:33] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:33] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:33] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:33] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:33] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:33] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:33] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:33] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:33] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:33] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:33] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:33] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:33] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:33] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:33] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:33] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:34] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:34] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:34] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:34] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:34] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:34] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:34] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:34] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:34] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:34] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:34] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:34] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:34] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:34] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:34] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:34] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:34] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:34] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:34] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:34] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:35] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:35] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:35] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:35] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:35] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:35] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:35] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:35] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:35] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:35] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:35] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:35] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:35] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:35] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:35] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:35] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:35] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:35] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:35] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:35] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:36] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:36] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:36] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:36] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:36] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:36] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:36] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:36] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:36] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:36] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:36] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:36] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:36] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:36] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:36] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:36] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:36] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:36] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:36] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:36] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:37] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:37] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:37] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:37] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:37] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:37] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:37] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:37] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:37] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:37] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:37] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:37] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:37] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:37] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:37] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:37] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:37] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:37] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:37] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:37] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:38] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:38] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:38] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:38] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:38] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:38] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:38] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:38] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:38] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:38] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:38] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:38] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:38] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:38] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:38] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:38] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:38] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:38] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:38] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:38] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:39] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:39] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[04:17:46] [Server thread/INFO]: Churrupakin issued server command: /lp group heroico meta addprefix 100 "&4Heroico"
+[04:17:46] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (heroico)
+[04:17:46] [luckperms-command-executor/INFO]: [LP] LOG > meta addprefix 100 &4Heroico
+[04:18:17] [Server thread/INFO]: Churrupakin issued server command: /lp group diamante meta addprefix 100 "&dDiamante"
+[04:18:17] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (diamante)
+[04:18:17] [luckperms-command-executor/INFO]: [LP] LOG > meta addprefix 100 &dDiamante
+[04:18:47] [Server thread/INFO]: Churrupakin issued server command: /lp group platino meta addprefix 100 "&bPlatino"
+[04:18:47] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (platino)
+[04:18:47] [luckperms-command-executor/INFO]: [LP] LOG > meta addprefix 100 &bPlatino
+[04:19:25] [Server thread/INFO]: Churrupakin issued server command: /lp group oro meta addprefix 100 "&e&mOro"
+[04:19:25] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (oro)
+[04:19:25] [luckperms-command-executor/INFO]: [LP] LOG > meta addprefix 100 &e&mOro
+[04:20:03] [Server thread/INFO]: Churrupakin issued server command: /lp group plata meta addprefix 100 "&1Plata"
+[04:20:03] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (plata)
+[04:20:03] [luckperms-command-executor/INFO]: [LP] LOG > meta addprefix 100 &1Plata
+[04:20:04] [Async Chat Thread - #20/INFO]: [Not Secure] OWNER  Churrupakin%: xd
+[04:20:46] [User Authenticator #5/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
+[04:20:46] [Server thread/INFO]: pingaparaangel joined the game
+[04:20:46] [Server thread/INFO]: pingaparaangel[/172.28.117.248:52504] logged in with entity id 7021 at ([world]-61.98406125302475, 56.0, 251.94953943799783)
+[04:20:49] [Server thread/INFO]: Churrupakin issued server command: /lp group bronce meta addprefix 100 "&6Bronce"
+[04:20:49] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (bronce)
+[04:20:49] [luckperms-command-executor/INFO]: [LP] LOG > meta addprefix 100 &6Bronce
+[04:21:04] [Async Chat Thread - #21/INFO]: [Not Secure] pingaparaangel%: ya esta
+[04:21:11] [Server thread/INFO]: Churrupakin issued server command: /lp group owner meta addprefix 100 "&5Owner"
+[04:21:11] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (owner)
+[04:21:11] [luckperms-command-executor/INFO]: [LP] LOG > meta addprefix 100 &5Owner
+[04:21:14] [Async Chat Thread - #21/INFO]: [Not Secure] Owner Churrupakin%: xd
+[04:22:24] [Server thread/INFO]: Churrupakin issued server command: /lp group admin meta addprefix 99 "&2ADMIN"
+[04:22:24] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (admin)
+[04:22:24] [luckperms-command-executor/INFO]: [LP] LOG > meta addprefix 99 &2ADMIN
+[04:22:37] [Server thread/INFO]: Churrupakin issued server command: /lp group granmaestro meta addprefix 98 "&eGran Maestro"
+[04:22:37] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (granmaestro)
+[04:22:37] [luckperms-command-executor/INFO]: [LP] LOG > meta addprefix 98 &eGran Maestro
+[04:22:48] [Server thread/INFO]: Churrupakin issued server command: /lp group heroico meta addprefix 97 "&4Heroico"
+[04:22:48] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (heroico)
+[04:22:48] [luckperms-command-executor/INFO]: [LP] LOG > meta addprefix 97 &4Heroico
+[04:23:01] [Server thread/INFO]: Churrupakin issued server command: /lp group diamante meta addprefix 96 "&dDiamante"
+[04:23:01] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (diamante)
+[04:23:01] [luckperms-command-executor/INFO]: [LP] LOG > meta addprefix 96 &dDiamante
+[04:23:17] [Server thread/INFO]: Churrupakin issued server command: /lp group platino meta addprefix 95 "&bPlatino"
+[04:23:17] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (platino)
+[04:23:17] [luckperms-command-executor/INFO]: [LP] LOG > meta addprefix 95 &bPlatino
+[04:23:29] [Server thread/INFO]: Churrupakin issued server command: /lp group oro meta addprefix 94 "&e&mOro"
+[04:23:29] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (oro)
+[04:23:29] [luckperms-command-executor/INFO]: [LP] LOG > meta addprefix 94 &e&mOro
+[04:23:42] [Server thread/INFO]: Churrupakin issued server command: /lp group oro meta addprefix 93 "&e&mOro"
+[04:23:42] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (oro)
+[04:23:42] [luckperms-command-executor/INFO]: [LP] LOG > meta addprefix 93 &e&mOro
+[04:23:49] [Server thread/INFO]: XxMatos15 fell from a high place
+[04:23:57] [Server thread/INFO]: Churrupakin issued server command: /lp group oro meta addprefix 94 "&e&mOro"
+[04:24:03] [Async Chat Thread - #22/INFO]: [Not Secure] pingaparaangel%: q haces chifa xd
+[04:24:10] [Async Chat Thread - #24/INFO]: [Not Secure] XxMatos15%: granja de diegos
+[04:24:10] [Server thread/INFO]: Churrupakin issued server command: /lp group plata meta addprefix 93 "&1Plata"
+[04:24:10] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (plata)
+[04:24:10] [luckperms-command-executor/INFO]: [LP] LOG > meta addprefix 93 &1Plata
+[04:24:21] [Server thread/INFO]: Churrupakin issued server command: /lp group bronce meta addprefix 92 "&6Bronce"
+[04:24:21] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (bronce)
+[04:24:21] [luckperms-command-executor/INFO]: [LP] LOG > meta addprefix 92 &6Bronce
+[04:24:35] [Server thread/INFO]: Churrupakin issued server command: /lp listgroups
+[04:24:50] [Async Chat Thread - #24/INFO]: [Not Secure] Owner Churrupakin%: xd
+[04:26:36] [Server thread/INFO]: Churrupakin issued server command: /lp group granmaestro permission set chatex.allowchat
+[04:26:36] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (granmaestro)
+[04:26:36] [luckperms-command-executor/INFO]: [LP] LOG > permission set chatex.allowchat true
+[04:26:46] [Server thread/INFO]: Churrupakin issued server command: /lp group heroico permission set chatex.allowchat
+[04:26:46] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (heroico)
+[04:26:46] [luckperms-command-executor/INFO]: [LP] LOG > permission set chatex.allowchat true
+[04:26:50] [Async Chat Thread - #25/INFO]: [Not Secure] pingaparaangel%: DUERME CHIFA
+[04:26:56] [Server thread/INFO]: Churrupakin issued server command: /lp group diamante permission set chatex.allowchat
+[04:26:56] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (diamante)
+[04:26:56] [luckperms-command-executor/INFO]: [LP] LOG > permission set chatex.allowchat true
+[04:27:07] [Async Chat Thread - #25/INFO]: [Not Secure] XxMatos15%: no tengo cama
+[04:27:08] [Server thread/INFO]: Churrupakin issued server command: /lp group platino permission set chatex.allowchat
+[04:27:08] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (platino)
+[04:27:08] [luckperms-command-executor/INFO]: [LP] LOG > permission set chatex.allowchat true
+[04:27:18] [Server thread/INFO]: Churrupakin issued server command: /lp group oro permission set chatex.allowchat
+[04:27:18] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (oro)
+[04:27:18] [luckperms-command-executor/INFO]: [LP] LOG > permission set chatex.allowchat true
+[04:27:25] [Server thread/INFO]: Churrupakin issued server command: /lp group plata permission set chatex.allowchat
+[04:27:25] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (plata)
+[04:27:25] [luckperms-command-executor/INFO]: [LP] LOG > permission set chatex.allowchat true
+[04:27:27] [Async Chat Thread - #25/INFO]: [Not Secure] pingaparaangel%: ven al prepucio p
+[04:27:31] [Server thread/INFO]: Churrupakin issued server command: /lp group bronce permission set chatex.allowchat
+[04:27:31] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (bronce)
+[04:27:31] [luckperms-command-executor/INFO]: [LP] LOG > permission set chatex.allowchat true
+[04:27:47] [Async Chat Thread - #27/INFO]: [Not Secure] XxMatos15%: estoy lejos
+[04:27:50] [Server thread/INFO]: Churrupakin issued server command: /lp group admin permission set *
+[04:27:50] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (admin)
+[04:27:50] [luckperms-command-executor/INFO]: [LP] LOG > permission set * true
+[04:27:55] [Async Chat Thread - #27/INFO]: [Not Secure] pingaparaangel%: entra y sale
+[04:28:02] [Server thread/INFO]: XxMatos15 lost connection: Disconnected
+[04:28:02] [Server thread/INFO]: [voicechat] Disconnecting client XxMatos15
+[04:28:02] [Server thread/INFO]: XxMatos15 left the game
+[04:28:09] [Async Chat Thread - #27/INFO]: [Not Secure] pingaparaangel%: xd
+[04:29:53] [Async Chat Thread - #28/INFO]: [Not Secure] Owner Churrupakin%: mano q rango quieres
+[04:30:11] [Server thread/INFO]: Churrupakin issued server command: /tab reload
+[04:30:11] [Server thread/INFO]: [TAB] Disabled in 2ms
+[04:30:11] [Server thread/INFO]: [TAB] [WARN] [config.yml] Scoreboard "scoreboard-1.20.3+" is using right-side text alignment (using ||) in the lines, however, your server does not support this feature. It was added into the game in version 1.20.3. Any text defined after || in lines will not be displayed.
+[04:30:11] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[04:30:11] [Server thread/INFO]: [TAB] Enabled in 27ms
+[04:30:12] [Async Chat Thread - #28/INFO]: [Not Secure] pingaparaangel%: gran maestro
+[04:30:29] [Async Chat Thread - #28/INFO]: [Not Secure] Owner Churrupakin%: no mno aun no llegas
+[04:30:33] [Async Chat Thread - #28/INFO]: [Not Secure] Owner Churrupakin%: heroico nomas
+[04:30:45] [Async Chat Thread - #28/INFO]: [Not Secure] pingaparaangel%: ya
+[04:31:06] [User Authenticator #6/INFO]: UUID of player XxMatos15 is 2a9ff858-04dc-3136-97df-619a6316d09a
+[04:31:06] [Server thread/INFO]: XxMatos15 joined the game
+[04:31:06] [Server thread/INFO]: XxMatos15[/172.28.131.63:51405] logged in with entity id 8449 at ([world]-49.569560948788656, 97.0, 338.1581295729821)
+[04:31:11] [Async Chat Thread - #29/INFO]: [Not Secure] XxMatos15%: ya dormiste
+[04:31:13] [Server thread/INFO]: Churrupakin issued server command: /lp user pingaparaangel parent add heroico
+[04:31:13] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [U] (pingaparaangel)
+[04:31:13] [luckperms-command-executor/INFO]: [LP] LOG > parent add heroico
+[04:31:19] [Async Chat Thread - #28/INFO]: [Not Secure] Heroico Heroico pingaparaangel%: hace rato
+[04:31:27] [Async Chat Thread - #29/INFO]: [Not Secure] Heroico Heroico pingaparaangel%: q rico heroico
+[04:31:28] [Server thread/INFO]: Churrupakin issued server command: /lp user XxMatos15 parent add heroico
+[04:31:28] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [U] (xxmatos15)
+[04:31:28] [luckperms-command-executor/INFO]: [LP] LOG > parent add heroico
+[04:31:35] [Async Chat Thread - #29/INFO]: [Not Secure] Heroico Heroico XxMatos15%: yo maestro mano
+[04:31:42] [Async Chat Thread - #28/INFO]: [Not Secure] Owner Churrupakin%: pera lo configuro las letras y esa wbda
+[04:32:17] [Server thread/INFO]: Churrupakin issued server command: /lp listgroups
+[04:33:07] [Server thread/INFO]: Churrupakin issued server command: /lp group bronce meta removeprefix
+[04:33:21] [Server thread/INFO]: XxMatos15 fell from a high place
+[04:33:24] [Server thread/INFO]: Churrupakin issued server command: /lp group bronce meta removeprefix 100
+[04:33:24] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (bronce)
+[04:33:24] [luckperms-command-executor/INFO]: [LP] LOG > meta removeprefix 100 *
+[04:33:38] [Server thread/INFO]: Churrupakin issued server command: /lp group heroico meta removeprefix 100
+[04:33:38] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (heroico)
+[04:33:38] [luckperms-command-executor/INFO]: [LP] LOG > meta removeprefix 100 *
+[04:33:40] [Async Chat Thread - #30/INFO]: [Not Secure] Owner Churrupakin%: anyelo
+[04:33:41] [Async Chat Thread - #30/INFO]: [Not Secure] Heroico pingaparaangel%: q es eso de faccion xd
+[04:33:53] [Async Chat Thread - #30/INFO]: [Not Secure] Heroico pingaparaangel%: ctmr
+[04:34:01] [Async Chat Thread - #31/INFO]: [Not Secure] Heroico pingaparaangel%: spam de mrd
+[04:34:11] [Async Chat Thread - #31/INFO]: [Not Secure] Heroico pingaparaangel%: dime
+[04:35:16] [Server thread/INFO]: Churrupakin issued server command: /lp group heroico meta addprefix 97 "&4Heroico &f"
+[04:35:16] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (heroico)
+[04:35:16] [luckperms-command-executor/INFO]: [LP] LOG > meta addprefix 97 &4Heroico &f
+[04:35:32] [Server thread/INFO]: Churrupakin issued server command: /lp group heroico meta removeprefix 97 "&4Heroico"
+[04:35:32] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (heroico)
+[04:35:32] [luckperms-command-executor/INFO]: [LP] LOG > meta removeprefix 97 &4Heroico
+[04:35:38] [Async Chat Thread - #32/INFO]: [Not Secure] Owner Churrupakin%: anyelo
+[04:35:50] [Async Chat Thread - #32/INFO]: [Not Secure] Heroico  pingaparaangel%: dime
+[04:35:55] [Async Chat Thread - #33/INFO]: [Not Secure] Owner Churrupakin%: nd
+[04:35:56] [Async Chat Thread - #32/INFO]: [Not Secure] Heroico  pingaparaangel%: xd
+[04:36:09] [Async Chat Thread - #33/INFO]: [Not Secure] Owner Churrupakin%: ya s arreglo
+[04:36:16] [Async Chat Thread - #33/INFO]: [Not Secure] Owner Churrupakin%: 12 apgo server xsiaca
+[04:36:34] [Async Chat Thread - #33/INFO]: [Not Secure] Heroico  pingaparaangel%: sobrao saco otros 64 diamantitos
+[04:37:59] [Server thread/INFO]: Churrupakin issued server command: /chatex reload
+[04:38:02] [Async Chat Thread - #34/INFO]: [Not Secure] Owner Churrupakin% : xd
+[04:38:19] [Server thread/INFO]: XxMatos15 fell from a high place
+[04:38:22] [Server thread/INFO]: Churrupakin issued server command: /tab reload
+[04:38:22] [Server thread/INFO]: [TAB] Disabled in 4ms
+[04:38:22] [Server thread/INFO]: [TAB] [WARN] [config.yml] Scoreboard "scoreboard-1.20.3+" is using right-side text alignment (using ||) in the lines, however, your server does not support this feature. It was added into the game in version 1.20.3. Any text defined after || in lines will not be displayed.
+[04:38:22] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[04:38:22] [Server thread/INFO]: [TAB] Enabled in 32ms
+[04:38:34] [Async Chat Thread - #35/INFO]: [Not Secure] Heroico  pingaparaangel% : q es eso de faccion
+[04:38:45] [Async Chat Thread - #35/INFO]: [Not Secure] Heroico  pingaparaangel% : sale q pierdo eso cada q chifa muere xdd
+[04:40:42] [Server thread/INFO]: Churrupakin issued server command: /chatex reload
+[04:40:44] [Async Chat Thread - #36/INFO]: [Not Secure] Owner Churrupakin : xd
+[04:41:24] [Server thread/INFO]: Churrupakin issued server command: /tab reload
+[04:41:24] [Server thread/INFO]: [TAB] Disabled in 2ms
+[04:41:24] [Server thread/INFO]: [TAB] [WARN] [config.yml] Scoreboard "scoreboard-1.20.3+" is using right-side text alignment (using ||) in the lines, however, your server does not support this feature. It was added into the game in version 1.20.3. Any text defined after || in lines will not be displayed.
+[04:41:25] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[04:41:25] [Server thread/INFO]: [TAB] Enabled in 54ms
+[04:41:48] [Server thread/INFO]: XxMatos15 was shot by Skeleton
+[04:41:51] [Async Chat Thread - #38/INFO]: [Not Secure] Heroico  XxMatos15 : ptmare
+[04:41:53] [Server thread/INFO]: Churrupakin issued server command: /lp listgroups
+[04:42:00] [Async Chat Thread - #39/INFO]: [Not Secure] Heroico  XxMatos15 : ,/time mano
+[04:42:07] [Async Chat Thread - #39/INFO]: [Not Secure] Heroico  pingaparaangel : xd
+[04:42:10] [Server thread/INFO]: Churrupakin issued server command: /time set day
+[04:42:24] [Server thread/INFO]: Churrupakin issued server command: /lp listtracks
+[04:44:16] [Server thread/INFO]: Churrupakin issued server command: /tab reload
+[04:44:16] [Server thread/INFO]: [TAB] Disabled in 6ms
+[04:44:17] [Server thread/INFO]: [TAB] [WARN] [config.yml] Scoreboard "scoreboard-1.20.3+" is using right-side text alignment (using ||) in the lines, however, your server does not support this feature. It was added into the game in version 1.20.3. Any text defined after || in lines will not be displayed.
+[04:44:17] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[04:44:17] [Server thread/INFO]: [TAB] Enabled in 69ms
+[04:45:14] [Server thread/INFO]: Churrupakin issued server command: /tab reload
+[04:45:14] [Server thread/INFO]: [TAB] Disabled in 3ms
+[04:45:14] [Server thread/INFO]: [TAB] [WARN] File plugins/TAB/config.yml has broken syntax.
+[04:45:14] [Server thread/INFO]: [TAB] Error message from yaml parser: while scanning for the next token
+found character '%' that cannot start any token. (Do not use % for indentation)
+ in 'reader', line 117, column 25:
+            - "* Nick: "%luckperms-prefix%" "%player%"
+                            ^
+
+[04:45:14] [Server thread/INFO]: [TAB] [WARN] Did not enable due to a broken configuration file.
+[04:45:34] [Server thread/INFO]: Churrupakin issued server command: /tab reload
+[04:45:34] [Server thread/INFO]: [TAB] [WARN] File plugins/TAB/config.yml has broken syntax.
+[04:45:34] [Server thread/INFO]: [TAB] Error message from yaml parser: while scanning for the next token
+found character '%' that cannot start any token. (Do not use % for indentation)
+ in 'reader', line 117, column 25:
+            - "* Nick: "%luckperms-prefix% %player%"
+                            ^
+
+[04:45:34] [Server thread/INFO]: [TAB] [WARN] Did not enable due to a broken configuration file.
+[04:45:46] [Server thread/INFO]: Churrupakin issued server command: /tab reload
+[04:45:46] [Server thread/INFO]: [TAB] [WARN] File plugins/TAB/config.yml has broken syntax.
+[04:45:46] [Server thread/INFO]: [TAB] Error message from yaml parser: while scanning for the next token
+found character '%' that cannot start any token. (Do not use % for indentation)
+ in 'reader', line 117, column 25:
+            - "* Nick: "%luckperms-prefix%"
+                            ^
+
+[04:45:46] [Server thread/INFO]: [TAB] [WARN] Did not enable due to a broken configuration file.
+[04:46:01] [Server thread/INFO]: Churrupakin issued server command: /tab reload
+[04:46:01] [Server thread/INFO]: [TAB] [WARN] [config.yml] Scoreboard "scoreboard-1.20.3+" is using right-side text alignment (using ||) in the lines, however, your server does not support this feature. It was added into the game in version 1.20.3. Any text defined after || in lines will not be displayed.
+[04:46:01] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[04:46:01] [Server thread/INFO]: [TAB] Enabled in 18ms
+[04:46:19] [Server thread/INFO]: Churrupakin issued server command: /tab reload
+[04:46:19] [Server thread/INFO]: [TAB] Disabled in 1ms
+[04:46:19] [Server thread/INFO]: [TAB] [WARN] [config.yml] Scoreboard "scoreboard-1.20.3+" is using right-side text alignment (using ||) in the lines, however, your server does not support this feature. It was added into the game in version 1.20.3. Any text defined after || in lines will not be displayed.
+[04:46:19] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[04:46:19] [Server thread/INFO]: [TAB] Enabled in 19ms
+[04:46:37] [Server thread/INFO]: XxMatos15 issued server command: /fac home
+[04:46:38] [Server thread/INFO]: Churrupakin issued server command: /tab reload
+[04:46:38] [Server thread/INFO]: [TAB] Disabled in 2ms
+[04:46:38] [Server thread/INFO]: [TAB] [WARN] [config.yml] Scoreboard "scoreboard-1.20.3+" is using right-side text alignment (using ||) in the lines, however, your server does not support this feature. It was added into the game in version 1.20.3. Any text defined after || in lines will not be displayed.
+[04:46:38] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[04:46:38] [Server thread/INFO]: [TAB] Enabled in 17ms
+[04:47:06] [Async Chat Thread - #40/INFO]: [Not Secure] Owner Churrupakin : xd
+[04:47:50] [User Authenticator #7/INFO]: UUID of player Ram_Tz is a8201390-5a88-393b-afd5-4279b72be2d9
+[04:47:50] [Server thread/INFO]: Ram_Tz joined the game
+[04:47:50] [Server thread/INFO]: Ram_Tz[/172.28.72.140:50247] logged in with entity id 11753 at ([world]1846.58414999416, 90.0, -323.1358936916659)
+[04:47:52] [Server thread/INFO]: Churrupakin issued server command: /tab reload
+[04:47:52] [Server thread/INFO]: [TAB] Disabled in 11ms
+[04:47:52] [Server thread/INFO]: [TAB] [WARN] [config.yml] Scoreboard "scoreboard-1.20.3+" is using right-side text alignment (using ||) in the lines, however, your server does not support this feature. It was added into the game in version 1.20.3. Any text defined after || in lines will not be displayed.
+[04:47:52] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[04:47:52] [Server thread/INFO]: [TAB] Enabled in 42ms
+[04:47:55] [Async Chat Thread - #40/INFO]: [Not Secure] Owner Churrupakin : xd
+[04:48:17] [Async Chat Thread - #41/INFO]: [Not Secure] Owner Churrupakin : xd
+[04:48:18] [Server thread/INFO]: Churrupakin issued server command: /tab reload
+[04:48:18] [Server thread/INFO]: [TAB] Disabled in 4ms
+[04:48:18] [Server thread/INFO]: [TAB] [WARN] [config.yml] Scoreboard "scoreboard-1.20.3+" is using right-side text alignment (using ||) in the lines, however, your server does not support this feature. It was added into the game in version 1.20.3. Any text defined after || in lines will not be displayed.
+[04:48:18] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[04:48:18] [Server thread/INFO]: [TAB] Enabled in 63ms
+[04:48:23] [Async Chat Thread - #41/INFO]: [Not Secure] Owner Churrupakin : xd
+[04:48:39] [Server thread/INFO]: Churrupakin issued server command: /tab reload
+[04:48:39] [Server thread/INFO]: [TAB] Disabled in 7ms
+[04:48:39] [Server thread/INFO]: [TAB] [WARN] [config.yml] Scoreboard "scoreboard-1.20.3+" is using right-side text alignment (using ||) in the lines, however, your server does not support this feature. It was added into the game in version 1.20.3. Any text defined after || in lines will not be displayed.
+[04:48:39] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[04:48:39] [Server thread/INFO]: [TAB] Enabled in 27ms
+[04:48:42] [Async Chat Thread - #40/INFO]: [Not Secure] Owner Churrupakin : d
+[04:48:57] [Server thread/INFO]: Ram_Tz issued server command: /qa craft
+[04:49:14] [Server thread/INFO]: Churrupakin issued server command: /tab reload
+[04:49:14] [Server thread/INFO]: [TAB] Disabled in 5ms
+[04:49:14] [Server thread/INFO]: [TAB] [WARN] [config.yml] Scoreboard "scoreboard-1.20.3+" is using right-side text alignment (using ||) in the lines, however, your server does not support this feature. It was added into the game in version 1.20.3. Any text defined after || in lines will not be displayed.
+[04:49:14] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[04:49:14] [Server thread/INFO]: [TAB] Enabled in 19ms
+[04:49:16] [Async Chat Thread - #40/INFO]: [Not Secure] Owner Churrupakin : xd
+[04:49:25] [Async Chat Thread - #40/INFO]: [Not Secure] Ram_Tz : tmr pepe ;v
+[04:49:48] [Async Chat Thread - #40/INFO]: [Not Secure] Heroico  pingaparaangel : estoy q me masturbo con los diamantes
+[04:51:13] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
+[04:51:13] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
+[04:51:13] [Server thread/INFO]: pingaparaangel left the game
+[04:51:20] [Server thread/INFO]: Churrupakin issued server command: /tab player Churrupakin footer
+[04:51:31] [User Authenticator #8/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
+[04:51:31] [Server thread/INFO]: pingaparaangel joined the game
+[04:51:31] [Server thread/INFO]: pingaparaangel[/172.28.117.248:52757] logged in with entity id 13216 at ([world]-57.30000001192093, -56.0, 212.69999998807907)
+[04:51:38] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
+[04:51:38] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
+[04:51:38] [Server thread/INFO]: pingaparaangel left the game
+[04:53:25] [Server thread/INFO]: XxMatos15 issued server command: /fac home
+[04:55:31] [User Authenticator #9/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
+[04:55:31] [Server thread/INFO]: pingaparaangel joined the game
+[04:55:31] [Server thread/INFO]: pingaparaangel[/172.28.117.248:52808] logged in with entity id 14257 at ([world]-57.30000001192093, -56.0, 212.69999998807907)
+[04:55:35] [Server thread/INFO]: pingaparaangel issued server command: /fac home
+[04:55:37] [Server thread/INFO]: pingaparaangel suffocated in a wall
+[04:55:40] [Async Chat Thread - #42/INFO]: [Not Secure] Heroico  XxMatos15 : XD
+[04:55:53] [Async Chat Thread - #43/INFO]: [Not Secure] Heroico  pingaparaangel : ctmr
+[04:56:01] [Async Chat Thread - #43/INFO]: [Not Secure] Heroico  pingaparaangel : porq no respondes ig perra
+[04:56:15] [Server thread/INFO]: Churrupakin issued server command: /lp user Ram_Tz parent add heroico
+[04:56:16] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [U] (ram_tz)
+[04:56:16] [luckperms-command-executor/INFO]: [LP] LOG > parent add heroico
+[04:56:19] [Async Chat Thread - #43/INFO]: [Not Secure] Heroico  XxMatos15 : XDD
+[04:56:37] [Server thread/INFO]: Churrupakin issued server command: /tab player Ram_Tz customtabname Diego
+[04:56:52] [Async Chat Thread - #42/INFO]: [Not Secure] Heroico  pingaparaangel : chupame el pene
+[04:57:01] [Async Chat Thread - #42/INFO]: [Not Secure] Heroico  pingaparaangel : tperdi mis diamantes ctmr
+[04:57:11] [Async Chat Thread - #42/INFO]: [Not Secure] Heroico  XxMatos15 : MANO
+[04:57:16] [Async Chat Thread - #42/INFO]: [Not Secure] Heroico  pingaparaangel : habla
+[04:57:20] [Async Chat Thread - #42/INFO]: [Not Secure] Heroico  XxMatos15 : -/fac home
+[04:57:26] [Async Chat Thread - #42/INFO]: [Not Secure] Heroico  XxMatos15 : y ya
+[04:57:32] [Async Chat Thread - #42/INFO]: [Not Secure] Heroico  pingaparaangel : -/fac home
+[04:57:41] [Async Chat Thread - #42/INFO]: [Not Secure] Heroico  pingaparaangel : nd
+[04:57:42] [Async Chat Thread - #44/INFO]: [Not Secure] Heroico  XxMatos15 : pponias eso y te teletransportaba
+[04:57:56] [Async Chat Thread - #44/INFO]: [Not Secure] Heroico  pingaparaangel : no me duio tiempo ps
+[04:58:02] [Server thread/INFO]: pingaparaangel issued server command: /fac home
+[04:58:58] [Async Chat Thread - #45/INFO]: [Not Secure] Heroico  pingaparaangel : tenia otros 64 tmr
+[04:59:14] [Async Chat Thread - #45/INFO]: [Not Secure] Heroico  XxMatos15 : por esi no mino
+[04:59:19] [Async Chat Thread - #46/INFO]: [Not Secure] Heroico  XxMatos15 : xddd
+[05:00:43] [Async Chat Thread - #47/INFO]: [Not Secure] Heroico  pingaparaangel : vayanse a la mrd
+[05:00:56] [Async Chat Thread - #47/INFO]: [Not Secure] Heroico  XxMatos15 : mano
+[05:01:15] [Async Chat Thread - #47/INFO]: [Not Secure] Heroico  XxMatos15 : puedes minar otra ve B)
+[05:01:48] [Server thread/INFO]: Churrupakin issued server command: /lp user Churrupakin meta clear
+[05:01:48] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [U] (churrupakin)
+[05:01:48] [luckperms-command-executor/INFO]: [LP] LOG > meta clear
+[05:01:54] [Async Chat Thread - #48/INFO]: [Not Secure] Owner Churrupakin : xd
+[05:02:00] [Server thread/INFO]: Churrupakin issued server command: /tab reload
+[05:02:00] [Server thread/INFO]: [TAB] Disabled in 2ms
+[05:02:00] [Server thread/INFO]: [TAB] [WARN] [config.yml] Scoreboard "scoreboard-1.20.3+" is using right-side text alignment (using ||) in the lines, however, your server does not support this feature. It was added into the game in version 1.20.3. Any text defined after || in lines will not be displayed.
+[05:02:00] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[05:02:00] [Server thread/INFO]: [TAB] Enabled in 15ms
+[05:02:02] [Async Chat Thread - #48/INFO]: [Not Secure] Heroico  pingaparaangel : tmr
+[05:02:17] [Async Chat Thread - #48/INFO]: [Not Secure] Heroico  pingaparaangel : era q respondas ig zorra
+[05:02:31] [Async Chat Thread - #47/INFO]: [Not Secure] Heroico  XxMatos15 : no tengo audio en mi pc
+[05:02:37] [Async Chat Thread - #48/INFO]: [Not Secure] Heroico  XxMatos15 : xd
+[05:02:48] [Async Chat Thread - #47/INFO]: [Not Secure] Heroico  pingaparaangel : conectatelo en el culo p
+[05:02:56] [Async Chat Thread - #47/INFO]: [Not Secure] Heroico  XxMatos15 : XDD
+[05:03:22] [Async Chat Thread - #48/INFO]: [Not Secure] Heroico  XxMatos15 : ottra ves mina
+[05:03:28] [Async Chat Thread - #48/INFO]: [Not Secure] Heroico  XxMatos15 : pero con cofres
+[05:03:59] [Server thread/INFO]: XxMatos15 was blown up by Creeper
+[05:04:09] [Async Chat Thread - #48/INFO]: [Not Secure] Heroico  pingaparaangel : lo detonaron a chifa
+[05:05:04] [Server thread/INFO]: XxMatos15 was slain by Enderman
+[05:05:12] [Async Chat Thread - #49/INFO]: [Not Secure] Heroico  XxMatos15 : ese negro rctmre
+[05:05:16] [Async Chat Thread - #50/INFO]: [Not Secure] Heroico  pingaparaangel : hay lava como mrd
+[05:05:29] [Async Chat Thread - #50/INFO]: [Not Secure] Heroico  pingaparaangel : si me caigo me corto los webos
+[05:05:49] [Async Chat Thread - #50/INFO]: [Not Secure] Heroico  XxMatos15 : hay una probabilidad de q te mueras con la grava
+[05:05:57] [Async Chat Thread - #49/INFO]: [Not Secure] Heroico  pingaparaangel : asi mori ps
+[05:06:03] [Async Chat Thread - #49/INFO]: [Not Secure] Heroico  XxMatos15 : XDD
+[05:06:11] [Async Chat Thread - #49/INFO]: [Not Secure] Heroico  pingaparaangel : esa mrd me comprimio
+[05:07:01] [Async Chat Thread - #50/INFO]: [Not Secure] Owner Churrupakin : voy a cerrrar el server
+[05:07:08] [Async Chat Thread - #50/INFO]: [Not Secure] Heroico  XxMatos15 : 12,30 p
+[05:07:11] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15
+[05:07:11] [Async Chat Thread - #50/INFO]: [Not Secure] Heroico  Ram_Tz : no p
+[05:07:23] [Async Chat Thread - #49/INFO]: [Not Secure] Heroico  pingaparaangel : apagalo en 5
+[05:07:29] [Async Chat Thread - #49/INFO]: [Not Secure] Heroico  pingaparaangel : ya acabo
+[05:07:30] [Async Chat Thread - #49/INFO]: [Not Secure] Owner Churrupakin : 12 y 10
+[05:07:35] [Async Chat Thread - #49/INFO]: [Not Secure] Heroico  pingaparaangel : ya
+[05:07:41] [Async Chat Thread - #49/INFO]: [Not Secure] Heroico  Ram_Tz : prendeIo con tu chaifon pero dejalo p
+[05:07:57] [Async Chat Thread - #49/INFO]: [Not Secure] Heroico  XxMatos15 : matias
+[05:08:10] [Async Chat Thread - #50/INFO]: [Not Secure] Heroico  XxMatos15 : avre la trampilla de tus aldeanos
+[05:08:24] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
+[05:08:30] [Async Chat Thread - #50/INFO]: [Not Secure] Owner Churrupakin : de cuales
+[05:08:39] [Server thread/INFO]: pingaparaangel issued server command: /fac home
+[05:08:40] [Async Chat Thread - #50/INFO]: [Not Secure] Heroico  XxMatos15 : q da pico de diamante
+[05:08:46] [Async Chat Thread - #51/INFO]: [Not Secure] Heroico  XxMatos15 : y armadura
+[05:09:18] [Async Chat Thread - #51/INFO]: [Not Secure] Heroico  XxMatos15 : no deja
+[05:09:46] [Async Chat Thread - #49/INFO]: [Not Secure] Owner Churrupakin : es pq es mi zona p
+[05:09:52] [Async Chat Thread - #49/INFO]: [Not Secure] Heroico  XxMatos15 : sacalo un rato p
+[05:10:03] [Server thread/INFO]: Churrupakin issued server command: /faction unclaim
+[05:10:10] [Server thread/INFO]: Churrupakin issued server command: /faction unclaim
+[05:11:04] [Async Chat Thread - #52/INFO]: [Not Secure] Heroico  XxMatos15 : ya
+[05:11:20] [Async Chat Thread - #53/INFO]: [Not Secure] Heroico  pingaparaangel : como hago para q otras personas no habran mi cofre
+[05:12:42] [Server thread/INFO]: Churrupakin issued server command: /faction claim
+[05:12:58] [Server thread/INFO]: Churrupakin issued server command: /tab reload
+[05:12:58] [Server thread/INFO]: [TAB] Disabled in 2ms
+[05:12:58] [Server thread/INFO]: [TAB] [WARN] [config.yml] Scoreboard "scoreboard-1.20.3+" is using right-side text alignment (using ||) in the lines, however, your server does not support this feature. It was added into the game in version 1.20.3. Any text defined after || in lines will not be displayed.
+[05:12:58] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[05:12:58] [Server thread/INFO]: [TAB] Enabled in 16ms
+[05:13:14] [Async Chat Thread - #54/INFO]: [Not Secure] Owner Churrupakin : voy a cerrar
+[05:13:16] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[05:13:16] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[05:13:16] [Server thread/INFO]: Churrupakin left the game
+[05:13:32] [Async Chat Thread - #54/INFO]: [Not Secure] Heroico  XxMatos15 : pene
+[05:13:39] [Async Chat Thread - #55/INFO]: [Not Secure] Heroico  pingaparaangel : fue
+[05:14:06] [Async Chat Thread - #55/INFO]: [Not Secure] Heroico  pingaparaangel : don tas chifa
+[05:14:17] [Async Chat Thread - #55/INFO]: [Not Secure] Heroico  XxMatos15 : en granja de penes
+[05:14:39] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /me fue
+[05:14:39] [Server thread/INFO]: * @ fue
+[05:14:47] [Async Chat Thread - #54/INFO]: [Not Secure] Heroico  pingaparaangel : xd
+[05:14:48] [Async Chat Thread - #54/INFO]: [Not Secure] Heroico  XxMatos15 : fue
+[05:14:58] [Server thread/INFO]: Stopping the server
+[05:14:58] [Server thread/INFO]: Stopping server
+[05:14:58] [Server thread/INFO]: [ProtectionBlocks] Disabling ProtectionBlocks v1.0.9
+[05:14:58] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-92 - Shutdown initiated...
+[05:14:58] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-92 - Shutdown completed.
+[05:14:58] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.26
+[05:14:58] [Server thread/INFO]: [TAB] Disabling TAB v5.0.3
+[05:14:58] [Server thread/INFO]: [TAB] Disabled in 3ms
+[05:14:58] [Server thread/INFO]: [ImprovedFactions] Disabling ImprovedFactions v2.2.0
+[05:14:58] [Server thread/INFO]: [AxGraves] Disabling AxGraves v1.17.0
+[05:14:58] [Server thread/INFO]: [QualityArmory] Disabling QualityArmory v2.0.17
+[05:14:58] [Server thread/INFO]: [ChatEx] Disabling ChatEx v3.1.0
+[05:14:58] [Server thread/INFO]: [ChatEx] Is now disabled!
+[05:14:58] [Server thread/INFO]: [CrazyEnchantments] Disabling CrazyEnchantments v2.1
+[05:14:58] [Server thread/INFO]: [PLAZMER-ENGINE] Disabling PLAZMER-ENGINE v2.4.8
+[05:14:58] [Server thread/INFO]: [DecentHolograms] Disabling DecentHolograms v2.8.12
+[05:14:58] [Server thread/INFO]: [dynmap] Disabling dynmap v3.7-SNAPSHOT-948
+[05:14:58] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[05:14:58] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[05:14:59] [Server thread/INFO]: [dynmap] Saved 4562 pending tile renders in world 'world'
+[05:14:59] [Server thread/INFO]: [dynmap] Full render job saved for world 'world'
+[05:14:59] [Server thread/INFO]: [dynmap] Disabled
+[05:14:59] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[05:14:59] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
+[05:14:59] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
+[05:14:59] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[05:14:59] [Server thread/INFO]: [LuckPerms] Closing storage...
+[05:14:59] [Server thread/INFO]: [LuckPerms] Goodbye!
+[05:14:59] [Server thread/INFO]: Saving players
+[05:14:59] [Server thread/INFO]: Ram_Tz lost connection: Server closed
+[05:14:59] [Server thread/INFO]: Ram_Tz left the game
+[05:14:59] [Server thread/INFO]: pingaparaangel lost connection: Server closed
+[05:14:59] [Server thread/INFO]: pingaparaangel left the game
+[05:14:59] [Server thread/INFO]: XxMatos15 lost connection: Server closed
+[05:14:59] [Server thread/INFO]: XxMatos15 left the game
+[05:14:59] [Server thread/INFO]: Saving worlds
+[05:14:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:14:59] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[05:14:59] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[05:14:59] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[05:15:02] [Server thread/INFO]: [ChunkHolderManager] Saved 1165 block chunks, 1485 entity chunks, 2 poi chunks in world 'world' in 2.57s
+[05:15:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:15:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[05:15:02] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[05:15:02] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[05:15:02] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[05:15:02] [Server thread/INFO]: [ChunkHolderManager] Saved 48 block chunks, 74 entity chunks, 0 poi chunks in world 'world_nether' in 0.10s
+[05:15:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:15:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[05:15:02] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[05:15:02] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[05:15:02] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[05:15:02] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 41 entity chunks, 0 poi chunks in world 'world_the_end' in 0.03s
+[05:15:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:15:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:15:02] [Server thread/INFO]: Flushing Chunk IO
+[05:15:02] [Server thread/INFO]: Closing Thread Pool
+[05:15:02] [Server thread/INFO]: Closing Server
