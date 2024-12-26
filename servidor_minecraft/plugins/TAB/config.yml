@@ -116,11 +116,8 @@ scoreboard:
         - "&6Info:"
         - "* &eNick&7: &f%player%"
         - "* &eRango&7: %luckperms-prefix% "
-        - "* &eAdmins&7: &f%staffonline%"
-        - ""
-        - "&6Informacion personal:"
-        - "* &bPing&7: &f%ping%&8ms"
-        - "* &bMundo&7: &f%world%"
+        - "* &eKills: %statistic_player_kills%"
+        - "* &eMuetes: %statistic_deaths%"
         - "%animation:MyAnimation1%"
 
 # https://github.com/NEZNAMY/TAB/wiki/Feature-guide:-Layout
