@@ -5,11 +5,10 @@ header-footer:
     - "<#FFFFFF>&m                                               </#FFFF00>"
     - "&3&lBONDINSANOS"
     - "&7&l>> %animation:Bienvenido%&3 &l%player%&7&l! &7&l<<"
-    - "&7Jugadores en linea: &f%online%"
+    - "&7Jugadores: &f%online%"
     - "&6Admins en linea: &e%staffonline%"
     - ""
   footer:
-    - "%animation:time%"
     - "&2Ping: %ping%"
     - "&7&l Memoria: %memory-used% MB / %memory-max% MB"
     - ""
