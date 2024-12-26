@@ -598,3 +598,8 @@
 [01:49:29] [Server thread/INFO]: Churrupakin lost connection: Disconnected
 [01:49:29] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
 [01:49:29] [Server thread/INFO]: Churrupakin left the game
+[02:29:24] [User Authenticator #27/INFO]: [ProtectionBlocks] Created new user data for: 'a8201390-5a88-393b-afd5-4279b72be2d9'
+[02:29:24] [User Authenticator #27/INFO]: UUID of player Ram_Tz is a8201390-5a88-393b-afd5-4279b72be2d9
+[02:29:24] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Ram_Tz's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[02:29:24] [Server thread/INFO]: Ram_Tz joined the game
+[02:29:24] [Server thread/INFO]: Ram_Tz[/172.28.72.140:59735] logged in with entity id 26119 at ([world]115.30298960736027, 63.0, 112.35189785418551)
