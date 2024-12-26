@@ -155,3 +155,75 @@
 [00:25:36] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
 [00:25:36] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
 [00:25:36] [Server thread/INFO]: pingaparaangel left the game
+[00:26:21] [User Authenticator #13/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
+[00:26:21] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:26:21] [Server thread/INFO]: pingaparaangel joined the game
+[00:26:21] [Server thread/INFO]: pingaparaangel[/172.28.117.248:49530] logged in with entity id 13205 at ([world]-67.58183070537679, 49.0, 247.6735404392036)
+[00:26:34] [Async Chat Thread - #26/INFO]: [Not Secure] <lacalacaxd> oee hagan tp p
+[00:26:38] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
+[00:26:38] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
+[00:26:38] [Server thread/INFO]: pingaparaangel left the game
+[00:27:24] [User Authenticator #14/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
+[00:27:24] [Server thread/INFO]: pingaparaangel joined the game
+[00:27:24] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:27:24] [Server thread/INFO]: pingaparaangel[/172.28.117.248:49543] logged in with entity id 13311 at ([world]-68.13151832869468, 49.0, 246.76249998807907)
+[00:27:31] [Async Chat Thread - #26/INFO]: [Not Secure] <lacalacaxd> goo pe
+[00:27:41] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
+[00:27:41] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
+[00:27:41] [Server thread/INFO]: pingaparaangel left the game
+[00:27:56] [User Authenticator #14/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
+[00:27:56] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:27:56] [Server thread/INFO]: pingaparaangel joined the game
+[00:27:56] [Server thread/INFO]: pingaparaangel[/172.28.117.248:49564] logged in with entity id 13365 at ([world]-68.13151832869468, 49.0, 246.76249998807907)
+[00:28:07] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
+[00:28:07] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
+[00:28:07] [Server thread/INFO]: pingaparaangel left the game
+[00:28:26] [User Authenticator #14/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
+[00:28:26] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:28:26] [Server thread/INFO]: pingaparaangel joined the game
+[00:28:26] [Server thread/INFO]: pingaparaangel[/172.28.117.248:49576] logged in with entity id 13427 at ([world]-68.13151832869468, 49.0, 246.76249998807907)
+[00:28:54] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
+[00:28:54] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
+[00:28:54] [Server thread/INFO]: pingaparaangel left the game
+[00:29:13] [Server thread/INFO]: Churrupakin issued server command: /tab scoreboard show
+[00:29:42] [User Authenticator #15/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
+[00:29:42] [Server thread/INFO]: pingaparaangel joined the game
+[00:29:42] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:29:42] [Server thread/INFO]: pingaparaangel[/172.28.117.248:49601] logged in with entity id 13601 at ([world]-68.13151832869468, 49.0, 246.76249998807907)
+[00:29:56] [Async Chat Thread - #28/INFO]: [Not Secure] <pingaparaangel> inter ctmree
+[00:30:05] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
+[00:30:05] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
+[00:30:05] [Server thread/INFO]: pingaparaangel left the game
+[00:31:54] [Server thread/INFO]: Churrupakin issued server command: /scoreboard players enable
+[00:32:00] [Server thread/INFO]: Churrupakin issued server command: /scoreboard players enable Churrupakin
+[00:32:07] [Server thread/INFO]: Churrupakin issued server command: /scoreboard players enable Churrupakin dsada
+[00:32:13] [Server thread/INFO]: Churrupakin issued server command: /scoreboard players enable Churrupakin healt
+[00:32:25] [Server thread/INFO]: Churrupakin issued server command: /scoreboard objectives list
+[00:32:47] [Server thread/INFO]: Churrupakin issued server command: /scoreboard objectives add vida health
+[00:33:00] [Server thread/INFO]: Churrupakin issued server command: /scoreboard objectives setdisplay sidebar.team.yellow
+[00:33:13] [Server thread/INFO]: Churrupakin issued server command: /scoreboard players remove
+[00:33:23] [Server thread/INFO]: Churrupakin issued server command: /tab scoreboard announce
+[00:33:33] [User Authenticator #16/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
+[00:33:33] [Server thread/INFO]: pingaparaangel joined the game
+[00:33:33] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:33:33] [Server thread/INFO]: pingaparaangel[/172.28.117.248:53027] logged in with entity id 14160 at ([world]-68.55055131930267, 49.875, 247.69999998807907)
+[00:34:25] [Server thread/INFO]: Churrupakin issued server command: /tab scoreboard announce
+[00:34:30] [Server thread/INFO]: Churrupakin issued server command: /tab reload
+[00:34:30] [Server thread/INFO]: [TAB] Disabled in 3ms
+[00:34:30] [Server thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:34:30] [Server thread/INFO]: [TAB] [WARN] Player Churrupakin's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:34:30] [Server thread/INFO]: [TAB] [WARN] Player XxMatos15's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:34:30] [Server thread/INFO]: [TAB] [WARN] Player lacalacaxd's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:34:30] [Server thread/INFO]: [TAB] Enabled in 37ms
+[00:34:32] [Server thread/INFO]: Churrupakin issued server command: /tab scoreboard announce
+[00:34:33] [Server thread/INFO]: XxMatos15 issued server command: /fac home
+[00:34:41] [Server thread/INFO]: Churrupakin issued server command: /tab scoreboard on Churrupakin
+[00:35:33] [Server thread/INFO]: Churrupakin issued server command: /tab reload
+[00:35:33] [Server thread/INFO]: [TAB] Disabled in 1ms
+[00:35:33] [Server thread/INFO]: [TAB] [WARN] [config.yml] Scoreboard "scoreboard-1.20.3+" is using right-side text alignment (using ||) in the lines, however, your server does not support this feature. It was added into the game in version 1.20.3. Any text defined after || in lines will not be displayed.
+[00:35:33] [Server thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:35:33] [Server thread/INFO]: [TAB] [WARN] Player Churrupakin's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:35:33] [Server thread/INFO]: [TAB] [WARN] Player XxMatos15's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:35:33] [Server thread/INFO]: [TAB] [WARN] Player lacalacaxd's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:35:33] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[00:35:33] [Server thread/INFO]: [TAB] Enabled in 46ms
