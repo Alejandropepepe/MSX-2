@@ -10,45 +10,45 @@
 ,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">%faction_name%<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">%faction_owner%<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">%faction_maxPower%<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
 ,"7-6-world": {"fillcolor": "#71708C","ytop": 64.00,"color": "#71708C","markup": true,"x": [112.00,128.00]
 ,"weight": 0,"z": [96.00,112.00]
-,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">Papus<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">%faction_owner%<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">%faction_maxPower%<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
+,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">Papus<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">Churrupakin<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">100<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
 ,"8-5-world": {"fillcolor": "#71708C","ytop": 64.00,"color": "#71708C","markup": true,"x": [128.00,144.00]
 ,"weight": 0,"z": [80.00,96.00]
-,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">Papus<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">%faction_owner%<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">%faction_maxPower%<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
+,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">Papus<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">Churrupakin<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">100<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
 ,"8-7-world": {"fillcolor": "#71708C","ytop": 64.00,"color": "#71708C","markup": true,"x": [128.00,144.00]
 ,"weight": 0,"z": [112.00,128.00]
-,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">Papus<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">%faction_owner%<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">%faction_maxPower%<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
+,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">Papus<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">Churrupakin<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">100<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
 ,"7-5-world": {"fillcolor": "#71708C","ytop": 64.00,"color": "#71708C","markup": true,"x": [112.00,128.00]
 ,"weight": 0,"z": [80.00,96.00]
-,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">Papus<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">%faction_owner%<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">%faction_maxPower%<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
+,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">Papus<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">Churrupakin<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">100<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
 ,"9-6-world": {"fillcolor": "#71708C","ytop": 64.00,"color": "#71708C","markup": true,"x": [144.00,160.00]
 ,"weight": 0,"z": [96.00,112.00]
-,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">Papus<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">%faction_owner%<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">%faction_maxPower%<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
-,"-4-15-world": {"fillcolor": "#A656C8","ytop": 64.00,"color": "#A656C8","markup": true,"x": [-64.00,-48.00]
-,"weight": 0,"z": [240.00,256.00]
-,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">pene<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">%faction_owner%<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">%faction_maxPower%<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
+,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">Papus<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">Churrupakin<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">100<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
 ,"-4-16-world": {"fillcolor": "#A656C8","ytop": 64.00,"color": "#A656C8","markup": true,"x": [-64.00,-48.00]
 ,"weight": 0,"z": [256.00,272.00]
 ,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">%faction_name%<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">%faction_owner%<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">%faction_maxPower%<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
 ,"9-7-world": {"fillcolor": "#71708C","ytop": 64.00,"color": "#71708C","markup": true,"x": [144.00,160.00]
 ,"weight": 0,"z": [112.00,128.00]
-,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">Papus<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">%faction_owner%<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">%faction_maxPower%<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
+,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">Papus<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">Churrupakin<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">100<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
+,"-4-15-world": {"fillcolor": "#A656C8","ytop": 64.00,"color": "#A656C8","markup": true,"x": [-64.00,-48.00]
+,"weight": 0,"z": [240.00,256.00]
+,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">pene<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">XxMatos15<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">142<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
 ,"7-7-world": {"fillcolor": "#71708C","ytop": 64.00,"color": "#71708C","markup": true,"x": [112.00,128.00]
 ,"weight": 0,"z": [112.00,128.00]
-,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">Papus<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">%faction_owner%<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">%faction_maxPower%<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
+,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">Papus<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">Churrupakin<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">100<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
 ,"8-6-world": {"fillcolor": "#71708C","ytop": 64.00,"color": "#71708C","markup": true,"x": [128.00,144.00]
 ,"weight": 0,"z": [96.00,112.00]
-,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">Papus<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">%faction_owner%<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">%faction_maxPower%<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
+,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">%faction_name%<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">%faction_owner%<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">%faction_maxPower%<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
 }
 ,"label": "Factions","markers": {}
-,"lines": {"cb8af932-28f1-49ca-b22f-409becf39fab-0": {"color": "#71708C","markup": false,"x": [144.00,144.00,160.00,160.00,112.00,112.00,144.00]
+,"lines": {"c40c40b9-bcd9-46a1-bcea-c28c4506f149-0": {"color": "#71708C","markup": false,"x": [144.00,144.00,112.00,112.00,160.00,160.00,144.00]
 ,"y": [64.00,64.00,64.00,64.00,64.00,64.00,64.00]
-,"weight": 3,"z": [80.00,96.00,96.00,128.00,128.00,80.00,80.00]
+,"weight": 3,"z": [96.00,80.00,80.00,128.00,128.00,96.00,96.00]
 ,"label": "","opacity": 0.50}
-,"4baea87e-bfbc-4c99-b81a-474aaa53af5a-0": {"color": "#A656C8","markup": false,"x": [-80.00,-80.00,-64.00,-64.00,-48.00,-48.00,-80.00]
+,"5792ea6a-d76e-434e-b9a2-d5436d3fe274-0": {"color": "#A656C8","markup": false,"x": [-80.00,-80.00,-64.00,-64.00,-48.00,-48.00,-80.00]
 ,"y": [64.00,64.00,64.00,64.00,64.00,64.00,64.00]
 ,"weight": 3,"z": [240.00,256.00,256.00,272.00,272.00,240.00,240.00]
 ,"label": "","opacity": 0.50}
 }
 ,"layerprio": 10}
 }
-,"timestamp": 1735189962555}
+,"timestamp": 1735232684906}
