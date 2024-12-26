@@ -485,3 +485,53 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [17:39:17] [Server thread/INFO]: [voicechat] Disconnecting client SKrampusPEcausa
 [17:39:17] [Server thread/INFO]: SKrampusPEcausa left the game
 [17:42:45] [Server thread/INFO]: Churrupakin issued server command: /lp group heroico permission info
+[17:47:53] [Server thread/INFO]: Churrupakin issued server command: /lp group heroico permission set qa.craft
+[17:47:53] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (heroico)
+[17:47:53] [luckperms-command-executor/INFO]: [LP] LOG > permission set qa.craft true
+[17:48:05] [Server thread/INFO]: Churrupakin issued server command: /qa reload
+[17:48:05] [Server thread/INFO]: [QualityArmory] -Loaded 11 Ammo types.
+[17:48:05] [Server thread/INFO]: [QualityArmory] -Loaded 16 Misc.
+[17:48:05] [Server thread/INFO]: [QualityArmory] -Loaded 70 Gun types.
+[17:48:05] [Server thread/INFO]: [QualityArmory] -Loading Attachment: awpasiimov
+[17:48:05] [Server thread/INFO]: [QualityArmory] -Loading Attachment: p30silenced
+[17:48:05] [Server thread/INFO]: [QualityArmory] -Loading Attachment: uzicorn
+[17:48:05] [Server thread/INFO]: [QualityArmory] -Loaded 3 Attachment types.
+[17:48:05] [Server thread/INFO]: [QualityArmory] -Loaded 4 Armor types.
+[17:48:12] [Server thread/INFO]: Churrupakin issued server command: /lp reloadconfig
+[17:48:29] [Async Chat Thread - #16/INFO]: [Not Secure] Owner Churrupakin : chifa a ver ejecuta el comando qa craft
+[17:48:37] [Server thread/INFO]: Churrupakin issued server command: /qa craft
+[17:48:38] [Server thread/INFO]: XxMatos15 issued server command: /qa craft
+[17:48:40] [Async Chat Thread - #16/INFO]: [Not Secure] Heroico  XxMatos15 : no da
+[17:48:47] [Async Chat Thread - #17/INFO]: [Not Secure] Heroico  XxMatos15 : no hhay permisos
+[17:52:42] [Server thread/INFO]: XxMatos15 issued server command: /fac home
+[17:53:25] [Server thread/INFO]: Churrupakin issued server command: /lp group heroico permission set qualityarmory.default
+[17:53:25] [luckperms-command-executor/INFO]: [LP] LOG > (Churrupakin) [G] (heroico)
+[17:53:25] [luckperms-command-executor/INFO]: [LP] LOG > permission set qualityarmory.default true
+[17:53:30] [Async Chat Thread - #18/INFO]: [Not Secure] Owner Churrupakin : a ver ahora
+[17:53:59] [Server thread/INFO]: XxMatos15 issued server command: /qa craft
+[17:54:03] [Async Chat Thread - #18/INFO]: [Not Secure] Heroico  XxMatos15 : ya esta
+[17:54:06] [Server thread/INFO]: XxMatos15 issued server command: /qa craft
+[17:54:16] [Async Chat Thread - #18/INFO]: [Not Secure] Owner Churrupakin : el de factions si da?
+[17:54:21] [Server thread/INFO]: Churrupakin issued server command: /gamemode spectator
+[17:54:33] [Async Chat Thread - #18/INFO]: [Not Secure] Heroico  XxMatos15 : espera
+[17:54:34] [Server thread/INFO]: XxMatos15 issued server command: /qa craft
+[17:54:38] [Server thread/INFO]: XxMatos15 issued server command: /qa craft
+[17:54:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player a3898cf4-4c4a-3a29-b628-38892b7008ac timed out
+[17:54:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Churrupakin
+[17:54:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Churrupakin
+[17:54:43] [Server thread/INFO]: XxMatos15 issued server command: /qa craft
+[17:54:54] [Async Chat Thread - #19/INFO]: [Not Secure] Heroico  XxMatos15 : comno es
+[17:55:00] [Server thread/INFO]: Churrupakin lost connection: Timed out
+[17:55:00] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[17:55:00] [Server thread/INFO]: Churrupakin left the game
+[17:55:01] [Async Chat Thread - #19/INFO]: [Not Secure] Heroico  XxMatos15 : el comando
+[17:55:17] [Server thread/INFO]: XxMatos15 issued server command: /skin random
+[17:55:27] [Server thread/INFO]: XxMatos15 issued server command: /qa craft
+[17:55:43] [User Authenticator #9/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[17:55:43] [Server thread/INFO]: Churrupakin joined the game
+[17:55:43] [Server thread/INFO]: Churrupakin[/172.28.161.65:54942] logged in with entity id 17748 at ([world]22.410049410794368, 63.0, 106.80049185084061)
+[17:55:44] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[17:55:44] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[17:55:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[17:55:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[17:55:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
