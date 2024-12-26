@@ -111,7 +111,7 @@ scoreboard:
         - "* &bWorld&7:||%world%"
         - "%animation:MyAnimation1%"
     scoreboard:
-      title: "<#E0B11E>MyServer</#FF0000>"
+      title: "<#E0B11E>BONDINSANOS</#FF0000>"
       lines:
         - "&7%date%"
         - "%animation:MyAnimation1%"

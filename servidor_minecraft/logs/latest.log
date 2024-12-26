@@ -227,3 +227,80 @@
 [00:35:33] [Server thread/INFO]: [TAB] [WARN] Player lacalacaxd's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
 [00:35:33] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
 [00:35:33] [Server thread/INFO]: [TAB] Enabled in 46ms
+[00:36:18] [Server thread/INFO]: Churrupakin issued server command: /tab scoreboard show scoreboard
+[00:36:19] [Async Chat Thread - #30/INFO]: [Not Secure] <pingaparaangel> pase comida
+[00:36:28] [Server thread/INFO]: Churrupakin issued server command: /tab scoreboard show scoreboard-1.20.3+
+[00:36:28] [Server thread/INFO]: [TAB] [WARN] Scoreboard "scoreboard-1.20.3+" contains right-side text alignment (using ||), however, this feature was added in 1.20.3, but player "Churrupakin" is using version 1.20.1. Right-side text will not be visible for them.
+[00:36:31] [Server thread/INFO]: Churrupakin issued server command: /tab scoreboard show scoreboard-1.20.3+
+[00:36:31] [Server thread/INFO]: [TAB] [WARN] Scoreboard "scoreboard-1.20.3+" contains right-side text alignment (using ||), however, this feature was added in 1.20.3, but player "Churrupakin" is using version 1.20.1. Right-side text will not be visible for them.
+[00:36:35] [Server thread/INFO]: Churrupakin issued server command: /tab scoreboard show scoreboard
+[00:36:35] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
+[00:36:35] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
+[00:36:35] [Server thread/INFO]: pingaparaangel left the game
+[00:36:49] [Server thread/INFO]: Churrupakin issued server command: /tab sb
+[00:36:52] [User Authenticator #17/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
+[00:36:52] [Server thread/INFO]: pingaparaangel joined the game
+[00:36:52] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:36:52] [Server thread/INFO]: pingaparaangel[/172.28.117.248:53068] logged in with entity id 14856 at ([world]-64.50238998314495, 56.0, 248.65965452023588)
+[00:37:02] [Server thread/INFO]: Churrupakin issued server command: /tab group example_group
+[00:37:11] [Server thread/INFO]: Churrupakin issued server command: /tab group example_group customtabname
+[00:37:21] [Server thread/INFO]: Churrupakin issued server command: /tab group example_group customtabname Pobres
+[00:37:23] [Server thread/INFO]: lacalacaxd has made the advancement [A Seedy Place]
+[00:37:30] [Server thread/INFO]: XxMatos15 issued server command: /fac home
+[00:37:36] [Server thread/INFO]: Churrupakin issued server command: /tab groups
+[00:37:58] [Server thread/INFO]: Churrupakin issued server command: /tab group Player customtabname Pobresazo
+[00:38:01] [Async Chat Thread - #32/INFO]: [Not Secure] <XxMatos15> mira
+[00:38:11] [Async Chat Thread - #33/INFO]: [Not Secure] <pingaparaangel> ESTOY TOCADO
+[00:38:12] [Async Chat Thread - #33/INFO]: [Not Secure] <XxMatos15> arate aca
+[00:38:27] [Async Chat Thread - #34/INFO]: [Not Secure] <pingaparaangel> pasa comida
+[00:38:48] [Async Chat Thread - #32/INFO]: [Not Secure] <lacalacaxd> ta bacan
+[00:38:56] [Server thread/INFO]: pingaparaangel was slain by Zombified Piglin
+[00:38:57] [Server thread/INFO]: Churrupakin issued server command: /tab scoreboard toggle Churrupakin
+[00:39:06] [Server thread/INFO]: Churrupakin issued server command: /tab scoreboard show scoreboard
+[00:39:14] [Server thread/INFO]: Churrupakin issued server command: /tab scoreboard announce scoreboard
+[00:39:21] [Server thread/INFO]: Churrupakin issued server command: /tab scoreboard toggle Churrupakin
+[00:39:29] [Async Chat Thread - #34/INFO]: [Not Secure] <XxMatos15> en la granja ay comida como mrd
+[00:39:34] [Server thread/INFO]: Churrupakin issued server command: /tab scoreboard announce scoreboard 15
+[00:39:37] [Server thread/INFO]: Churrupakin issued server command: /tab scoreboard announce scoreboard 15
+[00:39:39] [Async Chat Thread - #34/INFO]: [Not Secure] <pingaparaangel> es de dia?
+[00:39:40] [Server thread/INFO]: Churrupakin issued server command: /tab scoreboard announce scoreboard 15
+[00:39:44] [Server thread/INFO]: Churrupakin issued server command: /tab scoreboard announce scoreboard 10
+[00:39:45] [Async Chat Thread - #34/INFO]: [Not Secure] <XxMatos15> no
+[00:39:49] [Server thread/INFO]: Churrupakin issued server command: /tab scoreboard announce scoreboard 30
+[00:40:14] [Async Chat Thread - #34/INFO]: [Not Secure] <pingaparaangel> duerman p
+[00:40:34] [Async Chat Thread - #34/INFO]: [Not Secure] <lacalacaxd> chifon
+[00:40:41] [Async Chat Thread - #34/INFO]: [Not Secure] <XxMatos15> q
+[00:40:42] [Server thread/INFO]: Churrupakin issued server command: /tab reload
+[00:40:42] [Server thread/INFO]: [TAB] Disabled in 2ms
+[00:40:42] [Server thread/INFO]: [TAB] [WARN] [config.yml] Scoreboard "scoreboard-1.20.3+" is using right-side text alignment (using ||) in the lines, however, your server does not support this feature. It was added into the game in version 1.20.3. Any text defined after || in lines will not be displayed.
+[00:40:42] [Server thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:40:42] [Server thread/INFO]: [TAB] [WARN] Player Churrupakin's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:40:42] [Server thread/INFO]: [TAB] [WARN] Player XxMatos15's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:40:42] [Server thread/INFO]: [TAB] [WARN] Player lacalacaxd's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:40:42] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[00:40:42] [Server thread/INFO]: [TAB] Enabled in 27ms
+[00:40:43] [Async Chat Thread - #34/INFO]: [Not Secure] <lacalacaxd> llevame a la casa
+[00:40:52] [Async Chat Thread - #34/INFO]: [Not Secure] <XxMatos15> ven
+[00:41:27] [Async Chat Thread - #34/INFO]: [Not Secure] <lacalacaxd> a la mrd
+[00:41:28] [Async Chat Thread - #34/INFO]: [Not Secure] <XxMatos15> ese internet
+[00:42:26] [Server thread/INFO]: Churrupakin issued server command: /tab group Player
+[00:42:40] [Server thread/INFO]: XxMatos15 issued server command: /skin nudes
+[00:42:41] [Server thread/INFO]: Churrupakin issued server command: /tab group Player footer
+[00:42:43] [Async Chat Thread - #35/INFO]: [Not Secure] <lacalacaxd> ando re lag
+[00:42:48] [Async Chat Thread - #36/INFO]: [Not Secure] <pingaparaangel> x2
+[00:42:52] [Async Chat Thread - #36/INFO]: [Not Secure] <XxMatos15> mil de ping
+[00:43:17] [Server thread/INFO]: Churrupakin issued server command: /tab player XxMatos15 customtabname
+[00:44:18] [Server thread/INFO]: lacalacaxd has made the advancement [We Need to Go Deeper]
+[00:44:30] [Async Chat Thread - #37/INFO]: [Not Secure] <lacalacaxd> a la mrd
+[00:44:31] [Server thread/INFO]: XxMatos15 issued server command: /skin messi
+[00:44:38] [Server thread/INFO]: Churrupakin issued server command: /tab groups owner
+[00:44:46] [Server thread/INFO]: Churrupakin issued server command: /tab groups Owner
+[00:44:50] [Server thread/INFO]: Churrupakin issued server command: /tab groups
+[00:44:53] [Server thread/INFO]: XxMatos15 tried to swim in lava
+[00:44:57] [Server thread/INFO]: Churrupakin issued server command: /tab group Owner
+[00:45:00] [Async Chat Thread - #37/INFO]: [Not Secure] <XxMatos15> putamreeee
+[00:45:12] [Server thread/INFO]: Churrupakin issued server command: /tab group Owner churrupakin
+[00:45:26] [Async Chat Thread - #37/INFO]: [Not Secure] <XxMatos15> potias mi lut sigue de bajod e la lava
+[00:45:29] [Async Chat Thread - #37/INFO]: [Not Secure] <XxMatos15> ??
+[00:45:42] [Server thread/INFO]: Churrupakin issued server command: /tab group/player Churrupakin
+[00:45:50] [Async Chat Thread - #38/INFO]: [Not Secure] <Churrupakin> si creo
