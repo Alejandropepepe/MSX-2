@@ -16,7 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
+  logout: 1735234757208
   login: 1735233301601
 money: '0'
 last-account-name: SKrampusPEcausa
+logoutlocation:
+  world: e3e5e213-62c9-40bd-9930-796d34b159e0
+  world-name: world
+  x: 127.50011507967486
+  y: 63.0
+  z: 99.28849596909795
+  yaw: 10.06723690032959
+  pitch: 10.499955177307129
