@@ -472,3 +472,12 @@
 [01:16:32] [Server thread/INFO]: lacalacaxd lost connection: Disconnected
 [01:16:32] [Server thread/INFO]: [voicechat] Disconnecting client lacalacaxd
 [01:16:32] [Server thread/INFO]: lacalacaxd left the game
+[01:17:29] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
+[01:17:29] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
+[01:17:29] [Server thread/INFO]: pingaparaangel left the game
+[01:17:49] [User Authenticator #22/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
+[01:17:49] [Server thread/INFO]: pingaparaangel joined the game
+[01:17:49] [TAB Processing Thread/INFO]: [TAB] [WARN] Player pingaparaangel's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[01:17:49] [Server thread/INFO]: pingaparaangel[/172.28.117.248:53527] logged in with entity id 23279 at ([world]-56.23750001192093, 56.0, 251.21936834638475)
+[01:22:33] [Server thread/INFO]: pingaparaangel was impaled by Drowned
+[01:23:05] [Server thread/INFO]: pingaparaangel was impaled by Drowned
