@@ -950,3 +950,33 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [18:12:13] [Async Chat Thread - #26/INFO]: [Not Secure] Heroico  XxMatos15 : ya
 [18:14:30] [Server thread/INFO]: XxMatos15 issued server command: /qa craft
 [18:16:14] [Server thread/INFO]: XxMatos15 fell from a high place
+[18:17:07] [Server thread/INFO]: XxMatos15 issued server command: /skin random
+[18:18:24] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15
+[18:21:02] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15
+[18:23:08] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15 Churrupakin
+[18:23:36] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15 Churrupakin
+[18:23:43] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15 Churrupakin
+[18:23:49] [Async Chat Thread - #27/INFO]: [Not Secure] Owner Churrupakin : deja mis pnes
+[18:23:51] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15 Churrupakin
+[18:23:56] [Async Chat Thread - #27/INFO]: [Not Secure] Heroico  XxMatos15 : xd
+[18:24:13] [Async Chat Thread - #27/INFO]: [Not Secure] Heroico  XxMatos15 : abre tu jaula
+[18:24:21] [Async Chat Thread - #28/INFO]: [Not Secure] Heroico  XxMatos15 : para tradear
+[18:24:23] [Server thread/INFO]: Churrupakin issued server command: /fac unclaim
+[18:24:27] [Async Chat Thread - #28/INFO]: [Not Secure] Owner Churrupakin : ya
+[18:25:06] [Async Chat Thread - #27/INFO]: [Not Secure] Heroico  XxMatos15 : ya
+[18:25:38] [Server thread/INFO]: Churrupakin issued server command: /reload corfinm
+[18:25:38] [Server thread/INFO]: Churrupakin: Usage: /reload [permissions|commands|confirm]
+[18:25:49] [Server thread/INFO]: Churrupakin issued server command: /reload commands corfinm
+[18:25:49] [Server thread/INFO]: Churrupakin: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[18:25:54] [Server thread/INFO]: Churrupakin issued server command: /reload commands corfim
+[18:25:54] [Server thread/INFO]: Churrupakin: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[18:26:00] [Async Chat Thread - #28/INFO]: [Not Secure] Heroico  XxMatos15 : no s avre
+[18:26:01] [Server thread/INFO]: Churrupakin issued server command: /reload corfim
+[18:26:01] [Server thread/INFO]: Churrupakin: Usage: /reload [permissions|commands|confirm]
+[18:26:07] [Async Chat Thread - #27/INFO]: [Not Secure] Heroico  XxMatos15 : xd
+[18:26:12] [Async Chat Thread - #27/INFO]: [Not Secure] Owner Churrupakin : ese no lo puse
+[18:26:20] [Async Chat Thread - #28/INFO]: [Not Secure] Owner Churrupakin : es de espadas no tradea nd
+[18:26:31] [Async Chat Thread - #28/INFO]: [Not Secure] Heroico  XxMatos15 : hierro x esmeralda
+[18:26:32] [Async Chat Thread - #28/INFO]: [Not Secure] Owner Churrupakin : sino llevate unos aldeanos a tu casa
+[18:26:37] [Async Chat Thread - #28/INFO]: [Not Secure] Heroico  XxMatos15 : ya
+[18:26:40] [Server thread/INFO]: Churrupakin issued server command: /fac unclaim
