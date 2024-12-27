@@ -20,9 +20,6 @@
 ,"9-6-world": {"fillcolor": "#71708C","ytop": 64.00,"color": "#71708C","markup": true,"x": [144.00,160.00]
 ,"weight": 0,"z": [96.00,112.00]
 ,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">Papus<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">Churrupakin<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">100<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
-,"-4-16-world": {"fillcolor": "#A656C8","ytop": 64.00,"color": "#A656C8","markup": true,"x": [-64.00,-48.00]
-,"weight": 0,"z": [256.00,272.00]
-,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">%faction_name%<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">%faction_owner%<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">%faction_maxPower%<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
 ,"115--21-world": {"fillcolor": "#DB3D03","ytop": 64.00,"color": "#DB3D03","markup": true,"x": [1840.00,1856.00]
 ,"weight": 0,"z": [-336.00,-320.00]
 ,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">burdeldeminioms<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">Ram_Tz<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">100<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
@@ -96,10 +93,6 @@
 ,"y": [64.00,64.00,64.00,64.00,64.00]
 ,"weight": 3,"z": [-272.00,-272.00,-256.00,-256.00,-272.00]
 ,"label": "","opacity": 0.50}
-,"c1868ca5-51ad-4e6b-86f4-331e659be3b9-0": {"color": "#A656C8","markup": false,"x": [-64.00,-48.00,-48.00,-64.00,-64.00]
-,"y": [64.00,64.00,64.00,64.00,64.00]
-,"weight": 3,"z": [256.00,256.00,272.00,272.00,256.00]
-,"label": "","opacity": 0.50}
 ,"12f1b0cf-7ff9-4185-9046-2e1acc399932-0": {"color": "#71708C","markup": false,"x": [160.00,160.00,96.00,96.00,160.00]
 ,"y": [64.00,64.00,64.00,64.00,64.00]
 ,"weight": 3,"z": [128.00,80.00,80.00,128.00,128.00]
@@ -111,4 +104,4 @@
 }
 ,"layerprio": 10}
 }
-,"timestamp": 1735331464947}
+,"timestamp": 1735332201945}
