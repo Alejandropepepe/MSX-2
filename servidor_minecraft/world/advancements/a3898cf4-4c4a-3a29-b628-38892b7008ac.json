@@ -278,6 +278,7 @@
       "minecraft:ghast": "2024-12-24 23:00:24 +0000",
       "minecraft:hoglin": "2024-12-07 05:28:04 +0000",
       "minecraft:vindicator": "2024-12-09 01:33:05 +0000",
+      "minecraft:magma_cube": "2024-12-27 19:38:48 +0000",
       "minecraft:piglin_brute": "2024-12-07 05:28:30 +0000",
       "minecraft:spider": "2024-12-07 05:01:51 +0000",
       "minecraft:creeper": "2024-12-07 04:09:19 +0000",
@@ -1779,7 +1780,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-12-07 05:14:42 +0000",
-      "minecraft:nether_wastes": "2024-12-07 05:14:20 +0000"
+      "minecraft:nether_wastes": "2024-12-07 05:14:20 +0000",
+      "minecraft:soul_sand_valley": "2024-12-27 19:33:18 +0000"
     },
     "done": false
   },
@@ -3514,6 +3516,18 @@
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2024-12-27 04:13:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-27 19:54:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-12-27 19:54:25 +0000"
     },
     "done": true
   },
