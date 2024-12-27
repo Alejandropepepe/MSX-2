@@ -41,6 +41,9 @@
 ,"114--18-world": {"fillcolor": "#DB3D03","ytop": 64.00,"color": "#DB3D03","markup": true,"x": [1824.00,1840.00]
 ,"weight": 0,"z": [-288.00,-272.00]
 ,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">burdeldeminioms<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">Ram_Tz<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">100<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
+,"10-1-world": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": true,"x": [160.00,176.00]
+,"weight": 0,"z": [16.00,32.00]
+,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">%faction_name%<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">%faction_owner%<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">%faction_maxPower%<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
 ,"114--20-world": {"fillcolor": "#DB3D03","ytop": 64.00,"color": "#DB3D03","markup": true,"x": [1824.00,1840.00]
 ,"weight": 0,"z": [-320.00,-304.00]
 ,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">burdeldeminioms<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">Ram_Tz<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">100<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
@@ -83,18 +86,19 @@
 ,"9-7-world": {"fillcolor": "#71708C","ytop": 64.00,"color": "#71708C","markup": true,"x": [144.00,160.00]
 ,"weight": 0,"z": [112.00,128.00]
 ,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">Papus<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">Churrupakin<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">100<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
-,"-4-15-world": {"fillcolor": "#A656C8","ytop": 64.00,"color": "#A656C8","markup": true,"x": [-64.00,-48.00]
-,"weight": 0,"z": [240.00,256.00]
-,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">pene<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">XxMatos15<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">142<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
 }
 ,"label": "Factions","markers": {}
-,"lines": {"2b0fc96e-5a10-4bac-af7a-0ebe0c9f8801-0": {"color": "#FF0000","markup": false,"x": [1808.00,1824.00,1824.00,1808.00,1808.00]
+,"lines": {"71fc66e4-ae33-440f-a449-a645b2bbd535-0": {"color": "#FF0000","markup": false,"x": [160.00,176.00,176.00,160.00,160.00]
+,"y": [64.00,64.00,64.00,64.00,64.00]
+,"weight": 3,"z": [16.00,16.00,32.00,32.00,16.00]
+,"label": "","opacity": 0.50}
+,"2b0fc96e-5a10-4bac-af7a-0ebe0c9f8801-0": {"color": "#FF0000","markup": false,"x": [1808.00,1824.00,1824.00,1808.00,1808.00]
 ,"y": [64.00,64.00,64.00,64.00,64.00]
 ,"weight": 3,"z": [-272.00,-272.00,-256.00,-256.00,-272.00]
 ,"label": "","opacity": 0.50}
 ,"c1868ca5-51ad-4e6b-86f4-331e659be3b9-0": {"color": "#A656C8","markup": false,"x": [-64.00,-48.00,-48.00,-64.00,-64.00]
 ,"y": [64.00,64.00,64.00,64.00,64.00]
-,"weight": 3,"z": [240.00,240.00,272.00,272.00,240.00]
+,"weight": 3,"z": [256.00,256.00,272.00,272.00,256.00]
 ,"label": "","opacity": 0.50}
 ,"12f1b0cf-7ff9-4185-9046-2e1acc399932-0": {"color": "#71708C","markup": false,"x": [160.00,160.00,96.00,96.00,160.00]
 ,"y": [64.00,64.00,64.00,64.00,64.00]
@@ -107,4 +111,4 @@
 }
 ,"layerprio": 10}
 }
-,"timestamp": 1735327695945}
+,"timestamp": 1735331464947}

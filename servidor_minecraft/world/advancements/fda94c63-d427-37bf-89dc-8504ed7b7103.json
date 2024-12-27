@@ -3069,6 +3069,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-12-27 20:14:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-27 19:59:27 +0000"

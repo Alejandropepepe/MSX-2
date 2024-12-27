@@ -282,6 +282,7 @@
       "minecraft:piglin_brute": "2024-12-07 05:28:30 +0000",
       "minecraft:spider": "2024-12-07 05:01:51 +0000",
       "minecraft:creeper": "2024-12-07 04:09:19 +0000",
+      "minecraft:wither": "2024-12-27 20:10:58 +0000",
       "minecraft:slime": "2024-12-16 20:21:41 +0000",
       "minecraft:evoker": "2024-12-23 00:32:02 +0000",
       "minecraft:phantom": "2024-12-07 18:16:52 +0000",
@@ -3519,9 +3520,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-27 20:10:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2024-12-27 20:29:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2024-12-27 19:54:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-27 20:10:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-12-27 20:07:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-12-27 20:11:00 +0000"
     },
     "done": true
   },
