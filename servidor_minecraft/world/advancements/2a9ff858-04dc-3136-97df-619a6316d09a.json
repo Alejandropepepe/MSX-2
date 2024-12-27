@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-12-27 22:59:49 +0000",
       "minecraft:taiga": "2024-12-07 18:47:02 +0000",
       "minecraft:frozen_river": "2024-12-07 20:02:55 +0000",
       "minecraft:cherry_grove": "2024-12-07 19:43:49 +0000",
@@ -22,6 +23,7 @@
       "minecraft:deep_cold_ocean": "2024-12-25 00:30:45 +0000",
       "minecraft:ice_spikes": "2024-12-07 20:02:46 +0000",
       "minecraft:ocean": "2024-12-07 17:48:09 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-27 22:55:54 +0000",
       "minecraft:meadow": "2024-12-07 03:46:50 +0000",
       "minecraft:plains": "2024-12-07 03:14:40 +0000"
     },
@@ -743,7 +745,8 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:sheep": "2024-12-07 03:26:57 +0000",
-      "minecraft:cow": "2024-12-07 03:26:28 +0000"
+      "minecraft:cow": "2024-12-07 03:26:28 +0000",
+      "minecraft:wolf": "2024-12-27 23:20:32 +0000"
     },
     "done": false
   },
