@@ -5,29 +5,14 @@
 ,"lines": {}
 ,"layerprio": 0}
 ,"factions": {"hide": false,"circles": {}
-,"areas": {"116--21-world": {"fillcolor": "#DB3D03","ytop": 64.00,"color": "#DB3D03","markup": true,"x": [1856.00,1872.00]
-,"weight": 0,"z": [-336.00,-320.00]
-,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">%faction_name%<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">%faction_owner%<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">%faction_maxPower%<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
-,"114--19-world": {"fillcolor": "#DB3D03","ytop": 64.00,"color": "#DB3D03","markup": true,"x": [1824.00,1840.00]
+,"areas": {"114--19-world": {"fillcolor": "#DB3D03","ytop": 64.00,"color": "#DB3D03","markup": true,"x": [1824.00,1840.00]
 ,"weight": 0,"z": [-304.00,-288.00]
 ,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">burdeldeminioms<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">Ram_Tz<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">100<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
-,"7-6-world": {"fillcolor": "#71708C","ytop": 64.00,"color": "#71708C","markup": true,"x": [112.00,128.00]
-,"weight": 0,"z": [96.00,112.00]
-,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">Papus<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">Churrupakin<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">100<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
 ,"115--18-world": {"fillcolor": "#DB3D03","ytop": 64.00,"color": "#DB3D03","markup": true,"x": [1840.00,1856.00]
 ,"weight": 0,"z": [-288.00,-272.00]
 ,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">burdeldeminioms<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">Ram_Tz<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">100<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
-,"115--19-world": {"fillcolor": "#DB3D03","ytop": 64.00,"color": "#DB3D03","markup": true,"x": [1840.00,1856.00]
-,"weight": 0,"z": [-304.00,-288.00]
-,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">%faction_name%<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">%faction_owner%<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">%faction_maxPower%<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
-,"116--18-world": {"fillcolor": "#DB3D03","ytop": 64.00,"color": "#DB3D03","markup": true,"x": [1856.00,1872.00]
-,"weight": 0,"z": [-288.00,-272.00]
-,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">burdeldeminioms<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">Ram_Tz<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">100<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
-,"8-5-world": {"fillcolor": "#71708C","ytop": 64.00,"color": "#71708C","markup": true,"x": [128.00,144.00]
-,"weight": 0,"z": [80.00,96.00]
-,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">Papus<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">Churrupakin<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">100<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
-,"8-7-world": {"fillcolor": "#71708C","ytop": 64.00,"color": "#71708C","markup": true,"x": [128.00,144.00]
-,"weight": 0,"z": [112.00,128.00]
+,"7-6-world": {"fillcolor": "#71708C","ytop": 64.00,"color": "#71708C","markup": true,"x": [112.00,128.00]
+,"weight": 0,"z": [96.00,112.00]
 ,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">Papus<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">Churrupakin<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">100<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
 ,"116--19-world": {"fillcolor": "#DB3D03","ytop": 64.00,"color": "#DB3D03","markup": true,"x": [1856.00,1872.00]
 ,"weight": 0,"z": [-304.00,-288.00]
@@ -38,9 +23,9 @@
 ,"-4-16-world": {"fillcolor": "#A656C8","ytop": 64.00,"color": "#A656C8","markup": true,"x": [-64.00,-48.00]
 ,"weight": 0,"z": [256.00,272.00]
 ,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">%faction_name%<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">%faction_owner%<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">%faction_maxPower%<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
-,"7-7-world": {"fillcolor": "#71708C","ytop": 64.00,"color": "#71708C","markup": true,"x": [112.00,128.00]
-,"weight": 0,"z": [112.00,128.00]
-,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">Papus<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">Churrupakin<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">100<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
+,"115--21-world": {"fillcolor": "#DB3D03","ytop": 64.00,"color": "#DB3D03","markup": true,"x": [1840.00,1856.00]
+,"weight": 0,"z": [-336.00,-320.00]
+,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">burdeldeminioms<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">Ram_Tz<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">100<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
 ,"116--20-world": {"fillcolor": "#DB3D03","ytop": 64.00,"color": "#DB3D03","markup": true,"x": [1856.00,1872.00]
 ,"weight": 0,"z": [-320.00,-304.00]
 ,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">burdeldeminioms<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">Ram_Tz<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">100<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
@@ -53,30 +38,76 @@
 ,"7-5-world": {"fillcolor": "#71708C","ytop": 64.00,"color": "#71708C","markup": true,"x": [112.00,128.00]
 ,"weight": 0,"z": [80.00,96.00]
 ,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">Papus<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">Churrupakin<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">100<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
+,"6-5-world": {"fillcolor": "#71708C","ytop": 64.00,"color": "#71708C","markup": true,"x": [96.00,112.00]
+,"weight": 0,"z": [80.00,96.00]
+,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">Papus<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">Churrupakin<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">100<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
+,"114--18-world": {"fillcolor": "#DB3D03","ytop": 64.00,"color": "#DB3D03","markup": true,"x": [1824.00,1840.00]
+,"weight": 0,"z": [-288.00,-272.00]
+,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">burdeldeminioms<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">Ram_Tz<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">100<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
+,"114--20-world": {"fillcolor": "#DB3D03","ytop": 64.00,"color": "#DB3D03","markup": true,"x": [1824.00,1840.00]
+,"weight": 0,"z": [-320.00,-304.00]
+,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">burdeldeminioms<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">Ram_Tz<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">100<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
+,"116--21-world": {"fillcolor": "#DB3D03","ytop": 64.00,"color": "#DB3D03","markup": true,"x": [1856.00,1872.00]
+,"weight": 0,"z": [-336.00,-320.00]
+,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">%faction_name%<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">%faction_owner%<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">%faction_maxPower%<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
+,"9-5-world": {"fillcolor": "#71708C","ytop": 64.00,"color": "#71708C","markup": true,"x": [144.00,160.00]
+,"weight": 0,"z": [80.00,96.00]
+,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">Papus<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">Churrupakin<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">100<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
+,"6-7-world": {"fillcolor": "#71708C","ytop": 64.00,"color": "#71708C","markup": true,"x": [96.00,112.00]
+,"weight": 0,"z": [112.00,128.00]
+,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">Papus<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">Churrupakin<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">100<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
+,"115--19-world": {"fillcolor": "#DB3D03","ytop": 64.00,"color": "#DB3D03","markup": true,"x": [1840.00,1856.00]
+,"weight": 0,"z": [-304.00,-288.00]
+,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">%faction_name%<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">%faction_owner%<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">%faction_maxPower%<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
+,"116--18-world": {"fillcolor": "#DB3D03","ytop": 64.00,"color": "#DB3D03","markup": true,"x": [1856.00,1872.00]
+,"weight": 0,"z": [-288.00,-272.00]
+,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">burdeldeminioms<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">Ram_Tz<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">100<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
+,"8-5-world": {"fillcolor": "#71708C","ytop": 64.00,"color": "#71708C","markup": true,"x": [128.00,144.00]
+,"weight": 0,"z": [80.00,96.00]
+,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">Papus<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">Churrupakin<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">100<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
+,"8-7-world": {"fillcolor": "#71708C","ytop": 64.00,"color": "#71708C","markup": true,"x": [128.00,144.00]
+,"weight": 0,"z": [112.00,128.00]
+,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">Papus<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">Churrupakin<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">100<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
+,"114--21-world": {"fillcolor": "#DB3D03","ytop": 64.00,"color": "#DB3D03","markup": true,"x": [1824.00,1840.00]
+,"weight": 0,"z": [-336.00,-320.00]
+,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">burdeldeminioms<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">Ram_Tz<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">100<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
+,"7-7-world": {"fillcolor": "#71708C","ytop": 64.00,"color": "#71708C","markup": true,"x": [112.00,128.00]
+,"weight": 0,"z": [112.00,128.00]
+,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">Papus<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">Churrupakin<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">100<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
+,"113--17-world": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": true,"x": [1808.00,1824.00]
+,"weight": 0,"z": [-272.00,-256.00]
+,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">%faction_name%<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">%faction_owner%<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">%faction_maxPower%<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
+,"115--20-world": {"fillcolor": "#DB3D03","ytop": 64.00,"color": "#DB3D03","markup": true,"x": [1840.00,1856.00]
+,"weight": 0,"z": [-320.00,-304.00]
+,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">burdeldeminioms<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">Ram_Tz<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">100<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
 ,"9-7-world": {"fillcolor": "#71708C","ytop": 64.00,"color": "#71708C","markup": true,"x": [144.00,160.00]
 ,"weight": 0,"z": [112.00,128.00]
 ,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">Papus<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">Churrupakin<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">100<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
 ,"-4-15-world": {"fillcolor": "#A656C8","ytop": 64.00,"color": "#A656C8","markup": true,"x": [-64.00,-48.00]
 ,"weight": 0,"z": [240.00,256.00]
 ,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">pene<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">XxMatos15<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">142<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
-,"114--18-world": {"fillcolor": "#DB3D03","ytop": 64.00,"color": "#DB3D03","markup": true,"x": [1824.00,1840.00]
-,"weight": 0,"z": [-288.00,-272.00]
-,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">burdeldeminioms<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">Ram_Tz<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">100<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
+,"6-6-world": {"fillcolor": "#71708C","ytop": 64.00,"color": "#71708C","markup": true,"x": [96.00,112.00]
+,"weight": 0,"z": [96.00,112.00]
+,"ybottom": 64.00,"label": "<p style=\"font-weight:700;text-align:center\">Papus<\/p><hr \/><div style=\"margin-bottom:10px\">Owner: <span style=\"font-weight:700\">Churrupakin<\/span><\/div><div style=\"margin-bottom:10px\">Max Power: <span style=\"font-weight:700\">100<\/span><\/div>","opacity": 0.00,"fillopacity": 0.30}
 }
 ,"label": "Factions","markers": {}
 ,"lines": {"ba49a5ae-1362-4f17-8499-19625d7b6df3-0": {"color": "#A656C8","markup": false,"x": [-80.00,-80.00,-64.00,-64.00,-48.00,-48.00,-80.00]
 ,"y": [64.00,64.00,64.00,64.00,64.00,64.00,64.00]
 ,"weight": 3,"z": [240.00,256.00,256.00,272.00,272.00,240.00,240.00]
 ,"label": "","opacity": 0.50}
-,"abe274e0-439d-42c7-a6f5-e3216b202c1c-0": {"color": "#71708C","markup": false,"x": [144.00,144.00,112.00,112.00,160.00,160.00,144.00]
-,"y": [64.00,64.00,64.00,64.00,64.00,64.00,64.00]
-,"weight": 3,"z": [96.00,80.00,80.00,128.00,128.00,96.00,96.00]
+,"abe274e0-439d-42c7-a6f5-e3216b202c1c-0": {"color": "#71708C","markup": false,"x": [160.00,160.00,96.00,96.00,160.00]
+,"y": [64.00,64.00,64.00,64.00,64.00]
+,"weight": 3,"z": [128.00,80.00,80.00,128.00,128.00]
 ,"label": "","opacity": 0.50}
-,"bf60678b-9d8e-4139-a31a-920843159335-0": {"color": "#DB3D03","markup": false,"x": [1856.00,1824.00,1824.00,1872.00,1872.00,1856.00,1856.00]
-,"y": [64.00,64.00,64.00,64.00,64.00,64.00,64.00]
-,"weight": 3,"z": [-304.00,-304.00,-272.00,-272.00,-336.00,-336.00,-304.00]
+,"4de02a0a-6c35-447a-b297-b0da0e50352e-0": {"color": "#FF0000","markup": false,"x": [1808.00,1824.00,1824.00,1808.00,1808.00]
+,"y": [64.00,64.00,64.00,64.00,64.00]
+,"weight": 3,"z": [-272.00,-272.00,-256.00,-256.00,-272.00]
+,"label": "","opacity": 0.50}
+,"bf60678b-9d8e-4139-a31a-920843159335-0": {"color": "#DB3D03","markup": false,"x": [1824.00,1872.00,1872.00,1824.00,1824.00]
+,"y": [64.00,64.00,64.00,64.00,64.00]
+,"weight": 3,"z": [-272.00,-272.00,-336.00,-336.00,-272.00]
 ,"label": "","opacity": 0.50}
 }
 ,"layerprio": 10}
 }
-,"timestamp": 1735273642786}
+,"timestamp": 1735274546783}
