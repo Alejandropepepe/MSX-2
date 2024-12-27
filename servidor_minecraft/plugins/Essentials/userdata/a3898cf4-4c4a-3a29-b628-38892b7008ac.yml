@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1735332585954
-  login: 1735325493410
+  logout: 1735333284752
+  login: 1735333260766
 money: '0'
 last-account-name: Churrupakin
 logoutlocation:
@@ -26,8 +26,8 @@ logoutlocation:
   x: 169.8683882041996
   y: 49.0
   z: 27.411157596944744
-  yaw: 118.3974380493164
-  pitch: -4.951969146728516
+  yaw: 115.09740447998047
+  pitch: -9.601966857910156
 lastlocation:
   world: e3e5e213-62c9-40bd-9930-796d34b159e0
   world-name: world
