@@ -929,3 +929,15 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [21:11:27] [Server thread/INFO]: XxMatos15 lost connection: Disconnected
 [21:11:27] [Server thread/INFO]: [voicechat] Disconnecting client XxMatos15
 [21:11:27] [Server thread/INFO]: XxMatos15 left the game
+[21:18:54] [User Authenticator #9/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[21:18:55] [Server thread/INFO]: Churrupakin joined the game
+[21:18:55] [Server thread/INFO]: Churrupakin[/172.28.161.65:52703] logged in with entity id 53901 at ([world]169.8683882041996, 49.0, 27.411157596944744)
+[21:18:55] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[21:18:55] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[21:18:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[21:18:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[21:18:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[21:19:23] [Async Chat Thread - #68/INFO]: [Not Secure] Owner Churrupakin : y chifa
+[21:19:57] [Server thread/INFO]: Churrupakin issued server command: /fac list
+[21:23:38] [Async Chat Thread - #70/INFO]: [Not Secure] Heroico  pingaparaangel : te salio
+[21:23:44] [Async Chat Thread - #70/INFO]: [Not Secure] Heroico  pingaparaangel : dice q ms tarde entra
