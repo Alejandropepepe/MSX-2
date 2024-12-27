@@ -941,3 +941,7 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [21:19:57] [Server thread/INFO]: Churrupakin issued server command: /fac list
 [21:23:38] [Async Chat Thread - #70/INFO]: [Not Secure] Heroico  pingaparaangel : te salio
 [21:23:44] [Async Chat Thread - #70/INFO]: [Not Secure] Heroico  pingaparaangel : dice q ms tarde entra
+[21:39:46] [Server thread/INFO]: pingaparaangel fell from a high place
+[21:41:03] [Server thread/INFO]: Churrupakin issued server command: /tp pingaparaangel Churrupakin
+[21:43:38] [Server thread/INFO]: pingaparaangel issued server command: /fac home
+[21:43:51] [Server thread/INFO]: pingaparaangel issued server command: /fac home
