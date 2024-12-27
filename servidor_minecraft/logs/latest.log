@@ -945,3 +945,6 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [21:41:03] [Server thread/INFO]: Churrupakin issued server command: /tp pingaparaangel Churrupakin
 [21:43:38] [Server thread/INFO]: pingaparaangel issued server command: /fac home
 [21:43:51] [Server thread/INFO]: pingaparaangel issued server command: /fac home
+[21:46:39] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[21:46:39] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[21:46:39] [Server thread/INFO]: Churrupakin left the game
