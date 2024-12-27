@@ -309,3 +309,119 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [03:49:01] [Async Chat Thread - #0/INFO]: [Not Secure] Heroico  XxMatos15 : XD
 [03:49:16] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 6700 tiles rendered (495.82 msec/tile, 897.96 msec per render)
 [03:50:16] [Server thread/INFO]: XxMatos15 issued server command: /skin black
+[03:50:33] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  pingaparaangel : como cambio de skin
+[03:50:42] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  XxMatos15 : ./skin
+[03:50:47] [Server thread/INFO]: pingaparaangel issued server command: /skin
+[03:50:49] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 6800 tiles rendered (502.10 msec/tile, 894.74 msec per render)
+[03:50:57] [Server thread/INFO]: pingaparaangel issued server command: /skin help skin help [query]
+[03:51:02] [Server thread/INFO]: XxMatos15 issued server command: /skin rando,
+[03:51:06] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  pingaparaangel : steve
+[03:51:12] [Server thread/INFO]: XxMatos15 issued server command: /skin random
+[03:51:16] [User Authenticator #3/INFO]: UUID of player Ram_Tz is a8201390-5a88-393b-afd5-4279b72be2d9
+[03:51:17] [Server thread/INFO]: Ram_Tz joined the game
+[03:51:17] [Server thread/INFO]: Ram_Tz[/172.28.72.140:63618] logged in with entity id 1652 at ([world]142.40153042761753, 63.875, 100.73242119957447)
+[03:51:25] [Server thread/INFO]: pingaparaangel issued server command: /skin help skin <skinName>
+[03:51:38] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  pingaparaangel : ya fue xd
+[03:51:44] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  XxMatos15 : no da?
+[03:51:45] [Async Chat Thread - #3/INFO]: [Not Secure] Heroico  pingaparaangel : no entiendo nd
+[03:51:51] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  XxMatos15 : pones
+[03:52:00] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  pingaparaangel : me pide name
+[03:52:01] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  XxMatos15 : ./skin (nombre de la skin)
+[03:52:08] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  pingaparaangel : pasa nombres
+[03:52:09] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  XxMatos15 : peru ponle
+[03:52:19] [Server thread/INFO]: pingaparaangel issued server command: /skin help skin <skinName>
+[03:52:22] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  XxMatos15 : eso
+[03:52:28] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  XxMatos15 : Gejziaraslayo
+[03:52:30] [Server thread/INFO]: pingaparaangel issued server command: /skin peru
+[03:52:37] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  XxMatos15 : pones /skin Gejziaraslayo
+[03:52:43] [Server thread/INFO]: XxMatos15 issued server command: /skin Gejziaraslayo
+[03:52:45] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  pingaparaangel : soy una perra xd
+[03:52:52] [Server thread/INFO]: pingaparaangel issued server command: /skin help skin <skinName>
+[03:52:54] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 6900 tiles rendered (512.15 msec/tile, 932.01 msec per render)
+[03:52:59] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  XxMatos15 : XDD
+[03:53:05] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  XxMatos15 : quedate asi nmas
+[03:53:12] [Server thread/INFO]: pingaparaangel issued server command: /skin Gejziaraslayo
+[03:53:18] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  pingaparaangel : diavlo
+[03:53:36] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /me perras les da el xray?
+[03:53:36] [Server thread/INFO]: * @ perras les da el xray?
+[03:54:03] [Server thread/INFO]: XxMatos15 issued server command: /skin Dripping
+[03:54:16] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  XxMatos15 : esta esta piola
+[03:54:25] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  XxMatos15 : con una capa de la cara de rodrigo
+[03:54:32] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  XxMatos15 : ./skin Dripping
+[03:54:36] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /me digan p
+[03:54:36] [Server thread/INFO]: * @ digan p
+[03:54:47] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  XxMatos15 : q decimos
+[03:54:52] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 7000 tiles rendered (521.49 msec/tile, 952.95 msec per render)
+[03:54:52] [Async Chat Thread - #3/INFO]: [Not Secure] Heroico  pingaparaangel : pera
+[03:55:09] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /me prueben su xray a ver si les da o los bota del server
+[03:55:09] [Server thread/INFO]: * @ prueben su xray a ver si les da o los bota del server
+[03:55:20] [Server thread/INFO]: XxMatos15 lost connection: Disconnected
+[03:55:20] [Server thread/INFO]: [voicechat] Disconnecting client XxMatos15
+[03:55:20] [Server thread/INFO]: XxMatos15 left the game
+[03:55:21] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  pingaparaangel : si me da
+[03:55:32] [User Authenticator #4/INFO]: UUID of player XxMatos15 is 2a9ff858-04dc-3136-97df-619a6316d09a
+[03:55:32] [Server thread/INFO]: XxMatos15 joined the game
+[03:55:32] [Server thread/INFO]: XxMatos15[/172.28.131.63:60310] logged in with entity id 3630 at ([world]-56.79336046782833, 56.0, 251.05753409251102)
+[03:55:33] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  pingaparaangel : no lo quites p
+[03:55:36] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  XxMatos15 : xd
+[03:55:43] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  pingaparaangel : quiero diamantitos
+[03:55:56] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  XxMatos15 : quita mejor ese plugin de spam
+[03:56:04] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  pingaparaangel : a la mrd
+[03:56:06] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  XxMatos15 : no deja mandar msg despues de 5 segundos
+[03:56:18] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  pingaparaangel : tremendo lag con x ray
+[03:56:29] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  pingaparaangel : eso no pasaba
+[03:56:29] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 7100 tiles rendered (527.73 msec/tile, 951.35 msec per render)
+[03:56:44] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  pingaparaangel : ni moverme puedo xdd
+[03:57:04] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  XxMatos15 : es tu pc
+[03:57:08] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /me para q no espamees p m llega tener un culo d msj y ni se como s quita pq si quito ese s quita otros plugins
+[03:57:08] [Server thread/INFO]: * @ para q no espamees p m llega tener un culo d msj y ni se como s quita pq si quito ese s quita otros plugins
+[03:57:19] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  XxMatos15 : xd
+[03:57:22] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /me wbon su pc es un i3 de decima creo
+[03:57:22] [Server thread/INFO]: * @ wbon su pc es un i3 de decima creo
+[03:57:30] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /me sobrao le da
+[03:57:30] [Server thread/INFO]: * @ sobrao le da
+[03:57:48] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /me mi wbda es una i3 de 5ta y le da casi tdo xd
+[03:57:48] [Server thread/INFO]: * @ mi wbda es una i3 de 5ta y le da casi tdo xd
+[03:57:49] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  pingaparaangel : xdd
+[03:57:55] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  XxMatos15 : y mi pc de q es
+[03:57:58] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  pingaparaangel : oe
+[03:58:08] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  pingaparaangel : con x ray ahora me da lag de mrd
+[03:58:10] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /me ni idea xddddd
+[03:58:10] [Server thread/INFO]: * @ ni idea xddddd
+[03:58:14] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  pingaparaangel : pero antes no
+[03:58:20] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 7200 tiles rendered (535.42 msec/tile, 958.25 msec per render)
+[03:58:40] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  XxMatos15 : tienes q pagar
+[03:58:45] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  XxMatos15 : para q no te de lag
+[03:58:56] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /me XDDDDDDDDDD
+[03:58:56] [Server thread/INFO]: * @ XDDDDDDDDDD
+[03:58:58] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  pingaparaangel : ecomo asi
+[03:59:12] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  pingaparaangel : sin el xray me da fluidazo xd
+[03:59:27] [Async Chat Thread - #3/INFO]: [Not Secure] Heroico  pingaparaangel : no es la pc
+[03:59:45] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /me seguro esta q consume muchos recursos al activarlo
+[03:59:45] [Server thread/INFO]: * @ seguro esta q consume muchos recursos al activarlo
+[03:59:53] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /me cmbia de texture pack
+[03:59:53] [Server thread/INFO]: * @ cmbia de texture pack
+[04:00:12] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  XxMatos15 : pasate 6 stack de carbon
+[04:00:31] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 7300 tiles rendered (545.75 msec/tile, 983.05 msec per render)
+[04:00:51] [Async Chat Thread - #3/INFO]: [Not Secure] Heroico  pingaparaangel : chupa pene
+[04:00:58] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[04:01:08] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  pingaparaangel : porq antes no pasaba eso con la wbd de x ray
+[04:01:14] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /me xd
+[04:01:14] [Server thread/INFO]: * @ xd
+[04:01:22] [Async Chat Thread - #3/INFO]: [Not Secure] Heroico  XxMatos15 : ami me da normal
+[04:01:29] [Async Chat Thread - #3/INFO]: [Not Secure] Heroico  XxMatos15 : y eso q tengo 16 de chunk
+[04:01:59] [User Authenticator #5/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[04:01:59] [Server thread/INFO]: Churrupakin joined the game
+[04:01:59] [Server thread/INFO]: Churrupakin[/172.28.161.65:50244] logged in with entity id 7993 at ([world]122.59593835437333, 63.0, 107.718891827033)
+[04:02:01] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[04:02:01] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[04:02:02] [Server thread/INFO]: XxMatos15 issued server command: /fac home
+[04:02:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[04:02:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[04:02:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[04:02:18] [Async Chat Thread - #3/INFO]: [Not Secure] Heroico  pingaparaangel : a la mrd con el lag
+[04:02:26] [Async Chat Thread - #3/INFO]: [Not Secure] Heroico  pingaparaangel : o yr
+[04:02:33] [Server thread/INFO]: Churrupakin issued server command: /dynmap pause all
+[04:02:33] [Server thread/INFO]: [dynmap] Full/radius render pause set to true
+[04:02:33] [Server thread/INFO]: [dynmap] Update render pause set to true
+[04:02:37] [Async Chat Thread - #3/INFO]: [Not Secure] Heroico  pingaparaangel : hay cdiamantes debajo del piso chifa
