@@ -15,6 +15,7 @@
       "minecraft:snowy_plains": "2024-12-24 04:00:35 +0000",
       "minecraft:dripstone_caves": "2024-12-16 23:13:40 +0000",
       "minecraft:snowy_taiga": "2024-12-24 04:00:39 +0000",
+      "minecraft:grove": "2024-12-27 22:50:18 +0000",
       "minecraft:forest": "2024-12-10 21:16:01 +0000",
       "minecraft:deep_dark": "2024-12-25 19:17:58 +0000",
       "minecraft:meadow": "2024-12-16 22:45:01 +0000",
@@ -2997,9 +2998,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2024-12-27 22:13:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-27 19:59:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2024-12-27 22:13:10 +0000"
     },
     "done": true
   },
@@ -3012,6 +3025,12 @@
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-27 19:59:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2024-12-27 22:13:10 +0000"
     },
     "done": true
   },
