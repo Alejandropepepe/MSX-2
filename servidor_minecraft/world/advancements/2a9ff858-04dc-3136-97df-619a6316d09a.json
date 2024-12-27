@@ -3374,6 +3374,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-27 20:01:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_red_mushroom": "2024-12-27 19:45:49 +0000"
@@ -3431,6 +3437,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2024-12-27 19:33:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-12-27 20:01:16 +0000"
     },
     "done": true
   },
