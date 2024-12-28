@@ -1,1340 +1,148 @@
-[18:46:46] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18:46:51] [ServerMain/INFO]: Loaded 7 recipes
-[18:46:53] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[18:46:53] [Server thread/INFO]: Loading properties
-[18:46:53] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[18:46:55] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:46:55] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:46:55] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
-    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
-    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[18:46:56] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[18:46:56] [Server thread/INFO]: Default game type: SURVIVAL
-[18:46:56] [Server thread/INFO]: Generating keypair
-[18:46:57] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:46:57] [Server thread/INFO]: Using epoll channel type
-[18:46:57] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[18:46:57] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[18:46:57] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/customcrafting-spigot-4.16.11.jar' in 'plugins'
-org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [WolfyUtilities]. Please download and install these plugins to run 'CustomCrafting'.
-	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.20.1.jar:git-Paper-196]
-	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:39) ~[paper-1.20.1.jar:git-Paper-196]
-	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:36) ~[paper-1.20.1.jar:git-Paper-196]
-	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.loadPlugins(CraftServer.java:510) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:273) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1100) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[18:46:58] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loading 2 libraries... please wait
-[18:46:58] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loaded library /workspaces/MSX-2/servidor_minecraft/libraries/it/unimi/dsi/fastutil/8.5.11/fastutil-8.5.11.jar
-[18:46:58] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loaded library /workspaces/MSX-2/servidor_minecraft/libraries/com/zaxxer/HikariCP/5.0.1/HikariCP-5.0.1.jar
-[18:46:58] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loaded library /workspaces/MSX-2/servidor_minecraft/libraries/org/slf4j/slf4j-api/2.0.0-alpha1/slf4j-api-2.0.0-alpha1.jar
-[18:46:58] [Server thread/INFO]: [PLAZMER-ENGINE] Server version detected as Paper 1.20.1.
-[18:46:58] [Server thread/INFO]: [PLAZMER-ENGINE] [Core Components] ENTITY_ID_GENERATOR: Loaded
-[18:46:58] [Server thread/INFO]: [PLAZMER-ENGINE] [Core Components] ITEM_NBT_COMPRESSOR: Loaded
-[18:46:59] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
-[18:47:00] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
-[18:47:00] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
-[18:47:02] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
-[18:47:02] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
-[18:47:02] [Server thread/INFO]: [dynmap] Loading server plugin dynmap v3.7-SNAPSHOT-948
-[18:47:02] [Server thread/INFO]: [dynmap] version=git-Paper-196 (MC: 1.20.1)
-[18:47:02] [Server thread/INFO]: [dynmap] Mod Support API available
-[18:47:02] [Server thread/INFO]: [DecentHolograms] Loading server plugin DecentHolograms v2.8.12
-[18:47:02] [Server thread/INFO]: [PLAZMER-ENGINE] Loading server plugin PLAZMER-ENGINE v2.4.8
-[18:47:02] [Server thread/INFO]: [CrazyEnchantments] Loading server plugin CrazyEnchantments v2.1
-[18:47:02] [Server thread/INFO]: [ChatEx] Loading server plugin ChatEx v3.1.0
-[18:47:02] [Server thread/INFO]: [QualityArmory] Loading server plugin QualityArmory v2.0.17
-[18:47:02] [Server thread/INFO]: [AxGraves] Loading server plugin AxGraves v1.17.0
-[18:47:03] [Server thread/INFO]: [AxGraves] Loading library commons-math3
-[18:47:03] [Server thread/INFO]: [AxGraves] Loading library caffeine
-[18:47:03] [Server thread/INFO]: [sleep-most] Loading server plugin sleep-most v5.5.1
-[18:47:03] [Server thread/INFO]: [ImprovedFactions] Loading server plugin ImprovedFactions v2.2.0
-[18:47:03] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.3
-[18:47:03] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.26
-[18:47:03] [Server thread/INFO]: [Orebfuscator] Loading server plugin Orebfuscator v5.5.2
-[18:47:03] [Server thread/INFO]: [ProtectionBlocks] Loading server plugin ProtectionBlocks v1.0.9
-[18:47:03] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:47:03] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
-[18:47:03] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
-[18:47:04] [Server thread/INFO]:         __    
-[18:47:04] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
-[18:47:04] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[18:47:04] [Server thread/INFO]: 
-[18:47:04] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[18:47:05] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[18:47:07] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[18:47:07] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[18:47:08] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 4977ms)
-[18:47:08] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
-[18:47:09] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[18:47:10] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
-[18:47:12] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[18:47:12] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.5.1]
-[18:47:12] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
-[18:47:12] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
-[18:47:12] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
-[18:47:12] [Server thread/INFO]: [PLAZMER-ENGINE] Enabling PLAZMER-ENGINE v2.4.8
-[18:47:12] [Server thread/WARN]: [PLAZMER-ENGINE] ===================================
-[18:47:12] [Server thread/WARN]: [PLAZMER-ENGINE] WARNING: You're running an outdated server version (1.20.1)!
-[18:47:12] [Server thread/WARN]: [PLAZMER-ENGINE] This version will no longer be supported in future relases.
-[18:47:12] [Server thread/WARN]: [PLAZMER-ENGINE] Please upgrade your server to 1.20.4.
-[18:47:12] [Server thread/WARN]: [PLAZMER-ENGINE] ABSOLUTELY NO DISCORD SUPPORT WILL BE PROVIDED
-[18:47:12] [Server thread/WARN]: [PLAZMER-ENGINE] ===================================
-[18:47:12] [Server thread/INFO]: [PLAZMER-ENGINE] Seems like we have Paper based fork here...
-[18:47:12] [Server thread/INFO]: [PLAZMER-ENGINE] Plugin loaded in 205 ms!
-[18:47:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:47:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:47:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:47:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:47:12] [Server thread/INFO]: Preparing level "world"
-[18:47:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[18:47:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[18:47:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[18:47:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[18:47:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[18:47:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[18:47:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[18:47:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.1
-[18:47:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: d5d8613
-[18:47:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[18:47:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[18:47:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[18:47:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[18:47:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:47:15] [Server thread/INFO]: Time elapsed: 979 ms
-[18:47:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[18:47:15] [Server thread/INFO]: Time elapsed: 216 ms
-[18:47:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[18:47:16] [Server thread/INFO]: Time elapsed: 178 ms
-[18:47:16] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[18:47:18] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[18:47:18] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
-[18:47:19] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[18:47:19] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[18:47:21] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
-[18:47:21] [Server thread/INFO]: [Essentials] Using locale en
-[18:47:21] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[18:47:21] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[18:47:22] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
-[18:47:22] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
-[18:47:22] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[18:47:22] [Server thread/INFO]: [dynmap] Enabling dynmap v3.7-SNAPSHOT-948
-[18:47:23] [Server thread/INFO]: [dynmap] Added 20 custom biome mappings
-[18:47:23] [Server thread/INFO]: [dynmap] Using LuckPerms 5.4.131 for access control
-[18:47:24] [Server thread/INFO]: [dynmap] Mod Support processing completed
-[18:47:37] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
-[18:47:37] [Server thread/INFO]: [dynmap] Loaded 83 perspectives.
-[18:47:37] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
-[18:47:37] [Server thread/INFO]: [dynmap] Starting enter/exit processing
-[18:47:38] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
-[18:47:38] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
-[18:47:38] [Server thread/INFO]: [dynmap] version 3.7-SNAPSHOT-948 is enabled - core version 3.7-SNAPSHOT-949
-[18:47:38] [Server thread/INFO]: [dynmap] For support, visit our Discord at https://discord.gg/s3rd5qn
-[18:47:38] [Server thread/INFO]: [dynmap] For news, visit https://reddit.com/r/Dynmap or follow https://universeodon.com/@dynmap
-[18:47:38] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
-[18:47:38] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
-[18:47:38] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
-[18:47:38] [Server thread/INFO]: [dynmap] Loaded 4350 pending tile renders for world 'world'
-[18:47:38] [Server thread/INFO]: [dynmap] Full render for world 'world' restored
-[18:47:38] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
-[18:47:38] [Server thread/INFO]: [dynmap] Loaded 1038 pending tile renders for world 'world_nether'
-[18:47:38] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
-[18:47:39] [Server thread/INFO]: [dynmap] Enabled
-[18:47:39] [Server thread/INFO]: [DecentHolograms] Enabling DecentHolograms v2.8.12
-[18:47:39] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_20_R1! Trying to find NMS support
-[18:47:39] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
-[18:47:39] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'DecentHolograms' to create a bStats instance!
-[18:47:39] [Server thread/INFO]: [CrazyEnchantments] Enabling CrazyEnchantments v2.1
-[18:47:39] [Server thread/INFO]: [CrazyEnchantments] Loading the config.yml.
-[18:47:39] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded config.yml.
-[18:47:39] [Server thread/INFO]: [CrazyEnchantments] Loading the BlockList.yml.
-[18:47:39] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded BlockList.yml.
-[18:47:39] [Server thread/INFO]: [CrazyEnchantments] Loading the Data.yml.
-[18:47:39] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Data.yml.
-[18:47:39] [Server thread/INFO]: [CrazyEnchantments] Loading the Enchantments.yml.
-[18:47:39] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Enchantments.yml.
-[18:47:39] [Server thread/INFO]: [CrazyEnchantments] Loading the GKitz.yml.
-[18:47:39] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded GKitz.yml.
-[18:47:39] [Server thread/INFO]: [CrazyEnchantments] Loading the Messages.yml.
-[18:47:39] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Messages.yml.
-[18:47:39] [Server thread/INFO]: [CrazyEnchantments] Loading the Enchantment-Types.yml.
-[18:47:39] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Enchantment-Types.yml.
-[18:47:39] [Server thread/INFO]: [CrazyEnchantments] Loading the Tinker.yml.
-[18:47:39] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Tinker.yml.
-[18:47:40] [Server thread/WARN]: [CrazyEnchantments] No eco plugin found or the eco plugin didn't enable. Any economy based feature will not work.
-[18:47:40] [Server thread/INFO]: [CrazyEnchantments] §8§l=== §e§lCrazyEnchantment Hook Status §8§l===
-[18:47:40] [Server thread/INFO]: [CrazyEnchantments] §6§lTOWNYADVANCED §c§lNOT FOUND
-[18:47:40] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS_V2 §c§lNOT FOUND
-[18:47:40] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDEDIT §c§lNOT FOUND
-[18:47:40] [Server thread/INFO]: [CrazyEnchantments] §6§lNO_CHEAT_PLUS §c§lNOT FOUND
-[18:47:40] [Server thread/INFO]: [CrazyEnchantments] §6§lORAXEN §c§lNOT FOUND
-[18:47:40] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS §c§lNOT FOUND
-[18:47:40] [Server thread/INFO]: [CrazyEnchantments] §6§lPLOT_SQUARED §c§lNOT FOUND
-[18:47:40] [Server thread/INFO]: [CrazyEnchantments] §6§lSUPERIORSKYBLOCK §c§lNOT FOUND
-[18:47:40] [Server thread/INFO]: [CrazyEnchantments] §6§lGRIEF_PREVENTION §c§lNOT FOUND
-[18:47:40] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDGUARD §c§lNOT FOUND
-[18:47:40] [Server thread/INFO]: [CrazyEnchantments] §6§lVAULT §c§lNOT FOUND
-[18:47:40] [Server thread/INFO]: [CrazyEnchantments] §6§lMCMMO §c§lNOT FOUND
-[18:47:40] [Server thread/INFO]: [CrazyEnchantments] §6§lSPARTAN §c§lNOT FOUND
-[18:47:40] [Server thread/INFO]: [CrazyEnchantments] §6§lFACTIONS_UUID §c§lNOT FOUND
-[18:47:40] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
-[18:47:40] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_20_R1! Trying to find NMS support
-[18:47:40] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
-[18:47:40] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Gson: class com.google.gson.Gson
-[18:47:41] [Server thread/INFO]: [CrazyEnchantments] G-Kitz support is now enabled.
-[18:47:41] [Server thread/INFO]: [ChatEx] Enabling ChatEx v3.1.0
-[18:47:41] [Server thread/INFO]: [ChatEx] Successfully hooked into: LuckPerms
-[18:47:41] [Server thread/INFO]: [ChatEx] Hooked into PlaceholderAPI
-[18:47:41] [Server thread/INFO]: [ChatEx] Server version:git-Paper-196 (MC: 1.20.1)
-[18:47:41] [Server thread/INFO]: [ChatEx] Version is later than 1.16. Loading RGB ColorCodes!
-[18:47:41] [Server thread/INFO]: [ChatEx] Thanks for using bstats, it was enabled!
-[18:47:41] [Server thread/INFO]: [ChatEx] Is now enabled!
-[18:47:41] [Server thread/INFO]: [QualityArmory] Enabling QualityArmory v2.0.17
-[18:47:41] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_20_R1! Trying to find NMS support
-[18:47:41] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
-[18:47:41] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'QualityArmory' to create a bStats instance!
-[18:47:41] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: qualityarmory [2.0.17]
-[18:47:41] [Server thread/INFO]: [QualityArmory] Found PlaceholderAPI. Loaded support
-[18:47:42] [Server thread/INFO]: [QualityArmory] -Loaded 11 Ammo types.
-[18:47:42] [Server thread/INFO]: [QualityArmory] -Loaded 16 Misc.
-[18:47:43] [Server thread/INFO]: [QualityArmory] -Loaded 70 Gun types.
-[18:47:43] [Server thread/INFO]: [QualityArmory] -Loading Attachment: awpasiimov
-[18:47:43] [Server thread/INFO]: [QualityArmory] -Loading Attachment: p30silenced
-[18:47:43] [Server thread/INFO]: [QualityArmory] -Loading Attachment: uzicorn
-[18:47:43] [Server thread/INFO]: [QualityArmory] -Loaded 3 Attachment types.
-[18:47:43] [Server thread/INFO]: [QualityArmory] -Loaded 4 Armor types.
-[18:47:43] [Server thread/INFO]: [AxGraves] Enabling AxGraves v1.17.0
-[18:47:44] [Server thread/INFO]: [sleep-most] Enabling sleep-most v5.5.1
-[18:47:44] [Server thread/INFO]: [sleep-most] Hooked to PlaceholderAPI
-[18:47:44] [Server thread/INFO]: [sleep-most] Hooked to Essentials
-[18:47:44] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: sleepmost [5.5.1]
-[18:47:45] [Server thread/INFO]: [ImprovedFactions] Enabling ImprovedFactions v2.2.0
-[18:47:45] [Server thread/INFO]: [ImprovedFactions] [gui] Gui module is enabled but GuiEngine is not installed. Disabling Gui module.
-[18:47:46] [Server thread/INFO]: [ImprovedFactions] Checking for updates...
-[18:47:46] [Server thread/INFO]: [ImprovedFactions] Config is up to date
-[18:47:47] [Server thread/WARN]: [ImprovedFactions] No whitelisted worlds found in config. Allowing all worlds
-[18:47:47] [Server thread/INFO]: [ImprovedFactions] Using database SQLITE as database
-[18:47:52] [Server thread/INFO]: [ImprovedFactions] Loaded module power-raids
-[18:47:52] [Server thread/INFO]: [ImprovedFactions] Loaded module dynmap
-[18:47:52] [Server thread/INFO]: [ImprovedFactions] Loaded module wilderness
-[18:47:52] [Server thread/INFO]: [ImprovedFactions] Loaded module home
-[18:47:52] [Server thread/INFO]: [ImprovedFactions] Loaded module chat
-[18:47:52] [Server thread/INFO]: [ImprovedFactions] Loaded module claim-particles
-[18:47:52] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: faction [1.0.0]
-[18:47:52] [Server thread/INFO]: [ImprovedFactions] Loaded improved factions papi extension
-[18:47:56] [Server thread/INFO]: [TAB] Enabling TAB v5.0.3
-[18:47:56] [Server thread/INFO]: [TAB] Loaded NMS hook in 434ms
-[18:47:57] [Server thread/INFO]: [TAB] [WARN] [config.yml] Scoreboard "scoreboard-1.20.3+" is using right-side text alignment (using ||) in the lines, however, your server does not support this feature. It was added into the game in version 1.20.3. Any text defined after || in lines will not be displayed.
-[18:47:58] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
-[18:47:58] [Server thread/INFO]: [TAB] Enabled in 1483ms
-[18:47:58] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.26
-[18:47:58] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.20.1-R0.1
-[18:47:58] [Server thread/INFO]: [voicechat] Compatibility version 18
-[18:47:59] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
-[18:47:59] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: voicechat [2.5.26]
-[18:47:59] [Server thread/INFO]: [voicechat] Successfully registered PlaceholderAPI expansion
-[18:47:59] [Server thread/INFO]: [Orebfuscator] Enabling Orebfuscator v5.5.2
-[18:48:01] [Server thread/INFO]: [ProtectionBlocks] Enabling ProtectionBlocks v1.0.9
-[18:48:01] [Server thread/WARN]: [ProtectionBlocks] ===================================
-[18:48:01] [Server thread/WARN]: [ProtectionBlocks] WARNING: You're running an outdated server version (1.20.1)!
-[18:48:01] [Server thread/WARN]: [ProtectionBlocks] This version will no longer be supported in future relases.
-[18:48:01] [Server thread/WARN]: [ProtectionBlocks] Please upgrade your server to 1.20.4.
-[18:48:01] [Server thread/WARN]: [ProtectionBlocks] ABSOLUTELY NO DISCORD SUPPORT WILL BE PROVIDED
-[18:48:01] [Server thread/WARN]: [ProtectionBlocks] ===================================
-[18:48:01] [Server thread/INFO]: [ProtectionBlocks] Powered by: PLAZMER-ENGINE
-[18:48:02] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-68 - Starting...
-[18:48:02] [Server thread/INFO]: [com.zaxxer.hikari.pool.HikariPool] ProtectionBlocks-68 - Added connection org.sqlite.jdbc4.JDBC4Connection@66fb1e39
-[18:48:02] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-68 - Start completed.
-[18:48:02] [Server thread/INFO]: [ProtectionBlocks] Using DecentHolograms hologram handler.
-[18:48:02] [Server thread/INFO]: [ProtectionBlocks] Registered currency: exp
-[18:48:02] [Server thread/INFO]: [ProtectionBlocks] Plugin loaded in 510 ms!
-[18:48:03] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[18:48:03] [Server thread/INFO]: Running delayed init tasks
-[18:48:03] [Craft Scheduler Thread - 5 - Essentials/INFO]: [Essentials] Fetching version information...
-[18:48:03] [Server thread/INFO]: Done (70.074s)! For help, type "help"
-[18:48:03] [Server thread/INFO]: Timings Reset
-[18:48:03] [Craft Scheduler Thread - 8 - ChatEx/INFO]: [ChatEx] Checking for update...
-[18:48:03] [Server thread/INFO]: [voicechat] Loading plugins
-[18:48:03] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
-[18:48:03] [Server thread/INFO]: [voicechat] Initializing plugins
-[18:48:03] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
-[18:48:03] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[18:48:03] [VoiceChatServerThread/ERROR]: [voicechat] Failed to bind to address '172.28.190.108', binding to wildcard IP instead
-[18:48:03] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 172.28.190.108:24454
-[18:48:03] [Craft Scheduler Thread - 8 - ChatEx/INFO]: [ChatEx] Version installed is 3.1.0
-[18:48:03] [Craft Scheduler Thread - 8 - ChatEx/INFO]: [ChatEx] Latest version found online is 3.2.2
-[18:48:03] [Craft Scheduler Thread - 8 - ChatEx/INFO]: [ChatEx] Update found! Please consider installing the latest version from https://www.spigotmc.org/resources/71041/updates
-[18:48:03] [Server thread/INFO]: [ProtectionBlocks] Region Blocks Loaded: 0
-[18:48:03] [Server thread/ERROR]: [ProtectionBlocks] Cannot load the Region but Region Block 'bloque_de_diamante' not Created or Loaded!
-[18:48:03] [Server thread/ERROR]: [ProtectionBlocks] Region not loaded 'fa508b0-2.yml'
-[18:48:03] [Server thread/ERROR]: [ProtectionBlocks] Cannot load the Region but Region Block 'bloque_de_diamante' not Created or Loaded!
-[18:48:03] [Server thread/ERROR]: [ProtectionBlocks] Region not loaded 'd56596d-3.yml'
-[18:48:03] [Server thread/ERROR]: [ProtectionBlocks] Cannot load the Region but Region Block 'esmeralda' not Created or Loaded!
-[18:48:03] [Server thread/ERROR]: [ProtectionBlocks] Region not loaded 'e713997-2.yml'
-[18:48:03] [Server thread/INFO]: [ProtectionBlocks] Regions Loaded: 0
-[18:48:03] [Server thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18:48:03] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
-[18:48:03] [Server thread/INFO]: 1 placeholder hook(s) registered!
-[18:49:28] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 7500 tiles rendered (557.76 msec/tile, 811.07 msec per render)
-[18:50:26] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 7600 tiles rendered (558.03 msec/tile, 679.90 msec per render)
-[18:51:32] [User Authenticator #0/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
-[18:51:32] [Server thread/INFO]: Churrupakin joined the game
-[18:51:33] [Server thread/INFO]: Churrupakin[/172.28.161.65:52447] logged in with entity id 274 at ([world]100.82731923849406, -58.49757876992223, 89.60339105039247)
-[18:51:35] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
-[18:51:35] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
-[18:51:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[18:51:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[18:51:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
-[18:51:38] [User Authenticator #0/INFO]: UUID of player XxMatos15 is 2a9ff858-04dc-3136-97df-619a6316d09a
-[18:51:39] [Server thread/INFO]: XxMatos15 joined the game
-[18:51:39] [Server thread/INFO]: XxMatos15[/172.28.131.63:63146] logged in with entity id 345 at ([world]1211.6355226423875, 78.6625000178814, -349.90457699992606)
-[18:52:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5010ms or 100 ticks behind
-[18:52:03] [Server thread/INFO]: Churrupakin issued server command: /dynmap pause all
-[18:52:03] [Server thread/INFO]: [dynmap] Full/radius render pause set to true
-[18:52:03] [Server thread/INFO]: [dynmap] Update render pause set to true
-[18:52:20] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15
-[18:52:48] [Server thread/INFO]: Churrupakin issued server command: /home
-[18:52:54] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
-[18:53:08] [Server thread/INFO]: Churrupakin issued server command: /home
-[18:53:26] [Server thread/INFO]: Churrupakin issued server command: /weather sun
-[18:54:44] [Async Chat Thread - #1/INFO]: [Not Secure] Owner Churrupakin : chifa
-[18:54:47] [Async Chat Thread - #0/INFO]: [Not Secure] Heroico  XxMatos15 : q
-[18:55:05] [Async Chat Thread - #1/INFO]: [Not Secure] Owner Churrupakin : vamos a matar whiter?
-[18:55:23] [Async Chat Thread - #0/INFO]: [Not Secure] Owner Churrupakin : te devuelvo ttus cosas q tenias
-[18:55:29] [Async Chat Thread - #0/INFO]: [Not Secure] Heroico  XxMatos15 : ya
-[18:55:44] [Async Chat Thread - #1/INFO]: [Not Secure] Owner Churrupakin : ven a mi house
-[18:55:59] [Async Chat Thread - #1/INFO]: [Not Secure] Heroico  XxMatos15 : ya
-[18:58:41] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  XxMatos15 : tp mejor
-[18:58:47] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  XxMatos15 : ya me perdi
-[18:58:48] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15 Churrupakin
-[18:59:02] [Async Chat Thread - #4/INFO]: [Not Secure] Owner Churrupakin : pa tu caballo
-[18:59:09] [Async Chat Thread - #2/INFO]: [Not Secure] Owner Churrupakin : dime as coasa
-[18:59:11] [Async Chat Thread - #2/INFO]: [Not Secure] Owner Churrupakin : cosas
-[18:59:13] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  XxMatos15 : ya
-[18:59:19] [Async Chat Thread - #3/INFO]: [Not Secure] Heroico  XxMatos15 : tenia
-[18:59:58] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  XxMatos15 : 1 pico de diamante con eficioencia fortuna , 1 pechera de netherite y 1 pantalon de diamante 1 goraa de diamante y 1 bota de diamante
-[19:00:03] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  XxMatos15 : encantada
-[19:00:10] [Async Chat Thread - #3/INFO]: [Not Secure] Heroico  XxMatos15 : 1 stack de oro
-[19:00:18] [Async Chat Thread - #3/INFO]: [Not Secure] Heroico  XxMatos15 : 147 hierrp
-[19:00:21] [Async Chat Thread - #2/INFO]: [Not Secure] Owner Churrupakin : pechera de netherite?
-[19:00:26] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  XxMatos15 : 7 stack de piedra
-[19:00:32] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  XxMatos15 : si
-[19:00:39] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  XxMatos15 : de la nd aparecio en mi cofre
-[19:00:48] [Async Chat Thread - #2/INFO]: [Not Secure] Owner Churrupakin : ya
-[19:00:58] [Async Chat Thread - #2/INFO]: [Not Secure] Owner Churrupakin : no tenian encantiamientos
-[19:01:01] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  XxMatos15 : tambien tenia 9 stack de nloques cuarzo
-[19:01:04] [Async Chat Thread - #3/INFO]: [Not Secure] Owner Churrupakin : ??
-[19:01:09] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  XxMatos15 : si
-[19:01:18] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  XxMatos15 : la misma de la armadura de diamante
-[19:01:18] [Async Chat Thread - #2/INFO]: [Not Secure] Owner Churrupakin : q encantamientos
-[19:01:22] [Async Chat Thread - #2/INFO]: [Not Secure] Owner Churrupakin : aya
-[19:01:24] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  XxMatos15 : proteccion
-[19:01:30] [Async Chat Thread - #5/INFO]: [Not Secure] Owner Churrupakin : te voy a dar uno con nuevos
-[19:01:36] [Async Chat Thread - #5/INFO]: [Not Secure] Heroico  XxMatos15 : tenia 1 espada de netherite encantada
-[19:01:48] [Async Chat Thread - #5/INFO]: [Not Secure] Heroico  XxMatos15 : tenia 28 zanahorias doradas
-[19:01:50] [Async Chat Thread - #5/INFO]: [Not Secure] Owner Churrupakin : de donde sacaste tnta nt'
-[19:01:57] [Async Chat Thread - #5/INFO]: [Not Secure] Heroico  XxMatos15 : 5 stack de rieles
-[19:02:00] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
-[19:02:04] [Async Chat Thread - #5/INFO]: [Not Secure] Heroico  XxMatos15 : de cripers
-[19:02:14] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  XxMatos15 : tenia 46 rieles de redtone
-[19:02:14] [Async Chat Thread - #5/INFO]: [Not Secure] Owner Churrupakin : crpers?
-[19:02:19] [Async Chat Thread - #5/INFO]: [Not Secure] Heroico  XxMatos15 : la tnt p
-[19:02:24] [Async Chat Thread - #5/INFO]: [Not Secure] Heroico  XxMatos15 : x
-[19:02:28] [Async Chat Thread - #5/INFO]: [Not Secure] Owner Churrupakin : aaaaaaa
-[19:02:38] [Async Chat Thread - #5/INFO]: [Not Secure] Heroico  XxMatos15 : tenia tamien
-[19:02:50] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  XxMatos15 : 23 librerias
-[19:03:00] [Async Chat Thread - #5/INFO]: [Not Secure] Heroico  XxMatos15 : 21 stack de obsidiana
-[19:03:07] [Async Chat Thread - #5/INFO]: [Not Secure] Heroico  XxMatos15 : dos
-[19:03:11] [Async Chat Thread - #5/INFO]: [Not Secure] Owner Churrupakin : JAJJAJAJAJAJJAJJAJAJAAJ
-[19:03:14] [Async Chat Thread - #5/INFO]: [Not Secure] Heroico  XxMatos15 : xd
-[19:03:17] [Async Chat Thread - #2/INFO]: [Not Secure] Owner Churrupakin : 21 STACK DE OBSIDIANA
-[19:03:21] [Async Chat Thread - #5/INFO]: [Not Secure] Heroico  XxMatos15 : 2
-[19:03:31] [Async Chat Thread - #2/INFO]: [Not Secure] Owner Churrupakin : aya
-[19:03:34] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  XxMatos15 : y 1 stack de tnt
-[19:03:40] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  XxMatos15 : nd mas
-[19:06:23] [Async Chat Thread - #6/INFO]: [Not Secure] Owner Churrupakin : agarraste el cuarzo?
-[19:06:25] [Async Chat Thread - #7/INFO]: [Not Secure] Heroico  XxMatos15 : si
-[19:06:40] [Async Chat Thread - #7/INFO]: [Not Secure] Owner Churrupakin : la espada q encantamientos
-[19:06:48] [Async Chat Thread - #7/INFO]: [Not Secure] Heroico  XxMatos15 : pico
-[19:07:18] [Async Chat Thread - #6/INFO]: [Not Secure] Owner Churrupakin : pico?
-[19:07:57] [Async Chat Thread - #6/INFO]: [Not Secure] Owner Churrupakin : pera
-[19:08:02] [Async Chat Thread - #6/INFO]: [Not Secure] Heroico  XxMatos15 : ya
-[19:09:50] [User Authenticator #1/INFO]: UUID of player SKrampusPEcausa is 20fe05e7-673b-3913-95a3-dc8280b86505
-[19:09:51] [Server thread/INFO]: SKrampusPEcausa joined the game
-[19:09:51] [Server thread/INFO]: SKrampusPEcausa[/172.28.128.43:53502] logged in with entity id 4255 at ([world]127.50011507967486, 63.0, 99.28849596909795)
-[19:10:24] [Server thread/INFO]: XxMatos15 issued server command: /fac home
-[19:10:30] [Server thread/INFO]: XxMatos15 drowned
-[19:10:47] [Async Chat Thread - #8/INFO]: [Not Secure] Heroico  XxMatos15 : tmr
-[19:11:36] [Server thread/INFO]: XxMatos15 was slain by Drowned
-[19:13:43] [Async Chat Thread - #10/INFO]: [Not Secure] Owner Churrupakin : chifa tenias sulker?
-[19:13:47] [Server thread/WARN]: SKrampusPEcausa was kicked due to keepalive timeout!
-[19:13:47] [Server thread/INFO]: SKrampusPEcausa lost connection: Timed out
-[19:13:47] [Server thread/INFO]: [voicechat] Disconnecting client SKrampusPEcausa
-[19:13:47] [Server thread/INFO]: SKrampusPEcausa left the game
-[19:13:48] [Async Chat Thread - #10/INFO]: [Not Secure] Heroico  XxMatos15 : no
-[19:14:16] [Async Chat Thread - #10/INFO]: [Not Secure] Owner Churrupakin : tdo eso estaba en tu inventario?
-[19:14:19] [Async Chat Thread - #10/INFO]: [Not Secure] Heroico  XxMatos15 : si
-[19:14:22] [Async Chat Thread - #11/INFO]: [Not Secure] Owner Churrupakin : mm
-[19:14:29] [Async Chat Thread - #11/INFO]: [Not Secure] Heroico  XxMatos15 : todo lo qesta en el cofre
-[19:14:35] [Async Chat Thread - #11/INFO]: [Not Secure] Heroico  XxMatos15 : lo demas esta en mi hpuse
-[19:15:34] [Async Chat Thread - #11/INFO]: [Not Secure] Owner Churrupakin : la espada q tnia
-[19:15:36] [User Authenticator #2/INFO]: UUID of player SKrampusPEcausa is 20fe05e7-673b-3913-95a3-dc8280b86505
-[19:15:36] [Server thread/INFO]: SKrampusPEcausa joined the game
-[19:15:36] [Server thread/INFO]: SKrampusPEcausa[/172.28.128.43:53600] logged in with entity id 5759 at ([world]155.48653855394647, 64.25983709287071, 125.65747113420097)
-[19:15:43] [Async Chat Thread - #11/INFO]: [Not Secure] Heroico  XxMatos15 : en mi house
-[19:15:52] [Async Chat Thread - #11/INFO]: [Not Secure] Owner Churrupakin : aya eso nd mas
-[19:15:54] [Async Chat Thread - #10/INFO]: [Not Secure] Heroico  XxMatos15 : si
-[19:16:48] [Server thread/INFO]: XxMatos15 issued server command: /fac home
-[19:17:07] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
-[19:17:43] [Async Chat Thread - #12/INFO]: [Not Secure] Heroico  XxMatos15 : aorasi
-[19:17:43] [Async Chat Thread - #13/INFO]: [Not Secure] Owner Churrupakin : van x cabezas de whiter?
-[19:17:48] [Async Chat Thread - #13/INFO]: [Not Secure] Heroico  XxMatos15 : vanp
-[19:18:20] [Async Chat Thread - #13/INFO]: [Not Secure] Owner Churrupakin : cen
-[19:18:24] [Async Chat Thread - #13/INFO]: [Not Secure] Owner Churrupakin : ven
-[19:18:26] [Async Chat Thread - #13/INFO]: [Not Secure] Heroico  XxMatos15 : ya
-[19:19:14] [Server thread/INFO]: XxMatos15 issued server command: /fac home
-[19:19:22] [Async Chat Thread - #13/INFO]: [Not Secure] Heroico  XxMatos15 : don tas
-[19:19:26] [Async Chat Thread - #12/INFO]: [Not Secure] Owner Churrupakin : enn mi casa
-[19:19:29] [Async Chat Thread - #12/INFO]: [Not Secure] Heroico  XxMatos15 : yaya
-[19:19:51] [Server thread/WARN]: SKrampusPEcausa moved too quickly! 17.329318696126762,-0.7967356006687112,-0.1259884797441
-[19:19:58] [Server thread/WARN]: SKrampusPEcausa moved too quickly! 8.487447072399618,0.2046003784434305,5.3780267428849164
-[19:21:52] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
-[19:21:59] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
-[19:22:45] [Async Chat Thread - #14/INFO]: [Not Secure] Heroico  XxMatos15 : tienes escudo?
-[19:22:53] [Async Chat Thread - #14/INFO]: [Not Secure] Owner Churrupakin : si
-[19:23:06] [Async Chat Thread - #14/INFO]: [Not Secure] Owner Churrupakin : tma
-[19:23:19] [Server thread/INFO]: Scheduling new task
-[19:23:28] [Server thread/INFO]: Churrupakin issued server command: /qa craft
-[19:23:37] [Server thread/INFO]: Scheduling new task
-[19:23:40] [Server thread/INFO]: stop siege task
-[19:23:42] [Server thread/INFO]: Scheduling new task
-[19:23:47] [Server thread/INFO]: stop siege task
-[19:23:48] [Server thread/INFO]: Churrupakin issued server command: /qa craft
-[19:23:50] [Server thread/INFO]: Scheduling new task
-[19:23:59] [Async Chat Thread - #15/INFO]: [Not Secure] Heroico  XxMatos15 : XD
-[19:24:02] [Server thread/INFO]: stop siege task
-[19:24:06] [Server thread/INFO]: Scheduling new task
-[19:24:10] [Async Chat Thread - #15/INFO]: [Not Secure] Owner Churrupakin : vamos
-[19:24:14] [Server thread/INFO]: Scheduling new task
-[19:24:15] [Server thread/INFO]: stop siege task
-[19:24:16] [Server thread/INFO]: Scheduling new task
-[19:24:19] [Server thread/INFO]: stop siege task
-[19:24:21] [Server thread/INFO]: stop siege task
-[19:24:25] [Server thread/INFO]: stop siege task
-[19:24:33] [Server thread/INFO]: Scheduling new task
-[19:24:40] [Async Chat Thread - #15/INFO]: [Not Secure] Owner Churrupakin : pera
-[19:24:57] [Server thread/INFO]: Villager EntityVillager['Toolsmith'/335, uuid='69b52e4e-159f-4b9a-a41b-b2a8fbe5ddda', l='ServerLevel[world]', x=-53.29, y=56.00, z=247.55, cpos=[-4, 15], tl=769309, v=true] died, message: 'Toolsmith was slain by SKrampusPEcausa'
-[19:25:03] [Server thread/INFO]: Scheduling new task
-[19:25:22] [Server thread/INFO]: Scheduling new task
-[19:25:22] [Server thread/INFO]: stop siege task
-[19:25:43] [Server thread/INFO]: stop siege task
-[19:25:47] [Server thread/INFO]: Scheduling new task
-[19:25:48] [Server thread/INFO]: stop siege task
-[19:26:11] [Server thread/INFO]: Scheduling new task
-[19:26:12] [Server thread/INFO]: stop siege task
-[19:26:15] [Server thread/INFO]: Scheduling new task
-[19:26:16] [Server thread/INFO]: stop siege task
-[19:26:25] [Server thread/INFO]: Scheduling new task
-[19:26:34] [Server thread/INFO]: stop siege task
-[19:26:36] [Server thread/INFO]: Scheduling new task
-[19:26:48] [Server thread/INFO]: stop siege task
-[19:28:12] [Async Chat Thread - #16/INFO]: [Not Secure] Owner Churrupakin : vaos
-[19:28:15] [Server thread/INFO]: stop siege task
-[19:28:27] [Server thread/WARN]: SKrampusPEcausa moved too quickly! -9.806884631692013,0.25805609425617604,9.650278411069655
-[19:28:33] [Server thread/INFO]: XxMatos15 issued server command: /fac claim
-[19:28:40] [Server thread/INFO]: Scheduling new task
-[19:29:39] [Server thread/INFO]: Scheduling new task
-[19:29:49] [Server thread/INFO]: stop siege task
-[19:29:58] [Server thread/INFO]: Churrupakin issued server command: /locate structure minecraft:fortress
-[19:29:58] [Server thread/INFO]: Locating element minecraft:fortress took 12 ms
-[19:30:08] [Async Chat Thread - #18/INFO]: [Not Secure] Owner Churrupakin : chifa on tas
-[19:30:21] [Async Chat Thread - #18/INFO]: [Not Secure] Heroico  XxMatos15 : ac
-[19:30:35] [Server thread/INFO]: stop siege task
-[19:30:42] [Async Chat Thread - #18/INFO]: [Not Secure] Owner Churrupakin : 43 90 4
-[19:31:29] [User Authenticator #3/INFO]: UUID of player Ram_Tz is a8201390-5a88-393b-afd5-4279b72be2d9
-[19:31:29] [Server thread/INFO]: Ram_Tz joined the game
-[19:31:29] [Server thread/INFO]: Ram_Tz[/172.28.72.140:51328] logged in with entity id 9466 at ([world]1835.193444286959, 90.0, -311.1896879163484)
-[19:31:33] [Async Chat Thread - #18/INFO]: [Not Secure] Owner Churrupakin : vamos a 352 -240
-[19:33:07] [Server thread/INFO]: XxMatos15 has made the advancement [A Terrible Fortress]
-[19:33:20] [Async Chat Thread - #20/INFO]: [Not Secure] Heroico  SKrampusPEcausa : oi matias
-[19:33:25] [Async Chat Thread - #21/INFO]: [Not Secure] Owner Churrupakin : habka
-[19:33:33] [Async Chat Thread - #21/INFO]: [Not Secure] Heroico  SKrampusPEcausa : el mod de proteger casas sigue activo?
-[19:36:22] [Async Chat Thread - #22/INFO]: [Not Secure] Owner Churrupakin : tmr hay pocos sergios nd mas
-[19:36:30] [Async Chat Thread - #23/INFO]: [Not Secure] Owner Churrupakin : ahora es el /fac
-[19:36:36] [Async Chat Thread - #23/INFO]: [Not Secure] Heroico  XxMatos15 : xd
-[19:36:37] [Async Chat Thread - #23/INFO]: [Not Secure] Owner Churrupakin : el de bloques ya lo quite
-[19:37:01] [Server thread/INFO]: SKrampusPEcausa issued server command: /faction
-[19:37:17] [Server thread/INFO]: SKrampusPEcausa issued server command: /faction create
-[19:38:43] [User Authenticator #4/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
-[19:38:43] [Server thread/INFO]: pingaparaangel joined the game
-[19:38:43] [Server thread/INFO]: pingaparaangel[/172.28.117.248:57386] logged in with entity id 13007 at ([world]-61.935100081373115, 56.0, 255.83954073299918)
-[19:39:03] [Async Chat Thread - #25/INFO]: [Not Secure] Heroico  pingaparaangel : chifa
-[19:39:05] [Async Chat Thread - #25/INFO]: [Not Secure] Heroico  XxMatos15 : q
-[19:39:09] [Async Chat Thread - #24/INFO]: [Not Secure] Heroico  pingaparaangel : tre mande msnj aig
-[19:39:15] [Async Chat Thread - #24/INFO]: [Not Secure] Heroico  pingaparaangel : ig
-[19:39:29] [Async Chat Thread - #24/INFO]: [Not Secure] Owner Churrupakin : hagn /msg
-[19:39:30] [Async Chat Thread - #24/INFO]: [Not Secure] Heroico  XxMatos15 : donde te fuite
-[19:39:45] [Async Chat Thread - #25/INFO]: [Not Secure] Heroico  pingaparaangel : yo?
-[19:39:57] [Async Chat Thread - #25/INFO]: [Not Secure] Heroico  XxMatos15 : potias
-[19:40:36] [Async Chat Thread - #25/INFO]: [Not Secure] Owner Churrupakin : el /msg es para q hablen en privado
-[19:40:41] [Async Chat Thread - #25/INFO]: [Not Secure] Heroico  XxMatos15 : no se puede
-[19:40:42] [Async Chat Thread - #24/INFO]: [Not Secure] Owner Churrupakin : o el /fac chat
-[19:40:47] [Async Chat Thread - #26/INFO]: [Not Secure] Heroico  pingaparaangel : ayer no salia eso xd
-[19:40:53] [Async Chat Thread - #26/INFO]: [Not Secure] Heroico  pingaparaangel : sip
-[19:41:01] [Server thread/INFO]: XxMatos15 issued server command: /fac chat pingaparaangel ig
-[19:41:10] [Async Chat Thread - #26/INFO]: [Not Secure] Owner Churrupakin : cmo asiw
-[19:41:16] [Server thread/INFO]: Churrupakin issued server command: /msg pingaparaangel xxddd
-[19:41:25] [Server thread/INFO]: XxMatos15 issued server command: /faction rename 5C promo
-[19:41:38] [Server thread/INFO]: pingaparaangel issued server command: /msg
-[19:41:38] [Server thread/INFO]: [Essentials] pingaparaangel was denied access to command.
-[19:41:45] [Async Chat Thread - #26/INFO]: [Not Secure] Heroico  pingaparaangel : no nos funciona a nosotros
-[19:41:58] [Async Chat Thread - #26/INFO]: [Not Secure] Heroico  pingaparaangel : por eso puro ig
-[19:42:03] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
-[19:42:03] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
-[19:42:03] [Server thread/INFO]: pingaparaangel left the game
-[19:42:31] [Async Chat Thread - #26/INFO]: [Not Secure] Owner Churrupakin : pera les doy permiso
-[19:42:37] [User Authenticator #5/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
-[19:42:37] [Server thread/INFO]: pingaparaangel joined the game
-[19:42:37] [Server thread/INFO]: pingaparaangel[/172.28.117.248:57489] logged in with entity id 15311 at ([world]97.69999998807907, 63.0, 167.30000001192093)
-[19:42:43] [Async Chat Thread - #27/INFO]: [Not Secure] Heroico  pingaparaangel : xd
-[19:43:00] [Async Chat Thread - #27/INFO]: [Not Secure] Heroico  pingaparaangel : chifa
-[19:43:01] [Server thread/INFO]: XxMatos15 issued server command: /msg pingaparaangel xd
-[19:43:01] [Server thread/INFO]: [Essentials] XxMatos15 was denied access to command.
-[19:43:03] [Async Chat Thread - #27/INFO]: [Not Secure] Heroico  XxMatos15 : q
-[19:43:05] [Async Chat Thread - #27/INFO]: [Not Secure] Heroico  pingaparaangel : y mi yegua
-[19:43:13] [Async Chat Thread - #26/INFO]: [Not Secure] Heroico  pingaparaangel : en la ft q mandaste habia 2
-[19:43:42] [Server thread/INFO]: XxMatos15 issued server command: /fac chat pingaparaangel ig
-[19:44:09] [Async Chat Thread - #26/INFO]: [Not Secure] Heroico  pingaparaangel : ya lovi pero q paso con mi yegua p gil
-[19:45:07] [Async Chat Thread - #26/INFO]: [Not Secure] Heroico  pingaparaangel : ya fue da pja buscarlo
-[19:46:12] [Async Chat Thread - #28/INFO]: [Not Secure] Owner Churrupakin : tmr no hay sergios
-[19:46:22] [Async Chat Thread - #28/INFO]: [Not Secure] Heroico  XxMatos15 : q respawneen
-[19:46:38] [Async Chat Thread - #28/INFO]: [Not Secure] Owner Churrupakin : eres un imbecilw
-[19:46:47] [Async Chat Thread - #29/INFO]: [Not Secure] Heroico  pingaparaangel : yr
-[19:47:02] [Async Chat Thread - #28/INFO]: [Not Secure] Heroico  pingaparaangel : rompieron un portal de matiasx dd
-[19:47:18] [Async Chat Thread - #29/INFO]: [Not Secure] Owner Churrupakin : yo tngo saqueo
-[19:47:25] [Async Chat Thread - #29/INFO]: [Not Secure] Heroico  XxMatos15 : ya
-[19:47:49] [Async Chat Thread - #29/INFO]: [Not Secure] Owner Churrupakin : xdddd
-[19:48:02] [Server thread/INFO]: pingaparaangel fell from a high place
-[19:48:05] [Async Chat Thread - #29/INFO]: [Not Secure] Owner Churrupakin : ms wbon
-[19:48:06] [Async Chat Thread - #29/INFO]: [Not Secure] Heroico  XxMatos15 : pq me siguen las cerdas
-[19:48:11] [Async Chat Thread - #29/INFO]: [Not Secure] Heroico  XxMatos15 : xd
-[19:48:19] [Async Chat Thread - #29/INFO]: [Not Secure] Owner Churrupakin : pq le pegaste p imbecil
-[19:48:31] [Async Chat Thread - #29/INFO]: [Not Secure] Owner Churrupakin : ven siueme
-[19:49:12] [Server thread/INFO]: XxMatos15 was slain by Zombified Piglin
-[19:49:18] [Async Chat Thread - #29/INFO]: [Not Secure] Owner Churrupakin : xddddd
-[19:49:20] [Async Chat Thread - #29/INFO]: [Not Secure] Heroico  pingaparaangel : q down
-[19:49:24] [Async Chat Thread - #28/INFO]: [Not Secure] Heroico  XxMatos15 : tp
-[19:49:28] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15 Churrupakin
-[19:50:17] [Async Chat Thread - #28/INFO]: [Not Secure] Owner Churrupakin : pera hago un respaw de sergios
-[19:50:22] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
-[19:51:04] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
-[19:51:26] [Server thread/INFO]: XxMatos15 was slain by Wither Skeleton
-[19:51:32] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15 Churrupakin
-[19:52:36] [Async Chat Thread - #30/INFO]: [Not Secure] Heroico  XxMatos15 : aca hya uno
-[19:53:12] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15
-[19:54:25] [Server thread/INFO]: Churrupakin has made the advancement [Spooky Scary Skeleton]
-[19:54:53] [Server thread/INFO]: Scheduling new task
-[19:54:59] [Server thread/INFO]: Scheduling new task
-[19:55:04] [Server thread/INFO]: stop siege task
-[19:55:09] [Async Chat Thread - #32/INFO]: [Not Secure] Heroico  pingaparaangel : XDD
-[19:55:14] [Server thread/INFO]: Scheduling new task
-[19:55:30] [Server thread/INFO]: stop siege task
-[19:55:30] [Server thread/INFO]: stop siege task
-[19:56:08] [Async Chat Thread - #33/INFO]: [Not Secure] Owner Churrupakin : uno mas
-[19:57:30] [Async Chat Thread - #34/INFO]: [Not Secure] Heroico  pingaparaangel : pe chifa
-[19:57:48] [Async Chat Thread - #34/INFO]: [Not Secure] Heroico  pingaparaangel : q fue con los ocfres
-[19:57:57] [Server thread/INFO]: XxMatos15 withered away
-[19:58:03] [Async Chat Thread - #34/INFO]: [Not Secure] Heroico  XxMatos15 : ns
-[19:58:03] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15 Churrupakin
-[19:58:17] [Async Chat Thread - #34/INFO]: [Not Secure] Heroico  XxMatos15 : cual cofre
-[19:58:25] [Async Chat Thread - #34/INFO]: [Not Secure] Heroico  pingaparaangel : desaparecieron los oocfres del bunker
-[19:58:33] [Async Chat Thread - #35/INFO]: [Not Secure] Heroico  pingaparaangel : todo cesta en el piso xdd
-[19:58:52] [Async Chat Thread - #35/INFO]: [Not Secure] Heroico  pingaparaangel : desapareciero tu rodrigo herrero xdd
-[19:59:01] [Async Chat Thread - #35/INFO]: [Not Secure] Heroico  XxMatos15 : XD
-[20:01:16] [Server thread/INFO]: XxMatos15 has made the advancement [Spooky Scary Skeleton]
-[20:01:36] [Async Chat Thread - #36/INFO]: [Not Secure] Owner Churrupakin : conseguimos otras 3 para tu beacon?
-[20:01:42] [Server thread/INFO]: XxMatos15 was shot by Skeleton
-[20:01:48] [Async Chat Thread - #36/INFO]: [Not Secure] Heroico  XxMatos15 : asi nmas
-[20:01:51] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15 Churrupakin
-[20:02:07] [Async Chat Thread - #36/INFO]: [Not Secure] Owner Churrupakin : vams
-[20:02:18] [Server thread/INFO]: pingaparaangel was slain by Zombified Piglin
-[20:02:25] [Server thread/INFO]: pingaparaangel issued server command: /fac home
-[20:02:26] [Server thread/INFO]: Churrupakin issued server command: /gamemode spectator
-[20:02:40] [Async Chat Thread - #37/INFO]: [Not Secure] Owner Churrupakin : me tp al portal
-[20:02:45] [Async Chat Thread - #37/INFO]: [Not Secure] Heroico  XxMatos15 : ya
-[20:02:51] [Server thread/INFO]: Churrupakin issued server command: /tp 43 90 4
-[20:02:58] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15 Churrupakin
-[20:03:03] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
-[20:03:35] [Async Chat Thread - #36/INFO]: [Not Secure] Owner Churrupakin : vamos a cachalo
-[20:03:37] [Async Chat Thread - #36/INFO]: [Not Secure] Owner Churrupakin : vamos a cachalo
-[20:04:37] [Server thread/INFO]: pingaparaangel was slain by Zombified Piglin
-[20:04:46] [Server thread/INFO]: XxMatos15 issued server command: /fac home
-[20:04:47] [Server thread/INFO]: pingaparaangel issued server command: /fac home
-[20:05:02] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15 Churrupakin
-[20:05:09] [Async Chat Thread - #38/INFO]: [Not Secure] Heroico  XxMatos15 : ese chancho lo mato
-[20:05:16] [Async Chat Thread - #39/INFO]: [Not Secure] Heroico  pingaparaangel : nd
-[20:05:22] [Async Chat Thread - #40/INFO]: [Not Secure] Owner Churrupakin : pasa bloq
-[20:05:33] [Async Chat Thread - #40/INFO]: [Not Secure] Owner Churrupakin : arena de almas
-[20:05:36] [Async Chat Thread - #40/INFO]: [Not Secure] Heroico  XxMatos15 : no tengo
-[20:05:45] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
-[20:05:53] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
-[20:06:06] [Async Chat Thread - #40/INFO]: [Not Secure] Owner Churrupakin : como mrd era
-[20:06:10] [Async Chat Thread - #40/INFO]: [Not Secure] Heroico  XxMatos15 : asi era
-[20:06:31] [Async Chat Thread - #39/INFO]: [Not Secure] Heroico  XxMatos15 : era de 3
-[20:06:52] [Async Chat Thread - #39/INFO]: [Not Secure] Heroico  XxMatos15 : xd
-[20:06:52] [Async Chat Thread - #39/INFO]: [Not Secure] Owner Churrupakin : yra
-[20:06:56] [Async Chat Thread - #39/INFO]: [Not Secure] Owner Churrupakin : perea lo veo
-[20:07:00] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
-[20:07:11] [Server thread/INFO]: XxMatos15 has made the advancement [Withering Heights]
-[20:07:11] [Server thread/INFO]: Churrupakin has made the advancement [Withering Heights]
-[20:07:21] [Server thread/INFO]: Churrupakin issued server command: /gamemode spectator
-[20:07:22] [Server thread/INFO]: XxMatos15 was blown up by Wither
-[20:07:25] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
-[20:07:27] [Async Chat Thread - #40/INFO]: [Not Secure] Heroico  XxMatos15 : xd
-[20:07:40] [Async Chat Thread - #40/INFO]: [Not Secure] Heroico  XxMatos15 : tpa
-[20:08:08] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15 Churrupakin
-[20:08:08] [Server thread/INFO]: XxMatos15 was shot by a skull from Wither
-[20:08:29] [Server thread/INFO]: Churrupakin issued server command: /gamemode spectator
-[20:08:33] [Async Chat Thread - #40/INFO]: [Not Secure] Heroico  XxMatos15 : xd
-[20:08:36] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15 Churrupakin
-[20:08:40] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
-[20:09:16] [Server thread/INFO]: XxMatos15 withered away
-[20:09:31] [Async Chat Thread - #40/INFO]: [Not Secure] Heroico  XxMatos15 : ./kill wither
-[20:10:18] [Async Chat Thread - #39/INFO]: [Not Secure] Heroico  XxMatos15 : tp
-[20:11:05] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15 Churrupakin
-[20:11:15] [Async Chat Thread - #39/INFO]: [Not Secure] Owner Churrupakin : casi m mata
-[20:11:21] [Async Chat Thread - #39/INFO]: [Not Secure] Heroico  XxMatos15 : XD
-[20:11:27] [Async Chat Thread - #39/INFO]: [Not Secure] Heroico  XxMatos15 : donde esta
-[20:11:28] [Async Chat Thread - #39/INFO]: [Not Secure] Owner Churrupakin : otro?
-[20:11:35] [Async Chat Thread - #40/INFO]: [Not Secure] Owner Churrupakin : ya lo mate
-[20:11:39] [Async Chat Thread - #40/INFO]: [Not Secure] Heroico  XxMatos15 : ve
-[20:11:51] [Async Chat Thread - #40/INFO]: [Not Secure] Owner Churrupakin : q venga anyelo y anfel p
-[20:11:55] [Async Chat Thread - #39/INFO]: [Not Secure] Owner Churrupakin : y diego
-[20:12:13] [Async Chat Thread - #39/INFO]: [Not Secure] Heroico  XxMatos15 : ya
-[20:12:31] [Async Chat Thread - #39/INFO]: [Not Secure] Owner Churrupakin : anyelo vente pal whiter
-[20:12:39] [Async Chat Thread - #39/INFO]: [Not Secure] Owner Churrupakin : angel vente pal whiter
-[20:12:43] [Server thread/INFO]: XxMatos15 issued server command: /minecraft:help
-[20:12:44] [Async Chat Thread - #39/INFO]: [Not Secure] Owner Churrupakin : diego vente pal whiter
-[20:12:53] [Server thread/INFO]: Ram_Tz lost connection: Disconnected
-[20:12:53] [Server thread/INFO]: [voicechat] Disconnecting client Ram_Tz
-[20:12:53] [Server thread/INFO]: Ram_Tz left the game
-[20:13:06] [Async Chat Thread - #39/INFO]: [Not Secure] Heroico  SKrampusPEcausa : tp
-[20:13:11] [Async Chat Thread - #39/INFO]: [Not Secure] Heroico  SKrampusPEcausa : ando en el nether
-[20:13:15] [Server thread/INFO]: Churrupakin issued server command: /tp SKrampusPEcausa Churrupakin
-[20:13:21] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
-[20:13:34] [Async Chat Thread - #39/INFO]: [Not Secure] Heroico  SKrampusPEcausa : tpea a anyhelita
-[20:13:54] [Server thread/INFO]: Churrupakin issued server command: /tp pingaparaangel Churrupakin
-[20:14:01] [Async Chat Thread - #39/INFO]: [Not Secure] Heroico  pingaparaangel : q chch
-[20:14:02] [Server thread/INFO]: SKrampusPEcausa has made the advancement [Withering Heights]
-[20:14:02] [Server thread/INFO]: pingaparaangel has made the advancement [Withering Heights]
-[20:14:07] [Server thread/INFO]: Churrupakin issued server command: /gamemode spectator
-[20:14:11] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
-[20:14:12] [Async Chat Thread - #39/INFO]: [Not Secure] Heroico  pingaparaangel : pera
-[20:14:19] [Server thread/INFO]: pingaparaangel issued server command: /fac home
-[20:14:21] [Server thread/INFO]: pingaparaangel was shot by a skull from Wither
-[20:14:34] [Server thread/INFO]: SKrampusPEcausa withered away
-[20:14:38] [Async Chat Thread - #39/INFO]: [Not Secure] Heroico  pingaparaangel : qn fue el idiota q hixzo tp
-[20:14:41] [Async Chat Thread - #39/INFO]: [Not Secure] Heroico  SKrampusPEcausa : xd
-[20:14:46] [Async Chat Thread - #39/INFO]: [Not Secure] Heroico  SKrampusPEcausa : tp
-[20:14:49] [Async Chat Thread - #39/INFO]: [Not Secure] Heroico  pingaparaangel : chupap inga
-[20:14:51] [Server thread/INFO]: Churrupakin issued server command: /tp pingaparaangel Churrupakin
-[20:14:51] [Server thread/INFO]: XxMatos15 withered away
-[20:14:53] [Async Chat Thread - #39/INFO]: [Not Secure] Heroico  SKrampusPEcausa : tp
-[20:14:55] [Server thread/INFO]: Churrupakin issued server command: /tp SKrampusPEcausa Churrupakin
-[20:14:56] [Async Chat Thread - #39/INFO]: [Not Secure] Heroico  XxMatos15 : tp
-[20:15:15] [Server thread/INFO]: pingaparaangel issued server command: /fac home
-[20:15:22] [Server thread/INFO]: XxMatos15 was shot by Skeleton
-[20:16:13] [Server thread/INFO]: XxMatos15 fell from a high place
-[20:16:25] [Async Chat Thread - #41/INFO]: [Not Secure] Heroico  XxMatos15 : tp
-[20:16:32] [Server thread/INFO]: SKrampusPEcausa lost connection: Timed out
-[20:16:32] [Server thread/INFO]: [voicechat] Disconnecting client SKrampusPEcausa
-[20:16:32] [Server thread/INFO]: SKrampusPEcausa left the game
-[20:16:42] [Server thread/INFO]: Churrupakin issued server command: /gamemode spectator
-[20:16:52] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15 Churrupakin
-[20:17:04] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
-[20:17:25] [User Authenticator #6/INFO]: UUID of player SKrampusPEcausa is 20fe05e7-673b-3913-95a3-dc8280b86505
-[20:17:25] [Server thread/INFO]: SKrampusPEcausa joined the game
-[20:17:25] [Server thread/INFO]: SKrampusPEcausa[/172.28.128.43:65075] logged in with entity id 35994 at ([world]130.45597407573183, 71.0, 608.7627389817048)
-[20:17:28] [Server thread/INFO]: XxMatos15 lost connection: Disconnected
-[20:17:28] [Server thread/INFO]: [voicechat] Disconnecting client XxMatos15
-[20:17:28] [Server thread/INFO]: XxMatos15 left the game
-[20:17:50] [User Authenticator #6/INFO]: UUID of player XxMatos15 is 2a9ff858-04dc-3136-97df-619a6316d09a
-[20:17:50] [Server thread/INFO]: XxMatos15 joined the game
-[20:17:50] [Server thread/INFO]: XxMatos15[/172.28.131.63:59696] logged in with entity id 36158 at ([world]61.71575663007688, 71.0, 608.4245622212926)
-[20:17:59] [Server thread/INFO]: SKrampusPEcausa was slain by Zombie
-[20:18:02] [Server thread/INFO]: XxMatos15 withered away
-[20:18:08] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
-[20:18:20] [Async Chat Thread - #43/INFO]: [Not Secure] Heroico  SKrampusPEcausa : tp
-[20:18:28] [Server thread/INFO]: Churrupakin issued server command: /tp SKrampusPEcausa Churrupakin
-[20:18:32] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
-[20:18:39] [Server thread/WARN]: SKrampusPEcausa was kicked for floating too long!
-[20:18:39] [Server thread/INFO]: SKrampusPEcausa lost connection: Flying is not enabled on this server
-[20:18:39] [Server thread/INFO]: [voicechat] Disconnecting client SKrampusPEcausa
-[20:18:39] [Server thread/INFO]: SKrampusPEcausa left the game
-[20:18:42] [Async Chat Thread - #43/INFO]: [Not Secure] Owner Churrupakin : desaparecioaw
-[20:18:49] [Async Chat Thread - #43/INFO]: [Not Secure] Heroico  XxMatos15 : mejor
-[20:18:56] [Async Chat Thread - #43/INFO]: [Not Secure] Heroico  pingaparaangel : chifa
-[20:18:59] [Async Chat Thread - #43/INFO]: [Not Secure] Heroico  XxMatos15 : q
-[20:19:00] [Async Chat Thread - #43/INFO]: [Not Secure] Owner Churrupakin : xddd
-[20:19:04] [Async Chat Thread - #44/INFO]: [Not Secure] Heroico  pingaparaangel : ig
-[20:19:15] [Async Chat Thread - #44/INFO]: [Not Secure] Heroico  XxMatos15 : xd
-[20:19:15] [Async Chat Thread - #44/INFO]: [Not Secure] Owner Churrupakin : aca esta
-[20:20:42] [User Authenticator #7/INFO]: UUID of player SKrampusPEcausa is 20fe05e7-673b-3913-95a3-dc8280b86505
-[20:20:42] [Server thread/INFO]: SKrampusPEcausa joined the game
-[20:20:42] [Server thread/INFO]: SKrampusPEcausa[/172.28.128.43:65148] logged in with entity id 37815 at ([world]-8.732495139255558, 68.0, 601.7586214879799)
-[20:21:51] [Server thread/INFO]: SKrampusPEcausa was shot by Pillager
-[20:22:04] [Server thread/INFO]: XxMatos15 was shot by Pillager
-[20:22:08] [Async Chat Thread - #45/INFO]: [Not Secure] Heroico  XxMatos15 : tp
-[20:22:11] [Server thread/INFO]: XxMatos15 issued server command: /fac home
-[20:22:14] [Async Chat Thread - #45/INFO]: [Not Secure] Heroico  SKrampusPEcausa : tp
-[20:22:21] [Async Chat Thread - #46/INFO]: [Not Secure] Owner Churrupakin : a donde
-[20:22:26] [Async Chat Thread - #46/INFO]: [Not Secure] Owner Churrupakin : ya lo maté xd
-[20:22:46] [Server thread/INFO]: SKrampusPEcausa lost connection: Timed out
-[20:22:46] [Server thread/INFO]: [voicechat] Disconnecting client SKrampusPEcausa
-[20:22:46] [Server thread/INFO]: SKrampusPEcausa left the game
-[20:25:18] [Server thread/INFO]: XxMatos15 issued server command: /fac home
-[20:25:25] [Server thread/INFO]: XxMatos15 issued server command: /fac home
-[20:25:49] [Async Chat Thread - #47/INFO]: [Not Secure] Heroico  XxMatos15 : cual cofre
-[20:25:58] [Async Chat Thread - #47/INFO]: [Not Secure] Heroico  pingaparaangel : ya hize mas
-[20:26:06] [Async Chat Thread - #47/INFO]: [Not Secure] Heroico  pingaparaangel : todo esto estaba roto
-[20:26:17] [Async Chat Thread - #47/INFO]: [Not Secure] Heroico  pingaparaangel : fue la perra de angel
-[20:26:22] [Async Chat Thread - #47/INFO]: [Not Secure] Heroico  pingaparaangel : se kgo ese hjdpt
-[20:26:29] [Async Chat Thread - #47/INFO]: [Not Secure] Owner Churrupakin : q pasó
-[20:26:35] [Async Chat Thread - #47/INFO]: [Not Secure] Heroico  XxMatos15 : donde
-[20:26:40] [Async Chat Thread - #48/INFO]: [Not Secure] Heroico  pingaparaangel : los coifres estan rotos
-[20:26:48] [Async Chat Thread - #48/INFO]: [Not Secure] Heroico  pingaparaangel : estp p estaba todo roto
-[20:26:57] [Async Chat Thread - #48/INFO]: [Not Secure] Heroico  pingaparaangel : ya lo arregle ps
-[20:27:01] [Async Chat Thread - #48/INFO]: [Not Secure] Heroico  XxMatos15 : pq no hay nd en los cofres
-[20:27:07] [Async Chat Thread - #48/INFO]: [Not Secure] Heroico  XxMatos15 : xd
-[20:27:11] [Async Chat Thread - #48/INFO]: [Not Secure] Heroico  pingaparaangel : por eso no pude rejuntar tdo
-[20:27:18] [Async Chat Thread - #47/INFO]: [Not Secure] Heroico  XxMatos15 : XD
-[20:27:18] [Async Chat Thread - #48/INFO]: [Not Secure] Heroico  pingaparaangel : te dije q vengas
-[20:27:25] [Async Chat Thread - #48/INFO]: [Not Secure] Heroico  XxMatos15 : sa perra
-[20:27:30] [Async Chat Thread - #48/INFO]: [Not Secure] Heroico  XxMatos15 : buscate 2 caballos
-[20:27:37] [Async Chat Thread - #48/INFO]: [Not Secure] Heroico  pingaparaangel : matias
-[20:27:41] [Server thread/INFO]: Churrupakin issued server command: /fac claim
-[20:27:44] [Async Chat Thread - #48/INFO]: [Not Secure] Heroico  pingaparaangel : matias
-[20:27:45] [Async Chat Thread - #48/INFO]: [Not Secure] Owner Churrupakin : dime
-[20:27:53] [Async Chat Thread - #48/INFO]: [Not Secure] Heroico  pingaparaangel : aguilar entro al maincra o nd
-[20:27:56] [Async Chat Thread - #48/INFO]: [Not Secure] Owner Churrupakin : nd
-[20:28:04] [Async Chat Thread - #47/INFO]: [Not Secure] Heroico  pingaparaangel : porq aqui dejo su nombre diciendo q fue el xdd
-[20:28:15] [Async Chat Thread - #48/INFO]: [Not Secure] Heroico  pingaparaangel : entonces fue la perra de angel
-[20:28:17] [Async Chat Thread - #47/INFO]: [Not Secure] Heroico  XxMatos15 : oe
-[20:28:25] [Async Chat Thread - #47/INFO]: [Not Secure] Heroico  XxMatos15 : una perra vino a mi bunker
-[20:28:28] [Async Chat Thread - #47/INFO]: [Not Secure] Owner Churrupakin : pero el no puede romper en tu zona
-[20:28:34] [Async Chat Thread - #47/INFO]: [Not Secure] Owner Churrupakin : pq esta claimeada
-[20:28:38] [Async Chat Thread - #47/INFO]: [Not Secure] Heroico  pingaparaangel : pero estaba roto tdo
-[20:28:45] [Async Chat Thread - #47/INFO]: [Not Secure] Heroico  XxMatos15 : desaparecio mi tnt y mi pico
-[20:28:50] [Async Chat Thread - #47/INFO]: [Not Secure] Heroico  XxMatos15 : xd
-[20:28:53] [Async Chat Thread - #48/INFO]: [Not Secure] Heroico  pingaparaangel : y dejo mensaje diciendo q iva a destruir mas
-[20:28:58] [Async Chat Thread - #48/INFO]: [Not Secure] Owner Churrupakin : aaa
-[20:29:02] [Async Chat Thread - #48/INFO]: [Not Secure] Heroico  pingaparaangel : y dejo el nombre de aguilar
-[20:29:04] [Async Chat Thread - #48/INFO]: [Not Secure] Owner Churrupakin : chifon le robo coasa tmb
-[20:29:09] [Server thread/INFO]: Churrupakin has made the advancement [Bring Home the Beacon]
-[20:29:13] [Async Chat Thread - #47/INFO]: [Not Secure] Heroico  XxMatos15 : bo
-[20:29:19] [Async Chat Thread - #47/INFO]: [Not Secure] Heroico  pingaparaangel : q mrd
-[20:29:34] [Async Chat Thread - #47/INFO]: [Not Secure] Heroico  pingaparaangel : ta drogao la yegua
-[20:29:38] [Async Chat Thread - #47/INFO]: [Not Secure] Owner Churrupakin : spectee a chifon y estubo en la casa d angel xd
-[20:29:39] [Async Chat Thread - #47/INFO]: [Not Secure] Heroico  XxMatos15 : el aldeano
-[20:29:46] [Async Chat Thread - #47/INFO]: [Not Secure] Heroico  XxMatos15 : ah
-[20:29:47] [Async Chat Thread - #47/INFO]: [Not Secure] Heroico  pingaparaangel : xdd
-[20:29:50] [Async Chat Thread - #47/INFO]: [Not Secure] Owner Churrupakin : creo q le puso un carte de minigun
-[20:29:53] [Async Chat Thread - #48/INFO]: [Not Secure] Heroico  XxMatos15 : no habia nd hay
-[20:30:04] [Async Chat Thread - #47/INFO]: [Not Secure] Heroico  pingaparaangel : te dije q desaparecio el rodrigo chifa
-[20:30:08] [Server thread/INFO]: XxMatos15 issued server command: /faction inclaim
-[20:30:12] [Async Chat Thread - #47/INFO]: [Not Secure] Heroico  pingaparaangel : lo mato la perra
-[20:30:12] [Async Chat Thread - #48/INFO]: [Not Secure] Owner Churrupakin : yo tngo mas
-[20:30:22] [Async Chat Thread - #48/INFO]: [Not Secure] Heroico  XxMatos15 : ven
-[20:30:23] [Async Chat Thread - #48/INFO]: [Not Secure] Heroico  pingaparaangel : q no jda
-[20:30:28] [Async Chat Thread - #48/INFO]: [Not Secure] Heroico  pingaparaangel : se kgo esa pvta
-[20:30:32] [Async Chat Thread - #48/INFO]: [Not Secure] Heroico  XxMatos15 : sacate la armadura
-[20:30:37] [Async Chat Thread - #48/INFO]: [Not Secure] Heroico  XxMatos15 : ven aqui
-[20:31:04] [Server thread/INFO]: XxMatos15 issued server command: /faction unclaim
-[20:31:17] [Async Chat Thread - #48/INFO]: [Not Secure] Heroico  pingaparaangel : yaya
-[20:31:26] [Server thread/INFO]: XxMatos15 issued server command: /faction claim 5C
-[20:31:35] [Async Chat Thread - #48/INFO]: [Not Secure] Heroico  pingaparaangel : pero como angel pudo romper
-[20:31:39] [Server thread/INFO]: XxMatos15 issued server command: /faction claim QUINTO SESSO
-[20:31:52] [Async Chat Thread - #48/INFO]: [Not Secure] Owner Churrupakin : tnt creo
-[20:32:20] [Async Chat Thread - #48/INFO]: [Not Secure] Heroico  XxMatos15 : sacate la armadura
-[20:32:21] [Async Chat Thread - #48/INFO]: [Not Secure] Heroico  pingaparaangel : pero el piso no estaba roto
-[20:32:31] [Server thread/INFO]: pingaparaangel was slain by XxMatos15
-[20:32:31] [Async Chat Thread - #48/INFO]: [Not Secure] Owner Churrupakin : entoncecs no pudo ser el xd
-[20:32:39] [Async Chat Thread - #48/INFO]: [Not Secure] Heroico  XxMatos15 : XD
-[20:32:47] [Async Chat Thread - #47/INFO]: [Not Secure] Heroico  pingaparaangel : q haces basura
-[20:32:54] [Async Chat Thread - #47/INFO]: [Not Secure] Heroico  XxMatos15 : era para comprobar algo nmas
-[20:33:34] [Async Chat Thread - #47/INFO]: [Not Secure] Heroico  pingaparaangel : decia el nombre de aguilar pero ese no ntro
-[20:33:42] [Async Chat Thread - #47/INFO]: [Not Secure] Heroico  XxMatos15 : es angel
-[20:33:47] [Server thread/INFO]: Churrupakin issued server command: /gamemode spectator
-[20:33:48] [Async Chat Thread - #47/INFO]: [Not Secure] Heroico  XxMatos15 : voy a acer mrd su casa
-[20:33:50] [Server thread/INFO]: Churrupakin issued server command: /tp pingaparaangel
-[20:33:56] [Async Chat Thread - #47/INFO]: [Not Secure] Heroico  pingaparaangel : nucho jde
-[20:34:02] [Server thread/INFO]: Scheduling new task
-[20:34:12] [Async Chat Thread - #47/INFO]: [Not Secure] Owner Churrupakin : su zona es raideable p
-[20:34:15] [Async Chat Thread - #47/INFO]: [Not Secure] Owner Churrupakin : wbns
-[20:34:27] [Async Chat Thread - #47/INFO]: [Not Secure] Heroico  pingaparaangel : y la tnt
-[20:34:40] [Async Chat Thread - #47/INFO]: [Not Secure] Heroico  XxMatos15 : se perdio
-[20:34:42] [Async Chat Thread - #47/INFO]: [Not Secure] Owner Churrupakin : cuadno su zona es raideble cualqueira puede entrar
-[20:34:45] [Async Chat Thread - #47/INFO]: [Not Secure] Heroico  XxMatos15 : no hay
-[20:34:49] [Async Chat Thread - #47/INFO]: [Not Secure] Owner Churrupakin : eso s debe a que mueren mucho
-[20:34:52] [Server thread/INFO]: Churrupakin issued server command: /fac list
-[20:34:59] [Async Chat Thread - #49/INFO]: [Not Secure] Heroico  pingaparaangel : mano
-[20:35:05] [Async Chat Thread - #47/INFO]: [Not Secure] Heroico  pingaparaangel : chifa
-[20:35:07] [Async Chat Thread - #47/INFO]: [Not Secure] Heroico  XxMatos15 : q
-[20:35:07] [Async Chat Thread - #47/INFO]: [Not Secure] Owner Churrupakin : y su poder esta en negativo
-[20:35:14] [Async Chat Thread - #47/INFO]: [Not Secure] Heroico  pingaparaangel : si es angel pero ya no vive ahi
-[20:35:22] [Async Chat Thread - #47/INFO]: [Not Secure] Heroico  pingaparaangel : me respondio la perra
-[20:35:26] [Async Chat Thread - #47/INFO]: [Not Secure] Heroico  XxMatos15 : la calaca
-[20:35:32] [Async Chat Thread - #49/INFO]: [Not Secure] Owner Churrupakin : miren ig
-[20:35:36] [Async Chat Thread - #49/INFO]: [Not Secure] Heroico  XxMatos15 : sus cofres no ay
-[20:35:50] [Async Chat Thread - #49/INFO]: [Not Secure] Heroico  pingaparaangel : oe vdd
-[20:36:01] [Async Chat Thread - #49/INFO]: [Not Secure] Heroico  pingaparaangel : per es angel idiota
-[20:36:08] [Async Chat Thread - #49/INFO]: [Not Secure] Heroico  pingaparaangel : ya se me delato y se fue
-[20:36:52] [Async Chat Thread - #49/INFO]: [Not Secure] Heroico  XxMatos15 : xd
-[20:37:33] [Async Chat Thread - #49/INFO]: [Not Secure] Heroico  pingaparaangel : esa yegua de mrd
-[20:38:19] [Async Chat Thread - #49/INFO]: [Not Secure] Heroico  pingaparaangel : culpas de chifa q muere a cada rato
-[20:38:36] [Async Chat Thread - #49/INFO]: [Not Secure] Heroico  XxMatos15 : y como se sube de nivel
-[20:40:45] [Server thread/INFO]: stop siege task
-[20:41:02] [Async Chat Thread - #50/INFO]: [Not Secure] Owner Churrupakin : creo q s puede enviar poder
-[20:41:14] [Server thread/INFO]: Churrupakin issued server command: /fac list
-[20:41:21] [Server thread/INFO]: Churrupakin issued server command: /fac map
-[20:41:35] [Server thread/INFO]: Churrupakin issued server command: /fac icon
-[20:41:40] [Server thread/INFO]: Scheduling new task
-[20:41:41] [Server thread/INFO]: stop siege task
-[20:41:42] [Server thread/INFO]: Scheduling new task
-[20:41:55] [Async Chat Thread - #50/INFO]: [Not Secure] Heroico  pingaparaangel : on tas kagada
-[20:41:58] [Async Chat Thread - #51/INFO]: [Not Secure] Heroico  XxMatos15 : arrib
-[20:42:07] [Server thread/INFO]: Churrupakin issued server command: /fac help
-[20:42:14] [Async Chat Thread - #50/INFO]: [Not Secure] Heroico  pingaparaangel : yo estoy variiba down
-[20:42:15] [Server thread/INFO]: Churrupakin issued server command: /f help category:base.command.category.manage
-[20:42:23] [Async Chat Thread - #50/INFO]: [Not Secure] Heroico  pingaparaangel : arriba
-[20:42:34] [Async Chat Thread - #50/INFO]: [Not Secure] Heroico  pingaparaangel : no vive aqui down
-[20:42:39] [Async Chat Thread - #50/INFO]: [Not Secure] Heroico  XxMatos15 : igual es
-[20:42:40] [Async Chat Thread - #50/INFO]: [Not Secure] Heroico  pingaparaangel : ya fue
-[20:42:42] [Server thread/INFO]: Churrupakin issued server command: /f help category:power.command.category.power
-[20:42:45] [Server thread/INFO]: XxMatos15 was blown up by XxMatos15
-[20:42:52] [Async Chat Thread - #50/INFO]: [Not Secure] Heroico  pingaparaangel : XDDDDDDDDDDEDDDDDDDDD
-[20:42:59] [Async Chat Thread - #51/INFO]: [Not Secure] Heroico  XxMatos15 : matias
-[20:42:59] [Server thread/INFO]: Churrupakin issued server command: /fac power add accumulated
-[20:43:04] [Async Chat Thread - #51/INFO]: [Not Secure] Owner Churrupakin : dime
-[20:43:07] [Async Chat Thread - #50/INFO]: [Not Secure] Heroico  XxMatos15 : tp a naylita
-[20:43:09] [Server thread/INFO]: Churrupakin issued server command: /fac list
-[20:43:17] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15 pingaparaangel
-[20:43:21] [Server thread/INFO]: stop siege task
-[20:43:27] [Async Chat Thread - #50/INFO]: [Not Secure] Heroico  pingaparaangel : pasa mechero
-[20:43:32] [Server thread/INFO]: Churrupakin issued server command: /fac power set maximum 20
-[20:43:37] [Server thread/INFO]: Churrupakin issued server command: /fac list
-[20:43:54] [Async Chat Thread - #50/INFO]: [Not Secure] Heroico  XxMatos15 : BAJATE
-[20:43:57] [Server thread/INFO]: Churrupakin issued server command: /fac list
-[20:44:10] [Async Chat Thread - #50/INFO]: [Not Secure] Owner Churrupakin : chifa unclaimaste tu casa?
-[20:44:14] [Async Chat Thread - #50/INFO]: [Not Secure] Heroico  XxMatos15 : si
-[20:44:20] [Async Chat Thread - #50/INFO]: [Not Secure] Heroico  XxMatos15 : pero recien
-[20:44:25] [Server thread/INFO]: Churrupakin issued server command: /home
-[20:44:36] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
-[20:44:57] [Server thread/INFO]: Churrupakin issued server command: /fac icon
-[20:45:03] [Server thread/INFO]: Churrupakin issued server command: /fac list
-[20:45:47] [Async Chat Thread - #52/INFO]: [Not Secure] Heroico  XxMatos15 : agarra caballo
-[20:45:56] [Async Chat Thread - #53/INFO]: [Not Secure] Heroico  pingaparaangel : montura
-[20:46:14] [Async Chat Thread - #53/INFO]: [Not Secure] Heroico  XxMatos15 : subete
-[20:46:19] [Server thread/INFO]: pingaparaangel has made the advancement [Best Friends Forever]
-[20:46:22] [Async Chat Thread - #53/INFO]: [Not Secure] Heroico  XxMatos15 : asta q salga corazones
-[20:46:28] [Async Chat Thread - #53/INFO]: [Not Secure] Heroico  pingaparaangel : ya salio
-[20:46:46] [Async Chat Thread - #53/INFO]: [Not Secure] Heroico  XxMatos15 : toma
-[20:46:53] [Async Chat Thread - #53/INFO]: [Not Secure] Heroico  pingaparaangel : angel tmb destruyo los ocfres de serpene
-[20:47:01] [Async Chat Thread - #52/INFO]: [Not Secure] Owner Churrupakin : avisenle p
-[20:47:07] [Server thread/WARN]: Horse (vehicle of pingaparaangel) moved wrongly! 0.28448295166633386
-[20:47:07] [Server thread/WARN]: Horse (vehicle of pingaparaangel) moved wrongly! 0.6855082142751456
-[20:47:11] [Async Chat Thread - #52/INFO]: [Not Secure] Heroico  XxMatos15 : ya
-[20:47:52] [Async Chat Thread - #52/INFO]: [Not Secure] Heroico  XxMatos15 : vamo
-[20:47:54] [Async Chat Thread - #52/INFO]: [Not Secure] Heroico  pingaparaangel : q tienes basura
-[20:49:45] [Server thread/INFO]: Churrupakin lost connection: Disconnected
-[20:49:45] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
-[20:49:45] [Server thread/INFO]: Churrupakin left the game
-[20:51:01] [Async Chat Thread - #54/INFO]: [Not Secure] Heroico  XxMatos15 : don atas
-[20:51:13] [Async Chat Thread - #54/INFO]: [Not Secure] Heroico  pingaparaangel : te veo
-[20:51:18] [Async Chat Thread - #54/INFO]: [Not Secure] Heroico  XxMatos15 : sube
-[20:51:20] [Async Chat Thread - #54/INFO]: [Not Secure] Heroico  pingaparaangel : abajo
-[20:53:33] [Async Chat Thread - #56/INFO]: [Not Secure] Heroico  XxMatos15 : xd
-[20:53:55] [Async Chat Thread - #56/INFO]: [Not Secure] Heroico  pingaparaangel : eres idiota
-[20:55:11] [Async Chat Thread - #59/INFO]: [Not Secure] Heroico  pingaparaangel : q haces
-[20:56:22] [Async Chat Thread - #60/INFO]: [Not Secure] Heroico  pingaparaangel : on tas
-[20:56:35] [Async Chat Thread - #60/INFO]: [Not Secure] Heroico  XxMatos15 : aca
-[20:58:46] [Async Chat Thread - #62/INFO]: [Not Secure] Heroico  pingaparaangel : on tas
-[20:59:07] [Async Chat Thread - #63/INFO]: [Not Secure] Heroico  XxMatos15 : aca
-[20:59:19] [Async Chat Thread - #63/INFO]: [Not Secure] Heroico  pingaparaangel : cual aca
-[20:59:31] [Async Chat Thread - #63/INFO]: [Not Secure] Heroico  XxMatos15 : XD
-[20:59:56] [Async Chat Thread - #63/INFO]: [Not Secure] Heroico  pingaparaangel : estoy arriba de un arbol
-[20:59:58] [Async Chat Thread - #62/INFO]: [Not Secure] Heroico  XxMatos15 : f3
-[21:00:07] [Async Chat Thread - #62/INFO]: [Not Secure] Heroico  XxMatos15 : y manda ft
-[21:00:08] [Server thread/INFO]: XxMatos15 was blown up by Creeper
-[21:01:00] [User Authenticator #8/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
-[21:01:00] [Server thread/INFO]: Churrupakin joined the game
-[21:01:00] [Server thread/INFO]: Churrupakin[/172.28.161.65:52695] logged in with entity id 50704 at ([world]169.8683882041996, 49.0, 27.411157596944744)
-[21:01:00] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
-[21:01:00] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
-[21:01:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[21:01:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[21:01:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
-[21:01:06] [Async Chat Thread - #63/INFO]: [Not Secure] Heroico  XxMatos15 : matias
-[21:01:12] [Async Chat Thread - #63/INFO]: [Not Secure] Heroico  XxMatos15 : tp a anyelita
-[21:01:13] [Server thread/INFO]: Churrupakin issued server command: /tp pingaparaangel XxMatos15
-[21:01:20] [Server thread/INFO]: Churrupakin issued server command: /tp pingaparaangel XxMatos15
-[21:01:23] [Async Chat Thread - #62/INFO]: [Not Secure] Owner Churrupakin : ya esta
-[21:01:24] [Server thread/INFO]: Churrupakin lost connection: Disconnected
-[21:01:24] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
-[21:01:24] [Server thread/INFO]: Churrupakin left the game
-[21:01:29] [Async Chat Thread - #62/INFO]: [Not Secure] Heroico  pingaparaangel : q mrd
-[21:01:47] [Async Chat Thread - #62/INFO]: [Not Secure] Heroico  pingaparaangel : dnd estoy
-[21:01:53] [Async Chat Thread - #62/INFO]: [Not Secure] Heroico  pingaparaangel : estaba con unayegua
-[21:01:53] [Async Chat Thread - #62/INFO]: [Not Secure] Heroico  XxMatos15 : ns
-[21:02:02] [Async Chat Thread - #62/INFO]: [Not Secure] Heroico  pingaparaangel : era tp a chifa no a mi
-[21:02:06] [Async Chat Thread - #63/INFO]: [Not Secure] Heroico  XxMatos15 : ptamre
-[21:02:17] [Async Chat Thread - #62/INFO]: [Not Secure] Heroico  pingaparaangel : volvimos a la aldea
-[21:02:27] [Async Chat Thread - #62/INFO]: [Not Secure] Heroico  XxMatos15 : dame tu caballo
-[21:02:28] [Server thread/INFO]: pingaparaangel issued server command: /fac home
-[21:02:55] [Async Chat Thread - #62/INFO]: [Not Secure] Heroico  XxMatos15 : en q partede aldea
-[21:02:55] [Async Chat Thread - #62/INFO]: [Not Secure] Heroico  pingaparaangel : cuaol caballo si me hizieron tp a la aldea
-[21:03:02] [Async Chat Thread - #62/INFO]: [Not Secure] Heroico  pingaparaangel : de matias
-[21:03:26] [Async Chat Thread - #63/INFO]: [Not Secure] Heroico  pingaparaangel : le dijiste a sergio ond
-[21:03:28] [Async Chat Thread - #63/INFO]: [Not Secure] Heroico  XxMatos15 : otra ves
-[21:03:35] [Async Chat Thread - #63/INFO]: [Not Secure] Heroico  XxMatos15 : perdi todo
-[21:03:40] [Async Chat Thread - #63/INFO]: [Not Secure] Heroico  pingaparaangel : habla
-[21:04:00] [Async Chat Thread - #62/INFO]: [Not Secure] Heroico  XxMatos15 : como xuxa va a ver un creper en plena luz
-[21:04:17] [Async Chat Thread - #62/INFO]: [Not Secure] Heroico  pingaparaangel : a mi me hizieron tp a la aldea de la nd xdd
-[21:04:29] [Server thread/INFO]: XxMatos15 issued server command: /fac home
-[21:05:02] [Server thread/INFO]: XxMatos15 issued server command: /fac home
-[21:05:05] [Server thread/INFO]: XxMatos15 issued server command: /fac home
-[21:05:42] [Async Chat Thread - #64/INFO]: [Not Secure] Heroico  XxMatos15 : mano
-[21:05:49] [Async Chat Thread - #65/INFO]: [Not Secure] Heroico  XxMatos15 : esta en la aldea
-[21:06:00] [Server thread/INFO]: Villager EntityVillager['Villager'/261, uuid='e9d2c5e0-3173-4019-b8d0-8b4480e5b180', l='ServerLevel[world]', x=186.70, y=57.05, z=85.87, cpos=[11, 5], tl=651590, v=true] died, message: 'Villager was slain by Wolf'
-[21:06:05] [Async Chat Thread - #65/INFO]: [Not Secure] Heroico  pingaparaangel : ya le dije a sergio y dice q va a violar a angel xdd
-[21:06:11] [Server thread/INFO]: Villager EntityVillager['Villager'/259, uuid='327ac9cf-ac6c-4f5d-8cf0-87e40b45e196', l='ServerLevel[world]', x=186.30, y=57.04, z=85.59, cpos=[11, 5], tl=739764, v=true] died, message: 'Villager was slain by Wolf'
-[21:06:15] [Server thread/INFO]: Villager EntityVillager['Villager'/253, uuid='3c926e57-2720-4e71-83d6-31838d831f2b', l='ServerLevel[world]', x=186.70, y=57.05, z=88.04, cpos=[11, 5], tl=976433, v=true] died, message: 'Villager was slain by Wolf'
-[21:06:22] [Server thread/INFO]: XxMatos15 issued server command: /fac home
-[21:07:22] [Async Chat Thread - #66/INFO]: [Not Secure] Heroico  pingaparaangel : ya
-[21:07:29] [Async Chat Thread - #66/INFO]: [Not Secure] Heroico  pingaparaangel : don tas
-[21:07:32] [Async Chat Thread - #66/INFO]: [Not Secure] Heroico  XxMatos15 : mano q xuxa acen pilage en mi granaja
-[21:07:55] [Async Chat Thread - #67/INFO]: [Not Secure] Heroico  pingaparaangel : q chch sera
-[21:08:11] [Async Chat Thread - #67/INFO]: [Not Secure] Heroico  XxMatos15 : ven
-[21:08:52] [Async Chat Thread - #67/INFO]: [Not Secure] Heroico  pingaparaangel : on tas
-[21:09:06] [Async Chat Thread - #66/INFO]: [Not Secure] Heroico  pingaparaangel : oe
-[21:09:29] [Server thread/INFO]: XxMatos15 was shot by Pillager
-[21:09:35] [Async Chat Thread - #66/INFO]: [Not Secure] Heroico  pingaparaangel : xdd
-[21:09:43] [Server thread/INFO]: XxMatos15 issued server command: /fac home
-[21:10:18] [Server thread/INFO]: XxMatos15 was shot by Skeleton
-[21:10:20] [Async Chat Thread - #67/INFO]: [Not Secure] Heroico  pingaparaangel : dice sergio q va entrar pa buscar la choza de angel
-[21:10:32] [Async Chat Thread - #67/INFO]: [Not Secure] Heroico  XxMatos15 : xd
-[21:11:17] [Async Chat Thread - #67/INFO]: [Not Secure] Heroico  XxMatos15 : ms tard entro
-[21:11:19] [Server thread/INFO]: pingaparaangel issued server command: /fac home
-[21:11:27] [Server thread/INFO]: XxMatos15 lost connection: Disconnected
-[21:11:27] [Server thread/INFO]: [voicechat] Disconnecting client XxMatos15
-[21:11:27] [Server thread/INFO]: XxMatos15 left the game
-[21:18:54] [User Authenticator #9/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
-[21:18:55] [Server thread/INFO]: Churrupakin joined the game
-[21:18:55] [Server thread/INFO]: Churrupakin[/172.28.161.65:52703] logged in with entity id 53901 at ([world]169.8683882041996, 49.0, 27.411157596944744)
-[21:18:55] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
-[21:18:55] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
-[21:18:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[21:18:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[21:18:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
-[21:19:23] [Async Chat Thread - #68/INFO]: [Not Secure] Owner Churrupakin : y chifa
-[21:19:57] [Server thread/INFO]: Churrupakin issued server command: /fac list
-[21:23:38] [Async Chat Thread - #70/INFO]: [Not Secure] Heroico  pingaparaangel : te salio
-[21:23:44] [Async Chat Thread - #70/INFO]: [Not Secure] Heroico  pingaparaangel : dice q ms tarde entra
-[21:39:46] [Server thread/INFO]: pingaparaangel fell from a high place
-[21:41:03] [Server thread/INFO]: Churrupakin issued server command: /tp pingaparaangel Churrupakin
-[21:43:38] [Server thread/INFO]: pingaparaangel issued server command: /fac home
-[21:43:51] [Server thread/INFO]: pingaparaangel issued server command: /fac home
-[21:46:39] [Server thread/INFO]: Churrupakin lost connection: Disconnected
-[21:46:39] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
-[21:46:39] [Server thread/INFO]: Churrupakin left the game
-[21:57:15] [User Authenticator #10/INFO]: UUID of player XxMatos15 is 2a9ff858-04dc-3136-97df-619a6316d09a
-[21:57:15] [Server thread/INFO]: XxMatos15 joined the game
-[21:57:15] [Server thread/INFO]: XxMatos15[/172.28.131.63:54428] logged in with entity id 65204 at ([world]-30.034007987062715, 78.0, 183.1322820207684)
-[21:57:26] [Async Chat Thread - #72/INFO]: [Not Secure] Heroico  pingaparaangel : chia
-[21:57:35] [Async Chat Thread - #73/INFO]: [Not Secure] Heroico  pingaparaangel : vamoa diego
-[21:57:43] [Async Chat Thread - #73/INFO]: [Not Secure] Heroico  pingaparaangel : no hay nadie
-[21:57:48] [Async Chat Thread - #72/INFO]: [Not Secure] Heroico  pingaparaangel : t
-[21:58:24] [Async Chat Thread - #73/INFO]: [Not Secure] Heroico  XxMatos15 : pa morir otra ves
-[21:58:31] [Async Chat Thread - #73/INFO]: [Not Secure] Heroico  XxMatos15 : tienes tnt?
-[21:58:39] [Async Chat Thread - #73/INFO]: [Not Secure] Heroico  pingaparaangel : no se hace de noche xd
-[21:59:11] [Async Chat Thread - #72/INFO]: [Not Secure] Heroico  XxMatos15 : tienes a armadura de caballo diamont=
-[21:59:20] [Async Chat Thread - #72/INFO]: [Not Secure] Heroico  pingaparaangel : si
-[21:59:26] [Server thread/INFO]: pingaparaangel issued server command: /fac home
-[22:00:28] [Async Chat Thread - #74/INFO]: [Not Secure] Heroico  pingaparaangel : on tas p
-[22:00:30] [Async Chat Thread - #74/INFO]: [Not Secure] Heroico  XxMatos15 : don ytas
-[22:00:33] [Server thread/INFO]: XxMatos15 issued server command: /fac home
-[22:00:38] [Async Chat Thread - #74/INFO]: [Not Secure] Heroico  pingaparaangel : estoy en el bunker
-[22:01:40] [Async Chat Thread - #76/INFO]: [Not Secure] Heroico  XxMatos15 : van
-[22:02:02] [Async Chat Thread - #77/INFO]: [Not Secure] Heroico  pingaparaangel : on tas
-[22:02:30] [Async Chat Thread - #77/INFO]: [Not Secure] Heroico  XxMatos15 : aldea
-[22:02:55] [Async Chat Thread - #77/INFO]: [Not Secure] Heroico  pingaparaangel : de matias?
-[22:02:57] [Async Chat Thread - #76/INFO]: [Not Secure] Heroico  XxMatos15 : se
-[22:03:05] [Async Chat Thread - #76/INFO]: [Not Secure] Heroico  pingaparaangel : pera
-[22:03:07] [Async Chat Thread - #76/INFO]: [Not Secure] Heroico  XxMatos15 : tiens diamante¡
-[22:03:15] [Async Chat Thread - #76/INFO]: [Not Secure] Heroico  pingaparaangel : si
-[22:03:22] [Async Chat Thread - #76/INFO]: [Not Secure] Heroico  XxMatos15 : asme una armdaura completa p
-[22:04:06] [Async Chat Thread - #76/INFO]: [Not Secure] Heroico  pingaparaangel : ven
-[22:04:13] [Async Chat Thread - #77/INFO]: [Not Secure] Heroico  XxMatos15 : don yas
-[22:04:17] [Async Chat Thread - #76/INFO]: [Not Secure] Heroico  pingaparaangel : te doy el q le robe a la yegua
-[22:04:24] [Server thread/INFO]: XxMatos15 issued server command: /fac home
-[22:04:25] [Async Chat Thread - #76/INFO]: [Not Secure] Heroico  pingaparaangel : ven al prepucio
-[22:04:45] [Async Chat Thread - #78/INFO]: [Not Secure] Heroico  XxMatos15 : ya
-[22:05:28] [Async Chat Thread - #78/INFO]: [Not Secure] Heroico  pingaparaangel : oe
-[22:05:33] [Async Chat Thread - #78/INFO]: [Not Secure] Heroico  XxMatos15 : a
-[22:05:37] [Async Chat Thread - #78/INFO]: [Not Secure] Heroico  pingaparaangel : ven
-[22:05:48] [Async Chat Thread - #78/INFO]: [Not Secure] Heroico  pingaparaangel : duermne
-[22:05:55] [Async Chat Thread - #77/INFO]: [Not Secure] Heroico  pingaparaangel : q fue xd
-[22:09:12] [Async Chat Thread - #79/INFO]: [Not Secure] Heroico  pingaparaangel : no bajaste?
-[22:09:18] [Async Chat Thread - #80/INFO]: [Not Secure] Heroico  XxMatos15 : si
-[22:09:29] [Async Chat Thread - #80/INFO]: [Not Secure] Heroico  pingaparaangel : por donde
-[22:09:38] [Async Chat Thread - #80/INFO]: [Not Secure] Heroico  XxMatos15 : del cerro
-[22:10:08] [Async Chat Thread - #79/INFO]: [Not Secure] Heroico  XxMatos15 : encontraste la aldea?
-[22:10:28] [Async Chat Thread - #80/INFO]: [Not Secure] Heroico  pingaparaangel : me dejaste
-[22:10:36] [Async Chat Thread - #80/INFO]: [Not Secure] Heroico  XxMatos15 : esta e
-[22:10:40] [Async Chat Thread - #80/INFO]: [Not Secure] Heroico  pingaparaangel : baje y no te vi
-[22:10:41] [Async Chat Thread - #80/INFO]: [Not Secure] Heroico  XxMatos15 : estas en el cerro?
-[22:10:45] [Async Chat Thread - #80/INFO]: [Not Secure] Heroico  pingaparaangel : si
-[22:11:19] [User Authenticator #11/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
-[22:11:19] [Server thread/INFO]: Churrupakin joined the game
-[22:11:19] [Server thread/INFO]: Churrupakin[/172.28.161.65:52715] logged in with entity id 68545 at ([world]175.40904324660474, 24.0, 16.58539286797419)
-[22:11:19] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
-[22:11:19] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
-[22:11:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[22:11:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[22:11:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
-[22:11:31] [Async Chat Thread - #80/INFO]: [Not Secure] Heroico  XxMatos15 : pasa coordenad
-[22:11:37] [Server thread/INFO]: Churrupakin lost connection: Disconnected
-[22:11:37] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
-[22:11:37] [Server thread/INFO]: Churrupakin left the game
-[22:12:10] [Async Chat Thread - #80/INFO]: [Not Secure] Heroico  pingaparaangel : 530.382 / 127.000 / 162.084
-[22:13:02] [Async Chat Thread - #79/INFO]: [Not Secure] Heroico  pingaparaangel : vienes o nd
-[22:13:13] [Async Chat Thread - #79/INFO]: [Not Secure] Heroico  XxMatos15 : estoy en tus coooordenadas
-[22:13:21] [Async Chat Thread - #79/INFO]: [Not Secure] Heroico  pingaparaangel : no estas
-[22:13:41] [User Authenticator #12/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
-[22:13:41] [Server thread/INFO]: Churrupakin joined the game
-[22:13:41] [Server thread/INFO]: Churrupakin[/172.28.161.65:52744] logged in with entity id 69021 at ([world]175.40904324660474, 24.0, 16.58539286797419)
-[22:13:43] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
-[22:13:43] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
-[22:13:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[22:13:46] [Async Chat Thread - #79/INFO]: [Not Secure] Heroico  pingaparaangel : matias
-[22:13:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[22:13:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
-[22:13:56] [Async Chat Thread - #79/INFO]: [Not Secure] Heroico  pingaparaangel : hazme tp a chifa p
-[22:14:06] [Server thread/INFO]: Churrupakin issued server command: /gamemode spectator
-[22:14:06] [Async Chat Thread - #80/INFO]: [Not Secure] Heroico  pingaparaangel : ya no
-[22:14:19] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15
-[22:15:31] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15
-[22:16:22] [Server thread/INFO]: Churrupakin lost connection: Disconnected
-[22:16:22] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
-[22:16:22] [Server thread/INFO]: Churrupakin left the game
-[22:16:25] [Async Chat Thread - #81/INFO]: [Not Secure] Heroico  pingaparaangel : me cai
-[22:16:37] [Async Chat Thread - #82/INFO]: [Not Secure] Heroico  XxMatos15 : en donde
-[22:16:50] [Async Chat Thread - #82/INFO]: [Not Secure] Heroico  XxMatos15 : pera
-[22:16:50] [Async Chat Thread - #82/INFO]: [Not Secure] Heroico  pingaparaangel : ya sigue
-[22:17:05] [Async Chat Thread - #82/INFO]: [Not Secure] Heroico  pingaparaangel : pasa comida
-[22:17:08] [Async Chat Thread - #82/INFO]: [Not Secure] Heroico  XxMatos15 : voy a ver las coordenadas de las yeguas
-[22:18:01] [Async Chat Thread - #81/INFO]: [Not Secure] Heroico  XxMatos15 : 1378.819 -451.899
-[22:18:49] [Async Chat Thread - #82/INFO]: [Not Secure] Heroico  pingaparaangel : on tas xd
-[22:19:06] [Async Chat Thread - #82/INFO]: [Not Secure] Heroico  XxMatos15 : donde
-[22:19:25] [Async Chat Thread - #82/INFO]: [Not Secure] Heroico  pingaparaangel : donde stas
-[22:19:58] [Async Chat Thread - #82/INFO]: [Not Secure] Heroico  pingaparaangel : pera
-[22:20:22] [Async Chat Thread - #81/INFO]: [Not Secure] Heroico  pingaparaangel : pasa comidas
-[22:20:38] [Server thread/INFO]: pingaparaangel was slain by Wolf
-[22:20:47] [Async Chat Thread - #81/INFO]: [Not Secure] Heroico  pingaparaangel : matias
-[22:20:55] [Async Chat Thread - #81/INFO]: [Not Secure] Heroico  pingaparaangel : MR
-[22:21:26] [Async Chat Thread - #82/INFO]: [Not Secure] Heroico  XxMatos15 : aca
-[22:21:34] [Async Chat Thread - #82/INFO]: [Not Secure] Heroico  XxMatos15 : XD
-[22:21:38] [Async Chat Thread - #82/INFO]: [Not Secure] Heroico  pingaparaangel : rejunta mis cosas
-[22:22:09] [Async Chat Thread - #82/INFO]: [Not Secure] Heroico  pingaparaangel : tmr
-[22:22:50] [Async Chat Thread - #82/INFO]: [Not Secure] Heroico  pingaparaangel : pasa coordenada
-[22:23:00] [Async Chat Thread - #82/INFO]: [Not Secure] Heroico  pingaparaangel : al toque
-[22:23:05] [Async Chat Thread - #82/INFO]: [Not Secure] Heroico  XxMatos15 : 1278.819
-[22:23:14] [Async Chat Thread - #82/INFO]: [Not Secure] Heroico  XxMatos15 : -451.899
-[22:23:28] [Async Chat Thread - #82/INFO]: [Not Secure] Heroico  pingaparaangel : todo en un solo mensaje p bestia
-[22:23:46] [Async Chat Thread - #82/INFO]: [Not Secure] Heroico  pingaparaangel : las 3 wbds
-[22:23:56] [Async Chat Thread - #81/INFO]: [Not Secure] Heroico  XxMatos15 : 1278.819/92.00000/-541.899
-[22:24:52] [Async Chat Thread - #81/INFO]: [Not Secure] Heroico  pingaparaangel : perame abhi
-[22:25:46] [Server thread/INFO]: XxMatos15 fell from a high place
-[22:25:51] [Async Chat Thread - #81/INFO]: [Not Secure] Heroico  XxMatos15 : lap tmr juego de mierda
-[22:25:55] [Async Chat Thread - #81/INFO]: [Not Secure] Heroico  pingaparaangel : pta q down
-[22:26:00] [Async Chat Thread - #81/INFO]: [Not Secure] Heroico  pingaparaangel : chupa pene
-[22:26:03] [Async Chat Thread - #82/INFO]: [Not Secure] Heroico  XxMatos15 : anda noams
-[22:26:09] [Async Chat Thread - #82/INFO]: [Not Secure] Heroico  pingaparaangel : las cosas ctmr
-[22:26:10] [Async Chat Thread - #82/INFO]: [Not Secure] Heroico  XxMatos15 : yo te alcanzo
-[22:26:29] [Async Chat Thread - #82/INFO]: [Not Secure] Heroico  pingaparaangel : necesito comida
-[22:26:34] [Async Chat Thread - #81/INFO]: [Not Secure] Heroico  pingaparaangel : no puedo ni correrxdd
-[22:26:47] [Async Chat Thread - #82/INFO]: [Not Secure] Heroico  XxMatos15 : q corrdenadas estas
-[22:27:23] [Async Chat Thread - #82/INFO]: [Not Secure] Heroico  pingaparaangel : 561.124 / 74.000 / -89.726
-[22:28:37] [Async Chat Thread - #83/INFO]: [Not Secure] Heroico  pingaparaangel : veo una aldea
-[22:28:53] [Async Chat Thread - #84/INFO]: [Not Secure] Heroico  XxMatos15 : entra la aldeaw
-[22:28:57] [Server thread/INFO]: pingaparaangel was shot by Skeleton
-[22:29:07] [Async Chat Thread - #83/INFO]: [Not Secure] Heroico  pingaparaangel : voy de nuevo
-[22:29:11] [Async Chat Thread - #84/INFO]: [Not Secure] Heroico  XxMatos15 : s
-[22:30:21] [Server thread/INFO]: pingaparaangel issued server command: /fac home
-[22:30:50] [Server thread/INFO]: pingaparaangel was slain by Zombie Villager
-[22:31:05] [Async Chat Thread - #85/INFO]: [Not Secure] Heroico  pingaparaangel : q mrd
-[22:31:12] [Async Chat Thread - #85/INFO]: [Not Secure] Heroico  pingaparaangel : apareci en las nub es
-[22:31:36] [Async Chat Thread - #85/INFO]: [Not Secure] Heroico  XxMatos15 : xD
-[22:31:58] [Server thread/INFO]: pingaparaangel fell from a high place
-[22:32:07] [Server thread/INFO]: pingaparaangel issued server command: /fac home
-[22:32:39] [Async Chat Thread - #87/INFO]: [Not Secure] Heroico  pingaparaangel : oe
-[22:32:46] [Async Chat Thread - #88/INFO]: [Not Secure] Heroico  pingaparaangel : sigues en la aldea
-[22:33:10] [Server thread/INFO]: XxMatos15 was slain by Zombie
-[22:33:15] [Async Chat Thread - #88/INFO]: [Not Secure] Heroico  pingaparaangel : tmr
-[22:33:20] [Async Chat Thread - #87/INFO]: [Not Secure] Heroico  XxMatos15 : Mano
-[22:33:33] [Async Chat Thread - #87/INFO]: [Not Secure] Heroico  XxMatos15 : don tas
-[22:33:38] [Async Chat Thread - #87/INFO]: [Not Secure] Heroico  pingaparaangel : bunker}
-[22:33:47] [Server thread/INFO]: XxMatos15 issued server command: /fac home
-[22:34:02] [Async Chat Thread - #87/INFO]: [Not Secure] Heroico  pingaparaangel : tienes lana
-[22:34:13] [Async Chat Thread - #87/INFO]: [Not Secure] Heroico  pingaparaangel : pa haver camas
-[22:34:16] [Async Chat Thread - #87/INFO]: [Not Secure] Heroico  XxMatos15 : nd
-[22:34:27] [Async Chat Thread - #87/INFO]: [Not Secure] Heroico  pingaparaangel : debemos de llevar, pa cuando se haga de noche
-[22:34:33] [Async Chat Thread - #87/INFO]: [Not Secure] Heroico  pingaparaangel : dormimos yya
-[22:34:49] [Async Chat Thread - #87/INFO]: [Not Secure] Heroico  XxMatos15 : si
-[22:34:52] [Async Chat Thread - #87/INFO]: [Not Secure] Heroico  pingaparaangel : ontas
-[22:35:15] [Async Chat Thread - #88/INFO]: [Not Secure] Heroico  XxMatos15 : granaja
-[22:36:04] [Async Chat Thread - #88/INFO]: [Not Secure] Heroico  XxMatos15 : vma
-[22:36:18] [Async Chat Thread - #88/INFO]: [Not Secure] Heroico  pingaparaangel : en la wbbd de matyias hay camas
-[22:36:23] [Async Chat Thread - #88/INFO]: [Not Secure] Heroico  XxMatos15 : s
-[22:37:22] [Async Chat Thread - #87/INFO]: [Not Secure] Heroico  pingaparaangel : voy a traer camas
-[22:37:27] [Async Chat Thread - #88/INFO]: [Not Secure] Heroico  XxMatos15 : aca hay
-[22:37:41] [Async Chat Thread - #88/INFO]: [Not Secure] Heroico  pingaparaangel : ahi iva a ir xdd
-[22:43:51] [Async Chat Thread - #89/INFO]: [Not Secure] Heroico  XxMatos15 : corre saaltando
-[22:44:36] [Async Chat Thread - #90/INFO]: [Not Secure] Heroico  XxMatos15 : esperame en la aldea
-[22:45:28] [Async Chat Thread - #90/INFO]: [Not Secure] Heroico  pingaparaangel : oe didoiota
-[22:45:32] [Async Chat Thread - #90/INFO]: [Not Secure] Heroico  XxMatos15 : q
-[22:45:41] [Async Chat Thread - #90/INFO]: [Not Secure] Heroico  pingaparaangel : tuperras me siguen y me quiere matar
-[22:45:49] [Async Chat Thread - #90/INFO]: [Not Secure] Heroico  XxMatos15 : ya los mate
-[22:45:55] [Async Chat Thread - #90/INFO]: [Not Secure] Heroico  pingaparaangel : nd
-[22:46:09] [Async Chat Thread - #89/INFO]: [Not Secure] Heroico  pingaparaangel : en esta aldea de abajo dijiste q espere no ?
-[22:46:19] [Async Chat Thread - #89/INFO]: [Not Secure] Heroico  XxMatos15 : s
-[22:46:42] [Async Chat Thread - #89/INFO]: [Not Secure] Heroico  XxMatos15 : donde estas
-[22:47:01] [Async Chat Thread - #89/INFO]: [Not Secure] Heroico  pingaparaangel : duerme
-[22:49:09] [Async Chat Thread - #91/INFO]: [Not Secure] Heroico  XxMatos15 : otra alde
-[22:49:14] [Async Chat Thread - #91/INFO]: [Not Secure] Heroico  pingaparaangel : vamo
-[22:49:31] [Server thread/INFO]: Villager EntityVillager['Villager'/82354, uuid='d46862bd-f6bc-477c-b7d7-69b4c4f8416b', l='ServerLevel[world]', x=1482.45, y=111.00, z=-771.50, cpos=[92, -49], tl=2960, v=true] died, message: 'Villager froze to death'
-[22:51:08] [Async Chat Thread - #93/INFO]: [Not Secure] Heroico  pingaparaangel : ontas
-[22:51:37] [Async Chat Thread - #94/INFO]: [Not Secure] Heroico  XxMatos15 : aca
-[22:51:51] [Async Chat Thread - #93/INFO]: [Not Secure] Heroico  XxMatos15 : aldea
-[22:52:04] [Server thread/INFO]: Villager EntityVillager['Villager'/82327, uuid='d865c1e5-4324-400a-86e7-ab21e5bae18f', l='ServerLevel[world]', x=1480.01, y=116.00, z=-757.98, cpos=[92, -48], tl=6200, v=true] died, message: 'Villager froze to death'
-[22:52:11] [Async Chat Thread - #93/INFO]: [Not Secure] Heroico  pingaparaangel : no ivamos ala choza de diego xd
-[22:52:17] [Async Chat Thread - #93/INFO]: [Not Secure] Heroico  XxMatos15 : ptmr
-[22:52:35] [Async Chat Thread - #94/INFO]: [Not Secure] Heroico  pingaparaangel : q fue xd
-[22:52:57] [Async Chat Thread - #94/INFO]: [Not Secure] Heroico  XxMatos15 : no ecuntreo las yeguas
-[22:53:04] [Async Chat Thread - #93/INFO]: [Not Secure] Heroico  XxMatos15 : pasame tu coordenada
-[22:53:37] [Async Chat Thread - #93/INFO]: [Not Secure] Heroico  pingaparaangel : 1441.215 / 102.000 /-768.009
-[22:53:48] [Async Chat Thread - #93/INFO]: [Not Secure] Heroico  pingaparaangel : ya fue vamos a pie
-[22:54:26] [Async Chat Thread - #93/INFO]: [Not Secure] Heroico  XxMatos15 : sube
-[22:55:25] [Async Chat Thread - #94/INFO]: [Not Secure] Heroico  pingaparaangel : ayudaa
-[22:55:38] [Async Chat Thread - #94/INFO]: [Not Secure] Heroico  pingaparaangel : nieve de mrd
-[22:57:42] [Async Chat Thread - #95/INFO]: [Not Secure] Heroico  pingaparaangel : duermne
-[22:59:16] [Async Chat Thread - #97/INFO]: [Not Secure] Heroico  pingaparaangel : xd
-[23:00:20] [Server thread/INFO]: pingaparaangel was slain by Wolf
-[23:00:27] [Async Chat Thread - #99/INFO]: [Not Secure] Heroico  pingaparaangel : imbecil
-[23:00:38] [Async Chat Thread - #99/INFO]: [Not Secure] Heroico  XxMatos15 : XD
-[23:00:38] [Async Chat Thread - #99/INFO]: [Not Secure] Heroico  pingaparaangel : pa q chch me tires
-[23:00:48] [Async Chat Thread - #99/INFO]: [Not Secure] Heroico  XxMatos15 : tu te as caido
-[23:00:51] [Async Chat Thread - #100/INFO]: [Not Secure] Heroico  pingaparaangel : por,mpegarme tus perras me atacn
-[23:01:03] [Async Chat Thread - #100/INFO]: [Not Secure] Heroico  pingaparaangel : tu me pegaste y esas perras ataxcam
-[23:01:17] [Async Chat Thread - #99/INFO]: [Not Secure] Heroico  pingaparaangel : no q las habias matado}
-[23:01:50] [Async Chat Thread - #100/INFO]: [Not Secure] Heroico  pingaparaangel : pasa coordenadas
-[23:02:14] [Async Chat Thread - #99/INFO]: [Not Secure] Heroico  XxMatos15 : 1900
-[23:02:21] [Async Chat Thread - #99/INFO]: [Not Secure] Heroico  pingaparaangel : en un solo msn p
-[23:02:56] [Server thread/INFO]: pingaparaangel drowned
-[23:03:14] [Async Chat Thread - #99/INFO]: [Not Secure] Heroico  pingaparaangel : pasa
-[23:03:29] [Async Chat Thread - #100/INFO]: [Not Secure] Heroico  pingaparaangel : al tow
-[23:03:33] [Async Chat Thread - #100/INFO]: [Not Secure] Heroico  XxMatos15 : 1900
-[23:03:38] [Async Chat Thread - #100/INFO]: [Not Secure] Heroico  XxMatos15 : a eso nmas ven
-[23:03:50] [Async Chat Thread - #100/INFO]: [Not Secure] Heroico  pingaparaangel : mata a esas perras ctmr
-[23:04:27] [Async Chat Thread - #100/INFO]: [Not Secure] Heroico  XxMatos15 : encontre la casa del chancho al palo
-[23:04:27] [Async Chat Thread - #100/INFO]: [Not Secure] Heroico  pingaparaangel : 1900 de la X?
-[23:04:34] [Async Chat Thread - #100/INFO]: [Not Secure] Heroico  XxMatos15 : si
-[23:04:37] [Async Chat Thread - #100/INFO]: [Not Secure] Heroico  pingaparaangel : yaya
-[23:04:44] [Async Chat Thread - #100/INFO]: [Not Secure] Heroico  pingaparaangel : tiene tnt
-[23:04:51] [Async Chat Thread - #100/INFO]: [Not Secure] Heroico  XxMatos15 : tnt falta
-[23:05:06] [Async Chat Thread - #99/INFO]: [Not Secure] Heroico  pingaparaangel : tmr pa eso
-[23:05:13] [Async Chat Thread - #100/INFO]: [Not Secure] Heroico  pingaparaangel : pense q tenias p down aytista
-[23:05:29] [Async Chat Thread - #100/INFO]: [Not Secure] Heroico  XxMatos15 : XD
-[23:05:40] [Async Chat Thread - #100/INFO]: [Not Secure] Heroico  XxMatos15 : ven nomas
-[23:05:51] [Async Chat Thread - #100/INFO]: [Not Secure] Heroico  XxMatos15 : aca matamos creper y lo acemos
-[23:05:59] [Async Chat Thread - #99/INFO]: [Not Secure] Heroico  XxMatos15 : ttraet comida pq esta lejs
-[23:06:07] [Async Chat Thread - #99/INFO]: [Not Secure] Heroico  pingaparaangel : yafue
-[23:06:17] [Async Chat Thread - #99/INFO]: [Not Secure] Heroico  pingaparaangel : estoy lejos
-[23:07:16] [Async Chat Thread - #99/INFO]: [Not Secure] Heroico  pingaparaangel : pasa coordenadas de la cerda
-[23:07:20] [Async Chat Thread - #99/INFO]: [Not Secure] Heroico  XxMatos15 : tiene su propia mina
-[23:07:38] [Async Chat Thread - #99/INFO]: [Not Secure] Heroico  pingaparaangel : alt qouw
-[23:07:48] [Async Chat Thread - #99/INFO]: [Not Secure] Heroico  XxMatos15 : 1825.252/74.00000/-223.422
-[23:08:06] [Async Chat Thread - #99/INFO]: [Not Secure] Heroico  pingaparaangel : duerme al toq
-[23:08:11] [Async Chat Thread - #99/INFO]: [Not Secure] Heroico  pingaparaangel : pa q no me maten
-[23:09:52] [Async Chat Thread - #102/INFO]: [Not Secure] Heroico  XxMatos15 : ya te vienes?
-[23:10:00] [Async Chat Thread - #102/INFO]: [Not Secure] Heroico  pingaparaangel : si
-[23:11:00] [Async Chat Thread - #102/INFO]: [Not Secure] Heroico  XxMatos15 : mano
-[23:11:09] [Async Chat Thread - #101/INFO]: [Not Secure] Heroico  XxMatos15 : no va a entrar la tnt a sus cofres
-[23:11:14] [Async Chat Thread - #101/INFO]: [Not Secure] Heroico  XxMatos15 : esta rodeado de cristal
-[23:11:25] [Async Chat Thread - #101/INFO]: [Not Secure] Heroico  pingaparaangel : te dije abajo
-[23:11:36] [Async Chat Thread - #101/INFO]: [Not Secure] Heroico  pingaparaangel : y ponemos un placa
-[23:11:39] [Async Chat Thread - #101/INFO]: [Not Secure] Heroico  XxMatos15 : en q coordendas estas
-[23:11:48] [Async Chat Thread - #101/INFO]: [Not Secure] Heroico  XxMatos15 : no se puede
-[23:11:52] [Async Chat Thread - #101/INFO]: [Not Secure] Heroico  pingaparaangel : 1200
-[23:12:06] [Async Chat Thread - #101/INFO]: [Not Secure] Heroico  pingaparaangel : en sus cosechas p
-[23:12:12] [Async Chat Thread - #101/INFO]: [Not Secure] Heroico  XxMatos15 : lo ise mrd
-[23:12:12] [Async Chat Thread - #101/INFO]: [Not Secure] Heroico  pingaparaangel : ahi si se puede
-[23:12:31] [Async Chat Thread - #101/INFO]: [Not Secure] Heroico  pingaparaangel : onsigue comida
-[23:12:54] [Async Chat Thread - #102/INFO]: [Not Secure] Heroico  XxMatos15 : mano
-[23:13:02] [Async Chat Thread - #102/INFO]: [Not Secure] Heroico  XxMatos15 : en q coordenadas estas
-[23:13:19] [Async Chat Thread - #102/INFO]: [Not Secure] Heroico  XxMatos15 : mano yase
-[23:13:21] [Async Chat Thread - #102/INFO]: [Not Secure] Heroico  pingaparaangel : 14000
-[23:13:25] [Async Chat Thread - #102/INFO]: [Not Secure] Heroico  XxMatos15 : ya
-[23:13:34] [Async Chat Thread - #101/INFO]: [Not Secure] Heroico  pingaparaangel : ladra
-[23:13:46] [Async Chat Thread - #102/INFO]: [Not Secure] Heroico  XxMatos15 : como la tnt no va a entar
-[23:13:51] [Async Chat Thread - #102/INFO]: [Not Secure] Heroico  XxMatos15 : metemos un creper adentro
-[23:14:00] [User Authenticator #13/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
-[23:14:00] [Server thread/INFO]: Churrupakin joined the game
-[23:14:00] [Server thread/INFO]: Churrupakin[/172.28.161.65:54389] logged in with entity id 91558 at ([world]1266.6797973094397, 68.5967514837511, -624.2766599451043)
-[23:14:01] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
-[23:14:01] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
-[23:14:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[23:14:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[23:14:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
-[23:14:04] [Async Chat Thread - #102/INFO]: [Not Secure] Heroico  pingaparaangel : shhh
-[23:14:16] [Async Chat Thread - #102/INFO]: [Not Secure] Heroico  XxMatos15 : cuando entregan libretas?
-[23:14:16] [Async Chat Thread - #102/INFO]: [Not Secure] Heroico  pingaparaangel : esa wbd
-[23:14:36] [Server thread/INFO]: Churrupakin issued server command: /tp xXMatosxX_15
-[23:14:42] [Async Chat Thread - #102/INFO]: [Not Secure] Heroico  pingaparaangel : te digo q ya fuimos en mate ididotas
-[23:14:45] [Server thread/WARN]: Churrupakin was kicked due to keepalive timeout!
-[23:14:45] [Server thread/INFO]: Churrupakin lost connection: Timed out
-[23:14:45] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
-[23:14:45] [Server thread/INFO]: Churrupakin left the game
-[23:15:02] [Async Chat Thread - #101/INFO]: [Not Secure] Heroico  XxMatos15 : ya vienesss
-[23:15:22] [Async Chat Thread - #101/INFO]: [Not Secure] Heroico  pingaparaangel : 15000
-[23:15:26] [User Authenticator #14/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
-[23:15:26] [Server thread/INFO]: Churrupakin joined the game
-[23:15:26] [Server thread/INFO]: Churrupakin[/172.28.161.65:54402] logged in with entity id 92291 at ([world]1255.2184899627248, 68.5967514837511, -625.7658691948362)
-[23:15:30] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
-[23:15:30] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
-[23:15:35] [Async Chat Thread - #101/INFO]: [Not Secure] Heroico  pingaparaangel : comida
-[23:15:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[23:15:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[23:15:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
-[23:16:08] [Async Chat Thread - #101/INFO]: [Not Secure] Heroico  XxMatos15 : coordenada
-[23:16:11] [Server thread/WARN]: Churrupakin was kicked due to keepalive timeout!
-[23:16:11] [Server thread/INFO]: Churrupakin lost connection: Timed out
-[23:16:11] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
-[23:16:11] [Server thread/INFO]: Churrupakin left the game
-[23:16:49] [Async Chat Thread - #101/INFO]: [Not Secure] Heroico  pingaparaangel : ya llego
-[23:17:14] [Async Chat Thread - #101/INFO]: [Not Secure] Heroico  XxMatos15 : ya se va a ser de noche
-[23:17:21] [Async Chat Thread - #101/INFO]: [Not Secure] Heroico  XxMatos15 : no te duermas
-[23:17:32] [Async Chat Thread - #102/INFO]: [Not Secure] Heroico  pingaparaangel : duerme+
-[23:17:35] [Async Chat Thread - #102/INFO]: [Not Secure] Heroico  XxMatos15 : no
-[23:17:41] [Async Chat Thread - #102/INFO]: [Not Secure] Heroico  XxMatos15 : ttenemos q meter el creper adentro
-[23:17:41] [Async Chat Thread - #102/INFO]: [Not Secure] Heroico  pingaparaangel : me vana kchar idiota
-[23:17:49] [Async Chat Thread - #102/INFO]: [Not Secure] Heroico  XxMatos15 : pasa coordenadas
-[23:18:35] [Async Chat Thread - #102/INFO]: [Not Secure] Heroico  pingaparaangel : duerme nomas
-[23:18:41] [Async Chat Thread - #102/INFO]: [Not Secure] Heroico  pingaparaangel : luego se hace de noche
-[23:18:51] [Async Chat Thread - #102/INFO]: [Not Secure] Heroico  XxMatos15 : wencierrate
-[23:19:00] [Async Chat Thread - #102/INFO]: [Not Secure] Heroico  pingaparaangel : duermete ctmrt
-[23:19:07] [Async Chat Thread - #102/INFO]: [Not Secure] Heroico  pingaparaangel : ni correr puedo
-[23:19:10] [Async Chat Thread - #102/INFO]: [Not Secure] Heroico  XxMatos15 : espera busco cama
-[23:19:19] [Async Chat Thread - #102/INFO]: [Not Secure] Heroico  pingaparaangel : tu tenias p down
-[23:19:25] [Async Chat Thread - #102/INFO]: [Not Secure] Heroico  pingaparaangel : al toq
-[23:19:59] [Async Chat Thread - #102/INFO]: [Not Secure] Heroico  XxMatos15 : pasa tus coordenadas
-[23:20:04] [Async Chat Thread - #102/INFO]: [Not Secure] Heroico  XxMatos15 : par llefvarte comida
-[23:20:34] [Async Chat Thread - #102/INFO]: [Not Secure] Heroico  pingaparaangel : 1774.163 / 95.000 / -185.271
-[23:21:13] [Async Chat Thread - #102/INFO]: [Not Secure] Heroico  pingaparaangel : ya no
-[23:21:21] [Async Chat Thread - #101/INFO]: [Not Secure] Heroico  pingaparaangel : ya llegue
-[23:21:41] [Async Chat Thread - #101/INFO]: [Not Secure] Heroico  pingaparaangel : pasa comidaaa
-[23:22:21] [Async Chat Thread - #102/INFO]: [Not Secure] Heroico  XxMatos15 : don tas
-[23:22:26] [Async Chat Thread - #102/INFO]: [Not Secure] Heroico  pingaparaangel : adentro
-[23:22:32] [Async Chat Thread - #102/INFO]: [Not Secure] Heroico  pingaparaangel : camas
-[23:22:42] [Async Chat Thread - #102/INFO]: [Not Secure] Heroico  pingaparaangel : anti spam de mrd
-[23:22:54] [Async Chat Thread - #101/INFO]: [Not Secure] Heroico  XxMatos15 : ven
-[23:23:12] [Async Chat Thread - #101/INFO]: [Not Secure] Heroico  XxMatos15 : ya no
-[23:23:33] [Async Chat Thread - #102/INFO]: [Not Secure] Heroico  XxMatos15 : AVER PEGAME
-[23:23:39] [Async Chat Thread - #102/INFO]: [Not Secure] Heroico  pingaparaangel : no jdas
-[23:23:44] [Async Chat Thread - #102/INFO]: [Not Secure] Heroico  XxMatos15 : sube 2 bloques
-[23:23:55] [Async Chat Thread - #102/INFO]: [Not Secure] Heroico  XxMatos15 : ya
-[23:24:10] [Async Chat Thread - #101/INFO]: [Not Secure] Heroico  pingaparaangel : pasa pico
-[23:24:30] [Async Chat Thread - #101/INFO]: [Not Secure] Heroico  XxMatos15 : crafteate 1
-[23:26:38] [Async Chat Thread - #103/INFO]: [Not Secure] Heroico  XxMatos15 : oe
-[23:26:44] [Async Chat Thread - #103/INFO]: [Not Secure] Heroico  pingaparaangel : hbal
-[23:26:46] [Async Chat Thread - #103/INFO]: [Not Secure] Heroico  XxMatos15 : reclama su casa que esta haciendo
-[23:26:52] [Async Chat Thread - #103/INFO]: [Not Secure] Heroico  XxMatos15 : como tu faction
-[23:27:04] [Async Chat Thread - #103/INFO]: [Not Secure] Heroico  pingaparaangel : no entiendo
-[23:27:06] [Async Chat Thread - #103/INFO]: [Not Secure] Heroico  XxMatos15 : ven
-[23:27:27] [Async Chat Thread - #103/INFO]: [Not Secure] Heroico  XxMatos15 : ven
-[23:27:33] [Async Chat Thread - #103/INFO]: [Not Secure] Heroico  XxMatos15 : pon ./faction claim
-[23:27:46] [Server thread/INFO]: pingaparaangel issued server command: /faction claim
-[23:27:51] [Async Chat Thread - #103/INFO]: [Not Secure] Heroico  pingaparaangel : no puedo
-[23:27:52] [Async Chat Thread - #104/INFO]: [Not Secure] Heroico  XxMatos15 : y un nombre
-[23:27:56] [Async Chat Thread - #104/INFO]: [Not Secure] Heroico  pingaparaangel : no tengo permiso
-[23:28:02] [Server thread/INFO]: XxMatos15 issued server command: /faction claim dsdsds
-[23:28:04] [Async Chat Thread - #104/INFO]: [Not Secure] Heroico  pingaparaangel : xcd
-[23:28:11] [Server thread/INFO]: XxMatos15 issued server command: /faction claim milnovue
-[23:28:13] [Server thread/INFO]: XxMatos15 issued server command: /faction claim milnovue2
-[23:28:23] [Server thread/INFO]: XxMatos15 issued server command: /faction claim 40
-[23:28:25] [Server thread/INFO]: pingaparaangel issued server command: /faction claim penepatuculo
-[23:28:31] [Server thread/INFO]: XxMatos15 issued server command: /faction claim 5
-[23:28:33] [Async Chat Thread - #104/INFO]: [Not Secure] Heroico  pingaparaangel : no se puede
-[23:28:41] [Async Chat Thread - #104/INFO]: [Not Secure] Heroico  XxMatos15 : XD
-[23:28:48] [Server thread/INFO]: XxMatos15 issued server command: /faction unclaim
-[23:29:45] [Server thread/INFO]: Stopping server
-[23:29:45] [Server thread/INFO]: [ProtectionBlocks] Disabling ProtectionBlocks v1.0.9
-[23:29:46] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-68 - Shutdown initiated...
-[23:29:46] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-68 - Shutdown completed.
-[23:29:46] [Server thread/INFO]: [Orebfuscator] Disabling Orebfuscator v5.5.2
-[23:29:49] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.26
-[23:29:49] [Server thread/INFO]: [TAB] Disabling TAB v5.0.3
-[23:29:49] [Server thread/INFO]: [TAB] Disabled in 9ms
-[23:29:49] [Server thread/INFO]: [ImprovedFactions] Disabling ImprovedFactions v2.2.0
-[23:29:49] [Server thread/INFO]: [sleep-most] Disabling sleep-most v5.5.1
-[23:29:49] [Server thread/INFO]: [AxGraves] Disabling AxGraves v1.17.0
-[23:29:49] [Server thread/INFO]: [QualityArmory] Disabling QualityArmory v2.0.17
-[23:29:50] [Server thread/INFO]: [ChatEx] Disabling ChatEx v3.1.0
-[23:29:50] [Server thread/INFO]: [ChatEx] Is now disabled!
-[23:29:50] [Server thread/INFO]: [CrazyEnchantments] Disabling CrazyEnchantments v2.1
-[23:29:50] [Server thread/INFO]: [PLAZMER-ENGINE] Disabling PLAZMER-ENGINE v2.4.8
-[23:29:50] [Server thread/INFO]: [DecentHolograms] Disabling DecentHolograms v2.8.12
-[23:29:50] [Server thread/INFO]: [dynmap] Disabling dynmap v3.7-SNAPSHOT-948
-[23:29:50] [Server thread/INFO]: [dynmap] Unloaded 11 components.
-[23:29:50] [Server thread/INFO]: [dynmap] Stopping map renderer...
-[23:29:51] [Server thread/INFO]: [dynmap] Saved 12191 pending tile renders in world 'world'
-[23:29:51] [Server thread/INFO]: [dynmap] Full render job saved for world 'world'
-[23:29:52] [Server thread/INFO]: [dynmap] Saved 4499 pending tile renders in world 'world_nether'
-[23:29:57] [Server thread/INFO]: [dynmap] Disabled
-[23:29:57] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
-[23:29:57] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
-[23:29:57] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
-[23:29:57] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[23:29:57] [Server thread/INFO]: [LuckPerms] Closing storage...
-[23:29:57] [Server thread/INFO]: [LuckPerms] Goodbye!
-[23:29:57] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
-[23:29:57] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0
-[23:29:57] [Server thread/INFO]: Saving players
-[23:29:57] [Server thread/INFO]: XxMatos15 lost connection: Server closed
-[23:29:57] [Server thread/INFO]: XxMatos15 left the game
-[23:29:57] [Server thread/INFO]: pingaparaangel lost connection: Server closed
-[23:29:58] [Server thread/INFO]: pingaparaangel left the game
-[23:29:58] [Server thread/INFO]: Saving worlds
-[23:29:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:29:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[23:29:58] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[23:29:58] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[23:29:59] [Server thread/INFO]: [ChunkHolderManager] Saved 23 block chunks, 502 entity chunks, 0 poi chunks in world 'world' in 1.53s
-[23:29:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:29:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[23:29:59] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[23:29:59] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[23:29:59] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[23:30:01] [Server thread/INFO]: [ChunkHolderManager] Saved 73 block chunks, 144 entity chunks, 0 poi chunks in world 'world_nether' in 1.59s
-[23:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:30:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[23:30:01] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[23:30:01] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[23:30:01] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[23:30:01] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 45 entity chunks, 0 poi chunks in world 'world_the_end' in 0.09s
-[23:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[23:30:01] [Server thread/INFO]: Flushing Chunk IO
-[23:30:01] [Server thread/INFO]: Closing Thread Pool
-[23:30:01] [Server thread/INFO]: Closing Server
+[00:01:02] [Server thread/INFO]: Churrupakin issued server command: /dynmap pause all
+[00:01:02] [Server thread/INFO]: [dynmap] Full/radius render pause set to true
+[00:01:02] [Server thread/INFO]: [dynmap] Update render pause set to true
+[00:01:45] [Async Chat Thread - #8/INFO]: [Not Secure] Heroico  XxMatos15 : ms tarde me meto
+[00:01:52] [Async Chat Thread - #10/INFO]: [Not Secure] Heroico  XxMatos15 : voy a salir
+[00:01:54] [Async Chat Thread - #10/INFO]: [Not Secure] Heroico  pingaparaangel : hora
+[00:02:03] [Async Chat Thread - #8/INFO]: [Not Secure] Heroico  XxMatos15 : 9
+[00:02:08] [Async Chat Thread - #8/INFO]: [Not Secure] Heroico  XxMatos15 : si entra angel lo matas
+[00:02:26] [Async Chat Thread - #8/INFO]: [Not Secure] Heroico  pingaparaangel : ya
+[00:02:29] [Server thread/INFO]: XxMatos15 lost connection: Disconnected
+[00:02:29] [Server thread/INFO]: [voicechat] Disconnecting client XxMatos15
+[00:02:29] [Server thread/INFO]: XxMatos15 left the game
+[00:06:22] [Async Chat Thread - #11/INFO]: [Not Secure] Heroico  pingaparaangel : xd
+[00:09:23] [Server thread/INFO]: Churrupakin issued server command: /tp pingaparaangel
+[00:09:51] [Server thread/INFO]: Churrupakin issued server command: /home
+[00:09:53] [Server thread/INFO]: Churrupakin issued server command: /homes
+[00:10:00] [Server thread/INFO]: Churrupakin issued server command: /homes pingaparaangel:
+[00:10:06] [Server thread/INFO]: Churrupakin issued server command: /homes bed
+[00:10:10] [Server thread/INFO]: Churrupakin issued server command: /homes Churrupakin:
+[00:11:59] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
+[00:12:51] [Server thread/INFO]: Churrupakin issued server command: /gamemode spectator
+[00:12:56] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
+[00:13:25] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[00:13:25] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[00:13:25] [Server thread/INFO]: Churrupakin left the game
+[00:13:30] [User Authenticator #4/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[00:13:31] [Server thread/INFO]: Churrupakin joined the game
+[00:13:31] [Server thread/INFO]: Churrupakin[/172.28.161.65:59327] logged in with entity id 6298 at ([world]216.4033604425241, 65.5, 156.29984562135886)
+[00:13:31] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[00:13:31] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[00:13:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[00:13:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[00:13:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[00:25:10] [User Authenticator #5/INFO]: UUID of player XxMatos15 is 2a9ff858-04dc-3136-97df-619a6316d09a
+[00:25:10] [Server thread/INFO]: XxMatos15 joined the game
+[00:25:10] [Server thread/INFO]: XxMatos15[/172.28.131.63:63628] logged in with entity id 9397 at ([world]1832.032647803867, 90.0, -277.75155863304957)
+[00:25:22] [Async Chat Thread - #13/INFO]: [Not Secure] Heroico  pingaparaangel : no q volvias a las 9 xd
+[00:25:30] [Async Chat Thread - #13/INFO]: [Not Secure] Heroico  XxMatos15 : xd
+[00:25:35] [Async Chat Thread - #14/INFO]: [Not Secure] Heroico  pingaparaangel : duerme
+[00:25:39] [Async Chat Thread - #14/INFO]: [Not Secure] Heroico  XxMatos15 : ubo un herror de salida
+[00:25:44] [Async Chat Thread - #14/INFO]: [Not Secure] Heroico  pingaparaangel : xddd
+[00:25:51] [Async Chat Thread - #13/INFO]: [Not Secure] Heroico  pingaparaangel : ven mira los cultivos
+[00:26:00] [Async Chat Thread - #13/INFO]: [Not Secure] Heroico  pingaparaangel : donde estabamos
+[00:26:16] [Async Chat Thread - #13/INFO]: [Not Secure] Heroico  XxMatos15 : no te veo
+[00:27:07] [Async Chat Thread - #14/INFO]: [Not Secure] Heroico  pingaparaangel : xd
+[00:27:50] [Async Chat Thread - #13/INFO]: [Not Secure] Heroico  XxMatos15 : voy a buscar a las yeguas
+[00:28:16] [Async Chat Thread - #13/INFO]: [Not Secure] Heroico  pingaparaangel : yay
+[00:29:11] [Server thread/INFO]: XxMatos15 issued server command: /offline
+[00:29:50] [Async Chat Thread - #15/INFO]: [Not Secure] Heroico  XxMatos15 : 1378.819/97.00000/-451.899
+[00:30:24] [Async Chat Thread - #15/INFO]: [Not Secure] Heroico  pingaparaangel : xdd
+[00:33:23] [Async Chat Thread - #17/INFO]: [Not Secure] Heroico  pingaparaangel : a dnd te ivas chifa
+[00:33:30] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /me voy a apga el serever voy a comer
+[00:33:30] [Server thread/INFO]: * @ voy a apga el serever voy a comer
+[00:33:43] [Async Chat Thread - #17/INFO]: [Not Secure] Heroico  pingaparaangel : pera 2 mnts
+[00:33:45] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /me a las 9 o 9 y 30 lo prendo
+[00:33:45] [Server thread/INFO]: * @ a las 9 o 9 y 30 lo prendo
+[00:33:48] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /me ya
+[00:33:48] [Server thread/INFO]: * @ ya
+[00:34:19] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[00:34:19] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[00:34:19] [Server thread/INFO]: Churrupakin left the game
+[00:34:21] [Async Chat Thread - #18/INFO]: [Not Secure] Heroico  XxMatos15 : encontre a mis yeguas
+[00:34:28] [Async Chat Thread - #17/INFO]: [Not Secure] Heroico  XxMatos15 : tp
+[00:34:30] [Server thread/INFO]: pingaparaangel issued server command: /fac home
+[00:35:09] [Async Chat Thread - #17/INFO]: [Not Secure] Heroico  XxMatos15 : mano aste tp
+[00:35:17] [Async Chat Thread - #17/INFO]: [Not Secure] Heroico  XxMatos15 : para trae a las yeguas
+[00:35:42] [Async Chat Thread - #17/INFO]: [Not Secure] Heroico  pingaparaangel : a qn le dices
+[00:35:46] [Async Chat Thread - #17/INFO]: [Not Secure] Heroico  XxMatos15 : ati p
+[00:35:56] [Async Chat Thread - #17/INFO]: [Not Secure] Heroico  pingaparaangel : yo q
+[00:36:02] [Async Chat Thread - #17/INFO]: [Not Secure] Heroico  pingaparaangel : estoy en el bunker
+[00:36:02] [Async Chat Thread - #17/INFO]: [Not Secure] Heroico  XxMatos15 : pa q lleves tu yegua
+[00:36:08] [Async Chat Thread - #17/INFO]: [Not Secure] Heroico  pingaparaangel : ya fue despues
+[00:36:12] [Async Chat Thread - #17/INFO]: [Not Secure] Heroico  XxMatos15 : yaya
+[00:36:16] [Async Chat Thread - #18/INFO]: [Not Secure] Heroico  pingaparaangel : te dije q andaba reparando cultivods
+[00:36:21] [Async Chat Thread - #17/INFO]: [Not Secure] Heroico  XxMatos15 : a las 9 conecto
+[00:36:25] [Server thread/INFO]: XxMatos15 lost connection: Disconnected
+[00:36:25] [Server thread/INFO]: [voicechat] Disconnecting client XxMatos15
+[00:36:25] [Server thread/INFO]: XxMatos15 left the game
+[00:36:37] [Async Chat Thread - #18/INFO]: [Not Secure] Heroico  pingaparaangel : fue apagamela
+[00:39:32] [Server thread/INFO]: Stopping the server
+[00:39:32] [Server thread/INFO]: Stopping server
+[00:39:32] [Server thread/INFO]: [ProtectionBlocks] Disabling ProtectionBlocks v1.0.9
+[00:39:32] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-92 - Shutdown initiated...
+[00:39:32] [Thread-79/WARN]: java.sql.SQLException: HikariDataSource HikariDataSource (ProtectionBlocks-92) has been closed.
+[00:39:32] [Thread-79/WARN]: 	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:96)
+[00:39:32] [Thread-79/WARN]: 	at PLAZMER-ENGINE-2.4.8.jar//t.me.p1azmer.engine.api.data.connection.AbstractDataConnector.getConnection(AbstractDataConnector.java:51)
+[00:39:32] [Thread-79/WARN]: 	at PLAZMER-ENGINE-2.4.8.jar//t.me.p1azmer.engine.api.data.sql.SQLQueries.executeStatement(SQLQueries.java:62)
+[00:39:32] [Thread-79/WARN]: 	at PLAZMER-ENGINE-2.4.8.jar//t.me.p1azmer.engine.api.data.sql.executor.UpdateQueryExecutor.execute(UpdateQueryExecutor.java:69)
+[00:39:32] [Thread-79/WARN]: 	at PLAZMER-ENGINE-2.4.8.jar//t.me.p1azmer.engine.api.data.AbstractDataHandler.update(AbstractDataHandler.java:163)
+[00:39:32] [Thread-79/WARN]: 	at PLAZMER-ENGINE-2.4.8.jar//t.me.p1azmer.engine.api.data.AbstractUserDataHandler.saveUser(AbstractUserDataHandler.java:163)
+[00:39:32] [Thread-79/WARN]: 	at PLAZMER-ENGINE-2.4.8.jar//t.me.p1azmer.engine.api.data.AbstractUserManager.lambda$saveUser$9(AbstractUserManager.java:181)
+[00:39:32] [Thread-79/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[00:39:32] [Thread-79/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[00:39:32] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-92 - Shutdown completed.
+[00:39:32] [Server thread/INFO]: [Orebfuscator] Disabling Orebfuscator v5.5.2
+[00:39:32] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.26
+[00:39:32] [Server thread/INFO]: [TAB] Disabling TAB v5.0.3
+[00:39:32] [Server thread/INFO]: [TAB] Disabled in 1ms
+[00:39:32] [Server thread/INFO]: [ImprovedFactions] Disabling ImprovedFactions v2.2.0
+[00:39:32] [Server thread/INFO]: [sleep-most] Disabling sleep-most v5.5.1
+[00:39:32] [Server thread/INFO]: [AxGraves] Disabling AxGraves v1.17.0
+[00:39:32] [Server thread/INFO]: [QualityArmory] Disabling QualityArmory v2.0.17
+[00:39:32] [Server thread/INFO]: [ChatEx] Disabling ChatEx v3.1.0
+[00:39:32] [Server thread/INFO]: [ChatEx] Is now disabled!
+[00:39:32] [Server thread/INFO]: [CrazyEnchantments] Disabling CrazyEnchantments v2.1
+[00:39:32] [Server thread/INFO]: [PLAZMER-ENGINE] Disabling PLAZMER-ENGINE v2.4.8
+[00:39:32] [Server thread/INFO]: [DecentHolograms] Disabling DecentHolograms v2.8.12
+[00:39:32] [Server thread/INFO]: [dynmap] Disabling dynmap v3.7-SNAPSHOT-948
+[00:39:32] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[00:39:32] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[00:39:33] [Server thread/INFO]: [dynmap] Saved 11430 pending tile renders in world 'world'
+[00:39:33] [Server thread/INFO]: [dynmap] Full render job saved for world 'world'
+[00:39:33] [Server thread/INFO]: [dynmap] Saved 3963 pending tile renders in world 'world_nether'
+[00:39:33] [Server thread/INFO]: [dynmap] Disabled
+[00:39:33] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[00:39:33] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
+[00:39:33] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
+[00:39:33] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[00:39:33] [Server thread/INFO]: [LuckPerms] Closing storage...
+[00:39:33] [Server thread/INFO]: [LuckPerms] Goodbye!
+[00:39:33] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[00:39:33] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0
+[00:39:33] [Server thread/INFO]: Saving players
+[00:39:33] [Server thread/INFO]: pingaparaangel lost connection: Server closed
+[00:39:33] [Server thread/INFO]: pingaparaangel left the game
+[00:39:33] [Server thread/INFO]: Saving worlds
+[00:39:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:39:33] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[00:39:33] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[00:39:33] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[00:39:34] [Server thread/INFO]: [ChunkHolderManager] Saved 127 block chunks, 341 entity chunks, 2 poi chunks in world 'world' in 0.29s
+[00:39:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:39:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[00:39:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[00:39:34] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[00:39:34] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[00:39:34] [Server thread/INFO]: [ChunkHolderManager] Saved 52 block chunks, 70 entity chunks, 0 poi chunks in world 'world_nether' in 0.18s
+[00:39:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:39:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[00:39:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[00:39:34] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[00:39:34] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[00:39:34] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 46 entity chunks, 0 poi chunks in world 'world_the_end' in 0.03s
+[00:39:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:39:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:39:34] [Server thread/INFO]: Flushing Chunk IO
+[00:39:34] [Server thread/INFO]: Closing Thread Pool
+[00:39:34] [Server thread/INFO]: Closing Server
