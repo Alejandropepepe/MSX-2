@@ -11,6 +11,7 @@
       "minecraft:taiga": "2024-12-07 18:47:02 +0000",
       "minecraft:frozen_river": "2024-12-07 20:02:55 +0000",
       "minecraft:cherry_grove": "2024-12-07 19:43:49 +0000",
+      "minecraft:sunflower_plains": "2024-12-29 21:04:10 +0000",
       "minecraft:birch_forest": "2024-12-29 20:58:57 +0000",
       "minecraft:beach": "2024-12-07 17:46:30 +0000",
       "minecraft:dark_forest": "2024-12-29 20:56:35 +0000",
@@ -3540,6 +3541,12 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-27 23:49:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2024-12-29 21:16:44 +0000"
     },
     "done": true
   },
