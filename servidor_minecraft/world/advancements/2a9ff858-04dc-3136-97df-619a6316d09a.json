@@ -3550,5 +3550,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2024-12-29 21:40:22 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
