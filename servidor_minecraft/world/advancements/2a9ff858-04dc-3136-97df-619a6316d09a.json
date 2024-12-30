@@ -520,6 +520,7 @@
       "minecraft:pillager": "2024-12-07 19:51:54 +0000",
       "minecraft:blaze": "2024-12-27 19:38:38 +0000",
       "minecraft:skeleton": "2024-12-07 04:11:58 +0000",
+      "minecraft:ravager": "2024-12-30 05:08:16 +0000",
       "minecraft:hoglin": "2024-12-25 00:25:46 +0000",
       "minecraft:vindicator": "2024-12-09 01:42:44 +0000",
       "minecraft:magma_cube": "2024-12-09 05:29:28 +0000",
@@ -3553,6 +3554,18 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2024-12-29 21:40:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-12-30 05:02:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-30 05:02:12 +0000"
     },
     "done": true
   },
