@@ -493,3 +493,7 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [05:40:58] [Async Chat Thread - #28/INFO]: [Not Secure] Heroico  pingaparaangel : ahi noms
 [05:41:18] [Async Chat Thread - #28/INFO]: [Not Secure] Heroico  XxMatos15 : mañaana
 [05:41:32] [Async Chat Thread - #28/INFO]: [Not Secure] Heroico  pingaparaangel : yaya
+[05:48:47] [Async Chat Thread - #30/INFO]: [Not Secure] Heroico  pingaparaangel : fue mñn
+[05:48:50] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
+[05:48:50] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
+[05:48:50] [Server thread/INFO]: pingaparaangel left the game
